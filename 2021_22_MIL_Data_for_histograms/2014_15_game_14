@@ -1,0 +1,449 @@
+,game number,play,time,score,team,current_sub_status,future_sub_status
+6087,14,J. Holiday misses 2-pt layup from 1 ft,11:46.0,0-0,Milwaukee,0,0.0
+6088,14,Defensive rebound by C. Capela,11:41.0,0-0,Atlanta,0,0.0
+6089,14,J. Collins misses 2-pt hook shot from 4 ft,11:33.0,0-0,Atlanta,0,0.0
+6090,14,Defensive rebound by B. Portis,11:31.0,0-0,Milwaukee,0,0.0
+6091,14,G. Antetokounmpo misses 2-pt jump shot from 21 ft,11:26.0,0-0,Milwaukee,0,0.0
+6092,14,Defensive rebound by B. Bogdanović,11:22.0,0-0,Atlanta,0,0.0
+6093,14,T. Young makes 3-pt jump shot from 24 ft,11:16.0,0-3,Atlanta,0,0.0
+6094,14,Personal foul by T. Young (drawn by G. Allen),10:58.0,0-3,Milwaukee,0,0.0
+6095,14,G. Allen misses 2-pt jump shot from 8 ft,10:51.0,0-3,Milwaukee,0,0.0
+6096,14,Defensive rebound by T. Young,10:46.0,0-3,Atlanta,0,0.0
+6097,14,K. Huerter misses 2-pt jump shot from 3 ft,10:36.0,0-3,Atlanta,0,0.0
+6098,14,Offensive rebound by K. Huerter,10:33.0,0-3,Atlanta,0,0.0
+6099,14,C. Capela misses 2-pt hook shot from 2 ft,10:31.0,0-3,Atlanta,0,0.0
+6100,14,Defensive rebound by P. Connaughton,10:28.0,0-3,Milwaukee,0,0.0
+6101,14,G. Antetokounmpo makes 2-pt layup from 3 ft (assist by P. Connaughton),10:21.0,2-3,Milwaukee,0,0.0
+6102,14,B. Bogdanović misses 2-pt jump shot from 12 ft,10:07.0,2-3,Atlanta,0,0.0
+6103,14,Defensive rebound by G. Antetokounmpo,10:04.0,2-3,Milwaukee,0,0.0
+6104,14,G. Antetokounmpo misses 3-pt jump shot from 26 ft,9:58.0,2-3,Milwaukee,0,0.0
+6105,14,Defensive rebound by T. Young,9:56.0,2-3,Atlanta,0,0.0
+6106,14,Turnover by T. Young (bad pass; steal by G. Allen),9:48.0,2-3,Atlanta,0,0.0
+6107,14,P. Connaughton makes 3-pt jump shot from 22 ft (assist by J. Holiday),9:42.0,5-3,Milwaukee,0,0.0
+6108,14,T. Young makes 3-pt jump shot from 28 ft (assist by J. Collins),9:22.0,5-6,Atlanta,0,0.0
+6109,14,G. Antetokounmpo makes 2-pt jump shot from 19 ft (assist by J. Holiday),9:05.0,7-6,Milwaukee,0,0.0
+6110,14,T. Young makes 3-pt jump shot from 30 ft,8:52.0,7-9,Atlanta,0,0.0
+6111,14,Personal foul by J. Collins (drawn by G. Antetokounmpo),8:39.0,7-9,Milwaukee,0,1.0
+6112,14,J. Holiday makes 2-pt jump shot from 13 ft,8:32.0,9-9,Milwaukee,0,0.0
+6113,14,Shooting foul by B. Portis (drawn by J. Collins),8:17.0,9-9,Atlanta,0,0.0
+6114,14,J. Collins misses free throw 1 of 2,8:17.0,9-9,Atlanta,0,1.0
+6115,14,Offensive rebound by Team,8:17.0,9-9,Atlanta,0,0.0
+6116,14,J. Collins makes free throw 2 of 2,8:17.0,9-10,Atlanta,0,0.0
+6117,14,Turnover by G. Allen (bad pass; steal by C. Capela),8:03.0,9-10,Milwaukee,0,0.0
+6118,14,T. Young makes 3-pt jump shot from 25 ft,7:55.0,9-13,Atlanta,0,0.0
+6119,14,Turnover by J. Holiday (bad pass; steal by C. Capela),7:37.0,9-13,Milwaukee,0,0.0
+6120,14,Personal take foul by G. Antetokounmpo (drawn by C. Capela),7:37.0,9-13,Atlanta,0,0.0
+6121,14,S. Ojeleye enters the game for B. Portis,7:37.0,9-13,Milwaukee,1,0.0
+6122,14,J. Collins makes 2-pt dunk at rim (assist by T. Young),7:26.0,9-15,Atlanta,0,0.0
+6123,14,Milwaukee full timeout,7:26.0,9-15,Milwaukee,0,0.0
+6124,14,J. Nwora enters the game for G. Allen,7:26.0,9-15,Milwaukee,1,0.0
+6125,14,G. Antetokounmpo makes 2-pt jump shot from 14 ft (assist by P. Connaughton),7:09.0,11-15,Milwaukee,0,0.0
+6126,14,T. Young misses 3-pt jump shot from 26 ft,6:55.0,11-15,Atlanta,0,0.0
+6127,14,Defensive rebound by J. Nwora,6:53.0,11-15,Milwaukee,0,0.0
+6128,14,J. Holiday makes 2-pt jump shot from 7 ft,6:40.0,13-15,Milwaukee,0,0.0
+6129,14,Personal foul by G. Antetokounmpo (drawn by J. Collins),6:20.0,13-15,Atlanta,0,0.0
+6130,14,C. Capela makes 2-pt layup from 1 ft (assist by T. Young),6:14.0,13-17,Atlanta,0,0.0
+6131,14,J. Holiday misses 3-pt jump shot from 26 ft,6:02.0,13-17,Milwaukee,0,0.0
+6132,14,Defensive rebound by K. Huerter,5:59.0,13-17,Atlanta,0,0.0
+6133,14,Offensive foul by J. Collins (drawn by P. Connaughton),5:52.0,13-17,Atlanta,0,0.0
+6134,14,Turnover by J. Collins (offensive foul),5:52.0,13-17,Atlanta,0,0.0
+6135,14,D. Gallinari enters the game for J. Collins,5:52.0,13-17,Atlanta,0,0.0
+6136,14,D. Wright enters the game for T. Young,5:52.0,13-17,Atlanta,0,1.0
+6137,14,G. Antetokounmpo misses 2-pt layup from 2 ft,5:34.0,13-17,Milwaukee,0,0.0
+6138,14,Defensive rebound by D. Gallinari,5:30.0,13-17,Atlanta,0,0.0
+6139,14,K. Huerter misses 2-pt jump shot from 17 ft,5:19.0,13-17,Atlanta,0,0.0
+6140,14,Defensive rebound by P. Connaughton,5:16.0,13-17,Milwaukee,0,0.0
+6141,14,G. Antetokounmpo misses 3-pt jump shot from 26 ft,5:10.0,13-17,Milwaukee,0,0.0
+6142,14,Defensive rebound by B. Bogdanović,5:06.0,13-17,Atlanta,0,0.0
+6143,14,Turnover by C. Capela (bad pass; steal by J. Holiday),4:56.0,13-17,Atlanta,0,0.0
+6144,14,S. Ojeleye misses 3-pt jump shot from 26 ft,4:50.0,13-17,Milwaukee,0,1.0
+6145,14,Defensive rebound by Team,4:49.0,13-17,Atlanta,0,0.0
+6146,14,B. Portis enters the game for G. Antetokounmpo,4:49.0,13-17,Milwaukee,1,0.0
+6147,14,C. Reddish enters the game for K. Huerter,4:49.0,13-17,Atlanta,0,0.0
+6148,14,B. Bogdanović makes 3-pt jump shot from 24 ft,4:31.0,13-20,Atlanta,0,0.0
+6149,14,B. Portis makes 2-pt jump shot from 12 ft (assist by J. Holiday),4:12.0,15-20,Milwaukee,0,0.0
+6150,14,D. Gallinari misses 3-pt jump shot from 26 ft,3:49.0,15-20,Atlanta,0,0.0
+6151,14,Offensive rebound by C. Reddish,3:46.0,15-20,Atlanta,0,0.0
+6152,14,C. Reddish misses 2-pt layup at rim,3:44.0,15-20,Atlanta,0,0.0
+6153,14,Offensive rebound by Team,3:44.0,15-20,Atlanta,0,0.0
+6154,14,G. Allen enters the game for P. Connaughton,3:44.0,15-20,Milwaukee,1,0.0
+6155,14,G. Dieng enters the game for C. Capela,3:44.0,15-20,Atlanta,0,0.0
+6156,14,Personal foul by S. Ojeleye (drawn by G. Dieng),3:37.0,15-20,Atlanta,0,1.0
+6157,14,T. Young enters the game for D. Wright,3:37.0,15-20,Atlanta,0,1.0
+6158,14,Turnover by B. Bogdanović (lost ball; steal by J. Holiday),3:29.0,15-20,Atlanta,0,0.0
+6159,14,G. Allen misses 3-pt jump shot from 25 ft,3:24.0,15-20,Milwaukee,0,0.0
+6160,14,Defensive rebound by G. Dieng,3:20.0,15-20,Atlanta,0,0.0
+6161,14,D. Gallinari makes 2-pt jump shot from 13 ft,3:10.0,15-22,Atlanta,0,0.0
+6162,14,B. Portis misses 2-pt jump shot from 21 ft,2:54.0,15-22,Milwaukee,0,0.0
+6163,14,Defensive rebound by Team,2:53.0,15-22,Atlanta,0,0.0
+6164,14,Loose ball foul by S. Ojeleye (drawn by C. Reddish),2:53.0,15-22,Milwaukee,0,0.0
+6165,14,Atlanta full timeout,2:53.0,15-22,Atlanta,0,0.0
+6166,14,T. Antetokounmpo enters the game for J. Holiday,2:53.0,15-22,Milwaukee,1,0.0
+6167,14,J. Robinson enters the game for S. Ojeleye,2:53.0,15-22,Milwaukee,1,0.0
+6168,14,L. Williams enters the game for B. Bogdanović,2:53.0,15-22,Atlanta,0,0.0
+6169,14,C. Reddish makes free throw 1 of 2,2:53.0,15-23,Atlanta,0,0.0
+6170,14,C. Reddish makes free throw 2 of 2,2:53.0,15-24,Atlanta,0,0.0
+6171,14,G. Allen makes 3-pt jump shot from 26 ft (assist by J. Robinson),2:43.0,18-24,Milwaukee,0,0.0
+6172,14,L. Williams misses 2-pt jump shot from 4 ft,2:21.0,18-24,Atlanta,0,0.0
+6173,14,Offensive rebound by G. Dieng,2:19.0,18-24,Atlanta,0,0.0
+6174,14,Personal foul by G. Allen (drawn by G. Dieng),2:19.0,18-24,Atlanta,0,0.0
+6175,14,G. Dieng makes free throw 1 of 2,2:19.0,18-25,Atlanta,0,0.0
+6176,14,G. Dieng makes free throw 2 of 2,2:19.0,18-26,Atlanta,0,0.0
+6177,14,G. Allen misses 3-pt jump shot from 26 ft,2:08.0,18-26,Milwaukee,0,0.0
+6178,14,Defensive rebound by T. Young,2:06.0,18-26,Atlanta,0,0.0
+6179,14,T. Young makes 3-pt jump shot from 25 ft,1:56.0,18-29,Atlanta,0,0.0
+6180,14,J. Robinson misses 3-pt jump shot from 26 ft,1:47.0,18-29,Milwaukee,0,0.0
+6181,14,Defensive rebound by C. Reddish,1:44.0,18-29,Atlanta,0,0.0
+6182,14,C. Reddish misses 3-pt jump shot from 24 ft,1:38.0,18-29,Atlanta,0,0.0
+6183,14,Defensive rebound by B. Portis,1:35.0,18-29,Milwaukee,0,1.0
+6184,14,G. Allen makes 3-pt jump shot from 25 ft (assist by J. Robinson),1:27.0,21-29,Milwaukee,0,0.0
+6185,14,Violation by Team (delay of game),1:24.0,21-29,Milwaukee,0,0.0
+6186,14,D. Gallinari makes 3-pt jump shot from 26 ft (assist by T. Young),1:15.0,21-32,Atlanta,0,1.0
+6187,14,J. Robinson makes 3-pt jump shot from 23 ft (assist by B. Portis),0:56.0,24-32,Milwaukee,0,0.0
+6188,14,T. Young misses 2-pt jump shot from 11 ft,0:47.0,24-32,Atlanta,0,0.0
+6189,14,Offensive rebound by C. Reddish,0:44.0,24-32,Atlanta,0,0.0
+6190,14,C. Reddish misses 2-pt layup from 1 ft,0:43.0,24-32,Atlanta,0,0.0
+6191,14,Defensive rebound by B. Portis,0:41.0,24-32,Milwaukee,0,0.0
+6192,14,Turnover by B. Portis (discontinued dribble),0:34.0,24-32,Milwaukee,0,0.0
+6193,14,R. Hood enters the game for J. Nwora,0:34.0,24-32,Milwaukee,1,0.0
+6194,14,Turnover by T. Young (bad pass; steal by J. Robinson),0:13.0,24-32,Atlanta,0,0.0
+6195,14,Personal foul by D. Gallinari (drawn by G. Allen),0:03.0,24-32,Milwaukee,0,0.0
+6196,14,G. Antetokounmpo enters the game for T. Antetokounmpo,0:03.0,24-32,Milwaukee,1,0.0
+6197,14,K. Huerter enters the game for L. Williams,0:03.0,24-32,Atlanta,0,0.0
+6198,14,D. Wright enters the game for T. Young,0:03.0,24-32,Atlanta,0,0.0
+6199,14,B. Portis misses 3-pt jump shot from 22 ft,0:00.0,24-32,Milwaukee,0,0.0
+6200,14,Offensive rebound by Team,0:00.0,24-32,Milwaukee,0,0.0
+6201,14,C. Reddish misses 3-pt jump shot from 25 ft,11:42.0,24-32,Atlanta,0,0.0
+6202,14,Defensive rebound by S. Ojeleye,11:39.0,24-32,Milwaukee,0,0.0
+6203,14,J. Robinson misses 3-pt jump shot from 24 ft,11:33.0,24-32,Milwaukee,0,0.0
+6204,14,Defensive rebound by D. Wright,11:29.0,24-32,Atlanta,0,0.0
+6205,14,D. Gallinari misses 3-pt jump shot from 24 ft,11:11.0,24-32,Atlanta,0,0.0
+6206,14,Offensive rebound by C. Reddish,11:09.0,24-32,Atlanta,0,0.0
+6207,14,C. Reddish misses 2-pt layup from 2 ft,11:07.0,24-32,Atlanta,0,0.0
+6208,14,Offensive rebound by C. Capela,11:04.0,24-32,Atlanta,0,1.0
+6209,14,C. Capela misses 2-pt layup at rim,11:04.0,24-32,Atlanta,0,0.0
+6210,14,Defensive rebound by R. Hood,11:03.0,24-32,Milwaukee,0,0.0
+6211,14,R. Hood misses 3-pt jump shot from 27 ft,10:50.0,24-32,Milwaukee,0,0.0
+6212,14,Defensive rebound by C. Capela,10:46.0,24-32,Atlanta,0,0.0
+6213,14,D. Wright misses 2-pt layup from 1 ft,10:30.0,24-32,Atlanta,0,0.0
+6214,14,Offensive rebound by C. Capela,10:28.0,24-32,Atlanta,0,0.0
+6215,14,C. Capela misses 2-pt layup from 1 ft,10:27.0,24-32,Atlanta,0,1.0
+6216,14,Defensive rebound by G. Allen,10:26.0,24-32,Milwaukee,0,0.0
+6217,14,Personal take foul by L. Williams (drawn by G. Allen),10:26.0,24-32,Milwaukee,0,0.0
+6218,14,J. Holiday enters the game for J. Robinson,10:26.0,24-32,Milwaukee,1,0.0
+6219,14,G. Allen makes 3-pt jump shot from 26 ft (assist by J. Holiday),10:16.0,27-32,Milwaukee,0,0.0
+6220,14,L. Williams makes 3-pt jump shot from 24 ft (assist by C. Reddish),10:02.0,27-35,Atlanta,0,0.0
+6221,14,G. Antetokounmpo makes 2-pt jump shot from 16 ft,9:50.0,29-35,Milwaukee,0,0.0
+6222,14,C. Capela makes 2-pt dunk at rim (assist by L. Williams),9:30.0,29-37,Atlanta,0,0.0
+6223,14,Turnover by G. Allen (bad pass; steal by L. Williams),9:08.0,29-37,Milwaukee,0,0.0
+6224,14,Personal foul by G. Allen (drawn by D. Gallinari),9:00.0,29-37,Atlanta,0,0.0
+6225,14,P. Connaughton enters the game for G. Allen,9:00.0,29-37,Milwaukee,1,1.0
+6226,14,K. Huerter enters the game for D. Wright,9:00.0,29-37,Atlanta,0,0.0
+6227,14,C. Capela makes 2-pt dunk at rim,8:46.0,29-39,Atlanta,0,0.0
+6228,14,P. Connaughton misses 3-pt jump shot from 27 ft,8:30.0,29-39,Milwaukee,0,0.0
+6229,14,Defensive rebound by Team,8:26.0,29-39,Atlanta,0,0.0
+6230,14,Turnover by C. Capela (3 sec),8:17.0,29-39,Atlanta,0,0.0
+6231,14,S. Ojeleye misses 3-pt jump shot from 25 ft,8:00.0,29-39,Milwaukee,0,0.0
+6232,14,Defensive rebound by K. Huerter,7:55.0,29-39,Atlanta,0,0.0
+6233,14,L. Williams makes 2-pt jump shot from 20 ft,7:46.0,29-41,Atlanta,0,0.0
+6234,14,Milwaukee full timeout,7:45.0,29-41,Milwaukee,0,0.0
+6235,14,B. Portis enters the game for S. Ojeleye,7:45.0,29-41,Milwaukee,1,0.0
+6236,14,Personal foul by L. Williams (drawn by R. Hood),7:34.0,29-41,Milwaukee,0,0.0
+6237,14,B. Bogdanović enters the game for D. Gallinari,7:34.0,29-41,Atlanta,0,0.0
+6238,14,J. Collins enters the game for C. Reddish,7:34.0,29-41,Atlanta,0,0.0
+6239,14,T. Young enters the game for L. Williams,7:34.0,29-41,Atlanta,0,0.0
+6240,14,Shooting foul by K. Huerter (drawn by J. Holiday),7:31.0,29-41,Milwaukee,0,0.0
+6241,14,J. Holiday makes free throw 1 of 2,7:31.0,30-41,Milwaukee,0,0.0
+6242,14,J. Holiday makes free throw 2 of 2,7:31.0,31-41,Milwaukee,0,0.0
+6243,14,T. Young misses 3-pt jump shot from 34 ft,7:20.0,31-41,Atlanta,0,0.0
+6244,14,Defensive rebound by R. Hood,7:17.0,31-41,Milwaukee,0,0.0
+6245,14,J. Holiday makes 2-pt jump shot from 12 ft,7:06.0,33-41,Milwaukee,0,0.0
+6246,14,C. Capela misses 2-pt layup from 1 ft,6:53.0,33-41,Atlanta,0,0.0
+6247,14,Defensive rebound by P. Connaughton,6:50.0,33-41,Milwaukee,0,0.0
+6248,14,Shooting foul by K. Huerter (drawn by G. Antetokounmpo),6:37.0,33-41,Milwaukee,0,0.0
+6249,14,G. Antetokounmpo makes free throw 1 of 2,6:37.0,34-41,Milwaukee,0,0.0
+6250,14,G. Antetokounmpo misses free throw 2 of 2,6:37.0,34-41,Milwaukee,0,1.0
+6251,14,Defensive rebound by C. Capela,6:34.0,34-41,Atlanta,0,1.0
+6252,14,J. Collins misses 3-pt jump shot from 24 ft,6:14.0,34-41,Atlanta,0,0.0
+6253,14,Offensive rebound by Team,6:13.0,34-41,Atlanta,0,0.0
+6254,14,Personal foul by B. Portis (drawn by J. Collins),6:12.0,34-41,Atlanta,0,0.0
+6255,14,T. Young makes 2-pt jump shot from 3 ft,6:03.0,34-43,Atlanta,0,0.0
+6256,14,G. Antetokounmpo misses 2-pt layup from 3 ft,5:46.0,34-43,Milwaukee,0,0.0
+6257,14,Defensive rebound by K. Huerter,5:42.0,34-43,Atlanta,0,0.0
+6258,14,J. Collins misses 2-pt layup from 2 ft,5:40.0,34-43,Atlanta,0,0.0
+6259,14,Offensive rebound by Team,5:40.0,34-43,Atlanta,0,0.0
+6260,14,J. Nwora enters the game for G. Antetokounmpo,5:40.0,34-43,Milwaukee,1,0.0
+6261,14,S. Ojeleye enters the game for R. Hood,5:40.0,34-43,Milwaukee,1,0.0
+6262,14,D. Gallinari enters the game for C. Capela,5:40.0,34-43,Atlanta,0,0.0
+6263,14,Turnover by T. Young (lost ball; steal by S. Ojeleye),5:26.0,34-43,Atlanta,0,0.0
+6264,14,S. Ojeleye misses 3-pt jump shot from 26 ft,5:14.0,34-43,Milwaukee,0,0.0
+6265,14,Defensive rebound by T. Young,5:08.0,34-43,Atlanta,0,0.0
+6266,14,Turnover by T. Young (bad pass),5:08.0,34-43,Atlanta,0,1.0
+6267,14,P. Connaughton misses 3-pt jump shot from 26 ft,4:51.0,34-43,Milwaukee,0,1.0
+6268,14,Offensive rebound by S. Ojeleye,4:48.0,34-43,Milwaukee,0,0.0
+6269,14,J. Nwora misses 3-pt jump shot from 28 ft,4:38.0,34-43,Milwaukee,0,0.0
+6270,14,Defensive rebound by K. Huerter,4:34.0,34-43,Atlanta,0,0.0
+6271,14,K. Huerter makes 3-pt jump shot from 25 ft (assist by B. Bogdanović),4:29.0,34-46,Atlanta,0,0.0
+6272,14,J. Holiday misses 2-pt jump shot from 15 ft,4:16.0,34-46,Milwaukee,0,0.0
+6273,14,Defensive rebound by D. Gallinari,4:13.0,34-46,Atlanta,0,0.0
+6274,14,T. Young makes 3-pt jump shot from 25 ft,4:01.0,34-49,Atlanta,0,0.0
+6275,14,Milwaukee full timeout,3:58.0,34-49,Milwaukee,0,0.0
+6276,14,G. Allen enters the game for P. Connaughton,3:58.0,34-49,Milwaukee,1,0.0
+6277,14,G. Antetokounmpo enters the game for J. Holiday,3:58.0,34-49,Milwaukee,1,1.0
+6278,14,S. Ojeleye misses 3-pt jump shot from 23 ft,3:44.0,34-49,Milwaukee,0,0.0
+6279,14,Defensive rebound by T. Young,3:39.0,34-49,Atlanta,0,0.0
+6280,14,T. Young makes 3-pt jump shot from 37 ft,3:25.0,34-52,Atlanta,0,0.0
+6281,14,G. Antetokounmpo misses 2-pt jump shot from 15 ft,3:09.0,34-52,Milwaukee,0,0.0
+6282,14,Defensive rebound by Team,3:08.0,34-52,Atlanta,0,0.0
+6283,14,T. Young misses 3-pt jump shot from 29 ft,2:53.0,34-52,Atlanta,0,0.0
+6284,14,Defensive rebound by G. Antetokounmpo,2:49.0,34-52,Milwaukee,0,0.0
+6285,14,B. Portis makes 2-pt jump shot from 9 ft (assist by G. Antetokounmpo),2:43.0,36-52,Milwaukee,0,0.0
+6286,14,Atlanta full timeout,2:33.0,36-52,Atlanta,0,0.0
+6287,14,J. Holiday enters the game for J. Nwora,2:33.0,36-52,Milwaukee,1,0.0
+6288,14,C. Capela enters the game for J. Collins,2:33.0,36-52,Atlanta,0,0.0
+6289,14,B. Bogdanović misses 3-pt jump shot from 25 ft,2:18.0,36-52,Atlanta,0,0.0
+6290,14,Defensive rebound by G. Allen,2:16.0,36-52,Milwaukee,0,0.0
+6291,14,G. Antetokounmpo misses 2-pt jump shot from 10 ft,2:08.0,36-52,Milwaukee,0,1.0
+6292,14,Defensive rebound by C. Capela,2:03.0,36-52,Atlanta,0,0.0
+6293,14,C. Capela makes 2-pt layup from 1 ft (assist by T. Young),1:48.0,36-54,Atlanta,0,0.0
+6294,14,G. Antetokounmpo makes 3-pt jump shot from 27 ft,1:31.0,39-54,Milwaukee,0,0.0
+6295,14,B. Bogdanović misses 3-pt jump shot from 23 ft,1:17.0,39-54,Atlanta,0,0.0
+6296,14,Defensive rebound by B. Portis,1:14.0,39-54,Milwaukee,0,1.0
+6297,14,G. Antetokounmpo makes 2-pt layup from 1 ft,1:03.0,41-54,Milwaukee,0,0.0
+6298,14,T. Young makes 2-pt layup from 2 ft,0:46.0,41-56,Atlanta,0,0.0
+6299,14,J. Holiday makes 3-pt jump shot from 26 ft,0:38.0,44-56,Milwaukee,0,0.0
+6300,14,Personal foul by B. Portis (drawn by T. Young),0:35.0,44-56,Atlanta,0,0.0
+6301,14,P. Connaughton enters the game for B. Portis,0:35.0,44-56,Milwaukee,1,0.0
+6302,14,B. Bogdanović misses 3-pt jump shot from 25 ft,0:30.0,44-56,Atlanta,0,0.0
+6303,14,Offensive rebound by Team,0:27.0,44-56,Atlanta,0,0.0
+6304,14,Personal foul by J. Holiday (drawn by T. Young),0:22.0,44-56,Atlanta,0,0.0
+6305,14,T. Young makes free throw 1 of 2,0:22.0,44-57,Atlanta,0,0.0
+6306,14,J. Nwora enters the game for S. Ojeleye,0:22.0,44-57,Milwaukee,1,0.0
+6307,14,T. Luwawu-Cabarrot enters the game for K. Huerter,0:22.0,44-57,Atlanta,0,0.0
+6308,14,T. Young makes free throw 2 of 2,0:22.0,44-58,Atlanta,0,0.0
+6309,14,J. Holiday misses 3-pt jump shot from 26 ft,0:07.0,44-58,Milwaukee,0,0.0
+6310,14,Defensive rebound by T. Young,0:04.0,44-58,Atlanta,0,0.0
+6311,14,T. Young misses 2-pt jump shot from 10 ft,0:00.0,44-58,Atlanta,0,0.0
+6312,14,Offensive rebound by Team,0:00.0,44-58,Atlanta,0,0.0
+6313,14,K. Huerter misses 3-pt jump shot from 24 ft,11:46.0,44-58,Atlanta,0,0.0
+6314,14,Defensive rebound by G. Antetokounmpo,11:42.0,44-58,Milwaukee,0,0.0
+6315,14,Personal foul by C. Capela (drawn by G. Antetokounmpo),11:38.0,44-58,Milwaukee,0,0.0
+6316,14,B. Portis misses 2-pt hook shot from 9 ft,11:27.0,44-58,Milwaukee,0,0.0
+6317,14,Defensive rebound by C. Capela,11:23.0,44-58,Atlanta,0,0.0
+6318,14,J. Collins misses 3-pt jump shot from 23 ft,11:17.0,44-58,Atlanta,0,0.0
+6319,14,Defensive rebound by J. Holiday,11:16.0,44-58,Milwaukee,0,0.0
+6320,14,Turnover by J. Holiday (bad pass; steal by T. Young),11:14.0,44-58,Milwaukee,0,0.0
+6321,14,J. Collins misses 2-pt layup from 6 ft,10:59.0,44-58,Atlanta,0,0.0
+6322,14,Defensive rebound by P. Connaughton,10:53.0,44-58,Milwaukee,0,0.0
+6323,14,G. Allen makes 2-pt layup from 1 ft,10:48.0,46-58,Milwaukee,0,0.0
+6324,14,Turnover by K. Huerter (bad pass; steal by B. Portis),10:35.0,46-58,Atlanta,0,0.0
+6325,14,B. Portis makes 2-pt layup from 1 ft (assist by J. Holiday),10:29.0,48-58,Milwaukee,0,0.0
+6326,14,T. Young misses 2-pt jump shot from 8 ft,10:16.0,48-58,Atlanta,0,0.0
+6327,14,Defensive rebound by Team,10:16.0,48-58,Milwaukee,0,0.0
+6328,14,G. Allen makes 2-pt jump shot from 11 ft (assist by G. Antetokounmpo),10:02.0,50-58,Milwaukee,0,0.0
+6329,14,B. Bogdanović misses 2-pt jump shot from 11 ft,9:48.0,50-58,Atlanta,0,0.0
+6330,14,Defensive rebound by G. Antetokounmpo,9:44.0,50-58,Milwaukee,0,0.0
+6331,14,J. Holiday misses 3-pt jump shot from 23 ft,9:40.0,50-58,Milwaukee,0,0.0
+6332,14,Offensive rebound by Team,9:38.0,50-58,Milwaukee,0,0.0
+6333,14,G. Antetokounmpo makes 2-pt jump shot from 11 ft,9:32.0,52-58,Milwaukee,0,0.0
+6334,14,Atlanta full timeout,9:30.0,52-58,Atlanta,0,0.0
+6335,14,J. Collins makes 2-pt dunk from 1 ft,9:10.0,52-60,Atlanta,0,0.0
+6336,14,J. Holiday misses 2-pt jump shot from 13 ft,8:57.0,52-60,Milwaukee,0,0.0
+6337,14,Defensive rebound by K. Huerter,8:53.0,52-60,Atlanta,0,0.0
+6338,14,T. Young misses 3-pt jump shot from 27 ft,8:47.0,52-60,Atlanta,0,0.0
+6339,14,Offensive rebound by T. Young,8:41.0,52-60,Atlanta,0,0.0
+6340,14,K. Huerter misses 3-pt jump shot from 26 ft,8:39.0,52-60,Atlanta,0,0.0
+6341,14,Offensive rebound by T. Young,8:33.0,52-60,Atlanta,0,0.0
+6342,14,J. Collins misses 2-pt layup from 1 ft (block by G. Antetokounmpo),8:28.0,52-60,Atlanta,0,0.0
+6343,14,Offensive rebound by J. Collins,8:23.0,52-60,Atlanta,0,0.0
+6344,14,J. Collins makes 2-pt layup at rim,8:23.0,52-62,Atlanta,0,0.0
+6345,14,G. Antetokounmpo misses 2-pt jump shot from 10 ft,8:13.0,52-62,Milwaukee,0,0.0
+6346,14,Defensive rebound by C. Capela,8:10.0,52-62,Atlanta,0,0.0
+6347,14,C. Capela makes 2-pt dunk from 1 ft (assist by T. Young),8:04.0,52-64,Atlanta,0,0.0
+6348,14,Milwaukee full timeout,8:03.0,52-64,Milwaukee,0,0.0
+6349,14,J. Holiday misses 2-pt layup from 1 ft (block by J. Collins),7:52.0,52-64,Milwaukee,0,0.0
+6350,14,Offensive rebound by Team,7:52.0,52-64,Milwaukee,0,0.0
+6351,14,B. Portis makes 3-pt jump shot from 23 ft (assist by J. Holiday),7:43.0,55-64,Milwaukee,0,0.0
+6352,14,J. Collins makes 2-pt layup from 4 ft (assist by T. Young),7:27.0,55-66,Atlanta,0,0.0
+6353,14,Offensive foul by G. Antetokounmpo (drawn by J. Collins),7:21.0,55-66,Milwaukee,0,0.0
+6354,14,Turnover by G. Antetokounmpo (offensive foul),7:21.0,55-66,Milwaukee,0,0.0
+6355,14,Personal foul by J. Holiday (drawn by T. Young),7:14.0,55-66,Atlanta,0,0.0
+6356,14,T. Young misses 2-pt jump shot from 12 ft (block by J. Holiday),7:08.0,55-66,Atlanta,0,0.0
+6357,14,Defensive rebound by B. Portis,7:04.0,55-66,Milwaukee,0,0.0
+6358,14,G. Antetokounmpo makes 2-pt dunk from 1 ft,6:53.0,57-66,Milwaukee,0,0.0
+6359,14,B. Bogdanović makes 3-pt jump shot from 25 ft,6:37.0,57-69,Atlanta,0,0.0
+6360,14,J. Holiday makes 2-pt jump shot from 13 ft,6:25.0,59-69,Milwaukee,0,0.0
+6361,14,Turnover by T. Young (bad pass; steal by P. Connaughton),6:13.0,59-69,Atlanta,0,0.0
+6362,14,G. Allen makes 2-pt dunk at rim (assist by P. Connaughton),6:09.0,61-69,Milwaukee,0,1.0
+6363,14,K. Huerter makes 2-pt jump shot from 12 ft (assist by B. Bogdanović),5:53.0,61-71,Atlanta,0,1.0
+6364,14,B. Portis misses 3-pt jump shot from 25 ft,5:33.0,61-71,Milwaukee,0,0.0
+6365,14,Defensive rebound by C. Capela,5:31.0,61-71,Atlanta,0,0.0
+6366,14,T. Young makes 2-pt jump shot from 14 ft (assist by C. Capela),5:24.0,61-73,Atlanta,0,0.0
+6367,14,J. Holiday makes 2-pt jump shot from 1 ft,5:03.0,63-73,Milwaukee,0,0.0
+6368,14,T. Young makes 2-pt jump shot from 2 ft,4:55.0,63-75,Atlanta,0,0.0
+6369,14,P. Connaughton makes 2-pt layup from 1 ft (assist by B. Portis),4:43.0,65-75,Milwaukee,0,0.0
+6370,14,J. Collins makes 2-pt dunk from 1 ft (assist by T. Young),4:33.0,65-77,Atlanta,0,0.0
+6371,14,Personal foul by T. Young (drawn by P. Connaughton),4:22.0,65-77,Milwaukee,0,0.0
+6372,14,J. Nwora enters the game for G. Allen,4:22.0,65-77,Milwaukee,1,1.0
+6373,14,S. Ojeleye enters the game for B. Portis,4:22.0,65-77,Milwaukee,1,0.0
+6374,14,D. Gallinari enters the game for J. Collins,4:22.0,65-77,Atlanta,0,0.0
+6375,14,D. Wright enters the game for T. Young,4:22.0,65-77,Atlanta,0,0.0
+6376,14,P. Connaughton misses 3-pt jump shot from 24 ft,4:12.0,65-77,Milwaukee,0,0.0
+6377,14,Defensive rebound by B. Bogdanović,4:09.0,65-77,Atlanta,0,0.0
+6378,14,K. Huerter makes 2-pt jump shot from 13 ft,3:55.0,65-79,Atlanta,0,0.0
+6379,14,Shooting foul by C. Capela (drawn by G. Antetokounmpo),3:45.0,65-79,Milwaukee,0,0.0
+6380,14,G. Antetokounmpo misses free throw 1 of 2,3:45.0,65-79,Milwaukee,0,0.0
+6381,14,Offensive rebound by Team,3:45.0,65-79,Milwaukee,0,0.0
+6382,14,J. Robinson enters the game for J. Holiday,3:45.0,65-79,Milwaukee,1,0.0
+6383,14,L. Williams enters the game for B. Bogdanović,3:45.0,65-79,Atlanta,0,0.0
+6384,14,G. Antetokounmpo makes free throw 2 of 2,3:45.0,66-79,Milwaukee,0,0.0
+6385,14,L. Williams misses 2-pt jump shot from 14 ft,3:36.0,66-79,Atlanta,0,0.0
+6386,14,Defensive rebound by J. Nwora,3:34.0,66-79,Milwaukee,0,1.0
+6387,14,G. Antetokounmpo makes 2-pt layup from 1 ft (assist by J. Nwora),3:25.0,68-79,Milwaukee,0,0.0
+6388,14,K. Huerter makes 2-pt jump shot from 11 ft (assist by C. Capela),3:09.0,68-81,Atlanta,0,0.0
+6389,14,J. Nwora makes 3-pt jump shot from 24 ft (assist by G. Antetokounmpo),2:47.0,71-81,Milwaukee,0,0.0
+6390,14,D. Gallinari misses 2-pt jump shot from 13 ft,2:27.0,71-81,Atlanta,0,0.0
+6391,14,Offensive rebound by C. Capela,2:26.0,71-81,Atlanta,0,0.0
+6392,14,C. Capela makes 2-pt layup from 2 ft,2:26.0,71-83,Atlanta,0,0.0
+6393,14,Violation by Team (def goaltending),2:26.0,71-83,Milwaukee,0,0.0
+6394,14,Shooting foul by D. Gallinari (drawn by G. Antetokounmpo),2:16.0,71-83,Milwaukee,0,0.0
+6395,14,G. Antetokounmpo makes free throw 1 of 2,2:16.0,72-83,Milwaukee,0,0.0
+6396,14,R. Hood enters the game for P. Connaughton,2:16.0,72-83,Milwaukee,1,0.0
+6397,14,J. Collins enters the game for C. Capela,2:16.0,72-83,Atlanta,0,0.0
+6398,14,C. Reddish enters the game for K. Huerter,2:16.0,72-83,Atlanta,0,0.0
+6399,14,G. Antetokounmpo misses free throw 2 of 2,2:16.0,72-83,Milwaukee,0,0.0
+6400,14,Offensive rebound by S. Ojeleye,2:12.0,72-83,Milwaukee,0,0.0
+6401,14,Turnover by G. Antetokounmpo (traveling),2:06.0,72-83,Milwaukee,0,0.0
+6402,14,D. Wright makes 3-pt jump shot from 26 ft,1:58.0,72-86,Atlanta,0,0.0
+6403,14,G. Antetokounmpo misses 3-pt jump shot from 24 ft,1:47.0,72-86,Milwaukee,0,0.0
+6404,14,Offensive rebound by G. Antetokounmpo,1:42.0,72-86,Milwaukee,0,1.0
+6405,14,S. Ojeleye makes 2-pt dunk at rim (assist by G. Antetokounmpo),1:39.0,74-86,Milwaukee,0,0.0
+6406,14,L. Williams makes 2-pt jump shot from 7 ft (assist by C. Reddish),1:20.0,74-88,Atlanta,0,0.0
+6407,14,J. Nwora makes 3-pt jump shot from 23 ft (assist by G. Antetokounmpo),1:07.0,77-88,Milwaukee,0,0.0
+6408,14,Shooting foul by J. Nwora (drawn by J. Collins),0:49.0,77-88,Atlanta,0,0.0
+6409,14,J. Collins misses free throw 1 of 2,0:49.0,77-88,Atlanta,0,0.0
+6410,14,Offensive rebound by Team,0:49.0,77-88,Atlanta,0,0.0
+6411,14,J. Collins makes free throw 2 of 2,0:49.0,77-89,Atlanta,0,0.0
+6412,14,Offensive foul by G. Antetokounmpo (drawn by J. Collins),0:36.0,77-89,Milwaukee,0,0.0
+6413,14,Turnover by G. Antetokounmpo (offensive foul),0:36.0,77-89,Milwaukee,0,0.0
+6414,14,B. Portis enters the game for G. Antetokounmpo,0:36.0,77-89,Milwaukee,1,0.0
+6415,14,L. Williams misses 3-pt jump shot from 26 ft,0:31.0,77-89,Atlanta,0,0.0
+6416,14,Offensive rebound by D. Wright,0:27.0,77-89,Atlanta,0,0.0
+6417,14,D. Gallinari misses 3-pt jump shot from 39 ft,0:14.0,77-89,Atlanta,0,0.0
+6418,14,Defensive rebound by J. Nwora,0:09.0,77-89,Milwaukee,0,0.0
+6419,14,S. Ojeleye misses 2-pt jump shot from 6 ft,0:00.0,77-89,Milwaukee,0,0.0
+6420,14,Defensive rebound by J. Collins,0:00.0,77-89,Atlanta,0,0.0
+6421,14,J. Holiday misses 2-pt jump shot from 10 ft,11:46.0,77-89,Milwaukee,0,0.0
+6422,14,Defensive rebound by J. Collins,11:42.0,77-89,Atlanta,0,0.0
+6423,14,L. Williams makes 2-pt jump shot from 21 ft,11:29.0,77-91,Atlanta,0,0.0
+6424,14,J. Nwora misses 3-pt jump shot from 24 ft,11:11.0,77-91,Milwaukee,0,0.0
+6425,14,Defensive rebound by D. Gallinari,11:08.0,77-91,Atlanta,0,1.0
+6426,14,L. Williams misses 2-pt jump shot from 22 ft,11:02.0,77-91,Atlanta,0,1.0
+6427,14,Offensive rebound by D. Wright,10:57.0,77-91,Atlanta,0,0.0
+6428,14,C. Reddish misses 3-pt jump shot from 23 ft,10:56.0,77-91,Atlanta,0,0.0
+6429,14,Defensive rebound by B. Portis,10:53.0,77-91,Milwaukee,0,0.0
+6430,14,B. Portis makes 2-pt jump shot from 18 ft (assist by J. Holiday),10:47.0,79-91,Milwaukee,0,0.0
+6431,14,D. Gallinari makes 2-pt jump shot from 13 ft (assist by L. Williams),10:31.0,79-93,Atlanta,0,0.0
+6432,14,Turnover by J. Holiday (bad pass; steal by D. Wright),10:17.0,79-93,Milwaukee,0,0.0
+6433,14,D. Gallinari makes 3-pt jump shot from 26 ft (assist by D. Wright),10:12.0,79-96,Atlanta,0,0.0
+6434,14,Milwaukee full timeout,10:10.0,79-96,Milwaukee,0,0.0
+6435,14,P. Connaughton enters the game for J. Nwora,10:10.0,79-96,Milwaukee,1,0.0
+6436,14,R. Hood enters the game for S. Ojeleye,10:10.0,79-96,Milwaukee,1,0.0
+6437,14,J. Holiday makes 2-pt jump shot from 17 ft,10:00.0,81-96,Milwaukee,0,0.0
+6438,14,L. Williams misses 2-pt jump shot from 12 ft,9:38.0,81-96,Atlanta,0,0.0
+6439,14,Defensive rebound by P. Connaughton,9:32.0,81-96,Milwaukee,0,0.0
+6440,14,P. Connaughton makes 3-pt jump shot from 24 ft (assist by G. Allen),9:18.0,84-96,Milwaukee,0,0.0
+6441,14,C. Reddish misses 2-pt jump shot from 13 ft,9:02.0,84-96,Atlanta,0,0.0
+6442,14,Offensive rebound by C. Reddish,9:00.0,84-96,Atlanta,0,0.0
+6443,14,Shooting foul by B. Portis (drawn by C. Reddish),9:00.0,84-96,Atlanta,0,0.0
+6444,14,C. Reddish makes free throw 1 of 2,9:00.0,84-97,Atlanta,0,0.0
+6445,14,K. Huerter enters the game for L. Williams,9:00.0,84-97,Atlanta,0,0.0
+6446,14,T. Young enters the game for D. Wright,9:00.0,84-97,Atlanta,0,0.0
+6447,14,C. Reddish makes free throw 2 of 2,9:00.0,84-98,Atlanta,0,0.0
+6448,14,G. Allen misses 3-pt jump shot from 25 ft,8:50.0,84-98,Milwaukee,0,0.0
+6449,14,Offensive rebound by G. Allen,8:46.0,84-98,Milwaukee,0,0.0
+6450,14,Turnover by J. Holiday (discontinued dribble),8:45.0,84-98,Milwaukee,0,0.0
+6451,14,J. Collins misses 2-pt dunk from 2 ft,8:32.0,84-98,Atlanta,0,0.0
+6452,14,Defensive rebound by B. Portis,8:29.0,84-98,Milwaukee,0,0.0
+6453,14,Personal take foul by K. Huerter (drawn by J. Holiday),8:29.0,84-98,Milwaukee,0,1.0
+6454,14,G. Allen makes 3-pt jump shot from 25 ft (assist by J. Holiday),8:20.0,87-98,Milwaukee,0,0.0
+6455,14,K. Huerter misses 2-pt jump shot from 6 ft,7:53.0,87-98,Atlanta,0,0.0
+6456,14,Offensive rebound by J. Collins,7:48.0,87-98,Atlanta,0,0.0
+6457,14,J. Collins makes 2-pt layup at rim,7:48.0,87-100,Atlanta,0,0.0
+6458,14,J. Holiday makes 2-pt layup from 3 ft,7:36.0,89-100,Milwaukee,0,0.0
+6459,14,J. Collins makes 2-pt dunk from 1 ft (assist by T. Young),7:21.0,89-102,Atlanta,0,0.0
+6460,14,R. Hood makes 3-pt jump shot from 24 ft (assist by B. Portis),7:07.0,92-102,Milwaukee,0,0.0
+6461,14,T. Young makes 2-pt jump shot from 12 ft,6:49.0,92-104,Atlanta,0,0.0
+6462,14,Personal foul by C. Reddish (drawn by J. Holiday),6:44.0,92-104,Milwaukee,0,0.0
+6463,14,G. Antetokounmpo enters the game for B. Portis,6:44.0,92-104,Milwaukee,1,0.0
+6464,14,B. Bogdanović enters the game for D. Gallinari,6:44.0,92-104,Atlanta,0,0.0
+6465,14,C. Capela enters the game for C. Reddish,6:44.0,92-104,Atlanta,0,0.0
+6466,14,Personal foul by T. Young (drawn by G. Allen),6:33.0,92-104,Milwaukee,0,1.0
+6467,14,J. Holiday misses 2-pt layup from 1 ft,6:23.0,92-104,Milwaukee,0,0.0
+6468,14,Defensive rebound by B. Bogdanović,6:20.0,92-104,Atlanta,0,0.0
+6469,14,T. Young makes 3-pt jump shot from 28 ft,6:12.0,92-107,Atlanta,0,0.0
+6470,14,G. Antetokounmpo misses 2-pt jump shot from 9 ft,5:56.0,92-107,Milwaukee,0,0.0
+6471,14,Defensive rebound by J. Collins,5:54.0,92-107,Atlanta,0,0.0
+6472,14,T. Young misses 3-pt jump shot from 27 ft,5:45.0,92-107,Atlanta,0,0.0
+6473,14,Defensive rebound by Team,5:43.0,92-107,Milwaukee,0,0.0
+6474,14,Shooting foul by C. Capela (drawn by G. Antetokounmpo),5:30.0,92-107,Milwaukee,0,0.0
+6475,14,G. Antetokounmpo makes free throw 1 of 2,5:30.0,93-107,Milwaukee,0,0.0
+6476,14,J. Nwora enters the game for J. Holiday,5:30.0,93-107,Milwaukee,1,0.0
+6477,14,G. Antetokounmpo makes free throw 2 of 2,5:30.0,94-107,Milwaukee,0,0.0
+6478,14,Turnover by C. Capela (lost ball; steal by G. Antetokounmpo),5:07.0,94-107,Atlanta,0,1.0
+6479,14,Shooting foul by J. Collins (drawn by G. Antetokounmpo),4:59.0,94-107,Milwaukee,0,1.0
+6480,14,G. Antetokounmpo misses free throw 1 of 2,4:59.0,94-107,Milwaukee,0,0.0
+6481,14,Offensive rebound by Team,4:59.0,94-107,Milwaukee,0,0.0
+6482,14,G. Antetokounmpo makes free throw 2 of 2,4:59.0,95-107,Milwaukee,0,0.0
+6483,14,K. Huerter makes 2-pt jump shot from 11 ft (assist by T. Young),4:48.0,95-109,Atlanta,0,0.0
+6484,14,G. Antetokounmpo misses 3-pt jump shot from 24 ft,4:31.0,95-109,Milwaukee,0,0.0
+6485,14,Defensive rebound by C. Capela,4:27.0,95-109,Atlanta,0,0.0
+6486,14,T. Young makes 2-pt jump shot from 12 ft,4:18.0,95-111,Atlanta,0,0.0
+6487,14,Milwaukee full timeout,4:17.0,95-111,Milwaukee,0,0.0
+6488,14,J. Holiday enters the game for G. Allen,4:17.0,95-111,Milwaukee,1,0.0
+6489,14,B. Portis enters the game for R. Hood,4:17.0,95-111,Milwaukee,1,0.0
+6490,14,B. Portis misses 3-pt jump shot from 23 ft,3:54.0,95-111,Milwaukee,0,0.0
+6491,14,Defensive rebound by C. Capela,3:50.0,95-111,Atlanta,0,0.0
+6492,14,T. Young misses 2-pt jump shot from 20 ft,3:37.0,95-111,Atlanta,0,1.0
+6493,14,Defensive rebound by B. Portis,3:34.0,95-111,Milwaukee,0,0.0
+6494,14,P. Connaughton makes 3-pt jump shot from 23 ft (assist by G. Antetokounmpo),3:29.0,98-111,Milwaukee,0,0.0
+6495,14,T. Young makes 2-pt jump shot from 19 ft,3:00.0,98-113,Atlanta,0,0.0
+6496,14,Personal foul by K. Huerter (drawn by G. Antetokounmpo),2:49.0,98-113,Milwaukee,0,0.0
+6497,14,G. Antetokounmpo misses free throw 1 of 2,2:49.0,98-113,Milwaukee,0,0.0
+6498,14,Offensive rebound by Team,2:49.0,98-113,Milwaukee,0,0.0
+6499,14,G. Antetokounmpo makes free throw 2 of 2,2:49.0,99-113,Milwaukee,0,0.0
+6500,14,J. Collins makes 2-pt layup from 1 ft (assist by T. Young),2:36.0,99-115,Atlanta,0,1.0
+6501,14,Shooting foul by G. Antetokounmpo (drawn by J. Collins),2:36.0,99-115,Atlanta,0,1.0
+6502,14,G. Allen enters the game for B. Portis,2:36.0,99-115,Milwaukee,1,1.0
+6503,14,J. Collins makes free throw 1 of 1,2:36.0,99-116,Atlanta,0,1.0
+6504,14,P. Connaughton misses 3-pt jump shot from 23 ft,2:27.0,99-116,Milwaukee,0,0.0
+6505,14,Defensive rebound by C. Capela,2:23.0,99-116,Atlanta,0,0.0
+6506,14,T. Young makes 2-pt layup from 4 ft,2:14.0,99-118,Atlanta,0,0.0
+6507,14,G. Antetokounmpo misses 2-pt jump shot from 17 ft,2:01.0,99-118,Milwaukee,0,0.0
+6508,14,Defensive rebound by J. Collins,1:58.0,99-118,Atlanta,0,0.0
+6509,14,Personal take foul by J. Nwora (drawn by T. Young),1:56.0,99-118,Atlanta,0,0.0
+6510,14,T. Antetokounmpo enters the game for G. Allen,1:56.0,99-118,Milwaukee,1,0.0
+6511,14,R. Hood enters the game for G. Antetokounmpo,1:56.0,99-118,Milwaukee,1,0.0
+6512,14,S. Ojeleye enters the game for P. Connaughton,1:56.0,99-118,Milwaukee,1,0.0
+6513,14,J. Robinson enters the game for J. Holiday,1:56.0,99-118,Milwaukee,1,0.0
+6514,14,S. Cooper enters the game for B. Bogdanović,1:56.0,99-118,Atlanta,0,0.0
+6515,14,J. Johnson enters the game for C. Capela,1:56.0,99-118,Atlanta,0,0.0
+6516,14,T. Luwawu-Cabarrot enters the game for J. Collins,1:56.0,99-118,Atlanta,0,0.0
+6517,14,S. Mays enters the game for T. Young,1:56.0,99-118,Atlanta,0,0.0
+6518,14,Turnover by S. Mays (out of bounds lost ball),1:46.0,99-118,Atlanta,0,0.0
+6519,14,Turnover by J. Robinson (bad pass; steal by T. Luwawu-Cabarrot),1:37.0,99-118,Milwaukee,0,0.0
+6520,14,S. Cooper makes 2-pt layup from 1 ft (assist by K. Huerter),1:33.0,99-120,Atlanta,0,0.0
+6521,14,J. Robinson misses 3-pt jump shot from 26 ft,1:24.0,99-120,Milwaukee,0,0.0
+6522,14,Offensive rebound by Team,1:22.0,99-120,Milwaukee,0,0.0
+6523,14,Shooting foul by S. Mays (drawn by T. Antetokounmpo),1:15.0,99-120,Milwaukee,0,0.0
+6524,14,T. Antetokounmpo misses free throw 1 of 2,1:15.0,99-120,Milwaukee,0,0.0
+6525,14,Offensive rebound by Team,1:15.0,99-120,Milwaukee,0,
+6526,14,S. Hill enters the game for K. Huerter,1:15.0,99-120,Atlanta,0,
+6527,14,T. Antetokounmpo makes free throw 2 of 2,1:15.0,100-120,Milwaukee,0,
+6528,14,J. Johnson misses 2-pt jump shot from 19 ft (block by S. Ojeleye),0:52.0,100-120,Atlanta,0,
+6529,14,Offensive rebound by Team,0:52.0,100-120,Atlanta,0,
+6530,14,Turnover by Team (shot clock),0:51.0,100-120,Atlanta,0,
+6531,14,J. Nwora misses 2-pt jump shot from 16 ft,0:42.0,100-120,Milwaukee,0,
+6532,14,Defensive rebound by J. Johnson,0:38.0,100-120,Atlanta,0,
+6533,14,J. Johnson misses 3-pt jump shot from 26 ft,0:20.0,100-120,Atlanta,0,
+6534,14,Defensive rebound by Team,0:16.0,100-120,Milwaukee,0,

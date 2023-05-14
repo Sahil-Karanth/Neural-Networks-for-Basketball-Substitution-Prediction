@@ -1,0 +1,474 @@
+,game number,play,time,score,team,current_sub_status,future_sub_status
+36190,79,K. Middleton makes 2-pt jump shot from 20 ft (assist by J. Holiday),11:46.0,2-0,Milwaukee,0,0.0
+36191,79,N. Vučević misses 3-pt jump shot from 26 ft,11:24.0,2-0,Chicago,0,0.0
+36192,79,Defensive rebound by G. Antetokounmpo,11:21.0,2-0,Milwaukee,0,0.0
+36193,79,K. Middleton misses 3-pt jump shot from 26 ft,11:14.0,2-0,Milwaukee,0,0.0
+36194,79,Defensive rebound by P. Williams,11:11.0,2-0,Chicago,0,0.0
+36195,79,D. DeRozan misses 2-pt jump shot from 9 ft,11:03.0,2-0,Chicago,0,0.0
+36196,79,Defensive rebound by B. Lopez,10:55.0,2-0,Milwaukee,0,0.0
+36197,79,J. Holiday makes 2-pt layup from 1 ft (assist by K. Middleton),10:36.0,4-0,Milwaukee,0,0.0
+36198,79,N. Vučević misses 3-pt jump shot from 23 ft,10:14.0,4-0,Chicago,0,0.0
+36199,79,Defensive rebound by K. Middleton,10:11.0,4-0,Milwaukee,0,0.0
+36200,79,Turnover by K. Middleton (bad pass; steal by N. Vučević),10:03.0,4-0,Milwaukee,0,0.0
+36201,79,A. Dosunmu makes 2-pt dunk from 1 ft,9:59.0,4-2,Chicago,0,0.0
+36202,79,B. Lopez misses 3-pt jump shot from 23 ft,9:35.0,4-2,Milwaukee,0,0.0
+36203,79,Defensive rebound by A. Caruso,9:32.0,4-2,Chicago,0,0.0
+36204,79,A. Caruso misses 3-pt jump shot from 26 ft,9:21.0,4-2,Chicago,0,0.0
+36205,79,Defensive rebound by W. Matthews,9:18.0,4-2,Milwaukee,0,0.0
+36206,79,Turnover by G. Antetokounmpo (lost ball; steal by D. DeRozan),9:12.0,4-2,Milwaukee,0,0.0
+36207,79,A. Dosunmu makes 2-pt layup from 1 ft (assist by A. Caruso),9:07.0,4-4,Chicago,0,0.0
+36208,79,Turnover by J. Holiday (lost ball; steal by A. Dosunmu),8:55.0,4-4,Milwaukee,0,0.0
+36209,79,A. Dosunmu misses 2-pt dunk from 1 ft,8:50.0,4-4,Chicago,0,0.0
+36210,79,Defensive rebound by J. Holiday,8:48.0,4-4,Milwaukee,0,0.0
+36211,79,W. Matthews misses 3-pt jump shot from 23 ft,8:44.0,4-4,Milwaukee,0,0.0
+36212,79,Defensive rebound by A. Caruso,8:41.0,4-4,Chicago,0,0.0
+36213,79,D. DeRozan misses 3-pt jump shot from 26 ft,8:25.0,4-4,Chicago,0,1.0
+36214,79,Defensive rebound by B. Lopez,8:23.0,4-4,Milwaukee,0,0.0
+36215,79,K. Middleton misses 3-pt jump shot from 25 ft,8:15.0,4-4,Milwaukee,0,0.0
+36216,79,Defensive rebound by N. Vučević,8:13.0,4-4,Chicago,0,0.0
+36217,79,D. DeRozan makes 2-pt layup from 1 ft (assist by A. Caruso),8:00.0,4-6,Chicago,0,0.0
+36218,79,B. Lopez misses 2-pt jump shot from 11 ft,7:45.0,4-6,Milwaukee,0,0.0
+36219,79,Defensive rebound by N. Vučević,7:42.0,4-6,Chicago,0,0.0
+36220,79,D. DeRozan misses 2-pt jump shot from 20 ft,7:34.0,4-6,Chicago,0,0.0
+36221,79,Defensive rebound by K. Middleton,7:32.0,4-6,Milwaukee,0,0.0
+36222,79,Violation by Team (kicked ball),7:24.0,4-6,Chicago,0,0.0
+36223,79,B. Portis enters the game for G. Antetokounmpo,7:24.0,4-6,Milwaukee,1,0.0
+36224,79,B. Lopez makes 2-pt layup from 1 ft (assist by J. Holiday),7:15.0,6-6,Milwaukee,0,0.0
+36225,79,Chicago full timeout,7:15.0,6-6,Chicago,0,1.0
+36226,79,J. Green enters the game for P. Williams,7:15.0,6-6,Chicago,0,0.0
+36227,79,N. Vučević makes 2-pt jump shot from 21 ft,6:59.0,6-8,Chicago,0,0.0
+36228,79,B. Lopez makes 2-pt layup from 2 ft (assist by J. Holiday),6:48.0,8-8,Milwaukee,0,0.0
+36229,79,D. DeRozan misses 2-pt jump shot from 21 ft,6:36.0,8-8,Chicago,0,0.0
+36230,79,Defensive rebound by B. Portis,6:34.0,8-8,Milwaukee,0,0.0
+36231,79,K. Middleton makes 2-pt jump shot from 12 ft (assist by B. Portis),6:22.0,10-8,Milwaukee,0,0.0
+36232,79,A. Dosunmu misses 3-pt jump shot from 25 ft,6:09.0,10-8,Chicago,0,0.0
+36233,79,Defensive rebound by B. Portis,6:07.0,10-8,Milwaukee,0,0.0
+36234,79,Personal foul by A. Caruso (drawn by B. Lopez),6:02.0,10-8,Milwaukee,0,0.0
+36235,79,G. Allen enters the game for W. Matthews,6:02.0,10-8,Milwaukee,1,0.0
+36236,79,C. White enters the game for A. Caruso,6:02.0,10-8,Chicago,0,0.0
+36237,79,B. Lopez makes 2-pt jump shot from 6 ft (assist by J. Holiday),5:45.0,12-8,Milwaukee,0,0.0
+36238,79,Turnover by D. DeRozan (lost ball; steal by K. Middleton),5:32.0,12-8,Chicago,0,0.0
+36239,79,B. Portis misses 2-pt jump shot from 6 ft,5:22.0,12-8,Milwaukee,0,0.0
+36240,79,Defensive rebound by N. Vučević,5:21.0,12-8,Chicago,0,0.0
+36241,79,Turnover by N. Vučević (back court),5:12.0,12-8,Chicago,0,0.0
+36242,79,K. Middleton misses 3-pt jump shot from 23 ft,4:52.0,12-8,Milwaukee,0,0.0
+36243,79,Offensive rebound by B. Portis,4:47.0,12-8,Milwaukee,0,0.0
+36244,79,B. Portis makes 2-pt layup at rim,4:47.0,14-8,Milwaukee,0,0.0
+36245,79,D. DeRozan makes 2-pt jump shot from 15 ft,4:32.0,14-10,Chicago,0,0.0
+36246,79,J. Holiday misses 2-pt hook shot from 8 ft,4:16.0,14-10,Milwaukee,0,0.0
+36247,79,Defensive rebound by N. Vučević,4:13.0,14-10,Chicago,0,1.0
+36248,79,N. Vučević misses 2-pt hook shot from 6 ft,4:03.0,14-10,Chicago,0,1.0
+36249,79,Defensive rebound by K. Middleton,4:00.0,14-10,Milwaukee,0,1.0
+36250,79,G. Allen makes 2-pt jump shot from 5 ft (assist by K. Middleton),3:53.0,16-10,Milwaukee,0,0.0
+36251,79,N. Vučević misses 2-pt jump shot from 19 ft,3:40.0,16-10,Chicago,0,0.0
+36252,79,Defensive rebound by B. Portis,3:37.0,16-10,Milwaukee,0,0.0
+36253,79,K. Middleton makes 3-pt jump shot from 25 ft,3:29.0,19-10,Milwaukee,0,0.0
+36254,79,D. DeRozan misses 3-pt jump shot from 23 ft,3:11.0,19-10,Chicago,0,0.0
+36255,79,Defensive rebound by K. Middleton,3:08.0,19-10,Milwaukee,0,0.0
+36256,79,Milwaukee full timeout,3:05.0,19-10,Milwaukee,0,0.0
+36257,79,G. Antetokounmpo enters the game for J. Holiday,3:05.0,19-10,Milwaukee,1,0.0
+36258,79,P. Connaughton enters the game for B. Lopez,3:05.0,19-10,Milwaukee,1,0.0
+36259,79,G. Hill enters the game for K. Middleton,3:05.0,19-10,Milwaukee,1,0.0
+36260,79,A. Caruso enters the game for D. DeRozan,3:05.0,19-10,Chicago,0,0.0
+36261,79,P. Williams enters the game for A. Dosunmu,3:05.0,19-10,Chicago,0,0.0
+36262,79,G. Allen makes 3-pt jump shot from 25 ft (assist by G. Antetokounmpo),2:54.0,22-10,Milwaukee,0,0.0
+36263,79,C. White makes 3-pt jump shot from 26 ft (assist by A. Caruso),2:42.0,22-13,Chicago,0,0.0
+36264,79,Offensive foul by G. Antetokounmpo (drawn by P. Williams),2:33.0,22-13,Milwaukee,0,0.0
+36265,79,Turnover by G. Antetokounmpo (offensive foul),2:33.0,22-13,Milwaukee,0,0.0
+36266,79,D. DeRozan enters the game for J. Green,2:33.0,22-13,Chicago,0,0.0
+36267,79,T. Thompson enters the game for N. Vučević,2:33.0,22-13,Chicago,0,0.0
+36268,79,C. White makes 3-pt jump shot from 28 ft (assist by D. DeRozan),2:25.0,22-16,Chicago,0,0.0
+36269,79,Shooting foul by A. Caruso (drawn by G. Hill),2:01.0,22-16,Milwaukee,0,0.0
+36270,79,G. Hill makes free throw 1 of 2,2:01.0,23-16,Milwaukee,0,0.0
+36271,79,J. Green enters the game for A. Caruso,2:01.0,23-16,Chicago,0,0.0
+36272,79,G. Hill makes free throw 2 of 2,2:01.0,24-16,Milwaukee,0,0.0
+36273,79,D. DeRozan misses 2-pt jump shot from 15 ft,1:42.0,24-16,Chicago,0,0.0
+36274,79,Offensive rebound by T. Thompson,1:41.0,24-16,Chicago,0,0.0
+36275,79,T. Thompson misses 2-pt layup from 2 ft (block by G. Allen),1:40.0,24-16,Chicago,0,0.0
+36276,79,Defensive rebound by G. Allen,1:40.0,24-16,Milwaukee,0,0.0
+36277,79,G. Allen makes 2-pt layup from 1 ft,1:35.0,26-16,Milwaukee,0,1.0
+36278,79,T. Thompson misses 2-pt jump shot from 3 ft,1:18.0,26-16,Chicago,0,0.0
+36279,79,Defensive rebound by B. Portis,1:16.0,26-16,Milwaukee,0,0.0
+36280,79,Turnover by B. Portis (lost ball; steal by J. Green),1:15.0,26-16,Milwaukee,0,0.0
+36281,79,C. White misses 3-pt jump shot from 27 ft,1:14.0,26-16,Chicago,0,0.0
+36282,79,Offensive rebound by P. Williams,1:12.0,26-16,Chicago,0,0.0
+36283,79,P. Williams makes 2-pt dunk from 1 ft,1:11.0,26-18,Chicago,0,0.0
+36284,79,G. Allen misses 3-pt jump shot from 24 ft,0:54.0,26-18,Milwaukee,0,0.0
+36285,79,Defensive rebound by T. Thompson,0:50.0,26-18,Chicago,0,0.0
+36286,79,Personal foul by G. Antetokounmpo (drawn by D. DeRozan),0:45.0,26-18,Chicago,0,0.0
+36287,79,J. Holiday enters the game for G. Antetokounmpo,0:45.0,26-18,Milwaukee,1,0.0
+36288,79,D. DeRozan makes 2-pt jump shot from 6 ft,0:38.0,26-20,Chicago,0,0.0
+36289,79,B. Portis misses 3-pt jump shot from 26 ft,0:30.0,26-20,Milwaukee,0,0.0
+36290,79,Defensive rebound by P. Williams,0:27.0,26-20,Chicago,0,0.0
+36291,79,J. Green misses 2-pt jump shot from 7 ft,0:03.0,26-20,Chicago,0,0.0
+36292,79,Offensive rebound by T. Thompson,0:02.0,26-20,Chicago,0,0.0
+36293,79,T. Thompson misses 2-pt layup at rim,0:00.0,26-20,Chicago,0,0.0
+36294,79,Defensive rebound by J. Holiday,0:00.0,26-20,Milwaukee,0,0.0
+36295,79,P. Williams misses 3-pt jump shot from 26 ft,11:41.0,26-20,Chicago,0,0.0
+36296,79,Defensive rebound by G. Allen,11:36.0,26-20,Milwaukee,0,0.0
+36297,79,G. Hill makes 2-pt jump shot from 20 ft (assist by P. Connaughton),11:19.0,28-20,Milwaukee,0,0.0
+36298,79,C. White misses 3-pt jump shot from 26 ft,11:01.0,28-20,Chicago,0,0.0
+36299,79,Offensive rebound by J. Green,10:57.0,28-20,Chicago,0,0.0
+36300,79,P. Williams misses 3-pt jump shot from 23 ft,10:43.0,28-20,Chicago,0,0.0
+36301,79,Defensive rebound by P. Connaughton,10:38.0,28-20,Milwaukee,0,0.0
+36302,79,J. Holiday misses 3-pt jump shot from 27 ft,10:35.0,28-20,Milwaukee,0,0.0
+36303,79,Defensive rebound by Team,10:34.0,28-20,Chicago,0,0.0
+36304,79,D. DeRozan misses 2-pt jump shot from 18 ft,10:18.0,28-20,Chicago,0,0.0
+36305,79,Defensive rebound by P. Connaughton,10:14.0,28-20,Milwaukee,0,0.0
+36306,79,G. Allen makes 2-pt layup from 2 ft,10:11.0,30-20,Milwaukee,0,0.0
+36307,79,Shooting foul by P. Williams (drawn by G. Allen),10:11.0,30-20,Milwaukee,0,0.0
+36308,79,G. Allen makes free throw 1 of 1,10:11.0,31-20,Milwaukee,0,0.0
+36309,79,D. DeRozan makes 2-pt jump shot from 5 ft,10:00.0,31-22,Chicago,0,1.0
+36310,79,G. Antetokounmpo makes 3-pt jump shot from 25 ft (assist by J. Holiday),9:49.0,34-22,Milwaukee,0,1.0
+36311,79,D. DeRozan misses 2-pt layup from 1 ft,9:31.0,34-22,Chicago,0,0.0
+36312,79,Offensive rebound by D. DeRozan,9:29.0,34-22,Chicago,0,0.0
+36313,79,J. Green misses 3-pt jump shot from 25 ft,9:24.0,34-22,Chicago,0,0.0
+36314,79,Offensive rebound by P. Williams,9:19.0,34-22,Chicago,0,0.0
+36315,79,P. Williams makes 2-pt jump shot from 20 ft,9:16.0,34-24,Chicago,0,0.0
+36316,79,G. Antetokounmpo makes 2-pt jump shot from 21 ft,9:02.0,36-24,Milwaukee,0,0.0
+36317,79,Offensive foul by D. DeRozan (drawn by G. Hill),8:50.0,36-24,Chicago,0,0.0
+36318,79,Turnover by D. DeRozan (offensive foul),8:50.0,36-24,Chicago,0,0.0
+36319,79,B. Lopez enters the game for P. Connaughton,8:50.0,36-24,Milwaukee,1,0.0
+36320,79,K. Middleton enters the game for G. Hill,8:50.0,36-24,Milwaukee,1,0.0
+36321,79,A. Caruso enters the game for D. DeRozan,8:50.0,36-24,Chicago,0,0.0
+36322,79,A. Dosunmu enters the game for J. Green,8:50.0,36-24,Chicago,0,0.0
+36323,79,N. Vučević enters the game for T. Thompson,8:50.0,36-24,Chicago,0,0.0
+36324,79,J. Holiday misses 2-pt layup from 2 ft,8:41.0,36-24,Milwaukee,0,1.0
+36325,79,Offensive rebound by J. Holiday,8:40.0,36-24,Milwaukee,0,0.0
+36326,79,J. Holiday makes 2-pt layup at rim,8:40.0,38-24,Milwaukee,0,0.0
+36327,79,Chicago full timeout,8:40.0,38-24,Chicago,0,0.0
+36328,79,A. Dosunmu makes 2-pt jump shot from 21 ft (assist by N. Vučević),8:27.0,38-26,Chicago,0,0.0
+36329,79,G. Antetokounmpo misses 2-pt jump shot from 17 ft,8:06.0,38-26,Milwaukee,0,0.0
+36330,79,Offensive rebound by B. Lopez,8:02.0,38-26,Milwaukee,0,0.0
+36331,79,Offensive foul by K. Middleton (drawn by A. Caruso),8:01.0,38-26,Milwaukee,0,0.0
+36332,79,Turnover by K. Middleton (offensive foul),8:01.0,38-26,Milwaukee,0,0.0
+36333,79,Turnover by C. White (bad pass; steal by K. Middleton),7:42.0,38-26,Chicago,0,0.0
+36334,79,B. Portis enters the game for B. Lopez,7:42.0,38-26,Milwaukee,1,0.0
+36335,79,K. Middleton makes 2-pt dunk from 1 ft (assist by J. Holiday),7:17.0,40-26,Milwaukee,0,1.0
+36336,79,A. Caruso misses 3-pt jump shot from 27 ft,6:52.0,40-26,Chicago,0,1.0
+36337,79,Defensive rebound by G. Antetokounmpo,6:49.0,40-26,Milwaukee,0,0.0
+36338,79,G. Allen misses 3-pt jump shot from 22 ft,6:45.0,40-26,Milwaukee,0,0.0
+36339,79,Defensive rebound by A. Dosunmu,6:45.0,40-26,Chicago,0,0.0
+36340,79,N. Vučević misses 2-pt jump shot from 9 ft (block by J. Holiday),6:30.0,40-26,Chicago,0,0.0
+36341,79,Offensive rebound by N. Vučević,6:27.0,40-26,Chicago,0,0.0
+36342,79,N. Vučević misses 3-pt jump shot from 23 ft,6:26.0,40-26,Chicago,0,0.0
+36343,79,Defensive rebound by J. Holiday,6:24.0,40-26,Milwaukee,0,0.0
+36344,79,Personal foul by N. Vučević (drawn by G. Antetokounmpo),6:11.0,40-26,Milwaukee,0,0.0
+36345,79,B. Lopez enters the game for G. Allen,6:11.0,40-26,Milwaukee,1,0.0
+36346,79,W. Matthews enters the game for G. Antetokounmpo,6:11.0,40-26,Milwaukee,1,0.0
+36347,79,D. DeRozan enters the game for C. White,6:11.0,40-26,Chicago,0,1.0
+36348,79,J. Green enters the game for P. Williams,6:11.0,40-26,Chicago,0,0.0
+36349,79,K. Middleton misses 3-pt jump shot from 25 ft,6:04.0,40-26,Milwaukee,0,0.0
+36350,79,Defensive rebound by J. Green,6:01.0,40-26,Chicago,0,0.0
+36351,79,A. Dosunmu misses 2-pt jump shot from 17 ft,5:54.0,40-26,Chicago,0,0.0
+36352,79,Defensive rebound by B. Portis,5:50.0,40-26,Milwaukee,0,0.0
+36353,79,B. Lopez makes 2-pt layup from 1 ft (assist by J. Holiday),5:39.0,42-26,Milwaukee,0,0.0
+36354,79,N. Vučević misses 2-pt jump shot from 19 ft,5:25.0,42-26,Chicago,0,0.0
+36355,79,Offensive rebound by A. Caruso,5:20.0,42-26,Chicago,0,0.0
+36356,79,D. DeRozan makes 2-pt jump shot from 16 ft (assist by J. Green),5:13.0,42-28,Chicago,0,0.0
+36357,79,G. Hill enters the game for J. Holiday,5:13.0,42-28,Milwaukee,1,0.0
+36358,79,B. Portis makes 2-pt jump shot from 17 ft (assist by K. Middleton),4:48.0,44-28,Milwaukee,0,0.0
+36359,79,D. DeRozan makes 2-pt jump shot from 12 ft,4:33.0,44-30,Chicago,0,0.0
+36360,79,Personal foul by A. Caruso (drawn by K. Middleton),4:25.0,44-30,Milwaukee,0,0.0
+36361,79,B. Portis misses 3-pt jump shot from 23 ft,4:18.0,44-30,Milwaukee,0,0.0
+36362,79,Defensive rebound by A. Dosunmu,4:15.0,44-30,Chicago,0,0.0
+36363,79,J. Green misses 2-pt layup from 1 ft,4:10.0,44-30,Chicago,0,0.0
+36364,79,Defensive rebound by B. Lopez,4:08.0,44-30,Milwaukee,0,0.0
+36365,79,W. Matthews makes 3-pt jump shot from 24 ft (assist by B. Portis),4:04.0,47-30,Milwaukee,0,0.0
+36366,79,Chicago full timeout,4:04.0,47-30,Chicago,0,0.0
+36367,79,Technical foul by B. Portis,4:04.0,47-30,Milwaukee,0,1.0
+36368,79,D. DeRozan makes technical free throw,4:04.0,47-31,Chicago,0,0.0
+36369,79,D. Jones enters the game for A. Caruso,4:04.0,47-31,Chicago,0,0.0
+36370,79,C. White enters the game for J. Green,4:04.0,47-31,Chicago,0,0.0
+36371,79,Turnover by A. Dosunmu (bad pass; steal by K. Middleton),3:52.0,47-31,Chicago,0,0.0
+36372,79,B. Lopez makes 2-pt dunk at rim (assist by K. Middleton),3:48.0,49-31,Milwaukee,0,0.0
+36373,79,D. Jones makes 3-pt jump shot from 23 ft (assist by D. DeRozan),3:24.0,49-34,Chicago,0,0.0
+36374,79,K. Middleton makes 3-pt jump shot from 27 ft,3:10.0,52-34,Milwaukee,0,0.0
+36375,79,Offensive foul by N. Vučević (drawn by W. Matthews),2:55.0,52-34,Chicago,0,0.0
+36376,79,Turnover by N. Vučević (offensive foul),2:55.0,52-34,Chicago,0,0.0
+36377,79,G. Antetokounmpo enters the game for B. Lopez,2:55.0,52-34,Milwaukee,1,0.0
+36378,79,P. Williams enters the game for A. Dosunmu,2:55.0,52-34,Chicago,0,0.0
+36379,79,K. Middleton misses 2-pt jump shot from 20 ft,2:42.0,52-34,Milwaukee,0,0.0
+36380,79,Defensive rebound by D. DeRozan,2:40.0,52-34,Chicago,0,1.0
+36381,79,Personal foul by B. Portis (drawn by N. Vučević),2:28.0,52-34,Chicago,0,0.0
+36382,79,P. Williams makes 2-pt jump shot from 15 ft (assist by N. Vučević),2:21.0,52-36,Chicago,0,0.0
+36383,79,B. Portis makes 2-pt layup from 2 ft (assist by G. Antetokounmpo),2:09.0,54-36,Milwaukee,0,1.0
+36384,79,D. Jones misses 3-pt jump shot from 23 ft,1:54.0,54-36,Chicago,0,1.0
+36385,79,Offensive rebound by P. Williams,1:50.0,54-36,Chicago,0,0.0
+36386,79,N. Vučević misses 2-pt jump shot from 8 ft,1:42.0,54-36,Chicago,0,0.0
+36387,79,Defensive rebound by B. Portis,1:40.0,54-36,Milwaukee,0,0.0
+36388,79,Offensive foul by K. Middleton (drawn by D. Jones),1:34.0,54-36,Milwaukee,0,0.0
+36389,79,Turnover by K. Middleton (offensive foul),1:34.0,54-36,Milwaukee,0,0.0
+36390,79,J. Holiday enters the game for K. Middleton,1:34.0,54-36,Milwaukee,1,0.0
+36391,79,D. DeRozan makes 2-pt layup at rim,1:27.0,54-38,Chicago,0,1.0
+36392,79,Shooting foul by G. Antetokounmpo (drawn by D. DeRozan),1:27.0,54-38,Chicago,0,0.0
+36393,79,G. Allen enters the game for G. Antetokounmpo,1:27.0,54-38,Milwaukee,1,0.0
+36394,79,B. Lopez enters the game for G. Hill,1:27.0,54-38,Milwaukee,1,0.0
+36395,79,D. DeRozan makes free throw 1 of 1,1:27.0,54-39,Chicago,0,0.0
+36396,79,B. Lopez misses 2-pt layup from 6 ft,1:11.0,54-39,Milwaukee,0,0.0
+36397,79,Defensive rebound by C. White,1:10.0,54-39,Chicago,0,0.0
+36398,79,D. DeRozan makes 2-pt jump shot from 19 ft (assist by C. White),1:02.0,54-41,Chicago,0,0.0
+36399,79,Shooting foul by D. DeRozan (drawn by G. Allen),0:47.0,54-41,Milwaukee,0,0.0
+36400,79,G. Allen makes free throw 1 of 2,0:47.0,55-41,Milwaukee,0,1.0
+36401,79,G. Hill enters the game for B. Portis,0:47.0,55-41,Milwaukee,1,0.0
+36402,79,G. Allen makes free throw 2 of 2,0:47.0,56-41,Milwaukee,0,0.0
+36403,79,N. Vučević misses 3-pt jump shot from 22 ft,0:37.0,56-41,Chicago,0,0.0
+36404,79,Offensive rebound by D. Jones,0:33.0,56-41,Chicago,0,0.0
+36405,79,D. DeRozan makes 2-pt jump shot from 15 ft (assist by D. Jones),0:32.0,56-43,Chicago,0,0.0
+36406,79,B. Lopez misses 3-pt jump shot from 27 ft,0:18.0,56-43,Milwaukee,0,0.0
+36407,79,Offensive rebound by Team,0:17.0,56-43,Milwaukee,0,0.0
+36408,79,Loose ball foul by D. DeRozan (drawn by W. Matthews),0:17.0,56-43,Chicago,0,0.0
+36409,79,W. Matthews makes free throw 1 of 2,0:17.0,57-43,Milwaukee,0,0.0
+36410,79,P. Connaughton enters the game for G. Allen,0:17.0,57-43,Milwaukee,1,0.0
+36411,79,W. Matthews makes free throw 2 of 2,0:17.0,58-43,Milwaukee,0,0.0
+36412,79,N. Vučević makes 3-pt jump shot from 23 ft (assist by D. DeRozan),0:00.0,58-46,Chicago,0,0.0
+36413,79,D. DeRozan makes 2-pt jump shot from 11 ft (assist by N. Vučević),11:42.0,58-48,Chicago,0,0.0
+36414,79,K. Middleton makes 2-pt jump shot from 21 ft,11:32.0,60-48,Milwaukee,0,0.0
+36415,79,N. Vučević misses 2-pt jump shot from 17 ft,11:20.0,60-48,Chicago,0,0.0
+36416,79,Defensive rebound by G. Antetokounmpo,11:18.0,60-48,Milwaukee,0,0.0
+36417,79,K. Middleton misses 3-pt jump shot from 23 ft,11:09.0,60-48,Milwaukee,0,0.0
+36418,79,Offensive rebound by G. Antetokounmpo,11:04.0,60-48,Milwaukee,0,0.0
+36419,79,G. Antetokounmpo misses 2-pt layup from 1 ft,11:02.0,60-48,Milwaukee,0,0.0
+36420,79,Offensive rebound by Team,11:02.0,60-48,Milwaukee,0,0.0
+36421,79,K. Middleton misses 3-pt jump shot from 23 ft,10:47.0,60-48,Milwaukee,0,0.0
+36422,79,Defensive rebound by A. Dosunmu,10:43.0,60-48,Chicago,0,0.0
+36423,79,A. Dosunmu misses 2-pt layup from 2 ft,10:39.0,60-48,Chicago,0,0.0
+36424,79,Defensive rebound by B. Lopez,10:38.0,60-48,Milwaukee,0,0.0
+36425,79,G. Antetokounmpo makes 2-pt layup at rim,10:31.0,62-48,Milwaukee,0,0.0
+36426,79,Chicago full timeout,10:31.0,62-48,Chicago,0,0.0
+36427,79,D. DeRozan misses 2-pt jump shot from 18 ft,10:19.0,62-48,Chicago,0,0.0
+36428,79,Defensive rebound by G. Antetokounmpo,10:16.0,62-48,Milwaukee,0,0.0
+36429,79,B. Lopez makes 3-pt jump shot from 26 ft (assist by G. Antetokounmpo),10:06.0,65-48,Milwaukee,0,0.0
+36430,79,A. Caruso misses 3-pt jump shot from 25 ft,9:46.0,65-48,Chicago,0,0.0
+36431,79,Defensive rebound by G. Antetokounmpo,9:43.0,65-48,Milwaukee,0,0.0
+36432,79,B. Lopez makes 2-pt layup from 1 ft (assist by G. Antetokounmpo),9:34.0,67-48,Milwaukee,0,0.0
+36433,79,N. Vučević misses 2-pt layup from 2 ft (block by B. Lopez),9:14.0,67-48,Chicago,0,0.0
+36434,79,Defensive rebound by W. Matthews,9:11.0,67-48,Milwaukee,0,0.0
+36435,79,G. Antetokounmpo misses 2-pt jump shot from 7 ft,9:07.0,67-48,Milwaukee,0,0.0
+36436,79,Defensive rebound by A. Dosunmu,9:05.0,67-48,Chicago,0,0.0
+36437,79,P. Williams makes 3-pt jump shot from 25 ft (assist by A. Caruso),9:00.0,67-51,Chicago,0,0.0
+36438,79,B. Lopez misses 3-pt jump shot from 27 ft,8:42.0,67-51,Milwaukee,0,0.0
+36439,79,Offensive rebound by G. Antetokounmpo,8:40.0,67-51,Milwaukee,0,0.0
+36440,79,Shooting foul by A. Caruso (drawn by B. Lopez),8:39.0,67-51,Milwaukee,0,0.0
+36441,79,B. Lopez makes free throw 1 of 2,8:39.0,68-51,Milwaukee,0,0.0
+36442,79,B. Lopez makes free throw 2 of 2,8:39.0,69-51,Milwaukee,0,1.0
+36443,79,Shooting foul by G. Antetokounmpo (drawn by D. DeRozan),8:27.0,69-51,Chicago,0,0.0
+36444,79,D. DeRozan makes free throw 1 of 2,8:27.0,69-52,Chicago,0,0.0
+36445,79,C. White enters the game for A. Caruso,8:27.0,69-52,Chicago,0,0.0
+36446,79,D. DeRozan makes free throw 2 of 2,8:27.0,69-53,Chicago,0,0.0
+36447,79,W. Matthews makes 3-pt jump shot from 23 ft (assist by G. Antetokounmpo),8:14.0,72-53,Milwaukee,0,0.0
+36448,79,N. Vučević misses 3-pt jump shot from 23 ft,7:58.0,72-53,Chicago,0,0.0
+36449,79,Defensive rebound by G. Antetokounmpo,7:55.0,72-53,Milwaukee,0,0.0
+36450,79,Shooting foul by N. Vučević (drawn by B. Lopez),7:48.0,72-53,Milwaukee,0,0.0
+36451,79,B. Lopez makes free throw 1 of 2,7:48.0,73-53,Milwaukee,0,0.0
+36452,79,B. Portis enters the game for G. Antetokounmpo,7:48.0,73-53,Milwaukee,1,0.0
+36453,79,J. Green enters the game for A. Dosunmu,7:48.0,73-53,Chicago,0,0.0
+36454,79,B. Lopez makes free throw 2 of 2,7:48.0,74-53,Milwaukee,0,0.0
+36455,79,C. White misses 3-pt jump shot from 25 ft,7:39.0,74-53,Chicago,0,0.0
+36456,79,Offensive rebound by Team,7:37.0,74-53,Chicago,0,0.0
+36457,79,Loose ball foul by K. Middleton (drawn by P. Williams),7:37.0,74-53,Milwaukee,0,0.0
+36458,79,N. Vučević misses 2-pt layup from 2 ft (block by B. Lopez),7:31.0,74-53,Chicago,0,0.0
+36459,79,Defensive rebound by B. Lopez,7:29.0,74-53,Milwaukee,0,0.0
+36460,79,K. Middleton misses 3-pt jump shot from 22 ft,7:22.0,74-53,Milwaukee,0,0.0
+36461,79,Defensive rebound by J. Green,7:19.0,74-53,Chicago,0,0.0
+36462,79,D. DeRozan makes 2-pt jump shot from 6 ft,7:14.0,74-55,Chicago,0,0.0
+36463,79,Shooting foul by W. Matthews (drawn by D. DeRozan),7:14.0,74-55,Chicago,0,0.0
+36464,79,T. Thompson enters the game for N. Vučević,7:14.0,74-55,Chicago,0,1.0
+36465,79,D. DeRozan makes free throw 1 of 1,7:14.0,74-56,Chicago,0,0.0
+36466,79,K. Middleton misses 2-pt jump shot from 19 ft,7:00.0,74-56,Milwaukee,0,0.0
+36467,79,Offensive rebound by B. Portis,6:54.0,74-56,Milwaukee,0,0.0
+36468,79,B. Portis makes 2-pt layup at rim,6:54.0,76-56,Milwaukee,0,0.0
+36469,79,C. White makes 3-pt jump shot from 24 ft (assist by D. DeRozan),6:44.0,76-59,Chicago,0,0.0
+36470,79,J. Holiday misses 2-pt layup from 3 ft,6:34.0,76-59,Milwaukee,0,0.0
+36471,79,Defensive rebound by T. Thompson,6:32.0,76-59,Chicago,0,0.0
+36472,79,D. DeRozan makes 2-pt jump shot from 16 ft,6:21.0,76-61,Chicago,0,0.0
+36473,79,Milwaukee full timeout,6:07.0,76-61,Milwaukee,0,0.0
+36474,79,G. Allen enters the game for K. Middleton,6:07.0,76-61,Milwaukee,1,0.0
+36475,79,D. Jones enters the game for P. Williams,6:07.0,76-61,Chicago,0,0.0
+36476,79,Turnover by W. Matthews (bad pass; steal by J. Green),5:49.0,76-61,Milwaukee,0,0.0
+36477,79,Offensive foul by D. DeRozan (drawn by W. Matthews),5:42.0,76-61,Chicago,0,0.0
+36478,79,Turnover by D. DeRozan (offensive foul),5:42.0,76-61,Chicago,0,1.0
+36479,79,B. Lopez makes 2-pt layup from 1 ft (assist by J. Holiday),5:27.0,78-61,Milwaukee,0,1.0
+36480,79,J. Green makes 3-pt jump shot from 23 ft (assist by D. Jones),5:10.0,78-64,Chicago,0,0.0
+36481,79,J. Holiday makes 2-pt jump shot from 9 ft,4:53.0,80-64,Milwaukee,0,0.0
+36482,79,C. White makes 2-pt layup from 1 ft,4:31.0,80-66,Chicago,0,0.0
+36483,79,J. Holiday misses 2-pt jump shot from 11 ft,4:20.0,80-66,Milwaukee,0,1.0
+36484,79,Defensive rebound by T. Thompson,4:17.0,80-66,Chicago,0,0.0
+36485,79,D. DeRozan makes 2-pt jump shot from 15 ft,4:10.0,80-68,Chicago,0,0.0
+36486,79,J. Holiday makes 2-pt layup at rim,3:51.0,82-68,Milwaukee,0,0.0
+36487,79,Turnover by C. White (bad pass),3:36.0,82-68,Chicago,0,0.0
+36488,79,G. Antetokounmpo enters the game for B. Lopez,3:36.0,82-68,Milwaukee,1,0.0
+36489,79,K. Middleton enters the game for W. Matthews,3:36.0,82-68,Milwaukee,1,0.0
+36490,79,B. Portis makes 2-pt jump shot from 7 ft (assist by J. Holiday),3:23.0,84-68,Milwaukee,0,0.0
+36491,79,Shooting foul by J. Holiday (drawn by D. DeRozan),3:09.0,84-68,Chicago,0,0.0
+36492,79,D. DeRozan makes free throw 1 of 2,3:09.0,84-69,Chicago,0,0.0
+36493,79,G. Hill enters the game for J. Holiday,3:09.0,84-69,Milwaukee,1,0.0
+36494,79,P. Williams enters the game for J. Green,3:09.0,84-69,Chicago,0,0.0
+36495,79,D. DeRozan makes free throw 2 of 2,3:09.0,84-70,Chicago,0,0.0
+36496,79,G. Antetokounmpo makes 2-pt dunk from 1 ft (assist by K. Middleton),2:55.0,86-70,Milwaukee,0,0.0
+36497,79,D. Jones makes 3-pt jump shot from 23 ft (assist by D. DeRozan),2:42.0,86-73,Chicago,0,0.0
+36498,79,G. Antetokounmpo misses 2-pt layup from 1 ft (block by T. Thompson),2:32.0,86-73,Milwaukee,0,0.0
+36499,79,Defensive rebound by T. Thompson,2:28.0,86-73,Chicago,0,0.0
+36500,79,D. DeRozan makes 2-pt layup at rim,2:24.0,86-75,Chicago,0,0.0
+36501,79,Shooting foul by K. Middleton (drawn by D. DeRozan),2:24.0,86-75,Chicago,0,0.0
+36502,79,D. DeRozan makes free throw 1 of 1,2:24.0,86-76,Chicago,0,0.0
+36503,79,Milwaukee full timeout,2:19.0,86-76,Milwaukee,0,1.0
+36504,79,G. Antetokounmpo makes 2-pt hook shot from 5 ft (assist by G. Hill),2:05.0,88-76,Milwaukee,0,0.0
+36505,79,C. White misses 2-pt jump shot from 7 ft,1:37.0,88-76,Chicago,0,0.0
+36506,79,Offensive rebound by T. Thompson,1:37.0,88-76,Chicago,0,0.0
+36507,79,T. Thompson makes 2-pt layup at rim,1:37.0,88-78,Chicago,0,0.0
+36508,79,Violation by Team (def goaltending),1:37.0,88-78,Milwaukee,0,0.0
+36509,79,B. Portis makes 3-pt jump shot from 28 ft (assist by G. Antetokounmpo),1:25.0,91-78,Milwaukee,0,0.0
+36510,79,D. DeRozan makes 2-pt layup from 1 ft,1:09.0,91-80,Chicago,0,0.0
+36511,79,Shooting foul by T. Thompson (drawn by G. Antetokounmpo),0:57.0,91-80,Milwaukee,0,0.0
+36512,79,G. Antetokounmpo makes free throw 1 of 2,0:57.0,92-80,Milwaukee,0,0.0
+36513,79,J. Holiday enters the game for K. Middleton,0:57.0,92-80,Milwaukee,1,0.0
+36514,79,G. Antetokounmpo makes free throw 2 of 2,0:57.0,93-80,Milwaukee,0,0.0
+36515,79,C. White misses 2-pt jump shot from 19 ft,0:33.0,93-80,Chicago,0,0.0
+36516,79,Defensive rebound by G. Hill,0:30.0,93-80,Milwaukee,0,0.0
+36517,79,J. Holiday makes 3-pt jump shot from 30 ft (assist by G. Antetokounmpo),0:24.0,96-80,Milwaukee,0,0.0
+36518,79,D. DeRozan makes 2-pt jump shot from 22 ft,0:05.0,96-82,Chicago,0,0.0
+36519,79,G. Antetokounmpo misses 3-pt jump shot from 27 ft,0:00.0,96-82,Milwaukee,0,0.0
+36520,79,Offensive rebound by Team,0:00.0,96-82,Milwaukee,0,0.0
+36521,79,G. Antetokounmpo makes 2-pt layup from 3 ft (assist by J. Holiday),11:47.0,98-82,Milwaukee,0,0.0
+36522,79,A. Caruso misses 3-pt jump shot from 23 ft,11:21.0,98-82,Chicago,0,0.0
+36523,79,Defensive rebound by G. Antetokounmpo,11:16.0,98-82,Milwaukee,0,0.0
+36524,79,Shooting foul by N. Vučević (drawn by G. Antetokounmpo),11:13.0,98-82,Milwaukee,0,0.0
+36525,79,G. Antetokounmpo misses free throw 1 of 2,11:13.0,98-82,Milwaukee,0,0.0
+36526,79,Offensive rebound by Team,11:13.0,98-82,Milwaukee,0,0.0
+36527,79,G. Antetokounmpo misses free throw 2 of 2,11:13.0,98-82,Milwaukee,0,0.0
+36528,79,Defensive rebound by N. Vučević,11:09.0,98-82,Chicago,0,0.0
+36529,79,P. Williams makes 3-pt jump shot from 23 ft (assist by A. Caruso),10:58.0,98-85,Chicago,0,0.0
+36530,79,G. Antetokounmpo misses 2-pt jump shot from 21 ft,10:47.0,98-85,Milwaukee,0,0.0
+36531,79,Defensive rebound by D. Jones,10:44.0,98-85,Chicago,0,1.0
+36532,79,N. Vučević makes 2-pt hook shot from 9 ft (assist by A. Caruso),10:31.0,98-87,Chicago,0,0.0
+36533,79,G. Antetokounmpo makes 2-pt layup at rim (assist by J. Holiday),10:21.0,100-87,Milwaukee,0,0.0
+36534,79,Shooting foul by P. Williams (drawn by G. Antetokounmpo),10:21.0,100-87,Milwaukee,0,0.0
+36535,79,Technical foul by A. Caruso,10:21.0,100-87,Chicago,0,0.0
+36536,79,G. Hill makes technical free throw,10:21.0,101-87,Milwaukee,0,0.0
+36537,79,G. Antetokounmpo makes free throw 1 of 1,10:21.0,102-87,Milwaukee,0,0.0
+36538,79,D. Jones misses 3-pt jump shot from 23 ft,10:00.0,102-87,Chicago,0,0.0
+36539,79,Offensive rebound by Team,10:00.0,102-87,Chicago,0,0.0
+36540,79,Loose ball foul by G. Antetokounmpo (drawn by N. Vučević),10:00.0,102-87,Milwaukee,0,1.0
+36541,79,B. Lopez enters the game for G. Antetokounmpo,10:00.0,102-87,Milwaukee,1,0.0
+36542,79,N. Vučević misses 2-pt layup from 2 ft,9:56.0,102-87,Chicago,0,0.0
+36543,79,Offensive rebound by P. Williams,9:54.0,102-87,Chicago,0,0.0
+36544,79,Turnover by P. Williams (lost ball; steal by B. Lopez),9:54.0,102-87,Chicago,0,0.0
+36545,79,Offensive foul by B. Lopez (drawn by P. Williams),9:49.0,102-87,Milwaukee,0,0.0
+36546,79,Turnover by B. Lopez (offensive foul),9:49.0,102-87,Milwaukee,0,0.0
+36547,79,Instant Replay (Request: Ruling Stands),9:49.0,102-87,Milwaukee,0,0.0
+36548,79,Technical foul by N. Vučević,9:49.0,102-87,Chicago,0,0.0
+36549,79,G. Allen makes technical free throw,9:49.0,103-87,Milwaukee,0,1.0
+36550,79,K. Middleton enters the game for G. Hill,9:49.0,103-87,Milwaukee,1,0.0
+36551,79,N. Vučević misses 2-pt layup from 1 ft,9:37.0,103-87,Chicago,0,0.0
+36552,79,Defensive rebound by J. Holiday,9:35.0,103-87,Milwaukee,0,0.0
+36553,79,Turnover by J. Holiday (bad pass; steal by D. Jones),9:29.0,103-87,Milwaukee,0,0.0
+36554,79,Loose ball foul by P. Connaughton (drawn by D. Jones),9:28.0,103-87,Milwaukee,0,0.0
+36555,79,N. Vučević misses 2-pt jump shot from 16 ft,9:21.0,103-87,Chicago,0,0.0
+36556,79,Defensive rebound by B. Lopez,9:17.0,103-87,Milwaukee,0,0.0
+36557,79,J. Holiday misses 2-pt layup from 2 ft,9:05.0,103-87,Milwaukee,0,0.0
+36558,79,Defensive rebound by C. White,9:02.0,103-87,Chicago,0,0.0
+36559,79,B. Portis enters the game for G. Allen,9:02.0,103-87,Milwaukee,1,0.0
+36560,79,D. DeRozan enters the game for N. Vučević,9:02.0,103-87,Chicago,0,0.0
+36561,79,J. Green enters the game for P. Williams,9:02.0,103-87,Chicago,0,0.0
+36562,79,D. DeRozan misses 2-pt jump shot from 15 ft,8:47.0,103-87,Chicago,0,0.0
+36563,79,Defensive rebound by B. Portis,8:46.0,103-87,Milwaukee,0,0.0
+36564,79,Personal foul by D. Jones (drawn by B. Lopez),8:42.0,103-87,Milwaukee,0,0.0
+36565,79,K. Middleton makes 2-pt jump shot from 15 ft,8:27.0,105-87,Milwaukee,0,0.0
+36566,79,Turnover by D. DeRozan (bad pass; steal by B. Lopez),8:10.0,105-87,Chicago,0,0.0
+36567,79,Turnover by J. Holiday (bad pass; steal by J. Green),8:04.0,105-87,Milwaukee,0,1.0
+36568,79,J. Green makes 2-pt layup from 2 ft (assist by D. DeRozan),7:56.0,105-89,Chicago,0,0.0
+36569,79,K. Middleton makes 3-pt jump shot from 25 ft (assist by J. Holiday),7:38.0,108-89,Milwaukee,0,0.0
+36570,79,C. White makes 2-pt layup from 3 ft (assist by A. Caruso),7:17.0,108-91,Chicago,0,0.0
+36571,79,J. Holiday misses 3-pt jump shot from 26 ft,7:06.0,108-91,Milwaukee,0,0.0
+36572,79,Offensive rebound by Team,7:05.0,108-91,Milwaukee,0,0.0
+36573,79,Loose ball foul by D. DeRozan (drawn by B. Portis),7:05.0,108-91,Chicago,0,0.0
+36574,79,T. Thompson enters the game for D. Jones,7:05.0,108-91,Chicago,0,0.0
+36575,79,Turnover by K. Middleton (lost ball),7:01.0,108-91,Milwaukee,0,1.0
+36576,79,Loose ball foul by K. Middleton (drawn by J. Green),7:01.0,108-91,Milwaukee,0,0.0
+36577,79,W. Matthews enters the game for K. Middleton,7:01.0,108-91,Milwaukee,1,0.0
+36578,79,T. Thompson makes 2-pt hook shot from 4 ft (assist by A. Caruso),6:48.0,108-93,Chicago,0,0.0
+36579,79,B. Portis misses 3-pt jump shot from 28 ft,6:31.0,108-93,Milwaukee,0,0.0
+36580,79,Defensive rebound by C. White,6:27.0,108-93,Chicago,0,0.0
+36581,79,C. White misses 3-pt jump shot from 26 ft,6:19.0,108-93,Chicago,0,0.0
+36582,79,Offensive rebound by D. DeRozan,6:17.0,108-93,Chicago,0,0.0
+36583,79,Shooting foul by B. Portis (drawn by J. Green),6:16.0,108-93,Chicago,0,0.0
+36584,79,Chicago full timeout,6:16.0,108-93,Chicago,0,0.0
+36585,79,G. Allen enters the game for P. Connaughton,6:16.0,108-93,Milwaukee,1,0.0
+36586,79,J. Green makes free throw 1 of 2,6:16.0,108-94,Chicago,0,0.0
+36587,79,J. Green makes free throw 2 of 2,6:16.0,108-95,Chicago,0,0.0
+36588,79,B. Lopez makes 2-pt layup from 2 ft (assist by J. Holiday),5:56.0,110-95,Milwaukee,0,0.0
+36589,79,Shooting foul by J. Green (drawn by B. Lopez),5:56.0,110-95,Milwaukee,0,0.0
+36590,79,B. Lopez makes free throw 1 of 1,5:56.0,111-95,Milwaukee,0,0.0
+36591,79,A. Caruso misses 3-pt jump shot from 23 ft,5:40.0,111-95,Chicago,0,1.0
+36592,79,Defensive rebound by Team,5:38.0,111-95,Milwaukee,0,1.0
+36593,79,Loose ball foul by T. Thompson (drawn by B. Lopez),5:38.0,111-95,Chicago,0,0.0
+36594,79,B. Lopez makes free throw 1 of 2,5:38.0,112-95,Milwaukee,0,0.0
+36595,79,D. Jones enters the game for J. Green,5:38.0,112-95,Chicago,0,0.0
+36596,79,B. Lopez makes free throw 2 of 2,5:38.0,113-95,Milwaukee,0,0.0
+36597,79,A. Caruso misses 2-pt jump shot from 9 ft (block by G. Allen),5:20.0,113-95,Chicago,0,0.0
+36598,79,Defensive rebound by J. Holiday,5:17.0,113-95,Milwaukee,0,0.0
+36599,79,W. Matthews makes 3-pt jump shot from 23 ft (assist by G. Allen),5:14.0,116-95,Milwaukee,0,0.0
+36600,79,Chicago full timeout,5:11.0,116-95,Chicago,0,0.0
+36601,79,P. Connaughton enters the game for J. Holiday,5:11.0,116-95,Milwaukee,1,0.0
+36602,79,G. Hill enters the game for W. Matthews,5:11.0,116-95,Milwaukee,1,0.0
+36603,79,T. Brown enters the game for A. Caruso,5:11.0,116-95,Chicago,0,0.0
+36604,79,A. Dosunmu enters the game for D. DeRozan,5:11.0,116-95,Chicago,0,0.0
+36605,79,P. Williams enters the game for C. White,5:11.0,116-95,Chicago,0,1.0
+36606,79,P. Williams makes 2-pt jump shot from 8 ft (assist by A. Dosunmu),4:55.0,116-97,Chicago,0,0.0
+36607,79,B. Portis misses 2-pt jump shot from 17 ft,4:34.0,116-97,Milwaukee,0,0.0
+36608,79,Offensive rebound by P. Connaughton,4:30.0,116-97,Milwaukee,0,0.0
+36609,79,P. Connaughton misses 3-pt jump shot from 27 ft,4:28.0,116-97,Milwaukee,0,0.0
+36610,79,Offensive rebound by G. Allen,4:25.0,116-97,Milwaukee,0,1.0
+36611,79,Shooting foul by T. Thompson (drawn by B. Lopez),4:20.0,116-97,Milwaukee,0,1.0
+36612,79,Milwaukee full timeout,4:20.0,116-97,Milwaukee,0,1.0
+36613,79,Instant Replay (Challenge: Ruling Stands),4:20.0,116-97,Milwaukee,0,0.0
+36614,79,B. Lopez makes free throw 1 of 2,4:20.0,117-97,Milwaukee,0,0.0
+36615,79,S. Mamukelashvili enters the game for B. Portis,4:20.0,117-97,Milwaukee,1,0.0
+36616,79,B. Lopez makes free throw 2 of 2,4:20.0,118-97,Milwaukee,0,0.0
+36617,79,A. Dosunmu misses 2-pt jump shot from 5 ft (block by B. Lopez),4:07.0,118-97,Chicago,0,0.0
+36618,79,Defensive rebound by G. Hill,4:05.0,118-97,Milwaukee,0,0.0
+36619,79,Milwaukee full timeout,4:01.0,118-97,Milwaukee,0,0.0
+36620,79,T. Antetokounmpo enters the game for G. Allen,4:01.0,118-97,Milwaukee,1,0.0
+36621,79,J. Carter enters the game for G. Hill,4:01.0,118-97,Milwaukee,1,0.0
+36622,79,J. Nwora enters the game for B. Lopez,4:01.0,118-97,Milwaukee,1,0.0
+36623,79,S. Mamukelashvili makes 3-pt jump shot from 27 ft (assist by J. Carter),3:54.0,121-97,Milwaukee,0,0.0
+36624,79,Turnover by D. Jones (out of bounds lost ball),3:39.0,121-97,Chicago,0,0.0
+36625,79,T. Bradley enters the game for T. Thompson,3:39.0,121-97,Chicago,0,0.0
+36626,79,J. Nwora misses 3-pt jump shot from 30 ft,3:27.0,121-97,Milwaukee,0,0.0
+36627,79,Defensive rebound by T. Bradley,3:20.0,121-97,Chicago,0,0.0
+36628,79,T. Brown misses 3-pt jump shot from 25 ft,3:10.0,121-97,Chicago,0,0.0
+36629,79,Defensive rebound by P. Connaughton,3:07.0,121-97,Milwaukee,0,0.0
+36630,79,Offensive foul by S. Mamukelashvili (drawn by D. Jones),3:03.0,121-97,Milwaukee,0,0.0
+36631,79,Turnover by S. Mamukelashvili (offensive foul),3:03.0,121-97,Milwaukee,0,0.0
+36632,79,P. Williams makes 2-pt jump shot from 9 ft,2:49.0,121-99,Chicago,0,0.0
+36633,79,J. Nwora misses 2-pt jump shot from 11 ft,2:32.0,121-99,Milwaukee,0,0.0
+36634,79,Defensive rebound by A. Dosunmu,2:30.0,121-99,Chicago,0,0.0
+36635,79,Shooting foul by J. Nwora (drawn by P. Williams),2:29.0,121-99,Chicago,0,0.0
+36636,79,P. Williams makes free throw 1 of 2,2:29.0,121-100,Chicago,0,0.0
+36637,79,P. Williams makes free throw 2 of 2,2:29.0,121-101,Chicago,0,0.0
+36638,79,T. Antetokounmpo misses 2-pt layup from 2 ft,2:13.0,121-101,Milwaukee,0,0.0
+36639,79,Defensive rebound by T. Brown,2:10.0,121-101,Chicago,0,0.0
+36640,79,Turnover by T. Brown (bad pass; steal by S. Mamukelashvili),2:09.0,121-101,Chicago,0,0.0
+36641,79,Turnover by S. Mamukelashvili (bad pass; steal by A. Dosunmu),2:08.0,121-101,Milwaukee,0,0.0
+36642,79,A. Dosunmu makes 2-pt layup at rim,2:06.0,121-103,Chicago,0,0.0
+36643,79,Shooting foul by J. Carter (drawn by A. Dosunmu),2:06.0,121-103,Chicago,0,0.0
+36644,79,J. Green enters the game for P. Williams,2:06.0,121-103,Chicago,0,0.0
+36645,79,A. Dosunmu makes free throw 1 of 1,2:06.0,121-104,Chicago,0,0.0
+36646,79,S. Mamukelashvili misses 3-pt jump shot from 27 ft,1:49.0,121-104,Milwaukee,0,0.0
+36647,79,Defensive rebound by A. Dosunmu,1:45.0,121-104,Chicago,0,0.0
+36648,79,T. Brown misses 2-pt layup from 3 ft (block by J. Carter),1:35.0,121-104,Chicago,0,0.0
+36649,79,Defensive rebound by J. Carter,1:32.0,121-104,Milwaukee,0,0.0
+36650,79,P. Connaughton makes 2-pt layup from 1 ft (assist by T. Antetokounmpo),1:27.0,123-104,Milwaukee,0,0.0
+36651,79,Turnover by A. Dosunmu (bad pass; steal by T. Antetokounmpo),1:12.0,123-104,Chicago,0,0.0
+36652,79,T. Antetokounmpo makes 2-pt dunk from 1 ft,1:11.0,125-104,Milwaukee,0,0.0
+36653,79,T. Bradley makes 2-pt hook shot from 4 ft,0:59.0,125-106,Chicago,0,
+36654,79,P. Connaughton misses 3-pt jump shot from 23 ft (block by D. Jones),0:47.0,125-106,Milwaukee,0,
+36655,79,Defensive rebound by T. Bradley,0:44.0,125-106,Chicago,0,
+36656,79,D. Jones misses 3-pt jump shot from 25 ft (block by P. Connaughton),0:34.0,125-106,Chicago,0,
+36657,79,Offensive rebound by Team,0:34.0,125-106,Chicago,0,
+36658,79,Turnover by A. Dosunmu (lost ball; steal by P. Connaughton),0:27.0,125-106,Chicago,0,
+36659,79,Shooting foul by A. Dosunmu (drawn by J. Nwora),0:24.0,125-106,Milwaukee,0,
+36660,79,J. Nwora makes free throw 1 of 2,0:24.0,126-106,Milwaukee,0,
+36661,79,J. Nwora makes free throw 2 of 2,0:24.0,127-106,Milwaukee,0,
+36662,79,Turnover by Team (shot clock),0:00.0,127-106,Chicago,0,

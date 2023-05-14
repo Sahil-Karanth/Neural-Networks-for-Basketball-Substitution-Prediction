@@ -1,0 +1,478 @@
+,game number,play,time,score,team,current_sub_status,future_sub_status
+26838,59,K. Middleton makes 2-pt layup from 3 ft (assist by J. Holiday),11:49.0,0-2,Milwaukee,0,0.0
+26839,59,J. Smith makes 3-pt jump shot from 28 ft (assist by O. Brissett),11:27.0,3-2,Indiana,0,0.0
+26840,59,K. Middleton makes 2-pt layup from 1 ft,11:18.0,3-4,Milwaukee,0,0.0
+26841,59,Shooting foul by G. Allen (drawn by G. Bitadze),11:09.0,3-4,Indiana,0,0.0
+26842,59,G. Bitadze makes free throw 1 of 2,11:09.0,4-4,Indiana,0,0.0
+26843,59,G. Bitadze makes free throw 2 of 2,11:09.0,5-4,Indiana,0,0.0
+26844,59,G. Antetokounmpo makes 2-pt dunk from 3 ft (assist by G. Allen),10:56.0,5-6,Milwaukee,0,0.0
+26845,59,Shooting foul by K. Middleton (drawn by O. Brissett),10:41.0,5-6,Indiana,0,0.0
+26846,59,O. Brissett misses free throw 1 of 2,10:41.0,5-6,Indiana,0,0.0
+26847,59,Offensive rebound by Team,10:41.0,5-6,Indiana,0,0.0
+26848,59,O. Brissett makes free throw 2 of 2,10:41.0,6-6,Indiana,0,0.0
+26849,59,K. Middleton misses 3-pt jump shot from 27 ft,10:22.0,6-6,Milwaukee,0,0.0
+26850,59,Defensive rebound by J. Smith,10:19.0,6-6,Indiana,0,0.0
+26851,59,B. Hield makes 2-pt jump shot from 12 ft (assist by J. Smith),10:11.0,8-6,Indiana,0,0.0
+26852,59,B. Portis makes 2-pt jump shot from 19 ft (assist by K. Middleton),9:48.0,8-8,Milwaukee,0,0.0
+26853,59,J. Smith misses 2-pt jump shot from 16 ft,9:37.0,8-8,Indiana,0,0.0
+26854,59,Defensive rebound by B. Portis,9:33.0,8-8,Milwaukee,0,0.0
+26855,59,G. Antetokounmpo makes 2-pt dunk from 1 ft,9:32.0,8-10,Milwaukee,0,0.0
+26856,59,J. Smith misses 2-pt jump shot from 8 ft,9:13.0,8-10,Indiana,0,0.0
+26857,59,Defensive rebound by B. Portis,9:10.0,8-10,Milwaukee,0,0.0
+26858,59,B. Portis makes 2-pt jump shot from 5 ft,9:07.0,8-12,Milwaukee,0,0.0
+26859,59,Indiana full timeout,9:06.0,8-12,Indiana,0,0.0
+26860,59,B. Hield makes 2-pt layup from 1 ft,8:44.0,10-12,Indiana,0,0.0
+26861,59,K. Middleton misses 2-pt jump shot from 9 ft,8:31.0,10-12,Milwaukee,0,0.0
+26862,59,Defensive rebound by T. Haliburton,8:27.0,10-12,Indiana,0,0.0
+26863,59,B. Hield misses 3-pt jump shot from 23 ft,8:24.0,10-12,Indiana,0,0.0
+26864,59,Defensive rebound by Team,8:23.0,10-12,Milwaukee,0,0.0
+26865,59,Loose ball foul by J. Smith (drawn by G. Antetokounmpo),8:23.0,10-12,Indiana,0,0.0
+26866,59,G. Allen misses 2-pt jump shot from 6 ft,8:10.0,10-12,Milwaukee,0,0.0
+26867,59,Offensive rebound by G. Antetokounmpo,8:09.0,10-12,Milwaukee,0,1.0
+26868,59,G. Antetokounmpo makes 2-pt dunk at rim,8:09.0,10-14,Milwaukee,0,0.0
+26869,59,O. Brissett misses 3-pt jump shot from 26 ft,7:55.0,10-14,Indiana,0,0.0
+26870,59,Defensive rebound by G. Antetokounmpo,7:52.0,10-14,Milwaukee,0,0.0
+26871,59,G. Allen misses 3-pt jump shot from 26 ft,7:39.0,10-14,Milwaukee,0,0.0
+26872,59,Defensive rebound by J. Smith,7:36.0,10-14,Indiana,0,0.0
+26873,59,B. Hield misses 3-pt jump shot from 24 ft,7:31.0,10-14,Indiana,0,0.0
+26874,59,Defensive rebound by G. Allen,7:28.0,10-14,Milwaukee,0,0.0
+26875,59,K. Middleton makes 2-pt layup from 1 ft (assist by G. Allen),7:25.0,10-16,Milwaukee,0,0.0
+26876,59,Turnover by B. Hield (out of bounds lost ball),7:11.0,10-16,Indiana,0,0.0
+26877,59,S. Ibaka enters the game for K. Middleton,7:11.0,10-16,Milwaukee,1,0.0
+26878,59,B. Portis misses 3-pt jump shot from 23 ft,7:00.0,10-16,Milwaukee,0,0.0
+26879,59,Defensive rebound by J. Smith,6:57.0,10-16,Indiana,0,0.0
+26880,59,J. Smith makes 3-pt jump shot from 24 ft (assist by T. Haliburton),6:39.0,13-16,Indiana,0,1.0
+26881,59,G. Antetokounmpo misses 2-pt jump shot from 12 ft,6:24.0,13-16,Milwaukee,0,1.0
+26882,59,Defensive rebound by J. Smith,6:22.0,13-16,Indiana,0,0.0
+26883,59,O. Brissett misses 2-pt jump shot from 19 ft,6:07.0,13-16,Indiana,0,0.0
+26884,59,Defensive rebound by B. Portis,6:03.0,13-16,Milwaukee,0,0.0
+26885,59,Shooting foul by J. Smith (drawn by G. Antetokounmpo),6:00.0,13-16,Milwaukee,0,0.0
+26886,59,G. Antetokounmpo misses free throw 1 of 2,6:00.0,13-16,Milwaukee,0,0.0
+26887,59,Offensive rebound by Team,6:00.0,13-16,Milwaukee,0,0.0
+26888,59,L. Stephenson enters the game for T. Haliburton,6:00.0,13-16,Indiana,0,0.0
+26889,59,T. Taylor enters the game for J. Smith,6:00.0,13-16,Indiana,0,0.0
+26890,59,J. Nwora enters the game for G. Allen,6:00.0,13-16,Milwaukee,1,0.0
+26891,59,L. Wigginton enters the game for B. Portis,6:00.0,13-16,Milwaukee,1,0.0
+26892,59,G. Antetokounmpo makes free throw 2 of 2,6:00.0,13-17,Milwaukee,0,0.0
+26893,59,Personal foul by S. Ibaka (drawn by G. Bitadze),5:51.0,13-17,Indiana,0,0.0
+26894,59,Turnover by L. Stephenson (bad pass),5:41.0,13-17,Indiana,0,0.0
+26895,59,Def 3 sec tech foul by Team,5:31.0,13-17,Milwaukee,0,0.0
+26896,59,J. Holiday makes technical free throw,5:31.0,13-18,Milwaukee,0,0.0
+26897,59,D. Washington enters the game for B. Hield,5:31.0,13-18,Indiana,0,0.0
+26898,59,L. Wigginton misses 3-pt jump shot from 25 ft,5:21.0,13-18,Milwaukee,0,0.0
+26899,59,Defensive rebound by G. Bitadze,5:18.0,13-18,Indiana,0,0.0
+26900,59,L. Stephenson misses 2-pt jump shot from 10 ft,5:12.0,13-18,Indiana,0,0.0
+26901,59,Defensive rebound by J. Holiday,5:10.0,13-18,Milwaukee,0,0.0
+26902,59,Turnover by G. Antetokounmpo (lost ball; steal by T. Taylor),5:05.0,13-18,Milwaukee,0,0.0
+26903,59,Personal take foul by J. Holiday (drawn by O. Brissett),5:04.0,13-18,Indiana,0,0.0
+26904,59,Instant Replay (Request: Ruling Stands),5:04.0,13-18,Indiana,0,0.0
+26905,59,K. Sykes enters the game for L. Stephenson,5:04.0,13-18,Indiana,0,0.0
+26906,59,G. Bitadze misses 3-pt jump shot from 27 ft,4:58.0,13-18,Indiana,0,0.0
+26907,59,Defensive rebound by G. Antetokounmpo,4:55.0,13-18,Milwaukee,0,0.0
+26908,59,Personal foul by O. Brissett (drawn by J. Holiday),4:48.0,13-18,Milwaukee,0,1.0
+26909,59,L. Stephenson enters the game for O. Brissett,4:48.0,13-18,Indiana,0,0.0
+26910,59,G. Antetokounmpo makes 3-pt jump shot from 26 ft (assist by J. Nwora),4:39.0,13-21,Milwaukee,0,0.0
+26911,59,L. Stephenson makes 2-pt jump shot from 17 ft,4:29.0,15-21,Indiana,0,0.0
+26912,59,J. Nwora misses 2-pt layup from 4 ft,4:15.0,15-21,Milwaukee,0,0.0
+26913,59,Defensive rebound by G. Bitadze,4:13.0,15-21,Indiana,0,0.0
+26914,59,Shooting foul by S. Ibaka (drawn by G. Bitadze),4:07.0,15-21,Indiana,0,0.0
+26915,59,G. Bitadze misses free throw 1 of 2,4:07.0,15-21,Indiana,0,0.0
+26916,59,Offensive rebound by Team,4:07.0,15-21,Indiana,0,1.0
+26917,59,Milwaukee full timeout,4:07.0,15-21,Milwaukee,0,0.0
+26918,59,S. Mamukelashvili enters the game for J. Holiday,4:07.0,15-21,Milwaukee,1,0.0
+26919,59,G. Bitadze makes free throw 2 of 2,4:07.0,16-21,Indiana,0,0.0
+26920,59,Turnover by Team (shot clock),3:42.0,16-21,Milwaukee,0,0.0
+26921,59,T. Thompson enters the game for G. Bitadze,3:42.0,16-21,Indiana,0,0.0
+26922,59,K. Sykes makes 3-pt jump shot from 26 ft (assist by L. Stephenson),3:34.0,19-21,Indiana,0,0.0
+26923,59,Shooting foul by T. Thompson (drawn by G. Antetokounmpo),3:25.0,19-21,Milwaukee,0,0.0
+26924,59,G. Antetokounmpo makes free throw 1 of 2,3:25.0,19-22,Milwaukee,0,0.0
+26925,59,G. Antetokounmpo makes free throw 2 of 2,3:25.0,19-23,Milwaukee,0,0.0
+26926,59,K. Middleton enters the game for S. Mamukelashvili,3:25.0,19-23,Milwaukee,1,0.0
+26927,59,L. Stephenson misses 2-pt jump shot from 9 ft,3:13.0,19-23,Indiana,0,0.0
+26928,59,Offensive rebound by T. Thompson,3:11.0,19-23,Indiana,0,1.0
+26929,59,T. Thompson makes 2-pt layup at rim,3:11.0,21-23,Indiana,0,0.0
+26930,59,S. Ibaka makes 3-pt jump shot from 27 ft (assist by K. Middleton),2:55.0,21-26,Milwaukee,0,0.0
+26931,59,L. Stephenson misses 3-pt jump shot from 26 ft,2:44.0,21-26,Indiana,0,0.0
+26932,59,Defensive rebound by J. Nwora,2:40.0,21-26,Milwaukee,0,0.0
+26933,59,Shooting foul by L. Stephenson (drawn by L. Wigginton),2:38.0,21-26,Milwaukee,0,0.0
+26934,59,L. Wigginton misses free throw 1 of 2,2:38.0,21-26,Milwaukee,0,1.0
+26935,59,Offensive rebound by Team,2:38.0,21-26,Milwaukee,0,0.0
+26936,59,T. Haliburton enters the game for L. Stephenson,2:38.0,21-26,Indiana,0,0.0
+26937,59,B. Hield enters the game for D. Washington,2:38.0,21-26,Indiana,0,0.0
+26938,59,S. Mamukelashvili enters the game for G. Antetokounmpo,2:38.0,21-26,Milwaukee,1,0.0
+26939,59,L. Wigginton makes free throw 2 of 2,2:38.0,21-27,Milwaukee,0,0.0
+26940,59,B. Hield makes 2-pt jump shot from 15 ft,2:24.0,23-27,Indiana,0,0.0
+26941,59,J. Nwora makes 3-pt jump shot from 22 ft (assist by K. Middleton),2:10.0,23-30,Milwaukee,0,0.0
+26942,59,Personal foul by S. Mamukelashvili (drawn by T. Haliburton),2:05.0,23-30,Indiana,0,0.0
+26943,59,T. Haliburton makes free throw 1 of 2,2:05.0,24-30,Indiana,0,0.0
+26944,59,B. Portis enters the game for S. Ibaka,2:05.0,24-30,Milwaukee,1,0.0
+26945,59,T. Haliburton misses free throw 2 of 2,2:05.0,24-30,Indiana,0,0.0
+26946,59,Defensive rebound by B. Portis,2:02.0,24-30,Milwaukee,0,0.0
+26947,59,B. Portis misses 2-pt jump shot from 16 ft,1:44.0,24-30,Milwaukee,0,0.0
+26948,59,Defensive rebound by T. Taylor,1:41.0,24-30,Indiana,0,0.0
+26949,59,K. Sykes misses 2-pt jump shot from 16 ft,1:31.0,24-30,Indiana,0,0.0
+26950,59,Offensive rebound by Team,1:30.0,24-30,Indiana,0,0.0
+26951,59,K. Sykes misses 2-pt jump shot from 17 ft,1:25.0,24-30,Indiana,0,0.0
+26952,59,Defensive rebound by L. Wigginton,1:22.0,24-30,Milwaukee,0,0.0
+26953,59,S. Mamukelashvili makes 2-pt layup from 1 ft (assist by L. Wigginton),1:02.0,24-32,Milwaukee,0,0.0
+26954,59,K. Sykes makes 3-pt jump shot from 23 ft (assist by T. Taylor),0:49.0,27-32,Indiana,0,0.0
+26955,59,Turnover by B. Portis (out of bounds lost ball),0:33.0,27-32,Milwaukee,0,0.0
+26956,59,T. Thompson misses 2-pt hook shot from 8 ft,0:16.0,27-32,Indiana,0,0.0
+26957,59,Defensive rebound by B. Portis,0:13.0,27-32,Milwaukee,0,0.0
+26958,59,S. Mamukelashvili makes 2-pt jump shot from 9 ft,0:00.0,27-34,Milwaukee,0,0.0
+26959,59,K. Sykes misses 3-pt jump shot from 29 ft,11:48.0,27-34,Indiana,0,0.0
+26960,59,Defensive rebound by K. Middleton,11:43.0,27-34,Milwaukee,0,0.0
+26961,59,S. Mamukelashvili makes 2-pt dunk from 1 ft (assist by K. Middleton),11:33.0,27-36,Milwaukee,0,0.0
+26962,59,T. Thompson makes 2-pt jump shot from 6 ft (assist by K. Sykes),11:18.0,29-36,Indiana,0,0.0
+26963,59,B. Portis misses 2-pt jump shot from 16 ft,11:06.0,29-36,Milwaukee,0,0.0
+26964,59,Defensive rebound by T. Haliburton,11:03.0,29-36,Indiana,0,0.0
+26965,59,K. Sykes makes 2-pt layup from 2 ft (assist by T. Haliburton),10:59.0,31-36,Indiana,0,0.0
+26966,59,J. Holiday misses 3-pt jump shot from 26 ft,10:37.0,31-36,Milwaukee,0,1.0
+26967,59,Offensive rebound by B. Portis,10:34.0,31-36,Milwaukee,0,0.0
+26968,59,G. Allen makes 3-pt jump shot from 24 ft (assist by B. Portis),10:32.0,31-39,Milwaukee,0,0.0
+26969,59,T. Thompson makes 2-pt hook shot from 4 ft (assist by B. Hield),10:11.0,33-39,Indiana,0,0.0
+26970,59,B. Portis misses 2-pt jump shot from 15 ft,10:00.0,33-39,Milwaukee,0,0.0
+26971,59,Defensive rebound by T. Haliburton,9:57.0,33-39,Indiana,0,0.0
+26972,59,Turnover by T. Thompson (lost ball; steal by B. Portis),9:46.0,33-39,Indiana,0,0.0
+26973,59,Personal take foul by K. Sykes (drawn by G. Allen),9:44.0,33-39,Milwaukee,0,0.0
+26974,59,G. Bitadze enters the game for K. Sykes,9:44.0,33-39,Indiana,0,0.0
+26975,59,L. Stephenson enters the game for T. Thompson,9:44.0,33-39,Indiana,0,0.0
+26976,59,G. Antetokounmpo enters the game for S. Mamukelashvili,9:44.0,33-39,Milwaukee,1,0.0
+26977,59,K. Middleton makes 2-pt layup from 1 ft (assist by J. Holiday),9:38.0,33-41,Milwaukee,0,0.0
+26978,59,B. Hield makes 3-pt jump shot from 27 ft,9:28.0,36-41,Indiana,0,0.0
+26979,59,J. Holiday misses 2-pt hook shot from 7 ft,9:05.0,36-41,Milwaukee,0,0.0
+26980,59,Defensive rebound by T. Taylor,9:02.0,36-41,Indiana,0,1.0
+26981,59,L. Stephenson misses 3-pt jump shot from 24 ft,8:56.0,36-41,Indiana,0,1.0
+26982,59,Defensive rebound by G. Antetokounmpo,8:53.0,36-41,Milwaukee,0,0.0
+26983,59,B. Portis misses 3-pt jump shot from 24 ft,8:41.0,36-41,Milwaukee,0,0.0
+26984,59,Offensive rebound by J. Holiday,8:36.0,36-41,Milwaukee,0,0.0
+26985,59,J. Holiday makes 2-pt layup at rim,8:36.0,36-43,Milwaukee,0,0.0
+26986,59,G. Bitadze makes 2-pt jump shot from 4 ft (assist by B. Hield),8:31.0,38-43,Indiana,0,0.0
+26987,59,Turnover by B. Portis (bad pass; steal by B. Hield),8:19.0,38-43,Milwaukee,0,0.0
+26988,59,T. Haliburton makes 3-pt jump shot from 25 ft (assist by B. Hield),8:17.0,41-43,Indiana,0,0.0
+26989,59,Milwaukee full timeout,8:07.0,41-43,Milwaukee,0,0.0
+26990,59,J. Nwora enters the game for K. Middleton,8:07.0,41-43,Milwaukee,1,1.0
+26991,59,L. Wigginton enters the game for B. Portis,8:07.0,41-43,Milwaukee,1,0.0
+26992,59,Personal foul by G. Bitadze (drawn by G. Antetokounmpo),8:02.0,41-43,Milwaukee,0,0.0
+26993,59,O. Brissett enters the game for G. Bitadze,8:02.0,41-43,Indiana,0,0.0
+26994,59,J. Holiday makes 3-pt jump shot from 26 ft (assist by G. Antetokounmpo),7:51.0,41-46,Milwaukee,0,0.0
+26995,59,T. Taylor makes 2-pt jump shot from 10 ft (assist by T. Haliburton),7:36.0,43-46,Indiana,0,0.0
+26996,59,Turnover by J. Holiday (bad pass; steal by T. Haliburton),7:25.0,43-46,Milwaukee,0,0.0
+26997,59,T. Taylor makes 2-pt layup from 3 ft (assist by T. Haliburton),7:14.0,45-46,Indiana,0,0.0
+26998,59,Personal foul by B. Hield (drawn by L. Wigginton),7:08.0,45-46,Milwaukee,0,0.0
+26999,59,K. Sykes enters the game for T. Haliburton,7:08.0,45-46,Indiana,0,0.0
+27000,59,S. Ibaka enters the game for G. Allen,7:08.0,45-46,Milwaukee,1,0.0
+27001,59,J. Nwora misses 3-pt jump shot from 27 ft,6:55.0,45-46,Milwaukee,0,0.0
+27002,59,Defensive rebound by L. Stephenson,6:52.0,45-46,Indiana,0,0.0
+27003,59,B. Hield makes 3-pt jump shot from 26 ft (assist by L. Stephenson),6:49.0,48-46,Indiana,0,0.0
+27004,59,Turnover by J. Nwora (out of bounds lost ball),6:36.0,48-46,Milwaukee,0,0.0
+27005,59,T. Taylor misses 2-pt hook shot from 5 ft,6:27.0,48-46,Indiana,0,0.0
+27006,59,Defensive rebound by G. Antetokounmpo,6:24.0,48-46,Milwaukee,0,0.0
+27007,59,J. Nwora makes 2-pt hook shot from 8 ft (assist by G. Antetokounmpo),6:17.0,48-48,Milwaukee,0,0.0
+27008,59,K. Sykes misses 3-pt jump shot from 23 ft,5:55.0,48-48,Indiana,0,0.0
+27009,59,Defensive rebound by G. Antetokounmpo,5:52.0,48-48,Milwaukee,0,0.0
+27010,59,J. Nwora makes 2-pt dunk from 2 ft (assist by G. Antetokounmpo),5:49.0,48-50,Milwaukee,0,0.0
+27011,59,Indiana full timeout,5:49.0,48-50,Indiana,0,0.0
+27012,59,T. Haliburton enters the game for B. Hield,5:49.0,48-50,Indiana,0,0.0
+27013,59,J. Smith enters the game for T. Taylor,5:49.0,48-50,Indiana,0,1.0
+27014,59,L. Stephenson misses 2-pt jump shot from 6 ft,5:35.0,48-50,Indiana,0,0.0
+27015,59,Defensive rebound by J. Nwora,5:31.0,48-50,Milwaukee,0,0.0
+27016,59,L. Wigginton makes 3-pt jump shot from 27 ft (assist by J. Holiday),5:18.0,48-53,Milwaukee,0,0.0
+27017,59,T. Haliburton misses 2-pt jump shot from 4 ft,5:01.0,48-53,Indiana,0,0.0
+27018,59,Offensive rebound by J. Smith,4:57.0,48-53,Indiana,0,0.0
+27019,59,L. Stephenson makes 2-pt jump shot from 11 ft,4:46.0,50-53,Indiana,0,0.0
+27020,59,L. Wigginton makes 3-pt jump shot from 24 ft (assist by J. Nwora),4:28.0,50-56,Milwaukee,0,0.0
+27021,59,O. Brissett misses 3-pt jump shot from 27 ft,4:17.0,50-56,Indiana,0,0.0
+27022,59,Defensive rebound by Team,4:17.0,50-56,Milwaukee,0,0.0
+27023,59,K. Middleton enters the game for J. Holiday,4:17.0,50-56,Milwaukee,1,0.0
+27024,59,G. Antetokounmpo makes 2-pt layup from 1 ft,4:01.0,50-58,Milwaukee,0,0.0
+27025,59,Turnover by O. Brissett (bad pass; steal by L. Wigginton),3:49.0,50-58,Indiana,0,0.0
+27026,59,L. Wigginton misses 2-pt layup from 2 ft (block by O. Brissett),3:44.0,50-58,Milwaukee,0,0.0
+27027,59,Offensive rebound by G. Antetokounmpo,3:42.0,50-58,Milwaukee,0,0.0
+27028,59,G. Antetokounmpo makes 2-pt dunk from 1 ft,3:42.0,50-60,Milwaukee,0,0.0
+27029,59,Indiana full timeout,3:42.0,50-60,Indiana,0,0.0
+27030,59,B. Hield enters the game for O. Brissett,3:42.0,50-60,Indiana,0,0.0
+27031,59,T. Taylor enters the game for L. Stephenson,3:42.0,50-60,Indiana,0,0.0
+27032,59,K. Sykes misses 3-pt jump shot from 25 ft,3:22.0,50-60,Indiana,0,0.0
+27033,59,Defensive rebound by G. Antetokounmpo,3:20.0,50-60,Milwaukee,0,0.0
+27034,59,Turnover by L. Wigginton (bad pass; steal by T. Haliburton),3:11.0,50-60,Milwaukee,0,0.0
+27035,59,B. Hield misses 3-pt jump shot from 24 ft,3:05.0,50-60,Indiana,0,1.0
+27036,59,Defensive rebound by S. Ibaka,3:01.0,50-60,Milwaukee,0,1.0
+27037,59,Turnover by J. Nwora (lost ball; steal by T. Haliburton),2:59.0,50-60,Milwaukee,0,0.0
+27038,59,T. Haliburton makes 3-pt jump shot from 26 ft (assist by J. Smith),2:54.0,53-60,Indiana,0,0.0
+27039,59,G. Antetokounmpo misses 2-pt layup from 3 ft,2:33.0,53-60,Milwaukee,0,0.0
+27040,59,Offensive rebound by G. Antetokounmpo,2:30.0,53-60,Milwaukee,0,0.0
+27041,59,G. Antetokounmpo makes 2-pt dunk from 2 ft,2:29.0,53-62,Milwaukee,0,0.0
+27042,59,T. Haliburton makes 2-pt jump shot from 14 ft,2:19.0,55-62,Indiana,0,0.0
+27043,59,Shooting foul by J. Nwora (drawn by T. Haliburton),2:19.0,55-62,Indiana,0,0.0
+27044,59,O. Brissett enters the game for T. Taylor,2:19.0,55-62,Indiana,0,0.0
+27045,59,J. Holiday enters the game for G. Antetokounmpo,2:19.0,55-62,Milwaukee,1,0.0
+27046,59,B. Portis enters the game for J. Nwora,2:19.0,55-62,Milwaukee,1,0.0
+27047,59,T. Haliburton makes free throw 1 of 1,2:19.0,56-62,Indiana,0,0.0
+27048,59,S. Ibaka makes 2-pt hook shot from 7 ft (assist by J. Holiday),2:05.0,56-64,Milwaukee,0,0.0
+27049,59,J. Smith misses 2-pt jump shot from 9 ft,1:55.0,56-64,Indiana,0,0.0
+27050,59,Defensive rebound by S. Ibaka,1:50.0,56-64,Milwaukee,0,0.0
+27051,59,J. Holiday makes 2-pt layup from 1 ft,1:45.0,56-66,Milwaukee,0,0.0
+27052,59,Offensive foul by J. Smith (drawn by J. Holiday),1:37.0,56-66,Indiana,0,0.0
+27053,59,Turnover by J. Smith (offensive foul),1:37.0,56-66,Indiana,0,0.0
+27054,59,T. Taylor enters the game for J. Smith,1:37.0,56-66,Indiana,0,0.0
+27055,59,Turnover by J. Holiday (lost ball; steal by K. Sykes),1:24.0,56-66,Milwaukee,0,0.0
+27056,59,B. Hield makes 2-pt jump shot from 15 ft,1:12.0,58-66,Indiana,0,0.0
+27057,59,K. Middleton makes 3-pt jump shot from 23 ft (assist by J. Holiday),0:56.0,58-69,Milwaukee,0,0.0
+27058,59,T. Taylor makes 2-pt layup from 1 ft (assist by T. Haliburton),0:33.0,60-69,Indiana,0,0.0
+27059,59,J. Holiday misses 3-pt jump shot from 27 ft,0:26.0,60-69,Milwaukee,0,0.0
+27060,59,Defensive rebound by B. Hield,0:23.0,60-69,Indiana,0,0.0
+27061,59,T. Haliburton misses 3-pt jump shot from 31 ft,0:07.0,60-69,Indiana,0,0.0
+27062,59,Offensive rebound by O. Brissett,0:05.0,60-69,Indiana,0,0.0
+27063,59,O. Brissett misses 2-pt dunk at rim,0:05.0,60-69,Indiana,0,0.0
+27064,59,Offensive rebound by K. Sykes,0:03.0,60-69,Indiana,0,0.0
+27065,59,B. Hield makes 3-pt jump shot from 26 ft (assist by K. Sykes),0:02.0,63-69,Indiana,0,0.0
+27066,59,B. Hield makes 3-pt jump shot from 26 ft (assist by T. Haliburton),11:48.0,66-69,Indiana,0,0.0
+27067,59,Shooting foul by G. Bitadze (drawn by K. Middleton),11:24.0,66-69,Milwaukee,0,0.0
+27068,59,K. Middleton makes free throw 1 of 2,11:24.0,66-70,Milwaukee,0,0.0
+27069,59,K. Middleton makes free throw 2 of 2,11:24.0,66-71,Milwaukee,0,0.0
+27070,59,T. Haliburton misses 3-pt jump shot from 30 ft,11:07.0,66-71,Indiana,0,0.0
+27071,59,Defensive rebound by B. Portis,11:04.0,66-71,Milwaukee,0,0.0
+27072,59,G. Allen misses 3-pt jump shot from 23 ft,10:54.0,66-71,Milwaukee,0,0.0
+27073,59,Defensive rebound by G. Bitadze,10:51.0,66-71,Indiana,0,0.0
+27074,59,B. Hield makes 3-pt jump shot from 26 ft (assist by T. Haliburton),10:46.0,69-71,Indiana,0,0.0
+27075,59,G. Antetokounmpo misses 2-pt layup from 2 ft,10:29.0,69-71,Milwaukee,0,0.0
+27076,59,Defensive rebound by T. Haliburton,10:27.0,69-71,Indiana,0,0.0
+27077,59,J. Smith misses 3-pt jump shot from 27 ft,10:24.0,69-71,Indiana,0,0.0
+27078,59,Offensive rebound by G. Bitadze,10:19.0,69-71,Indiana,0,0.0
+27079,59,G. Bitadze misses 2-pt layup at rim,10:19.0,69-71,Indiana,0,0.0
+27080,59,Defensive rebound by K. Middleton,10:17.0,69-71,Milwaukee,0,0.0
+27081,59,G. Antetokounmpo makes 2-pt dunk from 2 ft (assist by K. Middleton),10:15.0,69-73,Milwaukee,0,0.0
+27082,59,Shooting foul by G. Antetokounmpo (drawn by G. Bitadze),10:03.0,69-73,Indiana,0,0.0
+27083,59,G. Bitadze misses free throw 1 of 2,10:03.0,69-73,Indiana,0,0.0
+27084,59,Offensive rebound by Team,10:03.0,69-73,Indiana,0,0.0
+27085,59,G. Bitadze misses free throw 2 of 2,10:03.0,69-73,Indiana,0,0.0
+27086,59,Defensive rebound by B. Portis,10:00.0,69-73,Milwaukee,0,0.0
+27087,59,G. Antetokounmpo makes 2-pt jump shot from 13 ft,9:42.0,69-75,Milwaukee,0,0.0
+27088,59,Violation by Team (delay of game),9:42.0,69-75,Indiana,0,0.0
+27089,59,Shooting foul by J. Smith (drawn by G. Antetokounmpo),9:42.0,69-75,Milwaukee,0,0.0
+27090,59,T. Taylor enters the game for J. Smith,9:42.0,69-75,Indiana,0,0.0
+27091,59,G. Antetokounmpo makes free throw 1 of 1,9:42.0,69-76,Milwaukee,0,0.0
+27092,59,Turnover by T. Haliburton (bad pass),9:29.0,69-76,Indiana,0,0.0
+27093,59,Shooting foul by G. Bitadze (drawn by G. Antetokounmpo),9:14.0,69-76,Milwaukee,0,0.0
+27094,59,G. Antetokounmpo makes free throw 1 of 2,9:14.0,69-77,Milwaukee,0,0.0
+27095,59,G. Antetokounmpo makes free throw 2 of 2,9:14.0,69-78,Milwaukee,0,0.0
+27096,59,G. Bitadze makes 2-pt layup from 1 ft (assist by T. Haliburton),9:03.0,71-78,Indiana,0,1.0
+27097,59,J. Holiday makes 2-pt jump shot from 9 ft,8:43.0,71-80,Milwaukee,0,0.0
+27098,59,O. Brissett misses 3-pt jump shot from 27 ft,8:23.0,71-80,Indiana,0,0.0
+27099,59,Offensive rebound by G. Bitadze,8:19.0,71-80,Indiana,0,0.0
+27100,59,G. Bitadze makes 2-pt layup from 3 ft,8:18.0,73-80,Indiana,0,0.0
+27101,59,G. Antetokounmpo misses 3-pt jump shot from 23 ft,7:54.0,73-80,Milwaukee,0,0.0
+27102,59,Defensive rebound by B. Hield,7:51.0,73-80,Indiana,0,0.0
+27103,59,Turnover by B. Hield (bad pass; steal by J. Holiday),7:47.0,73-80,Indiana,0,0.0
+27104,59,B. Portis makes 2-pt layup from 2 ft (assist by J. Holiday),7:42.0,73-82,Milwaukee,0,0.0
+27105,59,Indiana full timeout,7:36.0,73-82,Indiana,0,1.0
+27106,59,L. Wigginton enters the game for K. Middleton,7:36.0,73-82,Milwaukee,1,0.0
+27107,59,T. Haliburton makes 2-pt jump shot from 14 ft,7:27.0,75-82,Indiana,0,0.0
+27108,59,B. Portis misses 2-pt layup from 1 ft,7:09.0,75-82,Milwaukee,0,0.0
+27109,59,Defensive rebound by T. Taylor,7:07.0,75-82,Indiana,0,0.0
+27110,59,Turnover by G. Bitadze (lost ball; steal by B. Portis),6:54.0,75-82,Indiana,0,0.0
+27111,59,L. Wigginton makes 2-pt layup from 2 ft (assist by B. Portis),6:53.0,75-84,Milwaukee,0,0.0
+27112,59,Shooting foul by T. Haliburton (drawn by L. Wigginton),6:53.0,75-84,Milwaukee,0,0.0
+27113,59,L. Stephenson enters the game for G. Bitadze,6:53.0,75-84,Indiana,0,0.0
+27114,59,T. Thompson enters the game for T. Haliburton,6:53.0,75-84,Indiana,0,0.0
+27115,59,S. Ibaka enters the game for G. Allen,6:53.0,75-84,Milwaukee,1,0.0
+27116,59,L. Wigginton misses free throw 1 of 1,6:53.0,75-84,Milwaukee,0,0.0
+27117,59,Defensive rebound by O. Brissett,6:48.0,75-84,Indiana,0,0.0
+27118,59,L. Stephenson makes 2-pt layup from 4 ft,6:37.0,77-84,Indiana,0,0.0
+27119,59,Shooting foul by O. Brissett (drawn by G. Antetokounmpo),6:32.0,77-84,Milwaukee,0,0.0
+27120,59,G. Antetokounmpo makes free throw 1 of 2,6:32.0,77-85,Milwaukee,0,0.0
+27121,59,G. Antetokounmpo makes free throw 2 of 2,6:32.0,77-86,Milwaukee,0,0.0
+27122,59,L. Stephenson makes 2-pt jump shot from 19 ft,6:16.0,79-86,Indiana,0,0.0
+27123,59,Shooting foul by J. Holiday (drawn by L. Stephenson),6:16.0,79-86,Indiana,0,0.0
+27124,59,L. Stephenson misses free throw 1 of 1,6:16.0,79-86,Indiana,0,0.0
+27125,59,Defensive rebound by B. Portis,6:13.0,79-86,Milwaukee,0,0.0
+27126,59,B. Portis misses 3-pt jump shot from 27 ft,6:01.0,79-86,Milwaukee,0,0.0
+27127,59,Defensive rebound by L. Stephenson,5:58.0,79-86,Indiana,0,1.0
+27128,59,O. Brissett makes 3-pt jump shot from 26 ft (assist by L. Stephenson),5:44.0,82-86,Indiana,0,0.0
+27129,59,B. Portis misses 3-pt jump shot from 23 ft,5:23.0,82-86,Milwaukee,0,0.0
+27130,59,Defensive rebound by L. Stephenson,5:20.0,82-86,Indiana,0,0.0
+27131,59,O. Brissett misses 3-pt jump shot from 26 ft,5:17.0,82-86,Indiana,0,0.0
+27132,59,Defensive rebound by B. Portis,5:14.0,82-86,Milwaukee,0,0.0
+27133,59,Turnover by G. Antetokounmpo (lost ball; steal by L. Stephenson),5:07.0,82-86,Milwaukee,0,0.0
+27134,59,Shooting foul by L. Wigginton (drawn by T. Thompson),5:02.0,82-86,Indiana,0,0.0
+27135,59,T. Thompson makes free throw 1 of 2,5:02.0,83-86,Indiana,0,0.0
+27136,59,K. Sykes enters the game for B. Hield,5:02.0,83-86,Indiana,0,0.0
+27137,59,J. Nwora enters the game for B. Portis,5:02.0,83-86,Milwaukee,1,0.0
+27138,59,T. Thompson misses free throw 2 of 2,5:02.0,83-86,Indiana,0,0.0
+27139,59,Defensive rebound by G. Antetokounmpo,4:59.0,83-86,Milwaukee,0,0.0
+27140,59,L. Wigginton makes 3-pt jump shot from 27 ft (assist by G. Antetokounmpo),4:41.0,83-89,Milwaukee,0,0.0
+27141,59,K. Sykes misses 3-pt jump shot from 23 ft,4:29.0,83-89,Indiana,0,0.0
+27142,59,Defensive rebound by J. Holiday,4:27.0,83-89,Milwaukee,0,1.0
+27143,59,J. Nwora misses 2-pt dunk from 3 ft (block by T. Thompson),4:20.0,83-89,Milwaukee,0,0.0
+27144,59,Defensive rebound by T. Taylor,4:16.0,83-89,Indiana,0,0.0
+27145,59,T. Taylor makes 2-pt layup from 1 ft (assist by K. Sykes),4:13.0,85-89,Indiana,0,0.0
+27146,59,J. Nwora misses 3-pt jump shot from 23 ft,3:53.0,85-89,Milwaukee,0,0.0
+27147,59,Offensive rebound by G. Antetokounmpo,3:53.0,85-89,Milwaukee,0,0.0
+27148,59,Flagrant foul type 1 by L. Stephenson (drawn by G. Antetokounmpo),3:53.0,85-89,Milwaukee,0,0.0
+27149,59,Instant Replay (Request: Ruling Stands),3:53.0,85-89,Milwaukee,0,0.0
+27150,59,G. Antetokounmpo makes flagrant free throw 1 of 2,3:53.0,85-90,Milwaukee,0,0.0
+27151,59,G. Antetokounmpo makes flagrant free throw 2 of 2,3:53.0,85-91,Milwaukee,0,0.0
+27152,59,K. Middleton enters the game for J. Holiday,3:53.0,85-91,Milwaukee,1,0.0
+27153,59,K. Middleton misses 3-pt jump shot from 27 ft,3:47.0,85-91,Milwaukee,0,0.0
+27154,59,Defensive rebound by L. Stephenson,3:44.0,85-91,Indiana,0,0.0
+27155,59,Personal foul by J. Nwora (drawn by L. Stephenson),3:39.0,85-91,Indiana,0,0.0
+27156,59,Offensive foul by L. Stephenson (drawn by S. Ibaka),3:35.0,85-91,Indiana,0,0.0
+27157,59,Turnover by L. Stephenson (offensive foul),3:35.0,85-91,Indiana,0,0.0
+27158,59,Instant Replay (Request: Ruling Stands),3:35.0,85-91,Indiana,0,0.0
+27159,59,Indiana full timeout,3:35.0,85-91,Indiana,0,0.0
+27160,59,Instant Replay (Challenge: Stands),3:35.0,85-91,Indiana,0,0.0
+27161,59,T. Haliburton enters the game for O. Brissett,3:35.0,85-91,Indiana,0,0.0
+27162,59,Offensive foul by G. Antetokounmpo (drawn by T. Taylor),3:22.0,85-91,Milwaukee,0,0.0
+27163,59,Turnover by G. Antetokounmpo (offensive foul),3:22.0,85-91,Milwaukee,0,0.0
+27164,59,T. Thompson makes 2-pt jump shot from 13 ft (assist by K. Sykes),3:12.0,87-91,Indiana,0,1.0
+27165,59,G. Antetokounmpo makes 2-pt layup from 2 ft (assist by S. Ibaka),2:47.0,87-93,Milwaukee,0,0.0
+27166,59,K. Sykes makes 2-pt jump shot from 17 ft (assist by L. Stephenson),2:30.0,89-93,Indiana,0,0.0
+27167,59,K. Middleton misses 3-pt jump shot from 27 ft,2:19.0,89-93,Milwaukee,0,0.0
+27168,59,Defensive rebound by T. Thompson,2:15.0,89-93,Indiana,0,0.0
+27169,59,T. Haliburton misses 2-pt jump shot from 9 ft,2:08.0,89-93,Indiana,0,0.0
+27170,59,Offensive rebound by T. Thompson,2:06.0,89-93,Indiana,0,0.0
+27171,59,K. Sykes misses 2-pt jump shot from 9 ft,2:00.0,89-93,Indiana,0,0.0
+27172,59,Defensive rebound by L. Wigginton,1:57.0,89-93,Milwaukee,0,1.0
+27173,59,Turnover by L. Wigginton (traveling),1:53.0,89-93,Milwaukee,0,0.0
+27174,59,S. Mamukelashvili enters the game for G. Antetokounmpo,1:53.0,89-93,Milwaukee,1,0.0
+27175,59,Shooting foul by K. Middleton (drawn by T. Thompson),1:34.0,89-93,Indiana,0,0.0
+27176,59,T. Thompson misses free throw 1 of 2,1:34.0,89-93,Indiana,0,0.0
+27177,59,Offensive rebound by Team,1:34.0,89-93,Indiana,0,0.0
+27178,59,T. Thompson misses free throw 2 of 2,1:34.0,89-93,Indiana,0,0.0
+27179,59,Offensive rebound by T. Taylor,1:30.0,89-93,Indiana,0,0.0
+27180,59,T. Taylor makes 2-pt layup from 1 ft,1:28.0,91-93,Indiana,0,0.0
+27181,59,Milwaukee full timeout,1:24.0,91-93,Milwaukee,0,0.0
+27182,59,J. Holiday enters the game for L. Wigginton,1:24.0,91-93,Milwaukee,1,0.0
+27183,59,Shooting foul by T. Taylor (drawn by S. Ibaka),1:11.0,91-93,Milwaukee,0,0.0
+27184,59,S. Ibaka misses free throw 1 of 3,1:11.0,91-93,Milwaukee,0,0.0
+27185,59,Offensive rebound by Team,1:11.0,91-93,Milwaukee,0,0.0
+27186,59,S. Ibaka makes free throw 2 of 3,1:11.0,91-94,Milwaukee,0,0.0
+27187,59,S. Ibaka makes free throw 3 of 3,1:11.0,91-95,Milwaukee,0,0.0
+27188,59,T. Haliburton makes 3-pt jump shot from 26 ft (assist by T. Thompson),0:55.0,94-95,Indiana,0,0.0
+27189,59,K. Middleton makes 2-pt jump shot from 12 ft,0:45.0,94-97,Milwaukee,0,0.0
+27190,59,Turnover by K. Sykes (bad pass; steal by K. Middleton),0:33.0,94-97,Indiana,0,0.0
+27191,59,J. Holiday makes 2-pt layup from 1 ft (assist by K. Middleton),0:27.0,94-99,Milwaukee,0,0.0
+27192,59,L. Stephenson misses 3-pt jump shot from 26 ft,0:13.0,94-99,Indiana,0,0.0
+27193,59,Defensive rebound by S. Ibaka,0:09.0,94-99,Milwaukee,0,0.0
+27194,59,J. Holiday misses 2-pt jump shot from 14 ft,0:00.0,94-99,Milwaukee,0,0.0
+27195,59,Offensive rebound by Team,0:00.0,94-99,Milwaukee,0,0.0
+27196,59,J. Holiday misses 2-pt jump shot from 13 ft,11:38.0,94-99,Milwaukee,0,0.0
+27197,59,Defensive rebound by T. Thompson,11:35.0,94-99,Indiana,0,0.0
+27198,59,T. Thompson misses 2-pt hook shot from 4 ft,11:17.0,94-99,Indiana,0,0.0
+27199,59,Defensive rebound by S. Mamukelashvili,11:14.0,94-99,Milwaukee,0,0.0
+27200,59,J. Holiday misses 2-pt jump shot from 7 ft,11:00.0,94-99,Milwaukee,0,1.0
+27201,59,Defensive rebound by T. Taylor,10:57.0,94-99,Indiana,0,1.0
+27202,59,T. Thompson misses 2-pt layup from 8 ft,10:41.0,94-99,Indiana,0,0.0
+27203,59,Offensive rebound by T. Thompson,10:39.0,94-99,Indiana,0,0.0
+27204,59,Turnover by T. Thompson (lost ball; steal by J. Nwora),10:38.0,94-99,Indiana,0,0.0
+27205,59,B. Portis misses 2-pt hook shot from 6 ft,10:26.0,94-99,Milwaukee,0,0.0
+27206,59,Offensive rebound by S. Mamukelashvili,10:23.0,94-99,Milwaukee,0,0.0
+27207,59,J. Nwora makes 2-pt jump shot from 7 ft (assist by J. Holiday),10:18.0,94-101,Milwaukee,0,0.0
+27208,59,Personal foul by J. Holiday (drawn by T. Haliburton),10:07.0,94-101,Indiana,0,0.0
+27209,59,G. Bitadze enters the game for T. Thompson,10:07.0,94-101,Indiana,0,0.0
+27210,59,G. Antetokounmpo enters the game for S. Mamukelashvili,10:07.0,94-101,Milwaukee,1,0.0
+27211,59,L. Wigginton enters the game for J. Nwora,10:07.0,94-101,Milwaukee,1,0.0
+27212,59,G. Bitadze misses 2-pt layup from 3 ft,9:59.0,94-101,Indiana,0,0.0
+27213,59,Offensive rebound by T. Taylor,9:57.0,94-101,Indiana,0,0.0
+27214,59,B. Hield makes 3-pt jump shot from 27 ft (assist by T. Taylor),9:55.0,97-101,Indiana,0,0.0
+27215,59,G. Antetokounmpo makes 3-pt jump shot from 27 ft (assist by K. Middleton),9:40.0,97-104,Milwaukee,0,0.0
+27216,59,Turnover by B. Hield (bad pass; steal by B. Portis),9:25.0,97-104,Indiana,0,0.0
+27217,59,Clear path foul by T. Haliburton,9:23.0,97-104,Indiana,0,0.0
+27218,59,G. Antetokounmpo makes clear path free throw 1 of 2,9:23.0,97-105,Milwaukee,0,0.0
+27219,59,G. Antetokounmpo makes clear path free throw 2 of 2,9:23.0,97-106,Milwaukee,0,0.0
+27220,59,Instant Replay (Request: Ruling Stands),9:23.0,97-106,Milwaukee,0,0.0
+27221,59,L. Wigginton misses 3-pt jump shot from 28 ft,9:14.0,97-106,Milwaukee,0,0.0
+27222,59,Defensive rebound by Team,9:13.0,97-106,Indiana,0,0.0
+27223,59,T. Taylor misses 3-pt jump shot from 24 ft,8:47.0,97-106,Indiana,0,0.0
+27224,59,Defensive rebound by G. Antetokounmpo,8:42.0,97-106,Milwaukee,0,0.0
+27225,59,K. Middleton makes 2-pt jump shot from 8 ft,8:25.0,97-108,Milwaukee,0,1.0
+27226,59,T. Haliburton misses 3-pt jump shot from 27 ft,8:14.0,97-108,Indiana,0,0.0
+27227,59,Defensive rebound by B. Portis,8:11.0,97-108,Milwaukee,0,0.0
+27228,59,Turnover by B. Portis (lost ball; steal by T. Haliburton),8:01.0,97-108,Milwaukee,0,0.0
+27229,59,B. Hield misses 3-pt jump shot from 27 ft,7:54.0,97-108,Indiana,0,0.0
+27230,59,Defensive rebound by B. Portis,7:50.0,97-108,Milwaukee,0,0.0
+27231,59,G. Antetokounmpo makes 2-pt layup from 3 ft,7:41.0,97-110,Milwaukee,0,0.0
+27232,59,Indiana full timeout,7:40.0,97-110,Indiana,0,0.0
+27233,59,J. Smith enters the game for T. Haliburton,7:40.0,97-110,Indiana,0,0.0
+27234,59,L. Stephenson enters the game for T. Taylor,7:40.0,97-110,Indiana,0,0.0
+27235,59,J. Nwora enters the game for K. Middleton,7:40.0,97-110,Milwaukee,1,0.0
+27236,59,B. Hield makes 2-pt jump shot from 15 ft (assist by G. Bitadze),7:24.0,99-110,Indiana,0,0.0
+27237,59,G. Antetokounmpo makes 2-pt jump shot from 18 ft,7:04.0,99-112,Milwaukee,0,0.0
+27238,59,B. Hield makes 3-pt jump shot from 24 ft (assist by K. Sykes),6:40.0,102-112,Indiana,0,0.0
+27239,59,J. Holiday makes 2-pt jump shot from 16 ft,6:29.0,102-114,Milwaukee,0,0.0
+27240,59,Shooting foul by J. Smith (drawn by J. Holiday),6:29.0,102-114,Milwaukee,0,0.0
+27241,59,J. Holiday misses free throw 1 of 1,6:29.0,102-114,Milwaukee,0,0.0
+27242,59,Offensive rebound by B. Portis,6:25.0,102-114,Milwaukee,0,0.0
+27243,59,B. Portis misses 2-pt layup from 2 ft,6:25.0,102-114,Milwaukee,0,0.0
+27244,59,Defensive rebound by J. Smith,6:22.0,102-114,Indiana,0,0.0
+27245,59,J. Smith makes 2-pt dunk from 2 ft (assist by G. Bitadze),6:08.0,104-114,Indiana,0,0.0
+27246,59,L. Wigginton misses 3-pt jump shot from 26 ft,5:58.0,104-114,Milwaukee,0,1.0
+27247,59,Defensive rebound by G. Bitadze,5:55.0,104-114,Indiana,0,1.0
+27248,59,J. Smith misses 3-pt jump shot from 23 ft,5:43.0,104-114,Indiana,0,0.0
+27249,59,Defensive rebound by J. Nwora,5:39.0,104-114,Milwaukee,0,0.0
+27250,59,B. Portis misses 3-pt jump shot from 23 ft,5:29.0,104-114,Milwaukee,0,0.0
+27251,59,Defensive rebound by J. Smith,5:26.0,104-114,Indiana,0,0.0
+27252,59,B. Hield misses 2-pt jump shot from 17 ft,5:17.0,104-114,Indiana,0,0.0
+27253,59,Defensive rebound by B. Portis,5:14.0,104-114,Milwaukee,0,0.0
+27254,59,Shooting foul by G. Bitadze (drawn by G. Antetokounmpo),5:01.0,104-114,Milwaukee,0,0.0
+27255,59,G. Antetokounmpo makes free throw 1 of 2,5:01.0,104-115,Milwaukee,0,0.0
+27256,59,S. Ibaka enters the game for J. Holiday,5:01.0,104-115,Milwaukee,1,0.0
+27257,59,K. Middleton enters the game for B. Portis,5:01.0,104-115,Milwaukee,1,0.0
+27258,59,G. Antetokounmpo makes free throw 2 of 2,5:01.0,104-116,Milwaukee,0,0.0
+27259,59,K. Sykes misses 2-pt jump shot from 16 ft,4:43.0,104-116,Indiana,0,0.0
+27260,59,Defensive rebound by G. Antetokounmpo,4:39.0,104-116,Milwaukee,0,0.0
+27261,59,Milwaukee full timeout,4:32.0,104-116,Milwaukee,0,0.0
+27262,59,O. Brissett enters the game for L. Stephenson,4:32.0,104-116,Indiana,0,0.0
+27263,59,T. Haliburton enters the game for K. Sykes,4:32.0,104-116,Indiana,0,0.0
+27264,59,Shooting foul by B. Hield (drawn by K. Middleton),4:23.0,104-116,Milwaukee,0,1.0
+27265,59,K. Middleton makes free throw 1 of 2,4:23.0,104-117,Milwaukee,0,0.0
+27266,59,K. Middleton makes free throw 2 of 2,4:23.0,104-118,Milwaukee,0,0.0
+27267,59,G. Bitadze makes 2-pt layup from 2 ft (assist by J. Smith),3:59.0,106-118,Indiana,0,0.0
+27268,59,Turnover by S. Ibaka (inbound),3:58.0,106-118,Milwaukee,0,0.0
+27269,59,J. Smith makes 3-pt jump shot from 27 ft (assist by B. Hield),3:42.0,109-118,Indiana,0,0.0
+27270,59,G. Antetokounmpo makes 2-pt layup from 5 ft,3:31.0,109-120,Milwaukee,0,0.0
+27271,59,O. Brissett makes 2-pt layup from 2 ft (assist by G. Bitadze),3:10.0,111-120,Indiana,0,0.0
+27272,59,Shooting foul by S. Ibaka (drawn by O. Brissett),3:10.0,111-120,Indiana,0,0.0
+27273,59,Milwaukee full timeout,3:10.0,111-120,Milwaukee,0,0.0
+27274,59,J. Holiday enters the game for L. Wigginton,3:10.0,111-120,Milwaukee,1,0.0
+27275,59,O. Brissett misses free throw 1 of 1,3:10.0,111-120,Indiana,0,0.0
+27276,59,Defensive rebound by G. Antetokounmpo,3:07.0,111-120,Milwaukee,0,0.0
+27277,59,G. Antetokounmpo makes 2-pt layup from 1 ft (assist by J. Holiday),3:03.0,111-122,Milwaukee,0,0.0
+27278,59,Shooting foul by J. Smith (drawn by G. Antetokounmpo),3:03.0,111-122,Milwaukee,0,0.0
+27279,59,T. Taylor enters the game for J. Smith,3:03.0,111-122,Indiana,0,0.0
+27280,59,G. Antetokounmpo misses free throw 1 of 1,3:03.0,111-122,Milwaukee,0,0.0
+27281,59,Defensive rebound by T. Taylor,2:59.0,111-122,Indiana,0,0.0
+27282,59,T. Haliburton makes 2-pt layup from 3 ft,2:44.0,113-122,Indiana,0,0.0
+27283,59,J. Nwora misses 3-pt jump shot from 24 ft,2:25.0,113-122,Milwaukee,0,0.0
+27284,59,Defensive rebound by T. Taylor,2:21.0,113-122,Indiana,0,0.0
+27285,59,T. Haliburton misses 3-pt jump shot from 30 ft,2:17.0,113-122,Indiana,0,0.0
+27286,59,Defensive rebound by J. Nwora,2:15.0,113-122,Milwaukee,0,0.0
+27287,59,G. Antetokounmpo makes 2-pt dunk from 2 ft (assist by K. Middleton),2:01.0,113-124,Milwaukee,0,0.0
+27288,59,Indiana full timeout,2:00.0,113-124,Indiana,0,0.0
+27289,59,B. Hield makes 2-pt layup from 2 ft,1:42.0,115-124,Indiana,0,0.0
+27290,59,G. Antetokounmpo makes 2-pt jump shot from 17 ft,1:34.0,115-126,Milwaukee,0,0.0
+27291,59,B. Hield makes 3-pt jump shot from 27 ft (assist by G. Bitadze),1:27.0,118-126,Indiana,0,0.0
+27292,59,K. Middleton misses 2-pt hook shot from 6 ft,1:13.0,118-126,Milwaukee,0,1.0
+27293,59,Offensive rebound by S. Ibaka,1:09.0,118-126,Milwaukee,0,1.0
+27294,59,S. Ibaka makes 2-pt layup at rim,1:09.0,118-128,Milwaukee,0,0.0
+27295,59,B. Hield misses 2-pt layup from 3 ft,1:02.0,118-128,Indiana,0,0.0
+27296,59,Defensive rebound by S. Ibaka,0:59.0,118-128,Milwaukee,0,0.0
+27297,59,Personal foul by T. Taylor (drawn by G. Antetokounmpo),0:57.0,118-128,Milwaukee,0,1.0
+27298,59,G. Antetokounmpo misses free throw 1 of 2,0:57.0,118-128,Milwaukee,0,0.0
+27299,59,Offensive rebound by Team,0:57.0,118-128,Milwaukee,0,0.0
+27300,59,K. Sykes enters the game for T. Haliburton,0:57.0,118-128,Indiana,0,0.0
+27301,59,D. Washington enters the game for B. Hield,0:57.0,118-128,Indiana,0,0.0
+27302,59,S. Mamukelashvili enters the game for J. Holiday,0:57.0,118-128,Milwaukee,1,0.0
+27303,59,L. Wigginton enters the game for K. Middleton,0:57.0,118-128,Milwaukee,1,0.0
+27304,59,G. Antetokounmpo misses free throw 2 of 2,0:57.0,118-128,Milwaukee,0,0.0
+27305,59,Defensive rebound by D. Washington,0:54.0,118-128,Indiana,0,
+27306,59,Personal take foul by G. Antetokounmpo (drawn by G. Bitadze),0:53.0,118-128,Indiana,0,
+27307,59,T. Antetokounmpo enters the game for G. Antetokounmpo,0:53.0,118-128,Milwaukee,1,
+27308,59,Shooting foul by S. Ibaka (drawn by G. Bitadze),0:42.0,118-128,Indiana,0,
+27309,59,G. Bitadze misses free throw 1 of 2,0:42.0,118-128,Indiana,0,
+27310,59,Offensive rebound by Team,0:42.0,118-128,Indiana,0,
+27311,59,G. Bitadze makes free throw 2 of 2,0:42.0,119-128,Indiana,0,
+27312,59,Turnover by Team (shot clock),0:18.0,119-128,Milwaukee,0,
+27313,59,D. Washington misses 3-pt jump shot from 30 ft,0:00.0,119-128,Indiana,0,
+27314,59,Offensive rebound by Team,0:00.0,119-128,Indiana,0,

@@ -1,0 +1,447 @@
+,game number,play,time,score,team,current_sub_status,future_sub_status
+29789,65,D. Ayton misses 2-pt layup from 2 ft,11:47.0,0-0,Phoenix,0,0.0
+29790,65,Defensive rebound by G. Antetokounmpo,11:46.0,0-0,Milwaukee,0,0.0
+29791,65,Turnover by G. Antetokounmpo (bad pass),11:37.0,0-0,Milwaukee,0,0.0
+29792,65,J. Crowder makes 3-pt jump shot from 27 ft,11:21.0,3-0,Phoenix,0,0.0
+29793,65,J. Holiday makes 3-pt jump shot from 26 ft (assist by G. Antetokounmpo),11:04.0,3-3,Milwaukee,0,0.0
+29794,65,D. Ayton makes 3-pt jump shot from 26 ft (assist by J. Crowder),10:47.0,6-3,Phoenix,0,0.0
+29795,65,J. Holiday misses 3-pt jump shot from 25 ft,10:29.0,6-3,Milwaukee,0,0.0
+29796,65,Offensive rebound by B. Portis,10:29.0,6-3,Milwaukee,0,0.0
+29797,65,G. Antetokounmpo makes 2-pt dunk from 1 ft (assist by J. Holiday),10:21.0,6-5,Milwaukee,0,0.0
+29798,65,C. Payne makes 3-pt jump shot from 30 ft (assist by J. Crowder),10:03.0,9-5,Phoenix,0,0.0
+29799,65,G. Antetokounmpo makes 2-pt layup from 2 ft (assist by K. Middleton),9:49.0,9-7,Milwaukee,0,0.0
+29800,65,C. Payne misses 3-pt jump shot from 25 ft,9:35.0,9-7,Phoenix,0,0.0
+29801,65,Defensive rebound by G. Antetokounmpo,9:32.0,9-7,Milwaukee,0,0.0
+29802,65,B. Portis makes 3-pt jump shot from 26 ft (assist by G. Allen),9:20.0,9-10,Milwaukee,0,0.0
+29803,65,Turnover by C. Payne (bad pass; steal by J. Holiday),9:10.0,9-10,Phoenix,0,0.0
+29804,65,Personal foul by L. Shamet (drawn by J. Holiday),9:06.0,9-10,Milwaukee,0,0.0
+29805,65,K. Middleton misses 3-pt jump shot from 27 ft,8:57.0,9-10,Milwaukee,0,0.0
+29806,65,Defensive rebound by J. Crowder,8:52.0,9-10,Phoenix,0,0.0
+29807,65,D. Ayton misses 2-pt jump shot from 18 ft,8:42.0,9-10,Phoenix,0,0.0
+29808,65,Defensive rebound by K. Middleton,8:40.0,9-10,Milwaukee,0,0.0
+29809,65,Shooting foul by M. Bridges (drawn by G. Antetokounmpo),8:27.0,9-10,Milwaukee,0,0.0
+29810,65,G. Antetokounmpo misses free throw 1 of 2,8:27.0,9-10,Milwaukee,0,0.0
+29811,65,Offensive rebound by Team,8:27.0,9-10,Milwaukee,0,0.0
+29812,65,G. Antetokounmpo makes free throw 2 of 2,8:27.0,9-11,Milwaukee,0,0.0
+29813,65,L. Shamet makes 2-pt jump shot from 23 ft (assist by J. Crowder),8:17.0,11-11,Phoenix,0,0.0
+29814,65,Instant Replay (Request: Ruling Stands),8:17.0,11-11,Phoenix,0,0.0
+29815,65,G. Antetokounmpo makes 2-pt dunk from 2 ft (assist by G. Allen),8:04.0,11-13,Milwaukee,0,0.0
+29816,65,C. Payne misses 3-pt jump shot from 27 ft,7:57.0,11-13,Phoenix,0,0.0
+29817,65,Defensive rebound by K. Middleton,7:54.0,11-13,Milwaukee,0,1.0
+29818,65,Turnover by K. Middleton (bad pass),7:50.0,11-13,Milwaukee,0,0.0
+29819,65,J. Crowder makes 2-pt jump shot from 10 ft,7:39.0,13-13,Phoenix,0,0.0
+29820,65,Shooting foul by B. Portis (drawn by J. Crowder),7:39.0,13-13,Phoenix,0,0.0
+29821,65,J. Crowder makes free throw 1 of 1,7:39.0,14-13,Phoenix,0,0.0
+29822,65,B. Portis misses 3-pt jump shot from 23 ft,7:24.0,14-13,Milwaukee,0,0.0
+29823,65,Defensive rebound by D. Ayton,7:20.0,14-13,Phoenix,0,1.0
+29824,65,Turnover by D. Ayton (bad pass; steal by G. Antetokounmpo),7:02.0,14-13,Phoenix,0,0.0
+29825,65,G. Antetokounmpo makes 2-pt dunk from 1 ft,7:01.0,14-15,Milwaukee,0,0.0
+29826,65,Phoenix full timeout,7:01.0,14-15,Phoenix,0,0.0
+29827,65,J. Carter enters the game for J. Holiday,7:01.0,14-15,Milwaukee,1,0.0
+29828,65,L. Shamet misses 3-pt jump shot from 27 ft,6:45.0,14-15,Phoenix,0,0.0
+29829,65,Defensive rebound by K. Middleton,6:42.0,14-15,Milwaukee,0,0.0
+29830,65,Turnover by J. Carter (bad pass; steal by L. Shamet),6:27.0,14-15,Milwaukee,0,0.0
+29831,65,Personal foul by G. Allen (drawn by M. Bridges),6:21.0,14-15,Phoenix,0,0.0
+29832,65,T. Craig enters the game for L. Shamet,6:21.0,14-15,Phoenix,0,0.0
+29833,65,S. Ibaka enters the game for B. Portis,6:21.0,14-15,Milwaukee,1,0.0
+29834,65,D. Ayton misses 2-pt jump shot from 16 ft,6:10.0,14-15,Phoenix,0,0.0
+29835,65,Defensive rebound by G. Antetokounmpo,6:07.0,14-15,Milwaukee,0,0.0
+29836,65,K. Middleton misses 3-pt jump shot from 25 ft,6:01.0,14-15,Milwaukee,0,0.0
+29837,65,Defensive rebound by T. Craig,5:58.0,14-15,Phoenix,0,0.0
+29838,65,C. Payne makes 2-pt layup from 1 ft,5:51.0,16-15,Phoenix,0,0.0
+29839,65,Def 3 sec tech foul by Team,5:36.0,16-15,Milwaukee,0,0.0
+29840,65,K. Middleton makes technical free throw,5:36.0,16-16,Milwaukee,0,0.0
+29841,65,A. Holiday enters the game for C. Payne,5:36.0,16-16,Phoenix,0,1.0
+29842,65,K. Middleton misses 2-pt dunk from 3 ft,5:26.0,16-16,Milwaukee,0,1.0
+29843,65,Defensive rebound by Team,5:25.0,16-16,Phoenix,0,0.0
+29844,65,D. Ayton makes 2-pt hook shot from 13 ft (assist by A. Holiday),5:12.0,18-16,Phoenix,0,0.0
+29845,65,S. Ibaka makes 3-pt jump shot from 27 ft (assist by K. Middleton),4:57.0,18-19,Milwaukee,0,0.0
+29846,65,D. Ayton makes 2-pt jump shot from 16 ft (assist by J. Crowder),4:36.0,20-19,Phoenix,0,0.0
+29847,65,S. Ibaka misses 2-pt hook shot from 5 ft,4:15.0,20-19,Milwaukee,0,0.0
+29848,65,Defensive rebound by D. Ayton,4:12.0,20-19,Phoenix,0,0.0
+29849,65,Personal foul by G. Allen (drawn by D. Ayton),4:05.0,20-19,Phoenix,0,0.0
+29850,65,B. Biyombo enters the game for J. Crowder,4:05.0,20-19,Phoenix,0,0.0
+29851,65,J. Holiday enters the game for G. Allen,4:05.0,20-19,Milwaukee,1,0.0
+29852,65,J. Nwora enters the game for G. Antetokounmpo,4:05.0,20-19,Milwaukee,1,0.0
+29853,65,T. Craig makes 3-pt jump shot from 26 ft (assist by D. Ayton),3:49.0,23-19,Phoenix,0,0.0
+29854,65,Turnover by J. Holiday (lost ball; steal by B. Biyombo),3:39.0,23-19,Milwaukee,0,0.0
+29855,65,T. Craig misses 3-pt jump shot from 29 ft,3:31.0,23-19,Phoenix,0,0.0
+29856,65,Defensive rebound by J. Carter,3:27.0,23-19,Milwaukee,0,0.0
+29857,65,K. Middleton makes 2-pt jump shot from 16 ft (assist by J. Carter),3:21.0,23-21,Milwaukee,0,0.0
+29858,65,A. Holiday makes 2-pt layup from 1 ft,3:06.0,25-21,Phoenix,0,0.0
+29859,65,Milwaukee full timeout,3:02.0,25-21,Milwaukee,0,0.0
+29860,65,L. Shamet enters the game for D. Ayton,3:02.0,25-21,Phoenix,0,0.0
+29861,65,K. Middleton makes 3-pt jump shot from 26 ft (assist by J. Holiday),2:56.0,25-24,Milwaukee,0,1.0
+29862,65,L. Shamet misses 2-pt jump shot from 18 ft,2:40.0,25-24,Phoenix,0,0.0
+29863,65,Defensive rebound by J. Nwora,2:35.0,25-24,Milwaukee,0,1.0
+29864,65,K. Middleton makes 2-pt jump shot from 21 ft,2:28.0,25-26,Milwaukee,0,0.0
+29865,65,T. Craig makes 2-pt jump shot from 10 ft,2:09.0,27-26,Phoenix,0,0.0
+29866,65,S. Ibaka makes 2-pt jump shot from 15 ft (assist by J. Carter),1:52.0,27-28,Milwaukee,0,0.0
+29867,65,A. Holiday misses 2-pt jump shot from 12 ft (block by J. Holiday),1:40.0,27-28,Phoenix,0,0.0
+29868,65,Defensive rebound by S. Ibaka,1:35.0,27-28,Milwaukee,0,0.0
+29869,65,Offensive foul by K. Middleton (drawn by L. Shamet),1:26.0,27-28,Milwaukee,0,0.0
+29870,65,Turnover by K. Middleton (offensive foul),1:26.0,27-28,Milwaukee,0,0.0
+29871,65,D. Bembry enters the game for K. Middleton,1:26.0,27-28,Milwaukee,1,1.0
+29872,65,Personal foul by J. Holiday (drawn by L. Shamet),1:15.0,27-28,Phoenix,0,0.0
+29873,65,G. Antetokounmpo enters the game for S. Ibaka,1:15.0,27-28,Milwaukee,1,0.0
+29874,65,A. Holiday makes 2-pt jump shot from 14 ft,1:07.0,29-28,Phoenix,0,0.0
+29875,65,Turnover by J. Holiday (lost ball; steal by B. Biyombo),0:50.0,29-28,Milwaukee,0,0.0
+29876,65,Clear path foul by G. Antetokounmpo,0:48.0,29-28,Milwaukee,0,0.0
+29877,65,Instant Replay,0:48.0,29-28,Milwaukee,0,0.0
+29878,65,L. Shamet makes clear path free throw 1 of 2,0:48.0,30-28,Phoenix,0,0.0
+29879,65,L. Shamet makes clear path free throw 2 of 2,0:48.0,31-28,Phoenix,0,0.0
+29880,65,J. McGee enters the game for M. Bridges,0:48.0,31-28,Phoenix,0,0.0
+29881,65,B. Portis enters the game for J. Carter,0:48.0,31-28,Milwaukee,1,0.0
+29882,65,J. McGee misses 2-pt layup from 6 ft,0:38.0,31-28,Phoenix,0,0.0
+29883,65,Defensive rebound by D. Bembry,0:34.0,31-28,Milwaukee,0,0.0
+29884,65,Turnover by J. Holiday (bad pass; steal by A. Holiday),0:27.0,31-28,Milwaukee,0,0.0
+29885,65,A. Holiday misses 2-pt jump shot from 14 ft,0:09.0,31-28,Phoenix,0,0.0
+29886,65,Offensive rebound by A. Holiday,0:07.0,31-28,Phoenix,0,0.0
+29887,65,A. Holiday makes 2-pt layup from 2 ft,0:07.0,33-28,Phoenix,0,0.0
+29888,65,G. Antetokounmpo makes 2-pt layup from 2 ft,0:01.0,33-30,Milwaukee,0,0.0
+29889,65,T. Craig misses 3-pt jump shot from 55 ft,0:01.0,33-30,Phoenix,0,0.0
+29890,65,Offensive rebound by Team,0:01.0,33-30,Phoenix,0,0.0
+29891,65,Turnover by G. Antetokounmpo (bad pass; steal by A. Holiday),11:35.0,33-30,Milwaukee,0,0.0
+29892,65,L. Shamet makes 2-pt layup from 2 ft (assist by T. Craig),11:31.0,35-30,Phoenix,0,0.0
+29893,65,J. Holiday misses 2-pt layup from 3 ft,11:12.0,35-30,Milwaukee,0,1.0
+29894,65,Defensive rebound by Team,11:12.0,35-30,Phoenix,0,0.0
+29895,65,J. McGee makes 2-pt layup from 1 ft (assist by L. Shamet),10:56.0,37-30,Phoenix,0,0.0
+29896,65,B. Portis misses 2-pt hook shot from 8 ft (block by T. Craig),10:56.0,37-30,Milwaukee,0,0.0
+29897,65,Offensive rebound by B. Portis,10:56.0,37-30,Milwaukee,0,0.0
+29898,65,J. Nwora misses 3-pt jump shot from 22 ft,10:34.0,37-30,Milwaukee,0,0.0
+29899,65,Defensive rebound by B. Biyombo,10:31.0,37-30,Phoenix,0,0.0
+29900,65,Shooting foul by D. Bembry (drawn by L. Shamet),10:23.0,37-30,Phoenix,0,0.0
+29901,65,L. Shamet makes free throw 1 of 3,10:23.0,38-30,Phoenix,0,0.0
+29902,65,L. Shamet makes free throw 2 of 3,10:23.0,39-30,Phoenix,0,0.0
+29903,65,G. Allen enters the game for J. Nwora,10:23.0,39-30,Milwaukee,1,0.0
+29904,65,L. Shamet misses free throw 3 of 3,10:23.0,39-30,Phoenix,0,0.0
+29905,65,Defensive rebound by G. Antetokounmpo,10:20.0,39-30,Milwaukee,0,0.0
+29906,65,Shooting foul by T. Craig (drawn by G. Allen),10:01.0,39-30,Milwaukee,0,0.0
+29907,65,G. Allen makes free throw 1 of 2,10:01.0,39-31,Milwaukee,0,0.0
+29908,65,G. Allen makes free throw 2 of 2,10:01.0,39-32,Milwaukee,0,0.0
+29909,65,T. Craig misses 3-pt jump shot from 29 ft,9:43.0,39-32,Phoenix,0,0.0
+29910,65,Defensive rebound by G. Antetokounmpo,9:39.0,39-32,Milwaukee,0,0.0
+29911,65,Personal foul by T. Craig (drawn by D. Bembry),9:37.0,39-32,Milwaukee,0,0.0
+29912,65,B. Portis misses 3-pt jump shot from 23 ft,9:28.0,39-32,Milwaukee,0,0.0
+29913,65,Defensive rebound by B. Biyombo,9:26.0,39-32,Phoenix,0,0.0
+29914,65,Turnover by A. Holiday (bad pass; steal by J. Holiday),9:16.0,39-32,Phoenix,0,0.0
+29915,65,G. Antetokounmpo makes 2-pt dunk from 2 ft (assist by G. Allen),9:11.0,39-34,Milwaukee,0,1.0
+29916,65,L. Shamet misses 2-pt jump shot from 18 ft,8:49.0,39-34,Phoenix,0,0.0
+29917,65,Offensive rebound by B. Biyombo,8:46.0,39-34,Phoenix,0,0.0
+29918,65,Turnover by T. Craig (bad pass; steal by J. Holiday),8:38.0,39-34,Phoenix,0,0.0
+29919,65,G. Allen makes 3-pt jump shot from 26 ft (assist by J. Holiday),8:33.0,39-37,Milwaukee,0,0.0
+29920,65,Phoenix full timeout,8:33.0,39-37,Phoenix,0,0.0
+29921,65,D. Ayton enters the game for B. Biyombo,8:33.0,39-37,Phoenix,0,0.0
+29922,65,M. Bridges enters the game for T. Craig,8:33.0,39-37,Phoenix,0,1.0
+29923,65,J. Crowder enters the game for A. Holiday,8:33.0,39-37,Phoenix,0,0.0
+29924,65,C. Payne enters the game for J. McGee,8:33.0,39-37,Phoenix,0,0.0
+29925,65,S. Ibaka enters the game for B. Portis,8:33.0,39-37,Milwaukee,1,0.0
+29926,65,D. Ayton makes 2-pt jump shot from 13 ft (assist by C. Payne),8:21.0,41-37,Phoenix,0,0.0
+29927,65,G. Allen misses 3-pt jump shot from 28 ft,8:12.0,41-37,Milwaukee,0,0.0
+29928,65,Defensive rebound by D. Ayton,8:09.0,41-37,Phoenix,0,1.0
+29929,65,C. Payne makes 2-pt jump shot from 13 ft,8:00.0,43-37,Phoenix,0,0.0
+29930,65,G. Antetokounmpo makes 2-pt layup from 2 ft (assist by J. Holiday),7:48.0,43-39,Milwaukee,0,0.0
+29931,65,L. Shamet makes 3-pt jump shot from 26 ft (assist by C. Payne),7:31.0,46-39,Phoenix,0,0.0
+29932,65,K. Middleton enters the game for J. Holiday,7:31.0,46-39,Milwaukee,1,0.0
+29933,65,K. Middleton misses 2-pt jump shot from 15 ft,7:05.0,46-39,Milwaukee,0,0.0
+29934,65,Offensive rebound by S. Ibaka,7:04.0,46-39,Milwaukee,0,0.0
+29935,65,Turnover by Team (shot clock),7:04.0,46-39,Milwaukee,0,0.0
+29936,65,C. Payne misses 2-pt jump shot from 13 ft,6:52.0,46-39,Phoenix,0,0.0
+29937,65,Offensive rebound by Team,6:51.0,46-39,Phoenix,0,1.0
+29938,65,J. Carter enters the game for G. Antetokounmpo,6:51.0,46-39,Milwaukee,1,0.0
+29939,65,L. Shamet makes 3-pt jump shot from 27 ft (assist by M. Bridges),6:45.0,49-39,Phoenix,0,0.0
+29940,65,K. Middleton misses 2-pt jump shot from 18 ft,6:22.0,49-39,Milwaukee,0,0.0
+29941,65,Defensive rebound by C. Payne,6:20.0,49-39,Phoenix,0,0.0
+29942,65,J. Crowder misses 3-pt jump shot from 26 ft,6:16.0,49-39,Phoenix,0,0.0
+29943,65,Defensive rebound by K. Middleton,6:16.0,49-39,Milwaukee,0,0.0
+29944,65,K. Middleton makes 2-pt jump shot from 9 ft,6:02.0,49-41,Milwaukee,0,0.0
+29945,65,C. Payne makes 2-pt layup from 2 ft,5:45.0,51-41,Phoenix,0,0.0
+29946,65,Milwaukee full timeout,5:40.0,51-41,Milwaukee,0,0.0
+29947,65,B. Portis enters the game for D. Bembry,5:40.0,51-41,Milwaukee,1,0.0
+29948,65,K. Middleton makes 2-pt layup from 1 ft (assist by J. Carter),5:32.0,51-43,Milwaukee,0,0.0
+29949,65,J. Crowder misses 3-pt jump shot from 24 ft,5:16.0,51-43,Phoenix,0,0.0
+29950,65,Defensive rebound by K. Middleton,5:13.0,51-43,Milwaukee,0,0.0
+29951,65,Turnover by K. Middleton (bad pass; steal by M. Bridges),5:09.0,51-43,Milwaukee,0,0.0
+29952,65,J. Crowder makes 2-pt layup from 3 ft (assist by C. Payne),5:04.0,53-43,Phoenix,0,0.0
+29953,65,K. Middleton makes 2-pt jump shot from 15 ft (assist by J. Carter),4:50.0,53-45,Milwaukee,0,0.0
+29954,65,D. Ayton makes 2-pt jump shot from 18 ft (assist by J. Crowder),4:27.0,55-45,Phoenix,0,0.0
+29955,65,S. Ibaka makes 2-pt hook shot from 6 ft (assist by K. Middleton),4:12.0,55-47,Milwaukee,0,0.0
+29956,65,M. Bridges misses 2-pt jump shot from 16 ft,3:47.0,55-47,Phoenix,0,0.0
+29957,65,Defensive rebound by S. Ibaka,3:44.0,55-47,Milwaukee,0,1.0
+29958,65,S. Ibaka misses 2-pt layup from 7 ft (block by C. Payne),3:35.0,55-47,Milwaukee,0,1.0
+29959,65,Offensive rebound by S. Ibaka,3:31.0,55-47,Milwaukee,0,0.0
+29960,65,S. Ibaka makes 2-pt layup from 1 ft,3:30.0,55-49,Milwaukee,0,0.0
+29961,65,M. Bridges misses 2-pt jump shot from 20 ft,3:18.0,55-49,Phoenix,0,0.0
+29962,65,Defensive rebound by S. Ibaka,3:16.0,55-49,Milwaukee,0,0.0
+29963,65,S. Ibaka misses 3-pt jump shot from 27 ft,3:08.0,55-49,Milwaukee,0,0.0
+29964,65,Offensive rebound by B. Portis,3:07.0,55-49,Milwaukee,0,0.0
+29965,65,B. Portis misses 2-pt layup from 4 ft (block by L. Shamet),3:07.0,55-49,Milwaukee,0,0.0
+29966,65,Offensive rebound by Team,3:07.0,55-49,Milwaukee,0,0.0
+29967,65,G. Antetokounmpo enters the game for G. Allen,3:07.0,55-49,Milwaukee,1,0.0
+29968,65,J. Holiday enters the game for S. Ibaka,3:07.0,55-49,Milwaukee,1,0.0
+29969,65,G. Antetokounmpo misses 2-pt layup from 4 ft,3:00.0,55-49,Milwaukee,0,0.0
+29970,65,Offensive rebound by J. Carter,2:58.0,55-49,Milwaukee,0,0.0
+29971,65,K. Middleton misses 3-pt jump shot from 27 ft,2:55.0,55-49,Milwaukee,0,0.0
+29972,65,Offensive rebound by G. Antetokounmpo,2:53.0,55-49,Milwaukee,0,1.0
+29973,65,G. Antetokounmpo makes 2-pt dunk from 1 ft,2:52.0,55-51,Milwaukee,0,0.0
+29974,65,D. Ayton misses 2-pt layup from 1 ft,2:32.0,55-51,Phoenix,0,0.0
+29975,65,Offensive rebound by D. Ayton,2:31.0,55-51,Phoenix,0,0.0
+29976,65,D. Ayton makes 2-pt layup from 2 ft,2:29.0,57-51,Phoenix,0,0.0
+29977,65,J. Carter misses 3-pt jump shot from 29 ft,2:19.0,57-51,Milwaukee,0,0.0
+29978,65,Defensive rebound by L. Shamet,2:17.0,57-51,Phoenix,0,0.0
+29979,65,D. Ayton makes 2-pt hook shot from 7 ft (assist by C. Payne),2:09.0,59-51,Phoenix,0,0.0
+29980,65,Personal foul by J. Crowder (drawn by G. Antetokounmpo),1:56.0,59-51,Milwaukee,0,0.0
+29981,65,A. Holiday enters the game for L. Shamet,1:56.0,59-51,Phoenix,0,0.0
+29982,65,J. Nwora enters the game for J. Carter,1:56.0,59-51,Milwaukee,1,0.0
+29983,65,Turnover by B. Portis (lost ball; steal by D. Ayton),1:47.0,59-51,Milwaukee,0,0.0
+29984,65,Shooting foul by G. Antetokounmpo (drawn by C. Payne),1:40.0,59-51,Phoenix,0,0.0
+29985,65,C. Payne makes free throw 1 of 2,1:40.0,60-51,Phoenix,0,0.0
+29986,65,C. Payne makes free throw 2 of 2,1:40.0,61-51,Phoenix,0,0.0
+29987,65,B. Portis makes 3-pt jump shot from 24 ft (assist by K. Middleton),1:26.0,61-54,Milwaukee,0,0.0
+29988,65,C. Payne misses 2-pt layup from 3 ft,1:12.0,61-54,Phoenix,0,0.0
+29989,65,Defensive rebound by G. Antetokounmpo,1:09.0,61-54,Milwaukee,0,0.0
+29990,65,J. Nwora makes 3-pt jump shot from 26 ft (assist by J. Holiday),1:03.0,61-57,Milwaukee,0,0.0
+29991,65,D. Ayton makes 2-pt layup from 1 ft (assist by C. Payne),0:43.0,63-57,Phoenix,0,0.0
+29992,65,J. Holiday misses 2-pt jump shot from 15 ft,0:32.0,63-57,Milwaukee,0,0.0
+29993,65,Defensive rebound by J. Crowder,0:30.0,63-57,Phoenix,0,0.0
+29994,65,J. Crowder misses 3-pt jump shot from 27 ft,0:13.0,63-57,Phoenix,0,0.0
+29995,65,Defensive rebound by G. Antetokounmpo,0:13.0,63-57,Milwaukee,0,0.0
+29996,65,K. Middleton makes 3-pt jump shot from 28 ft (assist by G. Antetokounmpo),0:00.0,63-60,Milwaukee,0,0.0
+29997,65,J. Holiday misses 2-pt layup from 2 ft,11:45.0,63-60,Milwaukee,0,0.0
+29998,65,Defensive rebound by D. Ayton,11:42.0,63-60,Phoenix,0,0.0
+29999,65,L. Shamet misses 2-pt layup from 4 ft,11:25.0,63-60,Phoenix,0,0.0
+30000,65,Defensive rebound by K. Middleton,11:25.0,63-60,Milwaukee,0,0.0
+30001,65,G. Allen makes 2-pt layup from 1 ft (assist by J. Holiday),11:17.0,63-62,Milwaukee,0,0.0
+30002,65,M. Bridges misses 3-pt jump shot from 26 ft,11:02.0,63-62,Phoenix,0,0.0
+30003,65,Defensive rebound by G. Antetokounmpo,10:58.0,63-62,Milwaukee,0,0.0
+30004,65,G. Antetokounmpo misses 2-pt jump shot from 4 ft,10:51.0,63-62,Milwaukee,0,0.0
+30005,65,Defensive rebound by J. Crowder,10:49.0,63-62,Phoenix,0,0.0
+30006,65,D. Ayton makes 2-pt jump shot from 14 ft (assist by M. Bridges),10:39.0,65-62,Phoenix,0,0.0
+30007,65,K. Middleton makes 2-pt layup from 1 ft (assist by J. Holiday),10:27.0,65-64,Milwaukee,0,0.0
+30008,65,J. Crowder makes 2-pt jump shot from 19 ft,10:06.0,67-64,Phoenix,0,0.0
+30009,65,Offensive foul by G. Allen (drawn by C. Payne),9:48.0,67-64,Milwaukee,0,0.0
+30010,65,Turnover by G. Allen (offensive foul),9:48.0,67-64,Milwaukee,0,0.0
+30011,65,Technical foul by M. Budenholzer,9:48.0,67-64,Milwaukee,0,0.0
+30012,65,L. Shamet misses technical free throw,9:48.0,67-64,Phoenix,0,0.0
+30013,65,Offensive rebound by Team,9:48.0,67-64,Phoenix,0,0.0
+30014,65,Personal foul by G. Antetokounmpo (drawn by C. Payne),9:39.0,67-64,Phoenix,0,0.0
+30015,65,C. Payne misses 2-pt jump shot from 7 ft,9:31.0,67-64,Phoenix,0,0.0
+30016,65,Defensive rebound by G. Antetokounmpo,9:27.0,67-64,Milwaukee,0,0.0
+30017,65,G. Antetokounmpo misses 2-pt layup from 4 ft,9:24.0,67-64,Milwaukee,0,0.0
+30018,65,Defensive rebound by Team,9:24.0,67-64,Phoenix,0,0.0
+30019,65,M. Bridges misses 2-pt layup from 2 ft (block by G. Antetokounmpo),9:12.0,67-64,Phoenix,0,0.0
+30020,65,Defensive rebound by K. Middleton,9:08.0,67-64,Milwaukee,0,0.0
+30021,65,Shooting foul by L. Shamet (drawn by B. Portis),9:05.0,67-64,Milwaukee,0,0.0
+30022,65,B. Portis misses free throw 1 of 2,9:05.0,67-64,Milwaukee,0,0.0
+30023,65,Offensive rebound by Team,9:05.0,67-64,Milwaukee,0,0.0
+30024,65,B. Portis makes free throw 2 of 2,9:05.0,67-65,Milwaukee,0,0.0
+30025,65,D. Ayton makes 2-pt jump shot from 11 ft (assist by C. Payne),8:50.0,69-65,Phoenix,0,0.0
+30026,65,Shooting foul by C. Payne (drawn by J. Holiday),8:42.0,69-65,Milwaukee,0,0.0
+30027,65,J. Holiday makes free throw 1 of 2,8:42.0,69-66,Milwaukee,0,0.0
+30028,65,J. Holiday makes free throw 2 of 2,8:42.0,69-67,Milwaukee,0,0.0
+30029,65,D. Ayton misses 2-pt jump shot from 16 ft,8:26.0,69-67,Phoenix,0,0.0
+30030,65,Defensive rebound by J. Holiday,8:23.0,69-67,Milwaukee,0,0.0
+30031,65,J. Holiday misses 2-pt jump shot from 20 ft,8:17.0,69-67,Milwaukee,0,0.0
+30032,65,Defensive rebound by D. Ayton,8:15.0,69-67,Phoenix,0,0.0
+30033,65,M. Bridges misses 2-pt layup from 3 ft,8:10.0,69-67,Phoenix,0,0.0
+30034,65,Defensive rebound by G. Antetokounmpo,8:08.0,69-67,Milwaukee,0,0.0
+30035,65,Shooting foul by J. Crowder (drawn by B. Portis),8:03.0,69-67,Milwaukee,0,0.0
+30036,65,B. Portis makes free throw 1 of 2,8:03.0,69-68,Milwaukee,0,1.0
+30037,65,B. Portis makes free throw 2 of 2,8:03.0,69-69,Milwaukee,0,0.0
+30038,65,C. Payne makes 2-pt layup from 3 ft (assist by J. Crowder),7:50.0,71-69,Phoenix,0,0.0
+30039,65,G. Antetokounmpo misses 2-pt jump shot from 13 ft,7:26.0,71-69,Milwaukee,0,1.0
+30040,65,Defensive rebound by D. Ayton,7:23.0,71-69,Phoenix,0,0.0
+30041,65,J. Crowder misses 3-pt jump shot from 26 ft,7:18.0,71-69,Phoenix,0,0.0
+30042,65,Defensive rebound by K. Middleton,7:16.0,71-69,Milwaukee,0,0.0
+30043,65,K. Middleton makes 2-pt layup from 1 ft,7:11.0,71-71,Milwaukee,0,0.0
+30044,65,Shooting foul by C. Payne (drawn by K. Middleton),7:11.0,71-71,Milwaukee,0,0.0
+30045,65,A. Holiday enters the game for C. Payne,7:11.0,71-71,Phoenix,0,1.0
+30046,65,J. Nwora enters the game for G. Allen,7:11.0,71-71,Milwaukee,1,0.0
+30047,65,K. Middleton makes free throw 1 of 1,7:11.0,71-72,Milwaukee,0,0.0
+30048,65,Personal foul by K. Middleton (drawn by L. Shamet),7:01.0,71-72,Phoenix,0,0.0
+30049,65,J. Carter enters the game for J. Holiday,7:01.0,71-72,Milwaukee,1,0.0
+30050,65,D. Ayton makes 2-pt hook shot from 7 ft (assist by L. Shamet),6:52.0,73-72,Phoenix,0,0.0
+30051,65,B. Portis misses 3-pt jump shot from 24 ft,6:44.0,73-72,Milwaukee,0,0.0
+30052,65,Defensive rebound by A. Holiday,6:41.0,73-72,Phoenix,0,0.0
+30053,65,L. Shamet makes 3-pt jump shot from 27 ft (assist by A. Holiday),6:35.0,76-72,Phoenix,0,0.0
+30054,65,Milwaukee full timeout,6:28.0,76-72,Milwaukee,0,0.0
+30055,65,S. Ibaka enters the game for B. Portis,6:28.0,76-72,Milwaukee,1,0.0
+30056,65,G. Antetokounmpo misses 3-pt jump shot from 26 ft,6:12.0,76-72,Milwaukee,0,0.0
+30057,65,Defensive rebound by J. Crowder,6:09.0,76-72,Phoenix,0,0.0
+30058,65,A. Holiday misses 2-pt jump shot from 19 ft,5:53.0,76-72,Phoenix,0,0.0
+30059,65,Defensive rebound by J. Nwora,5:50.0,76-72,Milwaukee,0,0.0
+30060,65,Shooting foul by D. Ayton (drawn by G. Antetokounmpo),5:50.0,76-72,Milwaukee,0,0.0
+30061,65,G. Antetokounmpo misses free throw 1 of 2,5:50.0,76-72,Milwaukee,0,0.0
+30062,65,Offensive rebound by Team,5:50.0,76-72,Milwaukee,0,1.0
+30063,65,B. Biyombo enters the game for J. Crowder,5:50.0,76-72,Phoenix,0,1.0
+30064,65,G. Antetokounmpo makes free throw 2 of 2,5:50.0,76-73,Milwaukee,0,0.0
+30065,65,D. Ayton makes 2-pt jump shot from 16 ft (assist by M. Bridges),5:35.0,78-73,Phoenix,0,0.0
+30066,65,K. Middleton makes 3-pt jump shot from 27 ft (assist by G. Antetokounmpo),5:20.0,78-76,Milwaukee,0,0.0
+30067,65,M. Bridges makes 3-pt jump shot from 23 ft (assist by A. Holiday),4:57.0,81-76,Phoenix,0,0.0
+30068,65,Shooting foul by M. Bridges (drawn by K. Middleton),4:44.0,81-76,Milwaukee,0,0.0
+30069,65,K. Middleton makes free throw 1 of 3,4:44.0,81-77,Milwaukee,0,0.0
+30070,65,K. Middleton makes free throw 2 of 3,4:44.0,81-78,Milwaukee,0,0.0
+30071,65,T. Craig enters the game for D. Ayton,4:44.0,81-78,Phoenix,0,0.0
+30072,65,J. Holiday enters the game for G. Antetokounmpo,4:44.0,81-78,Milwaukee,1,0.0
+30073,65,B. Portis enters the game for J. Carter,4:44.0,81-78,Milwaukee,1,0.0
+30074,65,K. Middleton makes free throw 3 of 3,4:44.0,81-79,Milwaukee,0,0.0
+30075,65,A. Holiday makes 2-pt jump shot from 18 ft (assist by L. Shamet),4:27.0,83-79,Phoenix,0,0.0
+30076,65,J. Nwora misses 3-pt jump shot from 26 ft,4:07.0,83-79,Milwaukee,0,0.0
+30077,65,Defensive rebound by A. Holiday,4:04.0,83-79,Phoenix,0,0.0
+30078,65,L. Shamet misses 3-pt jump shot from 27 ft,3:59.0,83-79,Phoenix,0,0.0
+30079,65,Defensive rebound by Team,3:59.0,83-79,Milwaukee,0,0.0
+30080,65,Loose ball foul by B. Biyombo (drawn by S. Ibaka),3:59.0,83-79,Phoenix,0,0.0
+30081,65,S. Ibaka misses free throw 1 of 2,3:59.0,83-79,Milwaukee,0,0.0
+30082,65,Offensive rebound by Team,3:59.0,83-79,Milwaukee,0,0.0
+30083,65,C. Payne enters the game for L. Shamet,3:59.0,83-79,Phoenix,0,0.0
+30084,65,S. Ibaka misses free throw 2 of 2,3:59.0,83-79,Milwaukee,0,0.0
+30085,65,Offensive rebound by S. Ibaka,3:55.0,83-79,Milwaukee,0,0.0
+30086,65,J. Nwora misses 3-pt jump shot from 24 ft,3:49.0,83-79,Milwaukee,0,0.0
+30087,65,Offensive rebound by S. Ibaka,3:47.0,83-79,Milwaukee,0,0.0
+30088,65,S. Ibaka makes 2-pt layup from 1 ft,3:46.0,83-81,Milwaukee,0,0.0
+30089,65,C. Payne makes 3-pt jump shot from 27 ft (assist by A. Holiday),3:35.0,86-81,Phoenix,0,0.0
+30090,65,Offensive foul by B. Portis (drawn by A. Holiday),3:28.0,86-81,Milwaukee,0,0.0
+30091,65,Turnover by B. Portis (offensive foul),3:28.0,86-81,Milwaukee,0,1.0
+30092,65,Personal foul by J. Nwora (drawn by A. Holiday),3:20.0,86-81,Phoenix,0,0.0
+30093,65,Turnover by B. Biyombo (lost ball; steal by J. Nwora),3:07.0,86-81,Phoenix,0,0.0
+30094,65,K. Middleton misses 2-pt layup from 3 ft,2:55.0,86-81,Milwaukee,0,0.0
+30095,65,Offensive rebound by S. Ibaka,2:54.0,86-81,Milwaukee,0,0.0
+30096,65,S. Ibaka misses 2-pt layup from 1 ft,2:54.0,86-81,Milwaukee,0,0.0
+30097,65,Offensive rebound by S. Ibaka,2:54.0,86-81,Milwaukee,0,0.0
+30098,65,S. Ibaka makes 2-pt layup from 2 ft,2:53.0,86-83,Milwaukee,0,0.0
+30099,65,Shooting foul by B. Biyombo (drawn by S. Ibaka),2:53.0,86-83,Milwaukee,0,0.0
+30100,65,Phoenix full timeout,2:53.0,86-83,Phoenix,0,0.0
+30101,65,G. Allen enters the game for K. Middleton,2:53.0,86-83,Milwaukee,1,0.0
+30102,65,S. Ibaka makes free throw 1 of 1,2:53.0,86-84,Milwaukee,0,0.0
+30103,65,Turnover by C. Payne (bad pass),2:39.0,86-84,Phoenix,0,0.0
+30104,65,J. Nwora makes 2-pt jump shot from 8 ft (assist by J. Holiday),2:19.0,86-86,Milwaukee,0,0.0
+30105,65,M. Bridges makes 2-pt jump shot from 15 ft,2:06.0,88-86,Phoenix,0,0.0
+30106,65,J. Nwora misses 3-pt jump shot from 27 ft,1:49.0,88-86,Milwaukee,0,0.0
+30107,65,Defensive rebound by T. Craig,1:46.0,88-86,Phoenix,0,0.0
+30108,65,C. Payne makes 2-pt jump shot from 15 ft,1:37.0,90-86,Phoenix,0,0.0
+30109,65,G. Allen misses 2-pt layup from 6 ft,1:12.0,90-86,Milwaukee,0,0.0
+30110,65,Offensive rebound by B. Portis,1:11.0,90-86,Milwaukee,0,0.0
+30111,65,B. Portis misses 2-pt layup from 4 ft (block by B. Biyombo),1:10.0,90-86,Milwaukee,0,0.0
+30112,65,Defensive rebound by T. Craig,1:10.0,90-86,Phoenix,0,1.0
+30113,65,C. Payne misses 3-pt jump shot from 25 ft,1:00.0,90-86,Phoenix,0,0.0
+30114,65,Defensive rebound by J. Nwora,0:57.0,90-86,Milwaukee,0,0.0
+30115,65,J. Holiday makes 2-pt layup from 1 ft (assist by S. Ibaka),0:44.0,90-88,Milwaukee,0,0.0
+30116,65,Violation by Team (delay of game),0:44.0,90-88,Milwaukee,0,0.0
+30117,65,Turnover by T. Craig (lost ball; steal by G. Allen),0:26.0,90-88,Phoenix,0,0.0
+30118,65,J. Nwora makes 2-pt layup from 1 ft (assist by G. Allen),0:23.0,90-90,Milwaukee,0,0.0
+30119,65,Shooting foul by A. Holiday (drawn by J. Nwora),0:23.0,90-90,Milwaukee,0,0.0
+30120,65,J. McGee enters the game for B. Biyombo,0:23.0,90-90,Phoenix,0,0.0
+30121,65,L. Shamet enters the game for A. Holiday,0:23.0,90-90,Phoenix,0,0.0
+30122,65,D. Bembry enters the game for G. Allen,0:23.0,90-90,Milwaukee,1,0.0
+30123,65,J. Nwora makes free throw 1 of 1,0:23.0,90-91,Milwaukee,0,0.0
+30124,65,Personal foul by J. Holiday (drawn by C. Payne),0:12.0,90-91,Phoenix,0,0.0
+30125,65,C. Payne misses 3-pt jump shot from 28 ft,0:02.0,90-91,Phoenix,0,0.0
+30126,65,Offensive rebound by C. Payne,0:00.0,90-91,Phoenix,0,0.0
+30127,65,C. Payne misses 2-pt jump shot from 9 ft,0:00.0,90-91,Phoenix,0,0.0
+30128,65,Offensive rebound by Team,0:00.0,90-91,Phoenix,0,0.0
+30129,65,J. McGee makes 2-pt hook shot from 4 ft (assist by L. Shamet),11:43.0,92-91,Phoenix,0,0.0
+30130,65,G. Allen makes 3-pt jump shot from 27 ft (assist by G. Antetokounmpo),11:27.0,92-94,Milwaukee,0,0.0
+30131,65,C. Payne makes 2-pt jump shot from 11 ft,11:14.0,94-94,Phoenix,0,0.0
+30132,65,Personal foul by L. Shamet (drawn by J. Holiday),11:06.0,94-94,Milwaukee,0,0.0
+30133,65,Offensive foul by G. Antetokounmpo (drawn by C. Payne),11:01.0,94-94,Milwaukee,0,0.0
+30134,65,Turnover by G. Antetokounmpo (offensive foul),11:01.0,94-94,Milwaukee,0,0.0
+30135,65,J. Crowder makes 3-pt jump shot from 27 ft (assist by L. Shamet),10:47.0,97-94,Phoenix,0,0.0
+30136,65,Shooting foul by L. Shamet (drawn by J. Holiday),10:32.0,97-94,Milwaukee,0,0.0
+30137,65,J. Holiday makes free throw 1 of 2,10:32.0,97-95,Milwaukee,0,1.0
+30138,65,M. Bridges enters the game for L. Shamet,10:32.0,97-95,Phoenix,0,0.0
+30139,65,J. Holiday makes free throw 2 of 2,10:32.0,97-96,Milwaukee,0,0.0
+30140,65,C. Payne makes 3-pt jump shot from 27 ft (assist by M. Bridges),10:13.0,100-96,Phoenix,0,0.0
+30141,65,J. Holiday makes 2-pt layup from 1 ft,10:02.0,100-98,Milwaukee,0,0.0
+30142,65,J. McGee misses 2-pt layup from 2 ft (block by G. Antetokounmpo),9:44.0,100-98,Phoenix,0,0.0
+30143,65,Defensive rebound by B. Portis,9:42.0,100-98,Milwaukee,0,0.0
+30144,65,Turnover by J. Holiday (bad pass; steal by T. Craig),9:38.0,100-98,Milwaukee,0,0.0
+30145,65,M. Bridges makes 3-pt jump shot from 23 ft (assist by J. Crowder),9:30.0,103-98,Phoenix,0,0.0
+30146,65,Milwaukee full timeout,9:24.0,103-98,Milwaukee,0,0.0
+30147,65,K. Middleton enters the game for B. Portis,9:24.0,103-98,Milwaukee,1,0.0
+30148,65,J. Holiday makes 2-pt jump shot from 23 ft (assist by G. Antetokounmpo),9:15.0,103-100,Milwaukee,0,0.0
+30149,65,C. Payne misses 2-pt layup from 2 ft,8:50.0,103-100,Phoenix,0,0.0
+30150,65,Offensive rebound by J. McGee,8:45.0,103-100,Phoenix,0,0.0
+30151,65,J. McGee makes 2-pt layup at rim,8:45.0,105-100,Phoenix,0,0.0
+30152,65,K. Middleton misses 2-pt jump shot from 13 ft,8:37.0,105-100,Milwaukee,0,0.0
+30153,65,Defensive rebound by T. Craig,8:34.0,105-100,Phoenix,0,0.0
+30154,65,Turnover by J. Crowder (bad pass; steal by G. Allen),8:22.0,105-100,Phoenix,0,1.0
+30155,65,K. Middleton makes 2-pt layup from 2 ft (assist by G. Allen),8:16.0,105-102,Milwaukee,0,0.0
+30156,65,M. Bridges makes 2-pt jump shot from 14 ft (assist by C. Payne),7:59.0,107-102,Phoenix,0,0.0
+30157,65,K. Middleton misses 3-pt jump shot from 26 ft,7:48.0,107-102,Milwaukee,0,0.0
+30158,65,Offensive rebound by Team,7:48.0,107-102,Milwaukee,0,0.0
+30159,65,Loose ball foul by T. Craig (drawn by G. Antetokounmpo),7:48.0,107-102,Phoenix,0,0.0
+30160,65,D. Ayton enters the game for J. McGee,7:48.0,107-102,Phoenix,0,0.0
+30161,65,J. Holiday misses 2-pt hook shot from 5 ft,7:40.0,107-102,Milwaukee,0,0.0
+30162,65,Defensive rebound by Team,7:40.0,107-102,Phoenix,0,0.0
+30163,65,Loose ball foul by G. Antetokounmpo (drawn by T. Craig),7:40.0,107-102,Milwaukee,0,0.0
+30164,65,S. Ibaka enters the game for G. Antetokounmpo,7:40.0,107-102,Milwaukee,1,0.0
+30165,65,Turnover by D. Ayton (lost ball; steal by J. Holiday),7:29.0,107-102,Phoenix,0,0.0
+30166,65,J. Holiday makes 3-pt jump shot from 28 ft (assist by K. Middleton),7:20.0,107-105,Milwaukee,0,0.0
+30167,65,M. Bridges makes 2-pt jump shot from 12 ft (assist by D. Ayton),6:59.0,109-105,Phoenix,0,1.0
+30168,65,K. Middleton makes 2-pt jump shot from 23 ft,6:45.0,109-107,Milwaukee,0,0.0
+30169,65,Personal foul by J. Holiday (drawn by C. Payne),6:30.0,109-107,Phoenix,0,0.0
+30170,65,Personal foul by J. Holiday (drawn by C. Payne),6:30.0,109-107,Phoenix,0,0.0
+30171,65,D. Ayton makes 2-pt dunk from 1 ft (assist by M. Bridges),6:23.0,111-107,Phoenix,0,0.0
+30172,65,J. Holiday makes 3-pt jump shot from 26 ft,6:11.0,111-110,Milwaukee,0,0.0
+30173,65,D. Ayton makes 2-pt jump shot from 7 ft (assist by C. Payne),5:54.0,113-110,Phoenix,0,0.0
+30174,65,K. Middleton makes 3-pt jump shot from 26 ft (assist by G. Allen),5:34.0,113-113,Milwaukee,0,0.0
+30175,65,Phoenix full timeout,5:34.0,113-113,Phoenix,0,0.0
+30176,65,L. Shamet enters the game for T. Craig,5:34.0,113-113,Phoenix,0,0.0
+30177,65,B. Portis enters the game for G. Allen,5:34.0,113-113,Milwaukee,1,0.0
+30178,65,M. Bridges misses 2-pt jump shot from 11 ft (block by S. Ibaka),5:19.0,113-113,Phoenix,0,0.0
+30179,65,Defensive rebound by S. Ibaka,5:16.0,113-113,Milwaukee,0,0.0
+30180,65,J. Nwora makes 2-pt jump shot from 12 ft (assist by J. Holiday),5:11.0,113-115,Milwaukee,0,0.0
+30181,65,J. Crowder misses 2-pt jump shot from 3 ft,4:49.0,113-115,Phoenix,0,1.0
+30182,65,Defensive rebound by J. Nwora,4:46.0,113-115,Milwaukee,0,0.0
+30183,65,K. Middleton misses 2-pt jump shot from 20 ft,4:35.0,113-115,Milwaukee,0,0.0
+30184,65,Defensive rebound by D. Ayton,4:31.0,113-115,Phoenix,0,0.0
+30185,65,M. Bridges makes 2-pt layup at rim,4:24.0,115-115,Phoenix,0,0.0
+30186,65,J. Holiday makes 3-pt jump shot from 25 ft,4:07.0,115-118,Milwaukee,0,0.0
+30187,65,J. Crowder makes 3-pt jump shot from 26 ft,3:48.0,118-118,Phoenix,0,0.0
+30188,65,K. Middleton makes 2-pt layup from 2 ft,3:32.0,118-120,Milwaukee,0,0.0
+30189,65,L. Shamet misses 2-pt layup from 5 ft (block by S. Ibaka),3:23.0,118-120,Phoenix,0,1.0
+30190,65,Offensive rebound by Team,3:23.0,118-120,Phoenix,0,0.0
+30191,65,G. Antetokounmpo enters the game for S. Ibaka,3:23.0,118-120,Milwaukee,1,0.0
+30192,65,Phoenix full timeout,3:23.0,118-120,Phoenix,0,0.0
+30193,65,J. Crowder makes 3-pt jump shot from 27 ft (assist by M. Bridges),3:13.0,121-120,Phoenix,0,0.0
+30194,65,Milwaukee full timeout,3:05.0,121-120,Milwaukee,0,0.0
+30195,65,J. Nwora misses 3-pt jump shot from 27 ft,2:57.0,121-120,Milwaukee,0,0.0
+30196,65,Offensive rebound by G. Antetokounmpo,2:54.0,121-120,Milwaukee,0,0.0
+30197,65,J. Nwora makes 2-pt jump shot from 18 ft (assist by G. Antetokounmpo),2:52.0,121-122,Milwaukee,0,0.0
+30198,65,Turnover by C. Payne (out of bounds lost ball),2:35.0,121-122,Phoenix,0,0.0
+30199,65,G. Allen enters the game for B. Portis,2:35.0,121-122,Milwaukee,1,0.0
+30200,65,Shooting foul by M. Bridges (drawn by J. Holiday),2:25.0,121-122,Milwaukee,0,0.0
+30201,65,J. Holiday makes free throw 1 of 2,2:25.0,121-123,Milwaukee,0,0.0
+30202,65,J. Holiday makes free throw 2 of 2,2:25.0,121-124,Milwaukee,0,0.0
+30203,65,C. Payne misses 2-pt layup from 6 ft (block by G. Antetokounmpo),2:15.0,121-124,Phoenix,0,0.0
+30204,65,Defensive rebound by J. Nwora,2:11.0,121-124,Milwaukee,0,0.0
+30205,65,K. Middleton misses 2-pt jump shot from 12 ft,1:52.0,121-124,Milwaukee,0,0.0
+30206,65,Offensive rebound by G. Antetokounmpo,1:49.0,121-124,Milwaukee,0,0.0
+30207,65,Shooting foul by D. Ayton (drawn by G. Antetokounmpo),1:45.0,121-124,Milwaukee,0,0.0
+30208,65,G. Antetokounmpo misses free throw 1 of 2,1:45.0,121-124,Milwaukee,0,0.0
+30209,65,Offensive rebound by Team,1:45.0,121-124,Milwaukee,0,0.0
+30210,65,G. Antetokounmpo makes free throw 2 of 2,1:45.0,121-125,Milwaukee,0,1.0
+30211,65,Turnover by M. Bridges (bad pass; steal by K. Middleton),1:28.0,121-125,Phoenix,0,0.0
+30212,65,Personal foul by J. Crowder (drawn by K. Middleton),1:25.0,121-125,Milwaukee,0,0.0
+30213,65,K. Middleton makes free throw 1 of 2,1:25.0,121-126,Milwaukee,0,0.0
+30214,65,K. Middleton makes free throw 2 of 2,1:25.0,121-127,Milwaukee,0,0.0
+30215,65,Phoenix full timeout,1:25.0,121-127,Phoenix,0,0.0
+30216,65,L. Shamet misses 3-pt jump shot from 28 ft,1:18.0,121-127,Phoenix,0,0.0
+30217,65,Offensive rebound by J. Crowder,1:15.0,121-127,Phoenix,0,0.0
+30218,65,Violation by Team (kicked ball),1:15.0,121-127,Milwaukee,0,0.0
+30219,65,Shooting foul by G. Antetokounmpo (drawn by D. Ayton),1:12.0,121-127,Phoenix,0,1.0
+30220,65,B. Portis enters the game for G. Antetokounmpo,1:12.0,121-127,Milwaukee,1,1.0
+30221,65,D. Ayton makes free throw 1 of 2,1:12.0,122-127,Phoenix,0,1.0
+30222,65,D. Ayton misses free throw 2 of 2,1:12.0,122-127,Phoenix,0,1.0
+30223,65,Defensive rebound by B. Portis,1:09.0,122-127,Milwaukee,0,0.0
+30224,65,K. Middleton makes 2-pt jump shot from 17 ft,0:51.0,122-129,Milwaukee,0,0.0
+30225,65,M. Bridges misses 3-pt jump shot from 28 ft,0:37.0,122-129,Phoenix,0,
+30226,65,Defensive rebound by J. Holiday,0:35.0,122-129,Milwaukee,0,
+30227,65,K. Middleton makes 3-pt jump shot from 27 ft,0:21.0,122-132,Milwaukee,0,
+30228,65,Phoenix full timeout,0:21.0,122-132,Phoenix,0,
+30229,65,D. Bembry enters the game for J. Holiday,0:21.0,122-132,Milwaukee,1,
+30230,65,J. Carter enters the game for K. Middleton,0:21.0,122-132,Milwaukee,1,
+30231,65,S. Ibaka enters the game for J. Nwora,0:21.0,122-132,Milwaukee,1,
+30232,65,L. Wigginton enters the game for B. Portis,0:21.0,122-132,Milwaukee,1,
+30233,65,M. Bridges misses 3-pt jump shot from 24 ft,0:19.0,122-132,Phoenix,0,
+30234,65,Defensive rebound by G. Allen,0:15.0,122-132,Milwaukee,0,

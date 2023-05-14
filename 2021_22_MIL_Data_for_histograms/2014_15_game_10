@@ -1,0 +1,444 @@
+,game number,play,time,score,team,current_sub_status,future_sub_status
+4299,10,J. Holiday misses 2-pt layup from 2 ft,11:41.0,0-0,Milwaukee,0,0.0
+4300,10,Defensive rebound by K. Kuzma,11:39.0,0-0,Washington,0,0.0
+4301,10,Shooting foul by G. Antetokounmpo (drawn by D. Gafford),11:34.0,0-0,Washington,0,0.0
+4302,10,D. Gafford misses free throw 1 of 2,11:34.0,0-0,Washington,0,0.0
+4303,10,Offensive rebound by Team,11:34.0,0-0,Washington,0,0.0
+4304,10,D. Gafford makes free throw 2 of 2,11:34.0,0-1,Washington,0,0.0
+4305,10,J. Holiday misses 3-pt jump shot from 23 ft (block by D. Gafford),11:15.0,0-1,Milwaukee,0,0.0
+4306,10,Offensive rebound by B. Portis,11:11.0,0-1,Milwaukee,0,0.0
+4307,10,B. Portis misses 2-pt jump shot from 17 ft,11:10.0,0-1,Milwaukee,0,0.0
+4308,10,Defensive rebound by K. Kuzma,11:08.0,0-1,Washington,0,0.0
+4309,10,B. Beal makes 2-pt jump shot from 16 ft,10:59.0,0-3,Washington,0,0.0
+4310,10,G. Antetokounmpo misses 2-pt jump shot from 14 ft,10:49.0,0-3,Milwaukee,0,0.0
+4311,10,Defensive rebound by B. Beal,10:46.0,0-3,Washington,0,0.0
+4312,10,B. Beal misses 2-pt jump shot from 9 ft,10:32.0,0-3,Washington,0,0.0
+4313,10,Defensive rebound by J. Holiday,10:29.0,0-3,Milwaukee,0,0.0
+4314,10,B. Portis misses 2-pt hook shot from 14 ft,10:20.0,0-3,Milwaukee,0,0.0
+4315,10,Defensive rebound by K. Kuzma,10:16.0,0-3,Washington,0,0.0
+4316,10,S. Dinwiddie makes 3-pt jump shot from 26 ft (assist by K. Kuzma),10:13.0,0-6,Washington,0,0.0
+4317,10,G. Hill misses 3-pt jump shot from 24 ft,9:53.0,0-6,Milwaukee,0,0.0
+4318,10,Defensive rebound by B. Beal,9:50.0,0-6,Washington,0,0.0
+4319,10,K. Caldwell-Pope makes 3-pt jump shot from 26 ft (assist by B. Beal),9:48.0,0-9,Washington,0,0.0
+4320,10,Milwaukee full timeout,9:47.0,0-9,Milwaukee,0,0.0
+4321,10,Turnover by J. Holiday (bad pass; steal by K. Caldwell-Pope),9:35.0,0-9,Milwaukee,0,0.0
+4322,10,Personal foul by B. Portis (drawn by K. Caldwell-Pope),9:33.0,0-9,Washington,0,0.0
+4323,10,Turnover by K. Kuzma (bad pass; steal by B. Portis),9:22.0,0-9,Washington,0,0.0
+4324,10,G. Antetokounmpo misses 2-pt jump shot from 5 ft,9:13.0,0-9,Milwaukee,0,0.0
+4325,10,Defensive rebound by B. Beal,9:11.0,0-9,Washington,0,0.0
+4326,10,B. Beal misses 2-pt layup from 2 ft (block by B. Portis),9:04.0,0-9,Washington,0,0.0
+4327,10,Offensive rebound by Team,9:04.0,0-9,Washington,0,0.0
+4328,10,K. Kuzma makes 3-pt jump shot from 26 ft (assist by S. Dinwiddie),8:57.0,0-12,Washington,0,0.0
+4329,10,G. Allen misses 2-pt jump shot from 12 ft,8:36.0,0-12,Milwaukee,0,0.0
+4330,10,Offensive rebound by B. Portis,8:32.0,0-12,Milwaukee,0,0.0
+4331,10,B. Portis makes 2-pt layup from 5 ft,8:32.0,2-12,Milwaukee,0,0.0
+4332,10,Turnover by K. Kuzma (bad pass),8:16.0,2-12,Washington,0,0.0
+4333,10,J. Holiday makes 2-pt layup from 6 ft,8:06.0,4-12,Milwaukee,0,0.0
+4334,10,K. Caldwell-Pope misses 2-pt jump shot from 18 ft,7:50.0,4-12,Washington,0,0.0
+4335,10,Defensive rebound by J. Holiday,7:48.0,4-12,Milwaukee,0,0.0
+4336,10,B. Portis misses 3-pt jump shot from 26 ft,7:37.0,4-12,Milwaukee,0,0.0
+4337,10,Defensive rebound by B. Beal,7:33.0,4-12,Washington,0,0.0
+4338,10,Turnover by K. Caldwell-Pope (lost ball; steal by G. Allen),7:17.0,4-12,Washington,0,0.0
+4339,10,B. Portis makes 2-pt layup from 6 ft (assist by G. Allen),7:12.0,6-12,Milwaukee,0,0.0
+4340,10,K. Caldwell-Pope misses 3-pt jump shot from 27 ft,6:51.0,6-12,Washington,0,0.0
+4341,10,Defensive rebound by B. Portis,6:49.0,6-12,Milwaukee,0,0.0
+4342,10,G. Allen makes 3-pt jump shot from 23 ft (assist by G. Antetokounmpo),6:38.0,9-12,Milwaukee,0,1.0
+4343,10,B. Beal misses 2-pt jump shot from 13 ft,6:19.0,9-12,Washington,0,1.0
+4344,10,Defensive rebound by G. Antetokounmpo,6:16.0,9-12,Milwaukee,0,1.0
+4345,10,G. Hill misses 3-pt jump shot from 26 ft,6:08.0,9-12,Milwaukee,0,0.0
+4346,10,Defensive rebound by D. Gafford,6:05.0,9-12,Washington,0,0.0
+4347,10,Turnover by B. Beal (bad pass; steal by B. Portis),5:48.0,9-12,Washington,0,0.0
+4348,10,Turnover by B. Portis (lost ball; steal by K. Caldwell-Pope),5:40.0,9-12,Milwaukee,0,0.0
+4349,10,Turnover by B. Beal (bad pass; steal by G. Allen),5:30.0,9-12,Washington,0,0.0
+4350,10,G. Allen makes 2-pt jump shot from 5 ft,5:22.0,11-12,Milwaukee,0,0.0
+4351,10,Shooting foul by B. Beal (drawn by G. Allen),5:22.0,11-12,Milwaukee,0,0.0
+4352,10,T. Antetokounmpo enters the game for G. Antetokounmpo,5:22.0,11-12,Milwaukee,1,0.0
+4353,10,P. Connaughton enters the game for J. Holiday,5:22.0,11-12,Milwaukee,1,0.0
+4354,10,S. Ojeleye enters the game for B. Portis,5:22.0,11-12,Milwaukee,1,0.0
+4355,10,D. Avdija enters the game for K. Caldwell-Pope,5:22.0,11-12,Washington,0,0.0
+4356,10,M. Harrell enters the game for S. Dinwiddie,5:22.0,11-12,Washington,0,0.0
+4357,10,R. Neto enters the game for D. Gafford,5:22.0,11-12,Washington,0,0.0
+4358,10,G. Allen makes free throw 1 of 1,5:22.0,12-12,Milwaukee,0,0.0
+4359,10,K. Kuzma makes 2-pt dunk from 1 ft (assist by D. Avdija),5:00.0,12-14,Washington,0,1.0
+4360,10,G. Allen makes 3-pt jump shot from 27 ft (assist by G. Hill),4:45.0,15-14,Milwaukee,0,0.0
+4361,10,K. Kuzma makes 3-pt jump shot from 25 ft (assist by B. Beal),4:29.0,15-17,Washington,0,0.0
+4362,10,P. Connaughton misses 3-pt jump shot from 24 ft,4:10.0,15-17,Milwaukee,0,0.0
+4363,10,Defensive rebound by K. Kuzma,4:08.0,15-17,Washington,0,0.0
+4364,10,Offensive foul by M. Harrell (drawn by G. Hill),4:01.0,15-17,Washington,0,0.0
+4365,10,Turnover by M. Harrell (offensive foul),4:01.0,15-17,Washington,0,0.0
+4366,10,C. Kispert enters the game for K. Kuzma,4:01.0,15-17,Washington,0,0.0
+4367,10,S. Ojeleye makes 3-pt jump shot from 24 ft (assist by G. Hill),3:53.0,18-17,Milwaukee,0,0.0
+4368,10,Washington full timeout,3:52.0,18-17,Washington,0,0.0
+4369,10,J. Robinson enters the game for G. Allen,3:52.0,18-17,Milwaukee,1,0.0
+4370,10,B. Beal makes 2-pt jump shot from 4 ft,3:40.0,18-19,Washington,0,0.0
+4371,10,G. Hill makes 2-pt jump shot from 15 ft,3:29.0,20-19,Milwaukee,0,0.0
+4372,10,Turnover by R. Neto (traveling),3:20.0,20-19,Washington,0,0.0
+4373,10,Turnover by G. Hill (step out of bounds),2:59.0,20-19,Milwaukee,0,0.0
+4374,10,R. Neto misses 2-pt jump shot from 15 ft,2:41.0,20-19,Washington,0,0.0
+4375,10,Defensive rebound by S. Ojeleye,2:37.0,20-19,Milwaukee,0,0.0
+4376,10,P. Connaughton misses 2-pt layup from 6 ft,2:28.0,20-19,Milwaukee,0,1.0
+4377,10,Defensive rebound by M. Harrell,2:25.0,20-19,Washington,0,1.0
+4378,10,M. Harrell misses 2-pt hook shot from 5 ft,2:09.0,20-19,Washington,0,0.0
+4379,10,Defensive rebound by J. Robinson,2:07.0,20-19,Milwaukee,0,0.0
+4380,10,G. Hill misses 3-pt jump shot from 24 ft,1:59.0,20-19,Milwaukee,0,0.0
+4381,10,Defensive rebound by D. Avdija,1:55.0,20-19,Washington,0,0.0
+4382,10,B. Beal makes 2-pt layup from 3 ft (assist by D. Avdija),1:50.0,20-21,Washington,0,0.0
+4383,10,Shooting foul by M. Harrell (drawn by P. Connaughton),1:42.0,20-21,Milwaukee,0,0.0
+4384,10,P. Connaughton misses free throw 1 of 2,1:42.0,20-21,Milwaukee,0,0.0
+4385,10,Offensive rebound by Team,1:42.0,20-21,Milwaukee,0,0.0
+4386,10,G. Antetokounmpo enters the game for T. Antetokounmpo,1:42.0,20-21,Milwaukee,1,0.0
+4387,10,J. Nwora enters the game for G. Hill,1:42.0,20-21,Milwaukee,1,0.0
+4388,10,A. Holiday enters the game for B. Beal,1:42.0,20-21,Washington,0,0.0
+4389,10,P. Connaughton makes free throw 2 of 2,1:42.0,21-21,Milwaukee,0,0.0
+4390,10,Turnover by C. Kispert (bad pass; steal by G. Antetokounmpo),1:27.0,21-21,Washington,0,0.0
+4391,10,Turnover by P. Connaughton (bad pass),1:15.0,21-21,Milwaukee,0,0.0
+4392,10,S. Dinwiddie enters the game for R. Neto,1:15.0,21-21,Washington,0,0.0
+4393,10,A. Holiday makes 3-pt jump shot from 22 ft (assist by M. Harrell),1:01.0,21-24,Washington,0,0.0
+4394,10,Shooting foul by D. Avdija (drawn by G. Antetokounmpo),0:54.0,21-24,Milwaukee,0,0.0
+4395,10,G. Antetokounmpo misses free throw 1 of 2,0:54.0,21-24,Milwaukee,0,0.0
+4396,10,Offensive rebound by Team,0:54.0,21-24,Milwaukee,0,0.0
+4397,10,G. Antetokounmpo misses free throw 2 of 2,0:54.0,21-24,Milwaukee,0,0.0
+4398,10,Offensive rebound by G. Antetokounmpo,0:52.0,21-24,Milwaukee,0,1.0
+4399,10,G. Antetokounmpo makes 2-pt jump shot from 4 ft,0:51.0,23-24,Milwaukee,0,0.0
+4400,10,M. Harrell makes 2-pt dunk from 3 ft (assist by S. Dinwiddie),0:41.0,23-26,Washington,0,0.0
+4401,10,G. Antetokounmpo misses 3-pt jump shot from 26 ft,0:33.0,23-26,Milwaukee,0,0.0
+4402,10,Defensive rebound by M. Harrell,0:29.0,23-26,Washington,0,0.0
+4403,10,A. Holiday misses 3-pt jump shot from 27 ft,0:13.0,23-26,Washington,0,0.0
+4404,10,Defensive rebound by P. Connaughton,0:09.0,23-26,Milwaukee,0,0.0
+4405,10,Personal foul by S. Dinwiddie (drawn by G. Antetokounmpo),0:01.0,23-26,Milwaukee,0,0.0
+4406,10,G. Antetokounmpo misses free throw 1 of 2,0:01.0,23-26,Milwaukee,0,0.0
+4407,10,Offensive rebound by Team,0:01.0,23-26,Milwaukee,0,0.0
+4408,10,T. Antetokounmpo enters the game for J. Robinson,0:01.0,23-26,Milwaukee,1,0.0
+4409,10,G. Antetokounmpo makes free throw 2 of 2,0:01.0,24-26,Milwaukee,0,0.0
+4410,10,C. Kispert misses 3-pt jump shot from 29 ft (block by G. Antetokounmpo),0:00.0,24-26,Washington,0,0.0
+4411,10,Offensive rebound by Team,0:00.0,24-26,Washington,0,0.0
+4412,10,S. Dinwiddie misses 3-pt jump shot from 28 ft,11:45.0,24-26,Washington,0,0.0
+4413,10,Defensive rebound by B. Portis,11:41.0,24-26,Milwaukee,0,0.0
+4414,10,G. Antetokounmpo makes 2-pt layup from 2 ft,11:35.0,26-26,Milwaukee,0,0.0
+4415,10,A. Holiday misses 2-pt jump shot from 15 ft,11:27.0,26-26,Washington,0,0.0
+4416,10,Defensive rebound by G. Antetokounmpo,11:23.0,26-26,Milwaukee,0,0.0
+4417,10,J. Holiday misses 3-pt jump shot from 27 ft,11:17.0,26-26,Milwaukee,0,0.0
+4418,10,Defensive rebound by K. Caldwell-Pope,11:14.0,26-26,Washington,0,0.0
+4419,10,S. Dinwiddie misses 2-pt jump shot from 6 ft,11:08.0,26-26,Washington,0,0.0
+4420,10,Defensive rebound by B. Portis,11:06.0,26-26,Milwaukee,0,0.0
+4421,10,J. Nwora makes 3-pt jump shot from 26 ft (assist by J. Holiday),11:02.0,29-26,Milwaukee,0,0.0
+4422,10,Shooting foul by J. Holiday (drawn by M. Harrell),10:39.0,29-26,Washington,0,0.0
+4423,10,M. Harrell makes free throw 1 of 2,10:39.0,29-27,Washington,0,0.0
+4424,10,M. Harrell makes free throw 2 of 2,10:39.0,29-28,Washington,0,0.0
+4425,10,J. Nwora misses 3-pt jump shot from 24 ft,10:25.0,29-28,Milwaukee,0,0.0
+4426,10,Offensive rebound by B. Portis,10:22.0,29-28,Milwaukee,0,0.0
+4427,10,B. Portis misses 2-pt layup from 6 ft (block by A. Holiday),10:22.0,29-28,Milwaukee,0,0.0
+4428,10,Defensive rebound by D. Avdija,10:22.0,29-28,Washington,0,0.0
+4429,10,D. Avdija makes 3-pt jump shot from 24 ft (assist by A. Holiday),10:10.0,29-31,Washington,0,0.0
+4430,10,J. Holiday misses 2-pt layup from 5 ft,9:56.0,29-31,Milwaukee,0,1.0
+4431,10,Defensive rebound by D. Avdija,9:54.0,29-31,Washington,0,0.0
+4432,10,Turnover by A. Holiday (bad pass; steal by B. Portis),9:47.0,29-31,Washington,0,0.0
+4433,10,G. Antetokounmpo makes 2-pt layup from 3 ft,9:34.0,31-31,Milwaukee,0,0.0
+4434,10,M. Harrell misses 2-pt layup from 3 ft,9:19.0,31-31,Washington,0,0.0
+4435,10,Defensive rebound by J. Nwora,9:18.0,31-31,Milwaukee,0,0.0
+4436,10,G. Antetokounmpo misses 2-pt layup from 3 ft,9:05.0,31-31,Milwaukee,0,0.0
+4437,10,Offensive rebound by G. Antetokounmpo,9:02.0,31-31,Milwaukee,0,0.0
+4438,10,G. Antetokounmpo misses 2-pt layup from 2 ft,9:00.0,31-31,Milwaukee,0,0.0
+4439,10,Offensive rebound by G. Antetokounmpo,9:00.0,31-31,Milwaukee,0,0.0
+4440,10,G. Allen enters the game for P. Connaughton,9:00.0,31-31,Milwaukee,1,0.0
+4441,10,Milwaukee full timeout,9:00.0,31-31,Milwaukee,0,0.0
+4442,10,B. Beal enters the game for A. Holiday,9:00.0,31-31,Washington,0,0.0
+4443,10,B. Portis makes 2-pt hook shot from 7 ft (assist by G. Antetokounmpo),8:55.0,33-31,Milwaukee,0,0.0
+4444,10,B. Beal makes 2-pt jump shot from 6 ft,8:33.0,33-33,Washington,0,0.0
+4445,10,B. Portis misses 2-pt jump shot from 7 ft,8:20.0,33-33,Milwaukee,0,1.0
+4446,10,Defensive rebound by Team,8:20.0,33-33,Washington,0,0.0
+4447,10,Loose ball foul by G. Antetokounmpo (drawn by D. Avdija),8:20.0,33-33,Milwaukee,0,0.0
+4448,10,R. Neto enters the game for S. Dinwiddie,8:20.0,33-33,Washington,0,0.0
+4449,10,B. Beal makes 2-pt layup from 2 ft,8:04.0,33-35,Washington,0,0.0
+4450,10,B. Portis misses 2-pt layup from 2 ft (block by D. Avdija),7:56.0,33-35,Milwaukee,0,0.0
+4451,10,Defensive rebound by Team,7:56.0,33-35,Washington,0,0.0
+4452,10,Technical foul by B. Portis,7:56.0,33-35,Milwaukee,0,0.0
+4453,10,K. Caldwell-Pope misses technical free throw,7:56.0,33-35,Washington,0,0.0
+4454,10,Offensive rebound by Team,7:56.0,33-35,Washington,0,0.0
+4455,10,G. Hill enters the game for J. Nwora,7:56.0,33-35,Milwaukee,1,0.0
+4456,10,K. Caldwell-Pope misses 2-pt layup from 6 ft,7:50.0,33-35,Washington,0,0.0
+4457,10,Defensive rebound by G. Antetokounmpo,7:48.0,33-35,Milwaukee,0,0.0
+4458,10,Turnover by G. Antetokounmpo (lost ball; steal by K. Caldwell-Pope),7:39.0,33-35,Milwaukee,0,0.0
+4459,10,D. Avdija misses 3-pt jump shot from 27 ft,7:22.0,33-35,Washington,0,1.0
+4460,10,Defensive rebound by B. Portis,7:19.0,33-35,Milwaukee,0,1.0
+4461,10,G. Allen makes 3-pt jump shot from 22 ft (assist by G. Hill),7:08.0,36-35,Milwaukee,0,0.0
+4462,10,Turnover by R. Neto (bad pass; steal by B. Portis),6:52.0,36-35,Washington,0,0.0
+4463,10,Turnover by G. Allen (lost ball; steal by K. Caldwell-Pope),6:46.0,36-35,Milwaukee,0,0.0
+4464,10,B. Beal makes 3-pt jump shot from 26 ft,6:29.0,36-38,Washington,0,0.0
+4465,10,G. Allen misses 3-pt jump shot from 24 ft,6:10.0,36-38,Milwaukee,0,0.0
+4466,10,Defensive rebound by D. Avdija,6:07.0,36-38,Washington,0,0.0
+4467,10,R. Neto makes 2-pt jump shot from 15 ft (assist by B. Beal),5:43.0,36-40,Washington,0,0.0
+4468,10,Milwaukee full timeout,5:36.0,36-40,Milwaukee,0,0.0
+4469,10,P. Connaughton enters the game for G. Antetokounmpo,5:36.0,36-40,Milwaukee,1,0.0
+4470,10,S. Ojeleye enters the game for J. Holiday,5:36.0,36-40,Milwaukee,1,0.0
+4471,10,D. Gafford enters the game for D. Avdija,5:36.0,36-40,Washington,0,0.0
+4472,10,C. Kispert enters the game for K. Caldwell-Pope,5:36.0,36-40,Washington,0,0.0
+4473,10,K. Kuzma enters the game for M. Harrell,5:36.0,36-40,Washington,0,0.0
+4474,10,P. Connaughton misses 2-pt hook shot from 15 ft,5:22.0,36-40,Milwaukee,0,0.0
+4475,10,Offensive rebound by S. Ojeleye,5:20.0,36-40,Milwaukee,0,0.0
+4476,10,Turnover by Team (shot clock),5:07.0,36-40,Milwaukee,0,0.0
+4477,10,Turnover by B. Beal (lost ball; steal by G. Allen),4:49.0,36-40,Washington,0,0.0
+4478,10,P. Connaughton makes 3-pt jump shot from 24 ft (assist by B. Portis),4:28.0,39-40,Milwaukee,0,0.0
+4479,10,C. Kispert misses 3-pt jump shot from 27 ft,4:13.0,39-40,Washington,0,0.0
+4480,10,Offensive rebound by D. Gafford,4:11.0,39-40,Washington,0,1.0
+4481,10,K. Kuzma misses 3-pt jump shot from 27 ft,4:09.0,39-40,Washington,0,0.0
+4482,10,Defensive rebound by B. Portis,4:05.0,39-40,Milwaukee,0,0.0
+4483,10,B. Portis makes 3-pt jump shot from 25 ft (assist by P. Connaughton),3:55.0,42-40,Milwaukee,0,1.0
+4484,10,R. Neto makes 2-pt layup from 4 ft (assist by K. Kuzma),3:33.0,42-42,Washington,0,0.0
+4485,10,B. Portis makes 2-pt jump shot from 18 ft (assist by G. Allen),3:13.0,44-42,Milwaukee,0,0.0
+4486,10,B. Beal misses 2-pt jump shot from 8 ft,2:54.0,44-42,Washington,0,0.0
+4487,10,Defensive rebound by B. Portis,2:51.0,44-42,Milwaukee,0,0.0
+4488,10,Technical foul by ,2:44.0,44-42,Milwaukee,0,0.0
+4489,10,Instant Replay (Request: Ruling Stands),2:44.0,44-42,Milwaukee,0,0.0
+4490,10,J. Holiday enters the game for B. Portis,2:44.0,44-42,Milwaukee,1,0.0
+4491,10,B. Beal misses technical free throw,2:44.0,44-42,Washington,0,0.0
+4492,10,Offensive rebound by Team,2:44.0,44-42,Washington,0,0.0
+4493,10,G. Antetokounmpo enters the game for P. Connaughton,2:44.0,44-42,Milwaukee,1,0.0
+4494,10,K. Kuzma misses 3-pt jump shot from 27 ft,2:34.0,44-42,Washington,0,0.0
+4495,10,Defensive rebound by J. Holiday,2:30.0,44-42,Milwaukee,0,0.0
+4496,10,G. Antetokounmpo makes 2-pt jump shot from 17 ft (assist by J. Holiday),2:24.0,46-42,Milwaukee,0,0.0
+4497,10,K. Kuzma makes 2-pt layup from 3 ft (assist by B. Beal),2:05.0,46-44,Washington,0,0.0
+4498,10,J. Holiday makes 3-pt jump shot from 27 ft,1:54.0,49-44,Milwaukee,0,0.0
+4499,10,R. Neto misses 3-pt jump shot from 27 ft,1:41.0,49-44,Washington,0,0.0
+4500,10,Defensive rebound by G. Antetokounmpo,1:37.0,49-44,Milwaukee,0,0.0
+4501,10,G. Antetokounmpo misses 2-pt layup from 2 ft (block by D. Gafford),1:27.0,49-44,Milwaukee,0,1.0
+4502,10,Defensive rebound by R. Neto,1:25.0,49-44,Washington,0,0.0
+4503,10,C. Kispert makes 3-pt jump shot from 27 ft (assist by B. Beal),1:09.0,49-47,Washington,0,0.0
+4504,10,J. Holiday makes 2-pt layup from 3 ft (assist by G. Antetokounmpo),0:48.0,51-47,Milwaukee,0,0.0
+4505,10,K. Kuzma misses 3-pt jump shot from 26 ft,0:34.0,51-47,Washington,0,0.0
+4506,10,Defensive rebound by G. Allen,0:31.0,51-47,Milwaukee,0,0.0
+4507,10,Shooting foul by D. Gafford (drawn by G. Antetokounmpo),0:15.0,51-47,Milwaukee,0,0.0
+4508,10,G. Antetokounmpo misses free throw 1 of 2,0:15.0,51-47,Milwaukee,0,0.0
+4509,10,Offensive rebound by Team,0:15.0,51-47,Milwaukee,0,0.0
+4510,10,G. Antetokounmpo makes free throw 2 of 2,0:15.0,52-47,Milwaukee,0,0.0
+4511,10,P. Connaughton enters the game for G. Allen,0:15.0,52-47,Milwaukee,1,0.0
+4512,10,K. Caldwell-Pope enters the game for D. Gafford,0:15.0,52-47,Washington,0,0.0
+4513,10,B. Beal makes 2-pt jump shot from 5 ft,0:03.0,52-49,Washington,0,0.0
+4514,10,G. Hill misses 3-pt jump shot from 29 ft,0:00.0,52-49,Milwaukee,0,0.0
+4515,10,Offensive rebound by Team,0:00.0,52-49,Milwaukee,0,0.0
+4516,10,B. Beal misses 2-pt jump shot from 15 ft,11:41.0,52-49,Washington,0,0.0
+4517,10,Defensive rebound by G. Antetokounmpo,11:37.0,52-49,Milwaukee,0,0.0
+4518,10,Shooting foul by K. Kuzma (drawn by G. Antetokounmpo),11:34.0,52-49,Milwaukee,0,0.0
+4519,10,G. Antetokounmpo makes free throw 1 of 2,11:34.0,53-49,Milwaukee,0,0.0
+4520,10,G. Antetokounmpo misses free throw 2 of 2,11:34.0,53-49,Milwaukee,0,0.0
+4521,10,Defensive rebound by K. Kuzma,11:31.0,53-49,Washington,0,0.0
+4522,10,K. Caldwell-Pope makes 2-pt layup from 2 ft (assist by K. Kuzma),11:13.0,53-51,Washington,0,0.0
+4523,10,B. Portis misses 3-pt jump shot from 28 ft,10:55.0,53-51,Milwaukee,0,0.0
+4524,10,Defensive rebound by D. Gafford,10:50.0,53-51,Washington,0,0.0
+4525,10,K. Kuzma misses 3-pt jump shot from 28 ft,10:33.0,53-51,Washington,0,0.0
+4526,10,Defensive rebound by J. Holiday,10:30.0,53-51,Milwaukee,0,0.0
+4527,10,B. Portis misses 2-pt jump shot from 7 ft,10:23.0,53-51,Milwaukee,0,0.0
+4528,10,Defensive rebound by D. Gafford,10:21.0,53-51,Washington,0,0.0
+4529,10,S. Dinwiddie misses 3-pt jump shot from 27 ft,10:18.0,53-51,Washington,0,0.0
+4530,10,Offensive rebound by S. Dinwiddie,10:14.0,53-51,Washington,0,0.0
+4531,10,S. Dinwiddie misses 2-pt layup from 4 ft (block by B. Portis),10:13.0,53-51,Washington,0,0.0
+4532,10,Offensive rebound by Team,10:13.0,53-51,Washington,0,0.0
+4533,10,D. Gafford makes 2-pt jump shot from 2 ft,10:04.0,53-53,Washington,0,0.0
+4534,10,G. Antetokounmpo makes 2-pt jump shot from 21 ft,9:51.0,55-53,Milwaukee,0,0.0
+4535,10,B. Beal makes 3-pt jump shot from 26 ft (assist by K. Kuzma),9:35.0,55-56,Washington,0,0.0
+4536,10,J. Holiday makes 2-pt layup from 5 ft,9:14.0,57-56,Milwaukee,0,0.0
+4537,10,K. Caldwell-Pope misses 2-pt layup from 3 ft,9:00.0,57-56,Washington,0,1.0
+4538,10,Defensive rebound by B. Portis,8:58.0,57-56,Milwaukee,0,1.0
+4539,10,G. Antetokounmpo makes 2-pt layup from 3 ft,8:50.0,59-56,Milwaukee,0,0.0
+4540,10,D. Gafford makes 2-pt dunk from 3 ft (assist by S. Dinwiddie),8:37.0,59-58,Washington,0,0.0
+4541,10,G. Antetokounmpo misses 3-pt jump shot from 27 ft,8:31.0,59-58,Milwaukee,0,0.0
+4542,10,Offensive rebound by G. Antetokounmpo,8:27.0,59-58,Milwaukee,0,0.0
+4543,10,G. Hill makes 2-pt layup from 3 ft (assist by B. Portis),8:17.0,61-58,Milwaukee,0,0.0
+4544,10,D. Gafford makes 2-pt layup from 3 ft (assist by K. Kuzma),7:56.0,61-60,Washington,0,0.0
+4545,10,Shooting foul by B. Beal (drawn by G. Allen),7:45.0,61-60,Milwaukee,0,0.0
+4546,10,G. Allen makes free throw 1 of 2,7:45.0,62-60,Milwaukee,0,0.0
+4547,10,P. Connaughton enters the game for G. Hill,7:45.0,62-60,Milwaukee,1,1.0
+4548,10,S. Ojeleye enters the game for B. Portis,7:45.0,62-60,Milwaukee,1,0.0
+4549,10,G. Allen makes free throw 2 of 2,7:45.0,63-60,Milwaukee,0,0.0
+4550,10,B. Beal makes 2-pt layup from 2 ft,7:27.0,63-62,Washington,0,0.0
+4551,10,J. Holiday misses 2-pt layup from 5 ft (block by B. Beal),7:18.0,63-62,Milwaukee,0,0.0
+4552,10,Offensive rebound by J. Holiday,7:14.0,63-62,Milwaukee,0,0.0
+4553,10,G. Allen misses 3-pt jump shot from 27 ft,7:12.0,63-62,Milwaukee,0,0.0
+4554,10,Defensive rebound by D. Gafford,7:12.0,63-62,Washington,0,0.0
+4555,10,B. Beal makes 2-pt jump shot from 18 ft,7:02.0,63-64,Washington,0,0.0
+4556,10,Milwaukee full timeout,7:01.0,63-64,Milwaukee,0,0.0
+4557,10,G. Hill enters the game for J. Holiday,7:01.0,63-64,Milwaukee,1,0.0
+4558,10,G. Allen makes 2-pt jump shot from 12 ft,6:48.0,65-64,Milwaukee,0,0.0
+4559,10,D. Gafford makes 2-pt dunk from 2 ft (assist by B. Beal),6:33.0,65-66,Washington,0,0.0
+4560,10,G. Antetokounmpo misses 2-pt jump shot from 16 ft,6:13.0,65-66,Milwaukee,0,0.0
+4561,10,Offensive rebound by S. Ojeleye,6:10.0,65-66,Milwaukee,0,0.0
+4562,10,P. Connaughton misses 3-pt jump shot from 23 ft,6:07.0,65-66,Milwaukee,0,0.0
+4563,10,Defensive rebound by D. Gafford,6:04.0,65-66,Washington,0,1.0
+4564,10,D. Gafford makes 2-pt dunk from 3 ft (assist by S. Dinwiddie),5:55.0,65-68,Washington,0,0.0
+4565,10,G. Antetokounmpo misses 3-pt jump shot from 26 ft,5:39.0,65-68,Milwaukee,0,0.0
+4566,10,Defensive rebound by D. Gafford,5:36.0,65-68,Washington,0,0.0
+4567,10,B. Beal misses 3-pt jump shot from 26 ft,5:29.0,65-68,Washington,0,0.0
+4568,10,Defensive rebound by P. Connaughton,5:26.0,65-68,Milwaukee,0,0.0
+4569,10,G. Hill misses 3-pt jump shot from 27 ft,5:19.0,65-68,Milwaukee,0,0.0
+4570,10,Defensive rebound by K. Kuzma,5:15.0,65-68,Washington,0,0.0
+4571,10,Offensive foul by K. Kuzma (drawn by G. Allen),5:11.0,65-68,Washington,0,0.0
+4572,10,Turnover by K. Kuzma (offensive foul),5:11.0,65-68,Washington,0,0.0
+4573,10,T. Antetokounmpo enters the game for G. Antetokounmpo,5:11.0,65-68,Milwaukee,1,0.0
+4574,10,D. Avdija enters the game for K. Caldwell-Pope,5:11.0,65-68,Washington,0,0.0
+4575,10,M. Harrell enters the game for S. Dinwiddie,5:11.0,65-68,Washington,0,0.0
+4576,10,R. Neto enters the game for D. Gafford,5:11.0,65-68,Washington,0,0.0
+4577,10,P. Connaughton misses 3-pt jump shot from 26 ft,4:58.0,65-68,Milwaukee,0,1.0
+4578,10,Offensive rebound by S. Ojeleye,4:54.0,65-68,Milwaukee,0,1.0
+4579,10,G. Hill misses 2-pt layup from 6 ft,4:43.0,65-68,Milwaukee,0,0.0
+4580,10,Defensive rebound by M. Harrell,4:41.0,65-68,Washington,0,0.0
+4581,10,B. Beal misses 2-pt jump shot from 5 ft,4:28.0,65-68,Washington,0,0.0
+4582,10,Offensive rebound by D. Avdija,4:28.0,65-68,Washington,0,0.0
+4583,10,K. Kuzma makes 3-pt jump shot from 29 ft (assist by D. Avdija),4:23.0,65-71,Washington,0,0.0
+4584,10,G. Hill makes 2-pt jump shot from 15 ft,4:10.0,67-71,Milwaukee,0,0.0
+4585,10,Shooting foul by P. Connaughton (drawn by M. Harrell),3:46.0,67-71,Washington,0,0.0
+4586,10,M. Harrell makes free throw 1 of 2,3:46.0,67-72,Washington,0,0.0
+4587,10,J. Nwora enters the game for G. Allen,3:46.0,67-72,Milwaukee,1,1.0
+4588,10,J. Robinson enters the game for G. Hill,3:46.0,67-72,Milwaukee,1,0.0
+4589,10,C. Kispert enters the game for K. Kuzma,3:46.0,67-72,Washington,0,0.0
+4590,10,M. Harrell makes free throw 2 of 2,3:46.0,67-73,Washington,0,0.0
+4591,10,J. Robinson misses 2-pt jump shot from 17 ft,3:34.0,67-73,Milwaukee,0,0.0
+4592,10,Defensive rebound by D. Avdija,3:31.0,67-73,Washington,0,0.0
+4593,10,M. Harrell makes 2-pt dunk from 3 ft (assist by B. Beal),3:24.0,67-75,Washington,0,0.0
+4594,10,Turnover by P. Connaughton (lost ball; steal by M. Harrell),3:03.0,67-75,Milwaukee,0,0.0
+4595,10,C. Kispert makes 2-pt jump shot from 17 ft,2:56.0,67-77,Washington,0,0.0
+4596,10,Milwaukee full timeout,2:54.0,67-77,Milwaukee,0,0.0
+4597,10,G. Antetokounmpo enters the game for T. Antetokounmpo,2:54.0,67-77,Milwaukee,1,0.0
+4598,10,A. Holiday enters the game for B. Beal,2:54.0,67-77,Washington,0,0.0
+4599,10,G. Antetokounmpo makes 2-pt hook shot from 12 ft,2:36.0,69-77,Milwaukee,0,0.0
+4600,10,C. Kispert misses 2-pt jump shot from 18 ft,2:18.0,69-77,Washington,0,0.0
+4601,10,Defensive rebound by G. Antetokounmpo,2:15.0,69-77,Milwaukee,0,0.0
+4602,10,G. Antetokounmpo makes 2-pt hook shot from 9 ft,2:08.0,71-77,Milwaukee,0,0.0
+4603,10,R. Neto misses 2-pt jump shot from 12 ft,1:49.0,71-77,Washington,0,0.0
+4604,10,Defensive rebound by J. Nwora,1:47.0,71-77,Milwaukee,0,0.0
+4605,10,G. Antetokounmpo misses 3-pt jump shot from 27 ft,1:43.0,71-77,Milwaukee,0,1.0
+4606,10,Defensive rebound by A. Holiday,1:39.0,71-77,Washington,0,0.0
+4607,10,M. Harrell makes 2-pt layup from 2 ft (assist by A. Holiday),1:37.0,71-79,Washington,0,0.0
+4608,10,Shooting foul by J. Robinson (drawn by M. Harrell),1:37.0,71-79,Washington,0,0.0
+4609,10,S. Dinwiddie enters the game for C. Kispert,1:37.0,71-79,Washington,0,0.0
+4610,10,M. Harrell makes free throw 1 of 1,1:37.0,71-80,Washington,0,0.0
+4611,10,G. Antetokounmpo misses 2-pt layup from 6 ft,1:24.0,71-80,Milwaukee,0,0.0
+4612,10,Defensive rebound by D. Avdija,1:22.0,71-80,Washington,0,0.0
+4613,10,A. Holiday makes 2-pt layup from 1 ft,1:16.0,71-82,Washington,0,0.0
+4614,10,Personal foul by A. Holiday (drawn by G. Antetokounmpo),1:03.0,71-82,Milwaukee,0,0.0
+4615,10,B. Portis enters the game for S. Ojeleye,1:03.0,71-82,Milwaukee,1,0.0
+4616,10,J. Nwora misses 2-pt jump shot from 20 ft,0:52.0,71-82,Milwaukee,0,0.0
+4617,10,Offensive rebound by G. Antetokounmpo,0:51.0,71-82,Milwaukee,0,0.0
+4618,10,Shooting foul by D. Avdija (drawn by G. Antetokounmpo),0:51.0,71-82,Milwaukee,0,0.0
+4619,10,G. Antetokounmpo misses free throw 1 of 2,0:51.0,71-82,Milwaukee,0,0.0
+4620,10,Offensive rebound by Team,0:51.0,71-82,Milwaukee,0,0.0
+4621,10,G. Antetokounmpo misses free throw 2 of 2,0:51.0,71-82,Milwaukee,0,0.0
+4622,10,Offensive rebound by P. Connaughton,0:48.0,71-82,Milwaukee,0,0.0
+4623,10,Turnover by G. Antetokounmpo (lost ball; steal by R. Neto),0:43.0,71-82,Milwaukee,0,0.0
+4624,10,A. Holiday misses 2-pt jump shot from 12 ft,0:37.0,71-82,Washington,0,0.0
+4625,10,Defensive rebound by P. Connaughton,0:35.0,71-82,Milwaukee,0,0.0
+4626,10,B. Portis misses 2-pt hook shot from 8 ft,0:26.0,71-82,Milwaukee,0,0.0
+4627,10,Defensive rebound by Team,0:24.0,71-82,Washington,0,0.0
+4628,10,S. Dinwiddie misses 2-pt jump shot from 20 ft,0:02.0,71-82,Washington,0,0.0
+4629,10,Defensive rebound by G. Antetokounmpo,0:02.0,71-82,Milwaukee,0,0.0
+4630,10,Turnover by B. Portis (bad pass; steal by A. Holiday),11:47.0,71-82,Milwaukee,0,0.0
+4631,10,Shooting foul by G. Antetokounmpo (drawn by A. Holiday),11:44.0,71-82,Washington,0,0.0
+4632,10,A. Holiday misses free throw 1 of 2,11:44.0,71-82,Washington,0,0.0
+4633,10,Offensive rebound by Team,11:44.0,71-82,Washington,0,0.0
+4634,10,A. Holiday makes free throw 2 of 2,11:44.0,71-83,Washington,0,0.0
+4635,10,J. Holiday makes 3-pt jump shot from 27 ft,11:27.0,74-83,Milwaukee,0,0.0
+4636,10,M. Harrell makes 2-pt jump shot from 17 ft,11:00.0,74-85,Washington,0,0.0
+4637,10,Turnover by G. Antetokounmpo (traveling),10:38.0,74-85,Milwaukee,0,1.0
+4638,10,Turnover by K. Caldwell-Pope (bad pass; steal by G. Antetokounmpo),10:20.0,74-85,Washington,0,0.0
+4639,10,Personal foul by S. Dinwiddie (drawn by G. Antetokounmpo),10:20.0,74-85,Milwaukee,0,0.0
+4640,10,Personal foul by S. Dinwiddie (drawn by G. Antetokounmpo),10:06.0,74-85,Milwaukee,0,0.0
+4641,10,J. Holiday makes 2-pt layup from 2 ft,9:57.0,76-85,Milwaukee,0,0.0
+4642,10,S. Dinwiddie misses 3-pt jump shot from 26 ft,9:44.0,76-85,Washington,0,0.0
+4643,10,Defensive rebound by B. Portis,9:41.0,76-85,Milwaukee,0,0.0
+4644,10,G. Allen misses 3-pt jump shot from 28 ft,9:37.0,76-85,Milwaukee,0,0.0
+4645,10,Defensive rebound by K. Caldwell-Pope,9:32.0,76-85,Washington,0,0.0
+4646,10,Turnover by M. Harrell (lost ball; steal by G. Allen),9:27.0,76-85,Washington,0,0.0
+4647,10,P. Connaughton enters the game for B. Portis,9:27.0,76-85,Milwaukee,1,0.0
+4648,10,J. Holiday misses 3-pt jump shot from 27 ft,9:15.0,76-85,Milwaukee,0,0.0
+4649,10,Defensive rebound by M. Harrell,9:12.0,76-85,Washington,0,0.0
+4650,10,Shooting foul by J. Nwora (drawn by A. Holiday),8:59.0,76-85,Washington,0,1.0
+4651,10,A. Holiday misses free throw 1 of 2,8:59.0,76-85,Washington,0,0.0
+4652,10,Offensive rebound by Team,8:59.0,76-85,Washington,0,0.0
+4653,10,B. Beal enters the game for S. Dinwiddie,8:59.0,76-85,Washington,0,0.0
+4654,10,A. Holiday makes free throw 2 of 2,8:59.0,76-86,Washington,0,0.0
+4655,10,G. Allen misses 3-pt jump shot from 27 ft,8:41.0,76-86,Milwaukee,0,0.0
+4656,10,Defensive rebound by D. Avdija,8:38.0,76-86,Washington,0,0.0
+4657,10,B. Beal makes 2-pt jump shot from 17 ft,8:27.0,76-88,Washington,0,0.0
+4658,10,G. Allen makes 2-pt layup from 3 ft (assist by G. Antetokounmpo),8:11.0,78-88,Milwaukee,0,0.0
+4659,10,Shooting foul by K. Caldwell-Pope (drawn by G. Allen),8:11.0,78-88,Milwaukee,0,0.0
+4660,10,G. Hill enters the game for J. Nwora,8:11.0,78-88,Milwaukee,1,0.0
+4661,10,R. Neto enters the game for A. Holiday,8:11.0,78-88,Washington,0,0.0
+4662,10,G. Allen makes free throw 1 of 1,8:11.0,79-88,Milwaukee,0,0.0
+4663,10,R. Neto misses 3-pt jump shot from 26 ft,8:03.0,79-88,Washington,0,0.0
+4664,10,Defensive rebound by G. Antetokounmpo,8:00.0,79-88,Milwaukee,0,1.0
+4665,10,Offensive foul by G. Hill (drawn by B. Beal),7:54.0,79-88,Milwaukee,0,0.0
+4666,10,Turnover by G. Hill (offensive foul),7:54.0,79-88,Milwaukee,0,0.0
+4667,10,K. Kuzma enters the game for D. Avdija,7:54.0,79-88,Washington,0,0.0
+4668,10,R. Neto misses 2-pt layup from 3 ft,7:37.0,79-88,Washington,0,0.0
+4669,10,Defensive rebound by G. Antetokounmpo,7:36.0,79-88,Milwaukee,0,0.0
+4670,10,J. Holiday misses 3-pt jump shot from 27 ft,7:31.0,79-88,Milwaukee,0,0.0
+4671,10,Defensive rebound by K. Kuzma,7:27.0,79-88,Washington,0,0.0
+4672,10,B. Beal makes 2-pt jump shot from 5 ft,7:14.0,79-90,Washington,0,1.0
+4673,10,Personal foul by R. Neto (drawn by G. Hill),7:03.0,79-90,Milwaukee,0,0.0
+4674,10,B. Portis enters the game for G. Allen,7:03.0,79-90,Milwaukee,1,0.0
+4675,10,B. Portis misses 2-pt layup from 3 ft,6:50.0,79-90,Milwaukee,0,0.0
+4676,10,Offensive rebound by G. Antetokounmpo,6:47.0,79-90,Milwaukee,0,0.0
+4677,10,G. Antetokounmpo makes 2-pt dunk at rim,6:47.0,81-90,Milwaukee,0,0.0
+4678,10,R. Neto misses 2-pt jump shot from 7 ft,6:25.0,81-90,Washington,0,0.0
+4679,10,Defensive rebound by P. Connaughton,6:24.0,81-90,Milwaukee,0,0.0
+4680,10,G. Antetokounmpo makes 2-pt layup from 4 ft,6:20.0,83-90,Milwaukee,0,0.0
+4681,10,Washington full timeout,6:20.0,83-90,Washington,0,0.0
+4682,10,G. Allen enters the game for J. Holiday,6:20.0,83-90,Milwaukee,1,0.0
+4683,10,D. Avdija enters the game for K. Caldwell-Pope,6:20.0,83-90,Washington,0,0.0
+4684,10,D. Gafford enters the game for M. Harrell,6:20.0,83-90,Washington,0,0.0
+4685,10,B. Beal misses 2-pt layup from 4 ft,6:04.0,83-90,Washington,0,0.0
+4686,10,Defensive rebound by G. Antetokounmpo,6:02.0,83-90,Milwaukee,0,0.0
+4687,10,G. Antetokounmpo misses 2-pt jump shot from 18 ft,5:55.0,83-90,Milwaukee,0,0.0
+4688,10,Defensive rebound by K. Kuzma,5:52.0,83-90,Washington,0,0.0
+4689,10,D. Avdija misses 2-pt layup from 4 ft,5:43.0,83-90,Washington,0,0.0
+4690,10,Offensive rebound by D. Gafford,5:41.0,83-90,Washington,0,0.0
+4691,10,D. Gafford misses 2-pt layup from 4 ft,5:40.0,83-90,Washington,0,0.0
+4692,10,Defensive rebound by G. Antetokounmpo,5:37.0,83-90,Milwaukee,0,0.0
+4693,10,G. Antetokounmpo misses 2-pt layup from 5 ft,5:21.0,83-90,Milwaukee,0,0.0
+4694,10,Defensive rebound by K. Kuzma,5:18.0,83-90,Washington,0,0.0
+4695,10,K. Kuzma makes 2-pt layup from 3 ft,5:04.0,83-92,Washington,0,0.0
+4696,10,P. Connaughton makes 3-pt jump shot from 26 ft (assist by G. Antetokounmpo),4:51.0,86-92,Milwaukee,0,0.0
+4697,10,B. Beal makes 2-pt jump shot from 13 ft,4:32.0,86-94,Washington,0,1.0
+4698,10,B. Portis misses 2-pt layup from 7 ft,4:17.0,86-94,Milwaukee,0,0.0
+4699,10,Offensive rebound by B. Portis,4:12.0,86-94,Milwaukee,0,0.0
+4700,10,B. Portis makes 2-pt layup at rim,4:12.0,88-94,Milwaukee,0,0.0
+4701,10,B. Beal makes 2-pt layup from 2 ft,3:57.0,88-96,Washington,0,0.0
+4702,10,G. Antetokounmpo misses 2-pt jump shot from 18 ft,3:42.0,88-96,Milwaukee,0,0.0
+4703,10,Defensive rebound by B. Beal,3:39.0,88-96,Washington,0,0.0
+4704,10,K. Kuzma misses 3-pt jump shot from 24 ft,3:34.0,88-96,Washington,0,0.0
+4705,10,Defensive rebound by G. Antetokounmpo,3:31.0,88-96,Milwaukee,0,0.0
+4706,10,Milwaukee full timeout,3:28.0,88-96,Milwaukee,0,0.0
+4707,10,J. Holiday enters the game for G. Hill,3:28.0,88-96,Milwaukee,1,1.0
+4708,10,S. Dinwiddie enters the game for D. Gafford,3:28.0,88-96,Washington,0,0.0
+4709,10,M. Harrell enters the game for R. Neto,3:28.0,88-96,Washington,0,0.0
+4710,10,G. Allen misses 3-pt jump shot from 23 ft,3:23.0,88-96,Milwaukee,0,0.0
+4711,10,Defensive rebound by K. Kuzma,3:20.0,88-96,Washington,0,0.0
+4712,10,M. Harrell makes 2-pt dunk from 2 ft (assist by B. Beal),3:03.0,88-98,Washington,0,0.0
+4713,10,G. Antetokounmpo makes 2-pt dunk from 2 ft (assist by J. Holiday),2:49.0,90-98,Milwaukee,0,0.0
+4714,10,Turnover by M. Harrell (lost ball; steal by J. Holiday),2:28.0,90-98,Washington,0,0.0
+4715,10,Personal take foul by S. Dinwiddie (drawn by G. Antetokounmpo),2:26.0,90-98,Milwaukee,0,0.0
+4716,10,G. Antetokounmpo makes free throw 1 of 2,2:26.0,91-98,Milwaukee,0,0.0
+4717,10,G. Hill enters the game for G. Allen,2:26.0,91-98,Milwaukee,1,0.0
+4718,10,G. Antetokounmpo makes free throw 2 of 2,2:26.0,92-98,Milwaukee,0,0.0
+4719,10,Turnover by B. Beal (lost ball; steal by P. Connaughton),2:04.0,92-98,Washington,0,0.0
+4720,10,J. Holiday misses 2-pt layup from 1 ft (block by K. Kuzma),1:51.0,92-98,Milwaukee,0,0.0
+4721,10,Offensive rebound by Team,1:51.0,92-98,Milwaukee,0,0.0
+4722,10,Washington full timeout,1:51.0,92-98,Washington,0,0.0
+4723,10,Instant Replay (Request: Ruling Stands),1:51.0,92-98,Washington,0,0.0
+4724,10,G. Antetokounmpo makes 2-pt dunk from 2 ft (assist by J. Holiday),1:39.0,94-98,Milwaukee,0,0.0
+4725,10,Turnover by B. Beal (bad pass; steal by P. Connaughton),1:22.0,94-98,Washington,0,0.0
+4726,10,J. Holiday misses 2-pt layup from 8 ft (block by M. Harrell),1:14.0,94-98,Milwaukee,0,0.0
+4727,10,Defensive rebound by D. Avdija,1:10.0,94-98,Washington,0,0.0
+4728,10,Turnover by B. Beal (out of bounds lost ball),0:54.0,94-98,Washington,0,1.0
+4729,10,Turnover by J. Holiday (lost ball; steal by D. Avdija),0:42.0,94-98,Milwaukee,0,0.0
+4730,10,Washington full timeout,0:37.0,94-98,Washington,0,0.0
+4731,10,Personal foul by G. Antetokounmpo (drawn by M. Harrell),0:35.0,94-98,Washington,0,0.0
+4732,10,S. Dinwiddie makes 3-pt jump shot from 26 ft (assist by D. Avdija),0:20.0,94-101,Washington,0,
+4733,10,J. Holiday misses 3-pt jump shot from 29 ft,0:15.0,94-101,Milwaukee,0,
+4734,10,Offensive rebound by B. Portis,0:12.0,94-101,Milwaukee,0,
+4735,10,P. Connaughton misses 3-pt jump shot from 27 ft,0:11.0,94-101,Milwaukee,0,
+4736,10,Offensive rebound by Team,0:11.0,94-101,Milwaukee,0,
+4737,10,Milwaukee full timeout,0:07.0,94-101,Milwaukee,0,
+4738,10,G. Allen enters the game for B. Portis,0:07.0,94-101,Milwaukee,1,
+4739,10,G. Hill misses 2-pt layup from 6 ft (block by M. Harrell),0:04.0,94-101,Milwaukee,0,
+4740,10,Defensive rebound by S. Dinwiddie,0:00.0,94-101,Washington,0,
+4741,10,Turnover by S. Dinwiddie (lost ball; steal by G. Antetokounmpo),0:00.0,94-101,Washington,0,

@@ -1,0 +1,477 @@
+,game number,play,time,score,team,current_sub_status,future_sub_status
+7956,18,Turnover by F. Wagner (bad pass; steal by K. Middleton),11:44.0,0-0,Orlando,0,0.0
+7957,18,Turnover by G. Antetokounmpo (out of bounds lost ball),11:40.0,0-0,Milwaukee,0,0.0
+7958,18,W. Carter makes 2-pt dunk from 1 ft (assist by J. Suggs),11:26.0,2-0,Orlando,0,0.0
+7959,18,K. Middleton makes 2-pt jump shot from 16 ft (assist by J. Holiday),11:10.0,2-2,Milwaukee,0,0.0
+7960,18,W. Carter makes 2-pt dunk from 2 ft (assist by J. Suggs),10:54.0,4-2,Orlando,0,0.0
+7961,18,J. Holiday misses 3-pt jump shot from 27 ft,10:30.0,4-2,Milwaukee,0,0.0
+7962,18,Defensive rebound by W. Carter,10:28.0,4-2,Orlando,0,0.0
+7963,18,Personal foul by G. Antetokounmpo (drawn by W. Carter),10:24.0,4-2,Orlando,0,0.0
+7964,18,W. Carter misses 3-pt jump shot from 27 ft,10:17.0,4-2,Orlando,0,0.0
+7965,18,Offensive rebound by F. Wagner,10:14.0,4-2,Orlando,0,0.0
+7966,18,M. Bamba misses 2-pt jump shot from 17 ft,10:09.0,4-2,Orlando,0,0.0
+7967,18,Defensive rebound by B. Portis,10:06.0,4-2,Milwaukee,0,0.0
+7968,18,B. Portis misses 3-pt jump shot from 27 ft,9:58.0,4-2,Milwaukee,0,0.0
+7969,18,Defensive rebound by W. Carter,9:55.0,4-2,Orlando,0,0.0
+7970,18,M. Mulder misses 2-pt layup from 5 ft,9:52.0,4-2,Orlando,0,0.0
+7971,18,Defensive rebound by K. Middleton,9:49.0,4-2,Milwaukee,0,0.0
+7972,18,J. Holiday misses 2-pt layup from 6 ft,9:38.0,4-2,Milwaukee,0,0.0
+7973,18,Defensive rebound by F. Wagner,9:35.0,4-2,Orlando,0,0.0
+7974,18,M. Mulder misses 2-pt jump shot from 16 ft,9:25.0,4-2,Orlando,0,0.0
+7975,18,Defensive rebound by J. Holiday,9:23.0,4-2,Milwaukee,0,0.0
+7976,18,G. Antetokounmpo misses 3-pt jump shot from 28 ft,9:16.0,4-2,Milwaukee,0,0.0
+7977,18,Offensive rebound by B. Portis,9:15.0,4-2,Milwaukee,0,0.0
+7978,18,Personal foul by J. Suggs (drawn by B. Portis),9:15.0,4-2,Milwaukee,0,0.0
+7979,18,B. Portis makes 3-pt jump shot from 24 ft (assist by K. Middleton),9:07.0,4-5,Milwaukee,0,0.0
+7980,18,M. Bamba misses 3-pt jump shot from 27 ft,8:47.0,4-5,Orlando,0,0.0
+7981,18,Defensive rebound by J. Holiday,8:44.0,4-5,Milwaukee,0,1.0
+7982,18,G. Antetokounmpo makes 2-pt jump shot from 10 ft,8:31.0,4-7,Milwaukee,0,1.0
+7983,18,M. Bamba makes 2-pt dunk from 1 ft,8:08.0,6-7,Orlando,0,0.0
+7984,18,G. Allen makes 3-pt jump shot from 28 ft (assist by G. Antetokounmpo),7:42.0,6-10,Milwaukee,0,0.0
+7985,18,J. Suggs misses 3-pt jump shot from 27 ft,7:26.0,6-10,Orlando,0,0.0
+7986,18,Defensive rebound by G. Allen,7:23.0,6-10,Milwaukee,0,0.0
+7987,18,Personal foul by M. Mulder (drawn by G. Allen),7:21.0,6-10,Milwaukee,0,0.0
+7988,18,Milwaukee full timeout,7:21.0,6-10,Milwaukee,0,0.0
+7989,18,R. Hampton enters the game for M. Mulder,7:21.0,6-10,Orlando,0,0.0
+7990,18,T. Ross enters the game for J. Suggs,7:21.0,6-10,Orlando,0,0.0
+7991,18,P. Connaughton enters the game for K. Middleton,7:21.0,6-10,Milwaukee,1,0.0
+7992,18,G. Hill enters the game for B. Portis,7:21.0,6-10,Milwaukee,1,0.0
+7993,18,J. Holiday misses 2-pt layup from 2 ft,7:13.0,6-10,Milwaukee,0,0.0
+7994,18,Offensive rebound by Team,7:13.0,6-10,Milwaukee,0,0.0
+7995,18,J. Holiday makes 2-pt hook shot from 3 ft,7:05.0,6-12,Milwaukee,0,0.0
+7996,18,F. Wagner misses 3-pt jump shot from 25 ft,6:54.0,6-12,Orlando,0,0.0
+7997,18,Defensive rebound by G. Antetokounmpo,6:50.0,6-12,Milwaukee,0,0.0
+7998,18,G. Antetokounmpo misses 2-pt layup from 6 ft (block by M. Bamba),6:42.0,6-12,Milwaukee,0,0.0
+7999,18,Offensive rebound by Team,6:42.0,6-12,Milwaukee,0,0.0
+8000,18,G. Allen misses 3-pt jump shot from 27 ft,6:27.0,6-12,Milwaukee,0,0.0
+8001,18,Defensive rebound by W. Carter,6:24.0,6-12,Orlando,0,0.0
+8002,18,Turnover by W. Carter (bad pass; steal by P. Connaughton),6:16.0,6-12,Orlando,0,0.0
+8003,18,Shooting foul by R. Hampton (drawn by G. Antetokounmpo),6:13.0,6-12,Milwaukee,0,0.0
+8004,18,G. Antetokounmpo makes free throw 1 of 2,6:13.0,6-13,Milwaukee,0,1.0
+8005,18,C. Okeke enters the game for F. Wagner,6:13.0,6-13,Orlando,0,0.0
+8006,18,G. Antetokounmpo misses free throw 2 of 2,6:13.0,6-13,Milwaukee,0,0.0
+8007,18,Defensive rebound by W. Carter,6:09.0,6-13,Orlando,0,0.0
+8008,18,R. Hampton misses 2-pt jump shot from 6 ft,5:50.0,6-13,Orlando,0,0.0
+8009,18,Defensive rebound by J. Holiday,5:48.0,6-13,Milwaukee,0,0.0
+8010,18,G. Allen makes 2-pt dunk from 2 ft (assist by P. Connaughton),5:43.0,6-15,Milwaukee,0,0.0
+8011,18,Turnover by R. Hampton (bad pass; steal by J. Holiday),5:31.0,6-15,Orlando,0,0.0
+8012,18,Shooting foul by T. Ross (drawn by G. Antetokounmpo),5:28.0,6-15,Milwaukee,0,0.0
+8013,18,G. Antetokounmpo makes free throw 1 of 2,5:28.0,6-16,Milwaukee,0,0.0
+8014,18,R. Hood enters the game for G. Allen,5:28.0,6-16,Milwaukee,1,0.0
+8015,18,G. Antetokounmpo makes free throw 2 of 2,5:28.0,6-17,Milwaukee,0,0.0
+8016,18,T. Ross misses 2-pt hook shot from 4 ft,5:09.0,6-17,Orlando,0,0.0
+8017,18,Defensive rebound by G. Antetokounmpo,5:04.0,6-17,Milwaukee,0,0.0
+8018,18,P. Connaughton makes 3-pt jump shot from 26 ft (assist by J. Holiday),5:03.0,6-20,Milwaukee,0,1.0
+8019,18,Orlando full timeout,5:02.0,6-20,Orlando,0,1.0
+8020,18,M. Wagner enters the game for M. Bamba,5:02.0,6-20,Orlando,0,0.0
+8021,18,Turnover by T. Ross (bad pass; steal by P. Connaughton),4:49.0,6-20,Orlando,0,0.0
+8022,18,G. Hill makes 2-pt layup from 1 ft (assist by G. Antetokounmpo),4:46.0,6-22,Milwaukee,0,0.0
+8023,18,T. Ross misses 2-pt jump shot from 14 ft,4:28.0,6-22,Orlando,0,0.0
+8024,18,Defensive rebound by P. Connaughton,4:28.0,6-22,Milwaukee,0,0.0
+8025,18,Shooting foul by C. Okeke (drawn by J. Holiday),4:23.0,6-22,Milwaukee,0,1.0
+8026,18,J. Holiday misses free throw 1 of 2,4:23.0,6-22,Milwaukee,0,0.0
+8027,18,Offensive rebound by Team,4:23.0,6-22,Milwaukee,0,0.0
+8028,18,K. Middleton enters the game for G. Antetokounmpo,4:23.0,6-22,Milwaukee,1,0.0
+8029,18,B. Portis enters the game for G. Hill,4:23.0,6-22,Milwaukee,1,0.0
+8030,18,J. Holiday misses free throw 2 of 2,4:23.0,6-22,Milwaukee,0,0.0
+8031,18,Defensive rebound by W. Carter,4:18.0,6-22,Orlando,0,0.0
+8032,18,R. Hampton makes 3-pt jump shot from 26 ft (assist by W. Carter),4:01.0,9-22,Orlando,0,0.0
+8033,18,J. Holiday misses 3-pt jump shot from 26 ft,3:46.0,9-22,Milwaukee,0,0.0
+8034,18,Offensive rebound by Team,3:46.0,9-22,Milwaukee,0,1.0
+8035,18,G. Hill enters the game for J. Holiday,3:46.0,9-22,Milwaukee,1,0.0
+8036,18,Turnover by K. Middleton (bad pass; steal by C. Okeke),3:38.0,9-22,Milwaukee,0,0.0
+8037,18,M. Wagner misses 3-pt jump shot from 26 ft,3:27.0,9-22,Orlando,0,0.0
+8038,18,Defensive rebound by P. Connaughton,3:23.0,9-22,Milwaukee,0,0.0
+8039,18,G. Hill makes 3-pt jump shot from 23 ft (assist by B. Portis),3:09.0,9-25,Milwaukee,0,0.0
+8040,18,Turnover by T. Ross (bad pass; steal by G. Hill),2:53.0,9-25,Orlando,0,0.0
+8041,18,R. Hood makes 3-pt jump shot from 23 ft (assist by P. Connaughton),2:44.0,9-28,Milwaukee,0,0.0
+8042,18,Personal foul by R. Hood (drawn by C. Okeke),2:27.0,9-28,Orlando,0,0.0
+8043,18,F. Wagner enters the game for W. Carter,2:27.0,9-28,Orlando,0,0.0
+8044,18,J. Nwora enters the game for P. Connaughton,2:27.0,9-28,Milwaukee,1,0.0
+8045,18,Turnover by T. Ross (bad pass; steal by R. Hood),2:21.0,9-28,Orlando,0,0.0
+8046,18,Personal foul by T. Ross (drawn by B. Portis),2:15.0,9-28,Milwaukee,0,0.0
+8047,18,B. Portis misses free throw 1 of 2,2:15.0,9-28,Milwaukee,0,0.0
+8048,18,Offensive rebound by Team,2:15.0,9-28,Milwaukee,0,0.0
+8049,18,B. Portis makes free throw 2 of 2,2:15.0,9-29,Milwaukee,0,0.0
+8050,18,M. Wagner misses 3-pt jump shot from 26 ft,2:01.0,9-29,Orlando,0,0.0
+8051,18,Defensive rebound by J. Nwora,1:58.0,9-29,Milwaukee,0,0.0
+8052,18,Offensive foul by B. Portis (drawn by M. Wagner),1:54.0,9-29,Milwaukee,0,0.0
+8053,18,Turnover by B. Portis (offensive foul),1:54.0,9-29,Milwaukee,0,0.0
+8054,18,F. Wagner misses 2-pt layup from 1 ft,1:43.0,9-29,Orlando,0,0.0
+8055,18,Defensive rebound by J. Nwora,1:40.0,9-29,Milwaukee,0,0.0
+8056,18,K. Middleton makes 2-pt jump shot from 12 ft,1:32.0,9-31,Milwaukee,0,0.0
+8057,18,F. Wagner misses 2-pt hook shot from 6 ft,1:18.0,9-31,Orlando,0,0.0
+8058,18,Defensive rebound by R. Hood,1:15.0,9-31,Milwaukee,0,0.0
+8059,18,K. Middleton makes 3-pt jump shot from 23 ft,1:07.0,9-34,Milwaukee,0,0.0
+8060,18,R. Hampton makes 2-pt layup from 3 ft,0:55.0,11-34,Orlando,0,0.0
+8061,18,Personal foul by R. Hampton (drawn by K. Middleton),0:49.0,11-34,Milwaukee,0,0.0
+8062,18,K. Middleton makes free throw 1 of 2,0:49.0,11-35,Milwaukee,0,0.0
+8063,18,K. Middleton makes free throw 2 of 2,0:49.0,11-36,Milwaukee,0,0.0
+8064,18,M. Wagner makes 3-pt jump shot from 28 ft (assist by C. Okeke),0:40.0,14-36,Orlando,0,0.0
+8065,18,J. Nwora misses 3-pt jump shot from 23 ft,0:25.0,14-36,Milwaukee,0,0.0
+8066,18,Defensive rebound by R. Hampton,0:22.0,14-36,Orlando,0,0.0
+8067,18,R. Hampton makes 2-pt layup from 2 ft,0:06.0,16-36,Orlando,0,0.0
+8068,18,Violation by Team (def goaltending),0:06.0,16-36,Milwaukee,0,0.0
+8069,18,G. Hill misses 2-pt layup from 5 ft,11:36.0,16-36,Milwaukee,0,0.0
+8070,18,Offensive rebound by G. Antetokounmpo,11:33.0,16-36,Milwaukee,0,0.0
+8071,18,G. Antetokounmpo makes 2-pt layup from 1 ft,11:32.0,16-38,Milwaukee,0,0.0
+8072,18,Turnover by M. Wagner (bad pass; steal by K. Middleton),11:18.0,16-38,Orlando,0,0.0
+8073,18,B. Portis makes 2-pt layup from 2 ft (assist by G. Antetokounmpo),11:11.0,16-40,Milwaukee,0,0.0
+8074,18,Technical foul by M. Wagner,11:09.0,16-40,Orlando,0,0.0
+8075,18,K. Middleton makes technical free throw,11:09.0,16-41,Milwaukee,0,0.0
+8076,18,Turnover by M. Wagner (traveling),11:01.0,16-41,Orlando,0,0.0
+8077,18,G. Antetokounmpo misses 2-pt layup from 8 ft,10:45.0,16-41,Milwaukee,0,1.0
+8078,18,Offensive rebound by G. Antetokounmpo,10:44.0,16-41,Milwaukee,0,1.0
+8079,18,G. Antetokounmpo makes 2-pt layup from 1 ft,10:44.0,16-43,Milwaukee,0,1.0
+8080,18,Violation by Team (def goaltending),10:44.0,16-43,Orlando,0,0.0
+8081,18,M. Wagner makes 2-pt layup from 3 ft (assist by F. Wagner),10:29.0,18-43,Orlando,0,0.0
+8082,18,B. Portis makes 2-pt jump shot from 14 ft,10:16.0,18-45,Milwaukee,0,0.0
+8083,18,J. Suggs makes 2-pt layup from 1 ft,10:06.0,20-45,Orlando,0,0.0
+8084,18,Violation by Team (def goaltending),10:06.0,20-45,Milwaukee,0,0.0
+8085,18,Personal foul by C. Okeke (drawn by G. Antetokounmpo),9:54.0,20-45,Milwaukee,0,0.0
+8086,18,M. Bamba enters the game for M. Wagner,9:54.0,20-45,Orlando,0,0.0
+8087,18,G. Allen enters the game for G. Hill,9:54.0,20-45,Milwaukee,1,0.0
+8088,18,P. Connaughton enters the game for K. Middleton,9:54.0,20-45,Milwaukee,1,0.0
+8089,18,J. Holiday enters the game for B. Portis,9:54.0,20-45,Milwaukee,1,0.0
+8090,18,J. Nwora makes 3-pt jump shot from 23 ft (assist by G. Antetokounmpo),9:39.0,20-48,Milwaukee,0,0.0
+8091,18,Orlando full timeout,9:39.0,20-48,Orlando,0,0.0
+8092,18,Technical foul by J. Suggs,9:39.0,20-48,Orlando,0,0.0
+8093,18,G. Allen makes technical free throw,9:39.0,20-49,Milwaukee,0,0.0
+8094,18,Personal foul by J. Nwora (drawn by T. Ross),9:30.0,20-49,Orlando,0,0.0
+8095,18,T. Ross makes 3-pt jump shot from 26 ft (assist by M. Bamba),9:20.0,23-49,Orlando,0,0.0
+8096,18,P. Connaughton makes 3-pt jump shot from 26 ft (assist by G. Antetokounmpo),9:03.0,23-52,Milwaukee,0,0.0
+8097,18,Turnover by J. Suggs (out of bounds lost ball),8:53.0,23-52,Orlando,0,0.0
+8098,18,J. Holiday makes 2-pt jump shot from 15 ft,8:42.0,23-54,Milwaukee,0,0.0
+8099,18,Personal foul by J. Holiday (drawn by J. Suggs),8:32.0,23-54,Orlando,0,0.0
+8100,18,Turnover by J. Suggs (out of bounds lost ball),8:25.0,23-54,Orlando,0,0.0
+8101,18,W. Carter enters the game for C. Okeke,8:25.0,23-54,Orlando,0,0.0
+8102,18,G. Allen makes 2-pt jump shot from 18 ft (assist by G. Antetokounmpo),8:15.0,23-56,Milwaukee,0,0.0
+8103,18,F. Wagner misses 2-pt layup from 3 ft (block by G. Antetokounmpo),7:58.0,23-56,Orlando,0,0.0
+8104,18,Offensive rebound by F. Wagner,7:57.0,23-56,Orlando,0,0.0
+8105,18,F. Wagner misses 2-pt layup from 2 ft (block by J. Nwora),7:56.0,23-56,Orlando,0,0.0
+8106,18,Defensive rebound by P. Connaughton,7:54.0,23-56,Milwaukee,0,0.0
+8107,18,J. Holiday makes 2-pt jump shot from 15 ft,7:44.0,23-58,Milwaukee,0,0.0
+8108,18,Orlando full timeout,7:44.0,23-58,Orlando,0,0.0
+8109,18,M. Mulder enters the game for T. Ross,7:44.0,23-58,Orlando,0,0.0
+8110,18,Personal foul by J. Nwora (drawn by F. Wagner),7:36.0,23-58,Orlando,0,0.0
+8111,18,Turnover by J. Suggs (lost ball; steal by J. Holiday),7:32.0,23-58,Orlando,0,0.0
+8112,18,Offensive foul by G. Allen (drawn by J. Suggs),7:24.0,23-58,Milwaukee,0,0.0
+8113,18,Turnover by G. Allen (offensive foul),7:24.0,23-58,Milwaukee,0,0.0
+8114,18,Shooting foul by P. Connaughton (drawn by J. Suggs),7:05.0,23-58,Orlando,0,0.0
+8115,18,J. Suggs misses free throw 1 of 2,7:05.0,23-58,Orlando,0,0.0
+8116,18,Offensive rebound by Team,7:05.0,23-58,Orlando,0,0.0
+8117,18,J. Suggs makes free throw 2 of 2,7:05.0,24-58,Orlando,0,0.0
+8118,18,P. Connaughton makes 2-pt hook shot from 5 ft (assist by G. Antetokounmpo),6:43.0,24-60,Milwaukee,0,0.0
+8119,18,F. Wagner misses 2-pt jump shot from 7 ft,6:25.0,24-60,Orlando,0,0.0
+8120,18,Offensive rebound by M. Bamba,6:23.0,24-60,Orlando,0,0.0
+8121,18,M. Bamba misses 2-pt hook shot from 2 ft,6:22.0,24-60,Orlando,0,0.0
+8122,18,Defensive rebound by G. Antetokounmpo,6:18.0,24-60,Milwaukee,0,0.0
+8123,18,G. Antetokounmpo misses 3-pt jump shot from 29 ft,6:09.0,24-60,Milwaukee,0,1.0
+8124,18,Defensive rebound by W. Carter,6:07.0,24-60,Orlando,0,1.0
+8125,18,J. Suggs misses 2-pt jump shot from 16 ft,5:57.0,24-60,Orlando,0,0.0
+8126,18,Defensive rebound by P. Connaughton,5:54.0,24-60,Milwaukee,0,0.0
+8127,18,G. Antetokounmpo misses 3-pt jump shot from 28 ft,5:31.0,24-60,Milwaukee,0,0.0
+8128,18,Offensive rebound by J. Holiday,5:23.0,24-60,Milwaukee,0,0.0
+8129,18,G. Antetokounmpo misses 3-pt jump shot from 27 ft,5:22.0,24-60,Milwaukee,0,0.0
+8130,18,Offensive rebound by Team,5:22.0,24-60,Milwaukee,0,0.0
+8131,18,Loose ball foul by F. Wagner (drawn by P. Connaughton),5:22.0,24-60,Orlando,0,0.0
+8132,18,R. Hampton enters the game for J. Suggs,5:22.0,24-60,Orlando,0,0.0
+8133,18,G. Hill enters the game for G. Antetokounmpo,5:22.0,24-60,Milwaukee,1,0.0
+8134,18,B. Portis enters the game for J. Nwora,5:22.0,24-60,Milwaukee,1,1.0
+8135,18,P. Connaughton makes 3-pt jump shot from 24 ft (assist by G. Allen),5:07.0,24-63,Milwaukee,0,0.0
+8136,18,F. Wagner misses 3-pt jump shot from 26 ft,4:56.0,24-63,Orlando,0,0.0
+8137,18,Defensive rebound by G. Allen,4:53.0,24-63,Milwaukee,0,0.0
+8138,18,J. Holiday makes 2-pt hook shot from 3 ft,4:42.0,24-65,Milwaukee,0,0.0
+8139,18,M. Mulder makes 3-pt jump shot from 28 ft (assist by R. Hampton),4:32.0,27-65,Orlando,0,0.0
+8140,18,P. Connaughton misses 3-pt jump shot from 29 ft,4:21.0,27-65,Milwaukee,0,0.0
+8141,18,Defensive rebound by W. Carter,4:18.0,27-65,Orlando,0,0.0
+8142,18,Shooting foul by P. Connaughton (drawn by W. Carter),4:13.0,27-65,Orlando,0,0.0
+8143,18,W. Carter makes free throw 1 of 2,4:13.0,28-65,Orlando,0,0.0
+8144,18,K. Middleton enters the game for G. Allen,4:13.0,28-65,Milwaukee,1,0.0
+8145,18,W. Carter makes free throw 2 of 2,4:13.0,29-65,Orlando,0,0.0
+8146,18,J. Holiday makes 2-pt jump shot from 14 ft,3:54.0,29-67,Milwaukee,0,0.0
+8147,18,R. Hampton misses 3-pt jump shot from 28 ft,3:40.0,29-67,Orlando,0,0.0
+8148,18,Defensive rebound by B. Portis,3:37.0,29-67,Milwaukee,0,0.0
+8149,18,K. Middleton misses 3-pt jump shot from 27 ft,3:24.0,29-67,Milwaukee,0,0.0
+8150,18,Offensive rebound by B. Portis,3:21.0,29-67,Milwaukee,0,0.0
+8151,18,P. Connaughton makes 3-pt jump shot from 29 ft (assist by B. Portis),3:13.0,29-70,Milwaukee,0,0.0
+8152,18,W. Carter misses 3-pt jump shot from 25 ft,3:00.0,29-70,Orlando,0,0.0
+8153,18,Defensive rebound by J. Holiday,2:56.0,29-70,Milwaukee,0,1.0
+8154,18,B. Portis misses 3-pt jump shot from 29 ft,2:50.0,29-70,Milwaukee,0,1.0
+8155,18,Defensive rebound by F. Wagner,2:47.0,29-70,Orlando,0,0.0
+8156,18,M. Bamba misses 3-pt jump shot from 24 ft,2:39.0,29-70,Orlando,0,0.0
+8157,18,Defensive rebound by K. Middleton,2:37.0,29-70,Milwaukee,0,0.0
+8158,18,J. Holiday makes 3-pt jump shot from 30 ft,2:25.0,29-73,Milwaukee,0,0.0
+8159,18,Shooting foul by J. Holiday (drawn by M. Mulder),2:06.0,29-73,Orlando,0,0.0
+8160,18,M. Mulder makes free throw 1 of 2,2:06.0,30-73,Orlando,0,0.0
+8161,18,C. Okeke enters the game for M. Bamba,2:06.0,30-73,Orlando,0,0.0
+8162,18,M. Wagner enters the game for F. Wagner,2:06.0,30-73,Orlando,0,0.0
+8163,18,G. Antetokounmpo enters the game for P. Connaughton,2:06.0,30-73,Milwaukee,1,0.0
+8164,18,R. Hood enters the game for J. Holiday,2:06.0,30-73,Milwaukee,1,0.0
+8165,18,M. Mulder makes free throw 2 of 2,2:06.0,31-73,Orlando,0,0.0
+8166,18,Offensive foul by B. Portis (drawn by M. Wagner),1:58.0,31-73,Milwaukee,0,0.0
+8167,18,Turnover by B. Portis (offensive foul),1:58.0,31-73,Milwaukee,0,1.0
+8168,18,Turnover by M. Mulder (lost ball; steal by R. Hood),1:41.0,31-73,Orlando,0,0.0
+8169,18,K. Middleton makes 2-pt dunk from 1 ft (assist by R. Hood),1:34.0,31-75,Milwaukee,0,0.0
+8170,18,M. Wagner makes 3-pt jump shot from 27 ft (assist by W. Carter),1:25.0,34-75,Orlando,0,0.0
+8171,18,B. Portis misses 3-pt jump shot from 23 ft,1:08.0,34-75,Milwaukee,0,0.0
+8172,18,Defensive rebound by W. Carter,1:05.0,34-75,Orlando,0,0.0
+8173,18,C. Okeke misses 3-pt jump shot from 27 ft,0:53.0,34-75,Orlando,0,0.0
+8174,18,Defensive rebound by G. Hill,0:50.0,34-75,Milwaukee,0,0.0
+8175,18,B. Portis misses 2-pt layup from 2 ft (block by M. Wagner),0:41.0,34-75,Milwaukee,0,0.0
+8176,18,Offensive rebound by Team,0:41.0,34-75,Milwaukee,0,0.0
+8177,18,J. Nwora enters the game for B. Portis,0:41.0,34-75,Milwaukee,1,0.0
+8178,18,Turnover by G. Hill (bad pass; steal by C. Okeke),0:38.0,34-75,Milwaukee,0,0.0
+8179,18,C. Okeke misses 3-pt jump shot from 27 ft,0:31.0,34-75,Orlando,0,0.0
+8180,18,Defensive rebound by J. Nwora,0:28.0,34-75,Milwaukee,0,0.0
+8181,18,G. Antetokounmpo makes 2-pt hook shot from 4 ft (assist by K. Middleton),0:13.0,34-77,Milwaukee,0,0.0
+8182,18,C. Okeke makes 2-pt jump shot from 19 ft,0:03.0,36-77,Orlando,0,0.0
+8183,18,G. Hill misses 3-pt jump shot from 36 ft,0:00.0,36-77,Milwaukee,0,0.0
+8184,18,Offensive rebound by Team,0:00.0,36-77,Milwaukee,0,0.0
+8185,18,G. Allen misses 2-pt jump shot from 14 ft,11:46.0,36-77,Milwaukee,0,0.0
+8186,18,Offensive rebound by B. Portis,11:44.0,36-77,Milwaukee,0,0.0
+8187,18,J. Holiday makes 2-pt layup from 2 ft (assist by G. Antetokounmpo),11:37.0,36-79,Milwaukee,0,0.0
+8188,18,J. Suggs misses 3-pt jump shot from 26 ft,11:25.0,36-79,Orlando,0,0.0
+8189,18,Defensive rebound by B. Portis,11:21.0,36-79,Milwaukee,0,0.0
+8190,18,K. Middleton misses 3-pt jump shot from 28 ft,11:02.0,36-79,Milwaukee,0,0.0
+8191,18,Defensive rebound by J. Suggs,10:59.0,36-79,Orlando,0,0.0
+8192,18,M. Mulder misses 3-pt jump shot from 27 ft,10:52.0,36-79,Orlando,0,0.0
+8193,18,Defensive rebound by B. Portis,10:49.0,36-79,Milwaukee,0,0.0
+8194,18,G. Allen misses 2-pt jump shot from 13 ft,10:35.0,36-79,Milwaukee,0,0.0
+8195,18,Defensive rebound by J. Suggs,10:32.0,36-79,Orlando,0,0.0
+8196,18,J. Suggs misses 2-pt jump shot from 12 ft,10:24.0,36-79,Orlando,0,0.0
+8197,18,Offensive rebound by J. Suggs,10:22.0,36-79,Orlando,0,0.0
+8198,18,M. Mulder misses 3-pt jump shot from 27 ft,10:20.0,36-79,Orlando,0,0.0
+8199,18,Defensive rebound by B. Portis,10:20.0,36-79,Milwaukee,0,0.0
+8200,18,Personal foul by J. Suggs (drawn by B. Portis),10:20.0,36-79,Milwaukee,0,0.0
+8201,18,G. Antetokounmpo misses 2-pt jump shot from 14 ft,10:01.0,36-79,Milwaukee,0,0.0
+8202,18,Offensive rebound by B. Portis,9:59.0,36-79,Milwaukee,0,0.0
+8203,18,B. Portis makes 2-pt layup from 2 ft,9:55.0,36-81,Milwaukee,0,0.0
+8204,18,W. Carter makes 2-pt layup from 1 ft,9:36.0,38-81,Orlando,0,0.0
+8205,18,B. Portis makes 3-pt jump shot from 25 ft (assist by J. Holiday),9:21.0,38-84,Milwaukee,0,0.0
+8206,18,Personal foul by B. Portis (drawn by W. Carter),9:09.0,38-84,Orlando,0,1.0
+8207,18,F. Wagner misses 3-pt jump shot from 27 ft,9:01.0,38-84,Orlando,0,0.0
+8208,18,Defensive rebound by G. Antetokounmpo,8:59.0,38-84,Milwaukee,0,0.0
+8209,18,Shooting foul by M. Bamba (drawn by G. Antetokounmpo),8:54.0,38-84,Milwaukee,0,0.0
+8210,18,G. Antetokounmpo makes free throw 1 of 2,8:54.0,38-85,Milwaukee,0,0.0
+8211,18,G. Antetokounmpo misses free throw 2 of 2,8:54.0,38-85,Milwaukee,0,0.0
+8212,18,Defensive rebound by W. Carter,8:49.0,38-85,Orlando,0,0.0
+8213,18,W. Carter misses 3-pt jump shot from 27 ft,8:44.0,38-85,Orlando,0,0.0
+8214,18,Defensive rebound by B. Portis,8:41.0,38-85,Milwaukee,0,0.0
+8215,18,Turnover by B. Portis (traveling),8:32.0,38-85,Milwaukee,0,0.0
+8216,18,P. Connaughton enters the game for B. Portis,8:32.0,38-85,Milwaukee,1,0.0
+8217,18,J. Suggs makes 2-pt layup from 3 ft,8:21.0,40-85,Orlando,0,0.0
+8218,18,Shooting foul by P. Connaughton (drawn by J. Suggs),8:21.0,40-85,Orlando,0,0.0
+8219,18,J. Suggs misses free throw 1 of 1,8:21.0,40-85,Orlando,0,0.0
+8220,18,Offensive rebound by J. Suggs,8:15.0,40-85,Orlando,0,0.0
+8221,18,J. Suggs misses 3-pt jump shot from 26 ft,8:13.0,40-85,Orlando,0,1.0
+8222,18,Offensive rebound by Team,8:13.0,40-85,Orlando,0,0.0
+8223,18,M. Mulder makes 3-pt jump shot from 23 ft (assist by W. Carter),8:06.0,43-85,Orlando,0,0.0
+8224,18,J. Holiday makes 3-pt jump shot from 26 ft,7:51.0,43-88,Milwaukee,0,0.0
+8225,18,M. Mulder makes 2-pt jump shot from 10 ft,7:39.0,45-88,Orlando,0,0.0
+8226,18,G. Antetokounmpo misses 2-pt layup from 2 ft (block by W. Carter),7:23.0,45-88,Milwaukee,0,0.0
+8227,18,Defensive rebound by M. Bamba,7:20.0,45-88,Orlando,0,0.0
+8228,18,F. Wagner misses 2-pt layup from 7 ft (block by P. Connaughton),7:15.0,45-88,Orlando,0,0.0
+8229,18,Defensive rebound by G. Antetokounmpo,7:10.0,45-88,Milwaukee,0,0.0
+8230,18,Personal foul by J. Suggs (drawn by G. Allen),7:10.0,45-88,Milwaukee,0,0.0
+8231,18,G. Hill enters the game for K. Middleton,7:10.0,45-88,Milwaukee,1,0.0
+8232,18,G. Allen makes 3-pt jump shot from 27 ft (assist by G. Antetokounmpo),7:03.0,45-91,Milwaukee,0,0.0
+8233,18,M. Bamba misses 3-pt jump shot from 27 ft,6:50.0,45-91,Orlando,0,0.0
+8234,18,Defensive rebound by J. Holiday,6:46.0,45-91,Milwaukee,0,0.0
+8235,18,J. Holiday misses 3-pt jump shot from 27 ft,6:42.0,45-91,Milwaukee,0,0.0
+8236,18,Defensive rebound by M. Bamba,6:40.0,45-91,Orlando,0,0.0
+8237,18,J. Suggs misses 3-pt jump shot from 23 ft,6:31.0,45-91,Orlando,0,0.0
+8238,18,Defensive rebound by G. Hill,6:27.0,45-91,Milwaukee,0,0.0
+8239,18,G. Allen makes 2-pt layup from 1 ft (assist by J. Holiday),6:26.0,45-93,Milwaukee,0,0.0
+8240,18,Shooting foul by J. Suggs (drawn by G. Allen),6:26.0,45-93,Milwaukee,0,0.0
+8241,18,Milwaukee full timeout,6:26.0,45-93,Milwaukee,0,0.0
+8242,18,R. Hampton enters the game for M. Bamba,6:26.0,45-93,Orlando,0,0.0
+8243,18,R. Lopez enters the game for J. Suggs,6:26.0,45-93,Orlando,0,0.0
+8244,18,T. Ross enters the game for F. Wagner,6:26.0,45-93,Orlando,0,0.0
+8245,18,G. Allen makes free throw 1 of 1,6:26.0,45-94,Milwaukee,0,0.0
+8246,18,T. Ross misses 2-pt layup from 6 ft (block by G. Antetokounmpo),6:16.0,45-94,Orlando,0,0.0
+8247,18,Offensive rebound by Team,6:16.0,45-94,Orlando,0,0.0
+8248,18,R. Lopez makes 2-pt hook shot from 4 ft,6:09.0,47-94,Orlando,0,1.0
+8249,18,P. Connaughton misses 3-pt jump shot from 24 ft,5:52.0,47-94,Milwaukee,0,0.0
+8250,18,Defensive rebound by W. Carter,5:48.0,47-94,Orlando,0,0.0
+8251,18,Turnover by W. Carter (bad pass; steal by G. Antetokounmpo),5:38.0,47-94,Orlando,0,0.0
+8252,18,P. Connaughton misses 2-pt layup from 3 ft,5:32.0,47-94,Milwaukee,0,0.0
+8253,18,Defensive rebound by Team,5:32.0,47-94,Orlando,0,0.0
+8254,18,Loose ball foul by G. Antetokounmpo (drawn by W. Carter),5:32.0,47-94,Milwaukee,0,0.0
+8255,18,Technical foul by R. Lopez,5:32.0,47-94,Orlando,0,0.0
+8256,18,G. Allen misses technical free throw,5:32.0,47-94,Milwaukee,0,0.0
+8257,18,Defensive rebound by Team,5:32.0,47-94,Orlando,0,0.0
+8258,18,R. Hood enters the game for G. Allen,5:32.0,47-94,Milwaukee,1,0.0
+8259,18,Shooting foul by G. Antetokounmpo (drawn by T. Ross),5:21.0,47-94,Orlando,0,0.0
+8260,18,T. Ross makes free throw 1 of 2,5:21.0,48-94,Orlando,0,0.0
+8261,18,T. Ross misses free throw 2 of 2,5:21.0,48-94,Orlando,0,0.0
+8262,18,Defensive rebound by P. Connaughton,5:15.0,48-94,Milwaukee,0,0.0
+8263,18,J. Holiday misses 2-pt jump shot from 9 ft,5:06.0,48-94,Milwaukee,0,1.0
+8264,18,Defensive rebound by T. Ross,5:04.0,48-94,Orlando,0,1.0
+8265,18,T. Ross misses 3-pt jump shot from 28 ft,4:57.0,48-94,Orlando,0,0.0
+8266,18,Defensive rebound by G. Antetokounmpo,4:54.0,48-94,Milwaukee,0,0.0
+8267,18,R. Hood misses 3-pt jump shot from 24 ft,4:44.0,48-94,Milwaukee,0,0.0
+8268,18,Offensive rebound by P. Connaughton,4:42.0,48-94,Milwaukee,0,0.0
+8269,18,R. Hood misses 3-pt jump shot from 24 ft,4:37.0,48-94,Milwaukee,0,0.0
+8270,18,Offensive rebound by Team,4:37.0,48-94,Milwaukee,0,0.0
+8271,18,Loose ball foul by T. Ross (drawn by G. Hill),4:37.0,48-94,Orlando,0,0.0
+8272,18,G. Hill makes free throw 1 of 2,4:37.0,48-95,Milwaukee,0,0.0
+8273,18,J. Nwora enters the game for G. Antetokounmpo,4:37.0,48-95,Milwaukee,1,0.0
+8274,18,B. Portis enters the game for J. Holiday,4:37.0,48-95,Milwaukee,1,0.0
+8275,18,G. Hill makes free throw 2 of 2,4:37.0,48-96,Milwaukee,0,0.0
+8276,18,Turnover by T. Ross (traveling),4:25.0,48-96,Orlando,0,0.0
+8277,18,P. Connaughton makes 3-pt jump shot from 26 ft (assist by B. Portis),4:04.0,48-99,Milwaukee,0,0.0
+8278,18,R. Lopez makes 2-pt hook shot from 3 ft,3:41.0,50-99,Orlando,0,0.0
+8279,18,B. Portis misses 2-pt jump shot from 8 ft,3:28.0,50-99,Milwaukee,0,0.0
+8280,18,Offensive rebound by B. Portis,3:26.0,50-99,Milwaukee,0,0.0
+8281,18,B. Portis misses 2-pt layup at rim,3:26.0,50-99,Milwaukee,0,0.0
+8282,18,Defensive rebound by R. Hampton,3:23.0,50-99,Orlando,0,0.0
+8283,18,R. Hampton misses 2-pt layup from 2 ft (block by J. Nwora),3:19.0,50-99,Orlando,0,0.0
+8284,18,Offensive rebound by R. Hampton,3:17.0,50-99,Orlando,0,0.0
+8285,18,M. Mulder makes 3-pt jump shot from 29 ft (assist by R. Hampton),3:15.0,53-99,Orlando,0,0.0
+8286,18,Turnover by B. Portis (lost ball; steal by T. Ross),2:58.0,53-99,Milwaukee,0,1.0
+8287,18,R. Hampton misses 2-pt jump shot from 6 ft,2:51.0,53-99,Orlando,0,1.0
+8288,18,Offensive rebound by R. Hampton,2:50.0,53-99,Orlando,0,0.0
+8289,18,R. Hampton misses 2-pt layup from 3 ft,2:49.0,53-99,Orlando,0,0.0
+8290,18,Defensive rebound by R. Hood,2:48.0,53-99,Milwaukee,0,0.0
+8291,18,J. Nwora misses 2-pt jump shot from 21 ft,2:39.0,53-99,Milwaukee,0,0.0
+8292,18,Defensive rebound by R. Lopez,2:35.0,53-99,Orlando,0,0.0
+8293,18,Orlando full timeout,2:22.0,53-99,Orlando,0,0.0
+8294,18,C. Okeke enters the game for W. Carter,2:22.0,53-99,Orlando,0,0.0
+8295,18,M. Wagner enters the game for M. Mulder,2:22.0,53-99,Orlando,0,0.0
+8296,18,T. Antetokounmpo enters the game for P. Connaughton,2:22.0,53-99,Milwaukee,1,0.0
+8297,18,J. Robinson enters the game for G. Hill,2:22.0,53-99,Milwaukee,1,0.0
+8298,18,M. Wagner misses 2-pt layup from 2 ft (block by B. Portis),2:15.0,53-99,Orlando,0,0.0
+8299,18,Offensive rebound by Team,2:13.0,53-99,Orlando,0,0.0
+8300,18,Turnover by Team (shot clock),2:11.0,53-99,Orlando,0,0.0
+8301,18,J. Nwora makes 2-pt jump shot from 14 ft (assist by J. Robinson),1:58.0,53-101,Milwaukee,0,0.0
+8302,18,C. Okeke misses 2-pt jump shot from 5 ft,1:41.0,53-101,Orlando,0,1.0
+8303,18,Offensive rebound by R. Lopez,1:39.0,53-101,Orlando,0,0.0
+8304,18,R. Lopez misses 2-pt layup at rim,1:39.0,53-101,Orlando,0,0.0
+8305,18,Offensive rebound by R. Lopez,1:37.0,53-101,Orlando,0,0.0
+8306,18,R. Lopez misses 2-pt layup at rim,1:37.0,53-101,Orlando,0,0.0
+8307,18,Offensive rebound by Team,1:36.0,53-101,Orlando,0,0.0
+8308,18,Turnover by R. Lopez (off goaltending),1:36.0,53-101,Orlando,0,0.0
+8309,18,Shooting foul by M. Wagner (drawn by T. Antetokounmpo),1:24.0,53-101,Milwaukee,0,0.0
+8310,18,T. Antetokounmpo misses free throw 1 of 2,1:24.0,53-101,Milwaukee,0,0.0
+8311,18,Offensive rebound by Team,1:24.0,53-101,Milwaukee,0,0.0
+8312,18,G. Kalaitzakis enters the game for B. Portis,1:24.0,53-101,Milwaukee,1,0.0
+8313,18,T. Antetokounmpo makes free throw 2 of 2,1:24.0,53-102,Milwaukee,0,0.0
+8314,18,Personal foul by T. Antetokounmpo (drawn by R. Lopez),1:15.0,53-102,Orlando,0,0.0
+8315,18,R. Lopez misses free throw 1 of 2,1:15.0,53-102,Orlando,0,0.0
+8316,18,Offensive rebound by Team,1:15.0,53-102,Orlando,0,0.0
+8317,18,R. Lopez makes free throw 2 of 2,1:15.0,54-102,Orlando,0,0.0
+8318,18,Turnover by G. Kalaitzakis (bad pass; steal by R. Hampton),1:03.0,54-102,Milwaukee,0,0.0
+8319,18,R. Hampton makes 2-pt layup from 2 ft,0:59.0,56-102,Orlando,0,0.0
+8320,18,J. Robinson misses 3-pt jump shot from 26 ft,0:48.0,56-102,Milwaukee,0,0.0
+8321,18,Offensive rebound by G. Kalaitzakis,0:47.0,56-102,Milwaukee,0,0.0
+8322,18,R. Hood misses 3-pt jump shot from 26 ft,0:34.0,56-102,Milwaukee,0,0.0
+8323,18,Defensive rebound by R. Hampton,0:31.0,56-102,Orlando,0,0.0
+8324,18,R. Hampton misses 3-pt jump shot from 27 ft,0:28.0,56-102,Orlando,0,0.0
+8325,18,Defensive rebound by G. Kalaitzakis,0:25.0,56-102,Milwaukee,0,0.0
+8326,18,J. Nwora makes 3-pt jump shot from 27 ft (assist by J. Robinson),0:04.0,56-105,Milwaukee,0,0.0
+8327,18,C. Okeke misses 3-pt jump shot from 34 ft,0:00.0,56-105,Orlando,0,0.0
+8328,18,Offensive rebound by Team,0:00.0,56-105,Orlando,0,0.0
+8329,18,R. Lopez makes 2-pt layup from 1 ft (assist by R. Hampton),11:40.0,58-105,Orlando,0,0.0
+8330,18,J. Nwora misses 3-pt jump shot from 24 ft,11:16.0,58-105,Milwaukee,0,0.0
+8331,18,Defensive rebound by I. Brazdeikis,11:13.0,58-105,Orlando,0,0.0
+8332,18,R. Hampton misses 3-pt jump shot from 32 ft,11:08.0,58-105,Orlando,0,0.0
+8333,18,Offensive rebound by I. Brazdeikis,11:05.0,58-105,Orlando,0,0.0
+8334,18,C. Okeke misses 2-pt layup from 5 ft,11:00.0,58-105,Orlando,0,0.0
+8335,18,Offensive rebound by C. Okeke,10:55.0,58-105,Orlando,0,0.0
+8336,18,C. Okeke makes 2-pt layup at rim,10:55.0,60-105,Orlando,0,0.0
+8337,18,J. Robinson misses 2-pt jump shot from 13 ft,10:45.0,60-105,Milwaukee,0,0.0
+8338,18,Defensive rebound by I. Brazdeikis,10:42.0,60-105,Orlando,0,0.0
+8339,18,R. Lopez misses 2-pt hook shot from 10 ft,10:30.0,60-105,Orlando,0,0.0
+8340,18,Defensive rebound by J. Nwora,10:27.0,60-105,Milwaukee,0,0.0
+8341,18,G. Kalaitzakis makes 3-pt jump shot from 25 ft (assist by R. Hood),10:20.0,60-108,Milwaukee,0,0.0
+8342,18,Shooting foul by T. Antetokounmpo (drawn by M. Wagner),10:01.0,60-108,Orlando,0,0.0
+8343,18,Milwaukee full timeout,10:01.0,60-108,Milwaukee,0,0.0
+8344,18,M. Wagner makes free throw 1 of 2,10:01.0,61-108,Orlando,0,0.0
+8345,18,M. Wagner makes free throw 2 of 2,10:01.0,62-108,Orlando,0,0.0
+8346,18,R. Hood misses 3-pt jump shot from 27 ft,9:47.0,62-108,Milwaukee,0,0.0
+8347,18,Defensive rebound by R. Hampton,9:45.0,62-108,Orlando,0,0.0
+8348,18,M. Wagner misses 2-pt jump shot from 10 ft,9:33.0,62-108,Orlando,0,0.0
+8349,18,Offensive rebound by R. Lopez,9:27.0,62-108,Orlando,0,1.0
+8350,18,R. Lopez makes 2-pt layup at rim,9:27.0,64-108,Orlando,0,0.0
+8351,18,J. Nwora misses 2-pt jump shot from 12 ft,9:16.0,64-108,Milwaukee,0,0.0
+8352,18,Offensive rebound by R. Hood,9:11.0,64-108,Milwaukee,0,0.0
+8353,18,R. Hood makes 2-pt layup at rim,9:11.0,64-110,Milwaukee,0,0.0
+8354,18,R. Lopez misses 2-pt hook shot from 4 ft,8:55.0,64-110,Orlando,0,0.0
+8355,18,Defensive rebound by T. Antetokounmpo,8:52.0,64-110,Milwaukee,0,0.0
+8356,18,J. Nwora misses 3-pt jump shot from 27 ft,8:40.0,64-110,Milwaukee,0,0.0
+8357,18,Defensive rebound by C. Okeke,8:38.0,64-110,Orlando,0,0.0
+8358,18,Personal foul by T. Antetokounmpo (drawn by C. Okeke),8:34.0,64-110,Orlando,0,0.0
+8359,18,P. Connaughton enters the game for R. Hood,8:34.0,64-110,Milwaukee,1,0.0
+8360,18,C. Okeke misses 3-pt jump shot from 27 ft,8:27.0,64-110,Orlando,0,0.0
+8361,18,Defensive rebound by T. Antetokounmpo,8:23.0,64-110,Milwaukee,0,0.0
+8362,18,P. Connaughton misses 2-pt jump shot from 17 ft,8:12.0,64-110,Milwaukee,0,0.0
+8363,18,Defensive rebound by R. Hampton,8:09.0,64-110,Orlando,0,0.0
+8364,18,M. Wagner makes 3-pt jump shot from 26 ft (assist by R. Hampton),8:04.0,67-110,Orlando,0,0.0
+8365,18,Turnover by J. Nwora (lost ball; steal by R. Hampton),7:42.0,67-110,Milwaukee,0,0.0
+8366,18,I. Brazdeikis misses 3-pt jump shot from 26 ft,7:33.0,67-110,Orlando,0,0.0
+8367,18,Defensive rebound by G. Kalaitzakis,7:28.0,67-110,Milwaukee,0,0.0
+8368,18,Shooting foul by R. Hampton (drawn by G. Kalaitzakis),7:28.0,67-110,Milwaukee,0,0.0
+8369,18,G. Kalaitzakis makes free throw 1 of 2,7:28.0,67-111,Milwaukee,0,0.0
+8370,18,G. Kalaitzakis makes free throw 2 of 2,7:28.0,67-112,Milwaukee,0,0.0
+8371,18,R. Lopez makes 2-pt hook shot from 8 ft (assist by M. Wagner),7:06.0,69-112,Orlando,0,0.0
+8372,18,T. Antetokounmpo misses 3-pt jump shot from 26 ft,6:44.0,69-112,Milwaukee,0,0.0
+8373,18,Defensive rebound by C. Okeke,6:41.0,69-112,Orlando,0,0.0
+8374,18,C. Okeke makes 2-pt jump shot from 6 ft,6:35.0,71-112,Orlando,0,0.0
+8375,18,J. Nwora misses 2-pt jump shot from 10 ft,6:20.0,71-112,Milwaukee,0,0.0
+8376,18,Offensive rebound by J. Nwora,6:19.0,71-112,Milwaukee,0,0.0
+8377,18,J. Nwora misses 2-pt layup from 2 ft,6:17.0,71-112,Milwaukee,0,0.0
+8378,18,Defensive rebound by I. Brazdeikis,6:17.0,71-112,Orlando,0,0.0
+8379,18,I. Brazdeikis makes 3-pt jump shot from 26 ft,6:07.0,74-112,Orlando,0,0.0
+8380,18,J. Robinson misses 2-pt layup from 4 ft,5:52.0,74-112,Milwaukee,0,1.0
+8381,18,Defensive rebound by I. Brazdeikis,5:49.0,74-112,Orlando,0,0.0
+8382,18,R. Lopez misses 3-pt jump shot from 27 ft,5:43.0,74-112,Orlando,0,0.0
+8383,18,Offensive rebound by I. Brazdeikis,5:40.0,74-112,Orlando,0,0.0
+8384,18,C. Okeke makes 3-pt jump shot from 26 ft (assist by R. Hampton),5:35.0,77-112,Orlando,0,0.0
+8385,18,T. Antetokounmpo misses 3-pt jump shot from 30 ft,5:09.0,77-112,Milwaukee,0,0.0
+8386,18,Defensive rebound by C. Okeke,5:06.0,77-112,Orlando,0,0.0
+8387,18,R. Lopez makes 2-pt hook shot from 2 ft (assist by C. Okeke),5:03.0,79-112,Orlando,0,0.0
+8388,18,Milwaukee full timeout,5:00.0,79-112,Milwaukee,0,0.0
+8389,18,M. Mulder enters the game for R. Lopez,5:00.0,79-112,Orlando,0,0.0
+8390,18,R. Hood enters the game for P. Connaughton,5:00.0,79-112,Milwaukee,1,0.0
+8391,18,Turnover by R. Hood (out of bounds lost ball),4:42.0,79-112,Milwaukee,0,0.0
+8392,18,R. Hampton misses 2-pt layup from 4 ft,4:24.0,79-112,Orlando,0,0.0
+8393,18,Defensive rebound by T. Antetokounmpo,4:21.0,79-112,Milwaukee,0,0.0
+8394,18,Shooting foul by I. Brazdeikis (drawn by J. Nwora),4:09.0,79-112,Milwaukee,0,0.0
+8395,18,J. Nwora makes free throw 1 of 2,4:09.0,79-113,Milwaukee,0,0.0
+8396,18,J. Nwora makes free throw 2 of 2,4:09.0,79-114,Milwaukee,0,0.0
+8397,18,M. Mulder misses 3-pt jump shot from 23 ft,3:48.0,79-114,Orlando,0,0.0
+8398,18,Offensive rebound by M. Wagner,3:47.0,79-114,Orlando,0,0.0
+8399,18,Shooting foul by J. Nwora (drawn by M. Wagner),3:47.0,79-114,Orlando,0,0.0
+8400,18,M. Wagner makes free throw 1 of 2,3:47.0,80-114,Orlando,0,0.0
+8401,18,M. Wagner misses free throw 2 of 2,3:47.0,80-114,Orlando,0,0.0
+8402,18,Defensive rebound by J. Nwora,3:44.0,80-114,Milwaukee,0,0.0
+8403,18,J. Nwora makes 2-pt layup from 1 ft (assist by J. Robinson),3:32.0,80-116,Milwaukee,0,0.0
+8404,18,M. Mulder misses 2-pt layup from 3 ft (block by T. Antetokounmpo),3:20.0,80-116,Orlando,0,0.0
+8405,18,Offensive rebound by M. Wagner,3:16.0,80-116,Orlando,0,0.0
+8406,18,Personal foul by G. Kalaitzakis (drawn by I. Brazdeikis),3:14.0,80-116,Orlando,0,0.0
+8407,18,R. Hampton makes 2-pt layup from 1 ft,3:08.0,82-116,Orlando,0,0.0
+8408,18,Shooting foul by J. Robinson (drawn by R. Hampton),3:08.0,82-116,Orlando,0,0.0
+8409,18,R. Hampton makes free throw 1 of 1,3:08.0,83-116,Orlando,0,0.0
+8410,18,Turnover by J. Nwora (bad pass; steal by C. Okeke),2:52.0,83-116,Milwaukee,0,0.0
+8411,18,R. Hampton makes 2-pt dunk from 2 ft,2:47.0,85-116,Orlando,0,0.0
+8412,18,J. Robinson misses 2-pt jump shot from 12 ft,2:31.0,85-116,Milwaukee,0,0.0
+8413,18,Offensive rebound by T. Antetokounmpo,2:28.0,85-116,Milwaukee,0,0.0
+8414,18,T. Antetokounmpo misses 2-pt layup from 2 ft,2:28.0,85-116,Milwaukee,0,0.0
+8415,18,Defensive rebound by C. Okeke,2:25.0,85-116,Orlando,0,0.0
+8416,18,C. Okeke makes 3-pt jump shot from 24 ft (assist by I. Brazdeikis),2:11.0,88-116,Orlando,0,0.0
+8417,18,J. Robinson makes 2-pt layup from 1 ft,1:59.0,88-118,Milwaukee,0,0.0
+8418,18,M. Mulder misses 3-pt jump shot from 27 ft,1:46.0,88-118,Orlando,0,0.0
+8419,18,Defensive rebound by J. Robinson,1:42.0,88-118,Milwaukee,0,0.0
+8420,18,J. Nwora makes 2-pt jump shot from 15 ft (assist by J. Robinson),1:37.0,88-120,Milwaukee,0,0.0
+8421,18,Shooting foul by J. Nwora (drawn by M. Wagner),1:23.0,88-120,Orlando,0,0.0
+8422,18,M. Wagner makes free throw 1 of 2,1:23.0,89-120,Orlando,0,
+8423,18,M. Wagner makes free throw 2 of 2,1:23.0,90-120,Orlando,0,
+8424,18,J. Nwora misses 3-pt jump shot from 28 ft (block by M. Wagner),1:04.0,90-120,Milwaukee,0,
+8425,18,Defensive rebound by R. Hampton,1:02.0,90-120,Orlando,0,
+8426,18,M. Wagner makes 2-pt dunk from 1 ft,1:01.0,92-120,Orlando,0,
+8427,18,J. Robinson makes 3-pt jump shot from 28 ft (assist by J. Nwora),0:45.0,92-123,Milwaukee,0,
+8428,18,R. Hampton misses 3-pt jump shot from 31 ft,0:29.0,92-123,Orlando,0,
+8429,18,Defensive rebound by J. Nwora,0:25.0,92-123,Milwaukee,0,
+8430,18,Turnover by Team (shot clock),0:04.0,92-123,Milwaukee,0,
+8431,18,Instant Replay (Request: Ruling Stands),0:00.0,92-123,Milwaukee,0,

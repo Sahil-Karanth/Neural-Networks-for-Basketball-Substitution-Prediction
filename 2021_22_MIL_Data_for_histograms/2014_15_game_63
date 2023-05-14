@@ -1,0 +1,465 @@
+,game number,play,time,score,team,current_sub_status,future_sub_status
+28843,63,P. Tucker makes 2-pt layup from 1 ft (assist by G. Vincent),11:42.0,2-0,Miami,0,0.0
+28844,63,B. Portis makes 3-pt jump shot from 26 ft (assist by K. Middleton),11:27.0,2-3,Milwaukee,0,0.0
+28845,63,B. Adebayo misses 2-pt jump shot from 13 ft,11:14.0,2-3,Miami,0,0.0
+28846,63,Defensive rebound by G. Antetokounmpo,11:11.0,2-3,Milwaukee,0,0.0
+28847,63,Personal foul by P. Tucker (drawn by G. Antetokounmpo),11:06.0,2-3,Milwaukee,0,0.0
+28848,63,K. Middleton misses 2-pt jump shot from 10 ft,10:58.0,2-3,Milwaukee,0,0.0
+28849,63,Offensive rebound by G. Antetokounmpo,10:56.0,2-3,Milwaukee,0,0.0
+28850,63,Personal foul by B. Adebayo (drawn by G. Antetokounmpo),10:56.0,2-3,Milwaukee,0,0.0
+28851,63,G. Allen misses 3-pt jump shot from 26 ft,10:48.0,2-3,Milwaukee,0,0.0
+28852,63,Defensive rebound by P. Tucker,10:45.0,2-3,Miami,0,0.0
+28853,63,G. Vincent makes 2-pt jump shot from 11 ft,10:38.0,4-3,Miami,0,0.0
+28854,63,J. Holiday misses 2-pt layup from 4 ft,10:29.0,4-3,Milwaukee,0,0.0
+28855,63,Defensive rebound by P. Tucker,10:27.0,4-3,Miami,0,0.0
+28856,63,G. Vincent misses 3-pt jump shot from 26 ft,10:22.0,4-3,Miami,0,0.0
+28857,63,Offensive rebound by P. Tucker,10:19.0,4-3,Miami,0,0.0
+28858,63,G. Vincent misses 2-pt layup from 3 ft,10:16.0,4-3,Miami,0,0.0
+28859,63,Defensive rebound by G. Allen,10:13.0,4-3,Milwaukee,0,0.0
+28860,63,B. Portis makes 3-pt jump shot from 24 ft (assist by J. Holiday),10:08.0,4-6,Milwaukee,0,0.0
+28861,63,D. Robinson makes 3-pt jump shot from 26 ft (assist by B. Adebayo),9:51.0,7-6,Miami,0,0.0
+28862,63,J. Holiday makes 3-pt jump shot from 25 ft (assist by G. Antetokounmpo),9:39.0,7-9,Milwaukee,0,0.0
+28863,63,B. Adebayo misses 2-pt jump shot from 12 ft,9:23.0,7-9,Miami,0,0.0
+28864,63,Defensive rebound by J. Holiday,9:21.0,7-9,Milwaukee,0,0.0
+28865,63,G. Antetokounmpo makes 3-pt jump shot from 27 ft (assist by B. Portis),9:10.0,7-12,Milwaukee,0,0.0
+28866,63,J. Butler misses 3-pt jump shot from 26 ft,8:49.0,7-12,Miami,0,0.0
+28867,63,Defensive rebound by G. Antetokounmpo,8:47.0,7-12,Milwaukee,0,0.0
+28868,63,Shooting foul by G. Vincent (drawn by K. Middleton),8:42.0,7-12,Milwaukee,0,0.0
+28869,63,K. Middleton makes free throw 1 of 2,8:42.0,7-13,Milwaukee,0,0.0
+28870,63,K. Middleton makes free throw 2 of 2,8:42.0,7-14,Milwaukee,0,0.0
+28871,63,Shooting foul by J. Holiday (drawn by J. Butler),8:32.0,7-14,Miami,0,0.0
+28872,63,J. Butler makes free throw 1 of 2,8:32.0,8-14,Miami,0,0.0
+28873,63,J. Butler makes free throw 2 of 2,8:32.0,9-14,Miami,0,0.0
+28874,63,J. Holiday misses 3-pt jump shot from 27 ft,8:21.0,9-14,Milwaukee,0,0.0
+28875,63,Defensive rebound by D. Robinson,8:17.0,9-14,Miami,0,0.0
+28876,63,B. Adebayo misses 2-pt layup from 3 ft (block by B. Portis),8:13.0,9-14,Miami,0,0.0
+28877,63,Offensive rebound by B. Adebayo,8:13.0,9-14,Miami,0,0.0
+28878,63,Shooting foul by G. Antetokounmpo (drawn by B. Adebayo),8:13.0,9-14,Miami,0,1.0
+28879,63,B. Adebayo misses free throw 1 of 2,8:13.0,9-14,Miami,0,0.0
+28880,63,Offensive rebound by Team,8:13.0,9-14,Miami,0,0.0
+28881,63,B. Adebayo makes free throw 2 of 2,8:13.0,10-14,Miami,0,1.0
+28882,63,K. Middleton makes 2-pt jump shot from 16 ft,8:00.0,10-16,Milwaukee,0,0.0
+28883,63,B. Adebayo misses 2-pt dunk from 7 ft,7:48.0,10-16,Miami,0,0.0
+28884,63,Offensive rebound by P. Tucker,7:44.0,10-16,Miami,0,0.0
+28885,63,P. Tucker makes 2-pt layup from 3 ft,7:43.0,12-16,Miami,0,0.0
+28886,63,K. Middleton makes 3-pt jump shot from 26 ft (assist by G. Allen),7:33.0,12-19,Milwaukee,0,0.0
+28887,63,Turnover by G. Vincent (bad pass; steal by G. Antetokounmpo),7:22.0,12-19,Miami,0,0.0
+28888,63,W. Matthews enters the game for B. Portis,7:22.0,12-19,Milwaukee,1,0.0
+28889,63,G. Allen makes 2-pt layup from 1 ft (assist by J. Holiday),7:15.0,12-21,Milwaukee,0,0.0
+28890,63,Personal foul by G. Antetokounmpo (drawn by D. Robinson),7:06.0,12-21,Miami,0,0.0
+28891,63,B. Portis enters the game for G. Antetokounmpo,7:06.0,12-21,Milwaukee,1,0.0
+28892,63,G. Vincent misses 3-pt jump shot from 28 ft,6:52.0,12-21,Miami,0,0.0
+28893,63,Defensive rebound by J. Holiday,6:47.0,12-21,Milwaukee,0,0.0
+28894,63,Turnover by J. Holiday (bad pass; steal by B. Adebayo),6:44.0,12-21,Milwaukee,0,0.0
+28895,63,B. Adebayo makes 2-pt layup from 2 ft,6:42.0,14-21,Miami,0,0.0
+28896,63,Shooting foul by W. Matthews (drawn by B. Adebayo),6:42.0,14-21,Miami,0,0.0
+28897,63,Milwaukee full timeout,6:42.0,14-21,Milwaukee,0,0.0
+28898,63,B. Adebayo misses free throw 1 of 1,6:42.0,14-21,Miami,0,0.0
+28899,63,Defensive rebound by B. Portis,6:39.0,14-21,Milwaukee,0,0.0
+28900,63,B. Portis misses 3-pt jump shot from 27 ft,6:24.0,14-21,Milwaukee,0,0.0
+28901,63,Defensive rebound by P. Tucker,6:22.0,14-21,Miami,0,0.0
+28902,63,J. Butler misses 2-pt jump shot from 16 ft,6:11.0,14-21,Miami,0,0.0
+28903,63,Defensive rebound by K. Middleton,6:09.0,14-21,Milwaukee,0,0.0
+28904,63,K. Middleton makes 3-pt jump shot from 26 ft,6:02.0,14-24,Milwaukee,0,0.0
+28905,63,G. Vincent makes 2-pt layup from 2 ft (assist by P. Tucker),5:39.0,16-24,Miami,0,0.0
+28906,63,K. Middleton misses 3-pt jump shot from 27 ft,5:31.0,16-24,Milwaukee,0,0.0
+28907,63,Defensive rebound by D. Robinson,5:28.0,16-24,Miami,0,1.0
+28908,63,D. Robinson makes 3-pt jump shot from 24 ft (assist by G. Vincent),5:08.0,19-24,Miami,0,1.0
+28909,63,B. Portis makes 2-pt dunk from 2 ft (assist by J. Holiday),4:50.0,19-26,Milwaukee,0,0.0
+28910,63,J. Butler misses 2-pt jump shot from 8 ft,4:31.0,19-26,Miami,0,0.0
+28911,63,Defensive rebound by G. Allen,4:29.0,19-26,Milwaukee,0,0.0
+28912,63,J. Holiday makes 2-pt jump shot from 12 ft,4:13.0,19-28,Milwaukee,0,0.0
+28913,63,Miami full timeout,4:13.0,19-28,Miami,0,0.0
+28914,63,D. Dedmon enters the game for B. Adebayo,4:13.0,19-28,Miami,0,0.0
+28915,63,T. Herro enters the game for P. Tucker,4:13.0,19-28,Miami,0,0.0
+28916,63,C. Martin enters the game for G. Vincent,4:13.0,19-28,Miami,0,0.0
+28917,63,J. Carter enters the game for G. Allen,4:13.0,19-28,Milwaukee,1,0.0
+28918,63,S. Ibaka enters the game for J. Holiday,4:13.0,19-28,Milwaukee,1,0.0
+28919,63,D. Robinson makes 3-pt jump shot from 26 ft (assist by D. Dedmon),3:55.0,22-28,Miami,0,0.0
+28920,63,K. Middleton misses 2-pt jump shot from 16 ft,3:37.0,22-28,Milwaukee,0,0.0
+28921,63,Offensive rebound by B. Portis,3:31.0,22-28,Milwaukee,0,0.0
+28922,63,B. Portis misses 2-pt layup at rim,3:31.0,22-28,Milwaukee,0,0.0
+28923,63,Defensive rebound by D. Dedmon,3:31.0,22-28,Miami,0,0.0
+28924,63,Shooting foul by J. Carter (drawn by T. Herro),3:22.0,22-28,Miami,0,0.0
+28925,63,T. Herro makes free throw 1 of 2,3:22.0,23-28,Miami,0,0.0
+28926,63,T. Herro makes free throw 2 of 2,3:22.0,24-28,Miami,0,0.0
+28927,63,W. Matthews misses 3-pt jump shot from 26 ft,3:03.0,24-28,Milwaukee,0,0.0
+28928,63,Defensive rebound by J. Butler,3:01.0,24-28,Miami,0,0.0
+28929,63,T. Herro misses 2-pt jump shot from 6 ft,2:50.0,24-28,Miami,0,0.0
+28930,63,Defensive rebound by S. Ibaka,2:47.0,24-28,Milwaukee,0,1.0
+28931,63,J. Carter misses 2-pt jump shot from 19 ft,2:43.0,24-28,Milwaukee,0,1.0
+28932,63,Offensive rebound by S. Ibaka,2:40.0,24-28,Milwaukee,0,0.0
+28933,63,S. Ibaka makes 2-pt hook shot from 3 ft (assist by K. Middleton),2:32.0,24-30,Milwaukee,0,0.0
+28934,63,J. Butler misses 2-pt jump shot from 14 ft,2:13.0,24-30,Miami,0,0.0
+28935,63,Defensive rebound by S. Ibaka,2:10.0,24-30,Milwaukee,0,0.0
+28936,63,K. Middleton misses 2-pt layup from 4 ft (block by J. Butler),2:06.0,24-30,Milwaukee,0,0.0
+28937,63,Offensive rebound by Team,2:06.0,24-30,Milwaukee,0,0.0
+28938,63,B. Adebayo enters the game for D. Dedmon,2:06.0,24-30,Miami,0,0.0
+28939,63,M. Strus enters the game for D. Robinson,2:06.0,24-30,Miami,0,0.0
+28940,63,G. Antetokounmpo enters the game for K. Middleton,2:06.0,24-30,Milwaukee,1,0.0
+28941,63,J. Nwora enters the game for B. Portis,2:06.0,24-30,Milwaukee,1,0.0
+28942,63,S. Ibaka misses 3-pt jump shot from 23 ft,2:00.0,24-30,Milwaukee,0,0.0
+28943,63,Defensive rebound by T. Herro,1:57.0,24-30,Miami,0,0.0
+28944,63,M. Strus misses 3-pt jump shot from 27 ft,1:51.0,24-30,Miami,0,0.0
+28945,63,Defensive rebound by G. Antetokounmpo,1:48.0,24-30,Milwaukee,0,0.0
+28946,63,G. Antetokounmpo makes 2-pt layup from 3 ft,1:44.0,24-32,Milwaukee,0,0.0
+28947,63,M. Strus misses 2-pt layup from 3 ft,1:29.0,24-32,Miami,0,0.0
+28948,63,Defensive rebound by S. Ibaka,1:27.0,24-32,Milwaukee,0,0.0
+28949,63,S. Ibaka makes 2-pt dunk from 2 ft (assist by G. Antetokounmpo),1:19.0,24-34,Milwaukee,0,0.0
+28950,63,T. Herro misses 2-pt jump shot from 10 ft,0:58.0,24-34,Miami,0,0.0
+28951,63,Defensive rebound by J. Carter,0:55.0,24-34,Milwaukee,0,0.0
+28952,63,W. Matthews misses 2-pt layup from 2 ft (block by C. Martin),0:51.0,24-34,Milwaukee,0,0.0
+28953,63,Defensive rebound by T. Herro,0:47.0,24-34,Miami,0,0.0
+28954,63,C. Martin misses 2-pt layup from 3 ft,0:44.0,24-34,Miami,0,0.0
+28955,63,Offensive rebound by J. Butler,0:43.0,24-34,Miami,0,0.0
+28956,63,J. Butler makes 2-pt layup at rim,0:43.0,26-34,Miami,0,0.0
+28957,63,J. Nwora misses 3-pt jump shot from 24 ft,0:29.0,26-34,Milwaukee,0,0.0
+28958,63,Defensive rebound by J. Butler,0:26.0,26-34,Miami,0,0.0
+28959,63,J. Butler makes 2-pt jump shot from 18 ft,0:19.0,28-34,Miami,0,0.0
+28960,63,G. Antetokounmpo makes 2-pt jump shot from 14 ft,0:00.0,28-36,Milwaukee,0,0.0
+28961,63,Instant Replay (Request: Stands),0:00.0,28-36,Milwaukee,0,0.0
+28962,63,J. Holiday misses 3-pt jump shot from 23 ft,11:49.0,28-36,Milwaukee,0,0.0
+28963,63,Defensive rebound by C. Martin,11:46.0,28-36,Miami,0,1.0
+28964,63,T. Herro makes 3-pt jump shot from 27 ft,11:32.0,31-36,Miami,0,1.0
+28965,63,J. Nwora makes 3-pt jump shot from 27 ft (assist by S. Ibaka),11:03.0,31-39,Milwaukee,0,0.0
+28966,63,Turnover by G. Vincent (bad pass; steal by J. Holiday),10:51.0,31-39,Miami,0,0.0
+28967,63,J. Nwora makes 2-pt layup from 2 ft (assist by J. Holiday),10:46.0,31-41,Milwaukee,0,0.0
+28968,63,C. Martin makes 3-pt jump shot from 26 ft (assist by G. Vincent),10:32.0,34-41,Miami,0,0.0
+28969,63,J. Holiday misses 3-pt jump shot from 27 ft,10:14.0,34-41,Milwaukee,0,0.0
+28970,63,Defensive rebound by C. Martin,10:11.0,34-41,Miami,0,0.0
+28971,63,Shooting foul by J. Nwora (drawn by C. Martin),9:56.0,34-41,Miami,0,0.0
+28972,63,C. Martin makes free throw 1 of 2,9:56.0,35-41,Miami,0,0.0
+28973,63,G. Allen enters the game for G. Antetokounmpo,9:56.0,35-41,Milwaukee,1,0.0
+28974,63,B. Portis enters the game for S. Ibaka,9:56.0,35-41,Milwaukee,1,1.0
+28975,63,C. Martin makes free throw 2 of 2,9:56.0,36-41,Miami,0,0.0
+28976,63,B. Portis misses 2-pt jump shot from 14 ft,9:36.0,36-41,Milwaukee,0,0.0
+28977,63,Defensive rebound by B. Adebayo,9:34.0,36-41,Miami,0,0.0
+28978,63,B. Adebayo makes 2-pt layup from 2 ft,9:31.0,38-41,Miami,0,0.0
+28979,63,Shooting foul by B. Portis (drawn by B. Adebayo),9:31.0,38-41,Miami,0,0.0
+28980,63,B. Adebayo makes free throw 1 of 1,9:31.0,39-41,Miami,0,0.0
+28981,63,Turnover by J. Holiday (lost ball; steal by M. Strus),9:09.0,39-41,Milwaukee,0,0.0
+28982,63,T. Herro makes 2-pt layup from 1 ft,9:04.0,41-41,Miami,0,0.0
+28983,63,Milwaukee full timeout,9:01.0,41-41,Milwaukee,0,0.0
+28984,63,G. Antetokounmpo enters the game for J. Nwora,9:01.0,41-41,Milwaukee,1,0.0
+28985,63,Offensive foul by G. Antetokounmpo (drawn by M. Strus),8:57.0,41-41,Milwaukee,0,0.0
+28986,63,Turnover by G. Antetokounmpo (offensive foul),8:57.0,41-41,Milwaukee,0,1.0
+28987,63,B. Adebayo misses 2-pt jump shot from 12 ft,8:32.0,41-41,Miami,0,0.0
+28988,63,Defensive rebound by G. Antetokounmpo,8:29.0,41-41,Milwaukee,0,0.0
+28989,63,G. Antetokounmpo misses 2-pt jump shot from 13 ft,8:22.0,41-41,Milwaukee,0,0.0
+28990,63,Defensive rebound by G. Vincent,8:19.0,41-41,Miami,0,0.0
+28991,63,C. Martin misses 2-pt jump shot from 12 ft,8:10.0,41-41,Miami,0,0.0
+28992,63,Defensive rebound by G. Antetokounmpo,8:07.0,41-41,Milwaukee,0,0.0
+28993,63,G. Allen makes 3-pt jump shot from 23 ft (assist by G. Antetokounmpo),8:01.0,41-44,Milwaukee,0,0.0
+28994,63,Personal foul by G. Allen (drawn by B. Adebayo),7:53.0,41-44,Miami,0,0.0
+28995,63,D. Dedmon enters the game for B. Adebayo,7:53.0,41-44,Miami,0,0.0
+28996,63,K. Middleton enters the game for G. Antetokounmpo,7:53.0,41-44,Milwaukee,1,0.0
+28997,63,T. Herro misses 2-pt jump shot from 14 ft,7:47.0,41-44,Miami,0,0.0
+28998,63,Defensive rebound by G. Allen,7:44.0,41-44,Milwaukee,0,0.0
+28999,63,G. Allen misses 2-pt layup from 4 ft,7:35.0,41-44,Milwaukee,0,0.0
+29000,63,Defensive rebound by D. Dedmon,7:35.0,41-44,Miami,0,0.0
+29001,63,Turnover by T. Herro (lost ball; steal by J. Holiday),7:30.0,41-44,Miami,0,0.0
+29002,63,Personal take foul by D. Dedmon (drawn by B. Portis),7:30.0,41-44,Milwaukee,0,0.0
+29003,63,K. Middleton makes 2-pt jump shot from 10 ft,7:18.0,41-46,Milwaukee,0,0.0
+29004,63,M. Strus makes 3-pt jump shot from 29 ft (assist by D. Dedmon),7:00.0,44-46,Miami,0,0.0
+29005,63,Offensive foul by K. Middleton (drawn by M. Strus),6:54.0,44-46,Milwaukee,0,1.0
+29006,63,Turnover by K. Middleton (offensive foul),6:54.0,44-46,Milwaukee,0,0.0
+29007,63,T. Herro makes 3-pt jump shot from 27 ft,6:41.0,47-46,Miami,0,0.0
+29008,63,Turnover by K. Middleton (bad pass; steal by G. Vincent),6:27.0,47-46,Milwaukee,0,0.0
+29009,63,T. Herro misses 3-pt jump shot from 27 ft,6:22.0,47-46,Miami,0,0.0
+29010,63,Offensive rebound by C. Martin,6:21.0,47-46,Miami,0,0.0
+29011,63,G. Vincent makes 2-pt layup from 2 ft (assist by C. Martin),6:17.0,49-46,Miami,0,0.0
+29012,63,Shooting foul by D. Dedmon (drawn by J. Holiday),6:12.0,49-46,Milwaukee,0,0.0
+29013,63,J. Holiday makes free throw 1 of 2,6:12.0,49-47,Milwaukee,0,0.0
+29014,63,J. Butler enters the game for G. Vincent,6:12.0,49-47,Miami,0,0.0
+29015,63,W. Matthews enters the game for G. Allen,6:12.0,49-47,Milwaukee,1,0.0
+29016,63,J. Holiday makes free throw 2 of 2,6:12.0,49-48,Milwaukee,0,0.0
+29017,63,J. Butler misses 2-pt jump shot from 14 ft,5:58.0,49-48,Miami,0,0.0
+29018,63,Offensive rebound by D. Dedmon,5:54.0,49-48,Miami,0,0.0
+29019,63,D. Dedmon misses 2-pt layup from 3 ft,5:53.0,49-48,Miami,0,0.0
+29020,63,Offensive rebound by C. Martin,5:53.0,49-48,Miami,0,0.0
+29021,63,C. Martin makes 2-pt layup at rim,5:50.0,51-48,Miami,0,0.0
+29022,63,B. Portis makes 2-pt jump shot from 14 ft,5:40.0,51-50,Milwaukee,0,1.0
+29023,63,T. Herro makes 2-pt layup from 1 ft,5:22.0,53-50,Miami,0,1.0
+29024,63,J. Holiday misses 2-pt jump shot from 18 ft,5:08.0,53-50,Milwaukee,0,1.0
+29025,63,Offensive rebound by D. Bembry,5:05.0,53-50,Milwaukee,0,0.0
+29026,63,K. Middleton misses 3-pt jump shot from 26 ft,5:03.0,53-50,Milwaukee,0,0.0
+29027,63,Offensive rebound by B. Portis,5:01.0,53-50,Milwaukee,0,0.0
+29028,63,K. Middleton makes 3-pt jump shot from 27 ft (assist by J. Holiday),4:56.0,53-53,Milwaukee,0,0.0
+29029,63,Miami full timeout,4:56.0,53-53,Miami,0,0.0
+29030,63,D. Robinson enters the game for C. Martin,4:56.0,53-53,Miami,0,0.0
+29031,63,P. Tucker enters the game for M. Strus,4:56.0,53-53,Miami,0,0.0
+29032,63,G. Allen enters the game for D. Bembry,4:56.0,53-53,Milwaukee,1,0.0
+29033,63,J. Carter enters the game for J. Holiday,4:56.0,53-53,Milwaukee,1,0.0
+29034,63,S. Ibaka enters the game for B. Portis,4:56.0,53-53,Milwaukee,1,0.0
+29035,63,T. Herro misses 2-pt jump shot from 14 ft,4:39.0,53-53,Miami,0,0.0
+29036,63,Offensive rebound by T. Herro,4:37.0,53-53,Miami,0,0.0
+29037,63,T. Herro makes 2-pt layup from 2 ft,4:34.0,55-53,Miami,0,0.0
+29038,63,K. Middleton makes 2-pt jump shot from 16 ft,4:26.0,55-55,Milwaukee,0,0.0
+29039,63,D. Robinson misses 3-pt jump shot from 27 ft,4:12.0,55-55,Miami,0,1.0
+29040,63,Defensive rebound by G. Allen,4:07.0,55-55,Milwaukee,0,0.0
+29041,63,Shooting foul by D. Robinson (drawn by K. Middleton),4:03.0,55-55,Milwaukee,0,0.0
+29042,63,K. Middleton makes free throw 1 of 2,4:03.0,55-56,Milwaukee,0,0.0
+29043,63,K. Middleton makes free throw 2 of 2,4:03.0,55-57,Milwaukee,0,0.0
+29044,63,T. Herro makes 3-pt jump shot from 27 ft,3:50.0,58-57,Miami,0,0.0
+29045,63,J. Carter makes 3-pt jump shot from 27 ft,3:23.0,58-60,Milwaukee,0,0.0
+29046,63,Offensive foul by D. Dedmon (drawn by W. Matthews),3:07.0,58-60,Miami,0,1.0
+29047,63,Turnover by D. Dedmon (offensive foul),3:07.0,58-60,Miami,0,0.0
+29048,63,B. Adebayo enters the game for D. Dedmon,3:07.0,58-60,Miami,0,0.0
+29049,63,G. Antetokounmpo enters the game for G. Allen,3:07.0,58-60,Milwaukee,1,0.0
+29050,63,K. Middleton misses 3-pt jump shot from 28 ft,2:51.0,58-60,Milwaukee,0,1.0
+29051,63,Defensive rebound by B. Adebayo,2:44.0,58-60,Miami,0,0.0
+29052,63,D. Robinson makes 3-pt jump shot from 27 ft (assist by B. Adebayo),2:42.0,61-60,Miami,0,0.0
+29053,63,W. Matthews misses 2-pt jump shot from 15 ft,2:19.0,61-60,Milwaukee,0,0.0
+29054,63,Defensive rebound by P. Tucker,2:16.0,61-60,Miami,0,0.0
+29055,63,Turnover by T. Herro (bad pass),2:05.0,61-60,Miami,0,1.0
+29056,63,J. Holiday enters the game for J. Carter,2:05.0,61-60,Milwaukee,1,0.0
+29057,63,J. Holiday makes 2-pt layup from 2 ft,1:47.0,61-62,Milwaukee,0,0.0
+29058,63,D. Robinson makes 3-pt jump shot from 27 ft (assist by B. Adebayo),1:33.0,64-62,Miami,0,0.0
+29059,63,Personal foul by D. Robinson (drawn by W. Matthews),1:23.0,64-62,Milwaukee,0,0.0
+29060,63,B. Portis enters the game for S. Ibaka,1:23.0,64-62,Milwaukee,1,0.0
+29061,63,Turnover by G. Antetokounmpo (lost ball; steal by P. Tucker),1:16.0,64-62,Milwaukee,0,0.0
+29062,63,B. Adebayo makes 2-pt hook shot from 3 ft (assist by T. Herro),1:00.0,66-62,Miami,0,0.0
+29063,63,K. Middleton makes 2-pt jump shot from 13 ft,0:48.0,66-64,Milwaukee,0,0.0
+29064,63,Personal foul by W. Matthews (drawn by D. Robinson),0:36.0,66-64,Miami,0,0.0
+29065,63,S. Ibaka enters the game for G. Antetokounmpo,0:36.0,66-64,Milwaukee,1,0.0
+29066,63,J. Butler misses 2-pt jump shot from 15 ft,0:27.0,66-64,Miami,0,0.0
+29067,63,Defensive rebound by B. Portis,0:24.0,66-64,Milwaukee,0,0.0
+29068,63,J. Holiday misses 2-pt layup from 4 ft (block by J. Butler),0:07.0,66-64,Milwaukee,0,0.0
+29069,63,Defensive rebound by B. Adebayo,0:02.0,66-64,Miami,0,0.0
+29070,63,J. Butler misses 3-pt jump shot from 23 ft,0:00.0,66-64,Miami,0,0.0
+29071,63,Offensive rebound by Team,0:00.0,66-64,Miami,0,0.0
+29072,63,G. Allen misses 2-pt jump shot from 6 ft (block by D. Robinson),11:48.0,66-64,Milwaukee,0,0.0
+29073,63,Offensive rebound by Team,11:48.0,66-64,Milwaukee,0,0.0
+29074,63,K. Middleton misses 2-pt jump shot from 10 ft,11:38.0,66-64,Milwaukee,0,0.0
+29075,63,Defensive rebound by B. Adebayo,11:36.0,66-64,Miami,0,0.0
+29076,63,G. Vincent makes 3-pt jump shot from 26 ft (assist by P. Tucker),11:27.0,69-64,Miami,0,0.0
+29077,63,G. Antetokounmpo misses 3-pt jump shot from 24 ft,11:13.0,69-64,Milwaukee,0,0.0
+29078,63,Defensive rebound by G. Vincent,11:10.0,69-64,Miami,0,0.0
+29079,63,B. Adebayo makes 2-pt layup from 3 ft (assist by G. Vincent),11:00.0,71-64,Miami,0,0.0
+29080,63,J. Holiday makes 2-pt jump shot from 14 ft,10:47.0,71-66,Milwaukee,0,0.0
+29081,63,G. Vincent makes 3-pt jump shot from 27 ft (assist by P. Tucker),10:32.0,74-66,Miami,0,0.0
+29082,63,J. Holiday misses 3-pt jump shot from 27 ft,10:22.0,74-66,Milwaukee,0,0.0
+29083,63,Defensive rebound by P. Tucker,10:19.0,74-66,Miami,0,0.0
+29084,63,G. Vincent makes 3-pt jump shot from 28 ft (assist by J. Butler),10:10.0,77-66,Miami,0,0.0
+29085,63,Milwaukee full timeout,10:09.0,77-66,Milwaukee,0,0.0
+29086,63,K. Middleton misses 2-pt layup from 11 ft,9:58.0,77-66,Milwaukee,0,0.0
+29087,63,Offensive rebound by G. Antetokounmpo,9:55.0,77-66,Milwaukee,0,0.0
+29088,63,Turnover by G. Antetokounmpo (lost ball; steal by G. Vincent),9:54.0,77-66,Milwaukee,0,0.0
+29089,63,G. Vincent misses 3-pt jump shot from 29 ft,9:39.0,77-66,Miami,0,0.0
+29090,63,Defensive rebound by G. Antetokounmpo,9:36.0,77-66,Milwaukee,0,0.0
+29091,63,G. Antetokounmpo misses 2-pt jump shot from 19 ft,9:28.0,77-66,Milwaukee,0,0.0
+29092,63,Defensive rebound by B. Adebayo,9:25.0,77-66,Miami,0,0.0
+29093,63,B. Adebayo misses 2-pt layup from 7 ft (block by B. Portis),9:23.0,77-66,Miami,0,0.0
+29094,63,Defensive rebound by B. Portis,9:22.0,77-66,Milwaukee,0,0.0
+29095,63,G. Antetokounmpo makes 2-pt layup from 1 ft (assist by J. Holiday),9:17.0,77-68,Milwaukee,0,0.0
+29096,63,Shooting foul by D. Robinson (drawn by G. Antetokounmpo),9:17.0,77-68,Milwaukee,0,0.0
+29097,63,G. Antetokounmpo makes free throw 1 of 1,9:17.0,77-69,Milwaukee,0,0.0
+29098,63,J. Butler misses 3-pt jump shot from 27 ft,8:59.0,77-69,Miami,0,0.0
+29099,63,Defensive rebound by K. Middleton,8:55.0,77-69,Milwaukee,0,0.0
+29100,63,Shooting foul by P. Tucker (drawn by G. Antetokounmpo),8:48.0,77-69,Milwaukee,0,0.0
+29101,63,Violation by Team (delay of game),8:48.0,77-69,Miami,0,0.0
+29102,63,G. Antetokounmpo misses free throw 1 of 2,8:48.0,77-69,Milwaukee,0,0.0
+29103,63,Offensive rebound by Team,8:48.0,77-69,Milwaukee,0,0.0
+29104,63,G. Antetokounmpo misses free throw 2 of 2,8:48.0,77-69,Milwaukee,0,0.0
+29105,63,Defensive rebound by B. Adebayo,8:44.0,77-69,Miami,0,0.0
+29106,63,J. Butler misses 2-pt layup from 4 ft (block by G. Antetokounmpo),8:35.0,77-69,Miami,0,0.0
+29107,63,Defensive rebound by G. Allen,8:31.0,77-69,Milwaukee,0,0.0
+29108,63,G. Allen makes 2-pt layup from 2 ft (assist by J. Holiday),8:23.0,77-71,Milwaukee,0,0.0
+29109,63,D. Robinson misses 3-pt jump shot from 23 ft,8:09.0,77-71,Miami,0,1.0
+29110,63,Defensive rebound by G. Antetokounmpo,8:06.0,77-71,Milwaukee,0,0.0
+29111,63,B. Portis misses 3-pt jump shot from 27 ft,8:00.0,77-71,Milwaukee,0,0.0
+29112,63,Defensive rebound by G. Vincent,7:57.0,77-71,Miami,0,0.0
+29113,63,B. Adebayo makes 2-pt dunk from 1 ft (assist by G. Vincent),7:50.0,79-71,Miami,0,0.0
+29114,63,B. Portis makes 2-pt jump shot from 4 ft (assist by G. Antetokounmpo),7:34.0,79-73,Milwaukee,0,0.0
+29115,63,G. Vincent misses 3-pt jump shot from 27 ft,7:19.0,79-73,Miami,0,0.0
+29116,63,Defensive rebound by J. Holiday,7:17.0,79-73,Milwaukee,0,1.0
+29117,63,Shooting foul by G. Vincent (drawn by J. Holiday),7:14.0,79-73,Milwaukee,0,0.0
+29118,63,J. Holiday makes free throw 1 of 2,7:14.0,79-74,Milwaukee,0,0.0
+29119,63,W. Matthews enters the game for G. Antetokounmpo,7:14.0,79-74,Milwaukee,1,0.0
+29120,63,J. Holiday makes free throw 2 of 2,7:14.0,79-75,Milwaukee,0,0.0
+29121,63,Turnover by G. Vincent (lost ball; steal by K. Middleton),7:01.0,79-75,Miami,0,0.0
+29122,63,G. Allen makes 2-pt dunk from 2 ft (assist by K. Middleton),6:56.0,79-77,Milwaukee,0,0.0
+29123,63,Miami full timeout,6:56.0,79-77,Miami,0,0.0
+29124,63,D. Dedmon enters the game for B. Adebayo,6:56.0,79-77,Miami,0,0.0
+29125,63,T. Herro enters the game for G. Vincent,6:56.0,79-77,Miami,0,0.0
+29126,63,G. Antetokounmpo enters the game for G. Allen,6:56.0,79-77,Milwaukee,1,0.0
+29127,63,T. Herro misses 2-pt jump shot from 19 ft,6:34.0,79-77,Miami,0,0.0
+29128,63,Offensive rebound by Team,6:33.0,79-77,Miami,0,0.0
+29129,63,Turnover by Team (shot clock),6:33.0,79-77,Miami,0,0.0
+29130,63,B. Portis misses 3-pt jump shot from 29 ft,6:19.0,79-77,Milwaukee,0,0.0
+29131,63,Defensive rebound by P. Tucker,6:15.0,79-77,Miami,0,0.0
+29132,63,J. Butler misses 2-pt jump shot from 13 ft,6:01.0,79-77,Miami,0,1.0
+29133,63,Defensive rebound by K. Middleton,5:58.0,79-77,Milwaukee,0,0.0
+29134,63,Turnover by G. Antetokounmpo (bad pass; steal by T. Herro),5:54.0,79-77,Milwaukee,0,0.0
+29135,63,D. Dedmon misses 3-pt jump shot from 28 ft,5:36.0,79-77,Miami,0,0.0
+29136,63,Defensive rebound by G. Antetokounmpo,5:34.0,79-77,Milwaukee,0,0.0
+29137,63,W. Matthews makes 3-pt jump shot from 23 ft (assist by G. Antetokounmpo),5:27.0,79-80,Milwaukee,0,1.0
+29138,63,T. Herro misses 2-pt jump shot from 16 ft,5:12.0,79-80,Miami,0,0.0
+29139,63,Defensive rebound by J. Holiday,5:09.0,79-80,Milwaukee,0,0.0
+29140,63,Personal foul by D. Robinson (drawn by B. Portis),5:08.0,79-80,Milwaukee,0,0.0
+29141,63,M. Strus enters the game for D. Robinson,5:08.0,79-80,Miami,0,0.0
+29142,63,S. Ibaka enters the game for B. Portis,5:08.0,79-80,Milwaukee,1,0.0
+29143,63,G. Antetokounmpo misses 2-pt jump shot from 16 ft,5:00.0,79-80,Milwaukee,0,0.0
+29144,63,Defensive rebound by T. Herro,4:57.0,79-80,Miami,0,0.0
+29145,63,Shooting foul by G. Antetokounmpo (drawn by D. Dedmon),4:50.0,79-80,Miami,0,0.0
+29146,63,D. Dedmon makes free throw 1 of 2,4:50.0,80-80,Miami,0,0.0
+29147,63,J. Carter enters the game for G. Antetokounmpo,4:50.0,80-80,Milwaukee,1,0.0
+29148,63,D. Dedmon makes free throw 2 of 2,4:50.0,81-80,Miami,0,0.0
+29149,63,Personal foul by T. Herro (drawn by J. Holiday),4:41.0,81-80,Milwaukee,0,0.0
+29150,63,J. Holiday makes free throw 1 of 2,4:41.0,81-81,Milwaukee,0,0.0
+29151,63,J. Holiday makes free throw 2 of 2,4:41.0,81-82,Milwaukee,0,0.0
+29152,63,T. Herro makes 3-pt jump shot from 23 ft (assist by M. Strus),4:18.0,84-82,Miami,0,0.0
+29153,63,W. Matthews misses 3-pt jump shot from 28 ft,4:00.0,84-82,Milwaukee,0,0.0
+29154,63,Defensive rebound by D. Dedmon,3:57.0,84-82,Miami,0,0.0
+29155,63,M. Strus misses 3-pt jump shot from 25 ft,3:50.0,84-82,Miami,0,0.0
+29156,63,Defensive rebound by S. Ibaka,3:47.0,84-82,Milwaukee,0,0.0
+29157,63,K. Middleton misses 2-pt jump shot from 19 ft,3:40.0,84-82,Milwaukee,0,1.0
+29158,63,Defensive rebound by D. Dedmon,3:37.0,84-82,Miami,0,0.0
+29159,63,P. Tucker makes 3-pt jump shot from 24 ft (assist by M. Strus),3:29.0,87-82,Miami,0,0.0
+29160,63,J. Holiday makes 3-pt jump shot from 26 ft,3:13.0,87-85,Milwaukee,0,1.0
+29161,63,D. Dedmon misses 2-pt jump shot from 16 ft,2:56.0,87-85,Miami,0,0.0
+29162,63,Defensive rebound by S. Ibaka,2:52.0,87-85,Milwaukee,0,0.0
+29163,63,Personal foul by P. Tucker (drawn by K. Middleton),2:49.0,87-85,Milwaukee,0,0.0
+29164,63,K. Middleton makes free throw 1 of 2,2:49.0,87-86,Milwaukee,0,0.0
+29165,63,B. Adebayo enters the game for D. Dedmon,2:49.0,87-86,Miami,0,0.0
+29166,63,C. Martin enters the game for P. Tucker,2:49.0,87-86,Miami,0,0.0
+29167,63,G. Antetokounmpo enters the game for J. Holiday,2:49.0,87-86,Milwaukee,1,0.0
+29168,63,K. Middleton makes free throw 2 of 2,2:49.0,87-87,Milwaukee,0,0.0
+29169,63,T. Herro makes 3-pt jump shot from 24 ft (assist by M. Strus),2:31.0,90-87,Miami,0,0.0
+29170,63,G. Allen enters the game for K. Middleton,2:31.0,90-87,Milwaukee,1,0.0
+29171,63,W. Matthews misses 3-pt jump shot from 24 ft,2:18.0,90-87,Milwaukee,0,0.0
+29172,63,Defensive rebound by T. Herro,2:15.0,90-87,Miami,0,0.0
+29173,63,M. Strus makes 2-pt dunk from 2 ft (assist by T. Herro),2:13.0,92-87,Miami,0,0.0
+29174,63,Offensive foul by G. Allen (drawn by J. Butler),1:57.0,92-87,Milwaukee,0,0.0
+29175,63,Turnover by G. Allen (offensive foul),1:57.0,92-87,Milwaukee,0,1.0
+29176,63,J. Butler misses 2-pt jump shot from 10 ft,1:38.0,92-87,Miami,0,0.0
+29177,63,Defensive rebound by G. Antetokounmpo,1:35.0,92-87,Milwaukee,0,0.0
+29178,63,Personal foul by C. Martin (drawn by G. Antetokounmpo),1:33.0,92-87,Milwaukee,0,0.0
+29179,63,G. Antetokounmpo makes free throw 1 of 2,1:33.0,92-88,Milwaukee,0,0.0
+29180,63,G. Vincent enters the game for J. Butler,1:33.0,92-88,Miami,0,0.0
+29181,63,G. Antetokounmpo makes free throw 2 of 2,1:33.0,92-89,Milwaukee,0,0.0
+29182,63,B. Adebayo makes 2-pt dunk from 1 ft (assist by T. Herro),1:13.0,94-89,Miami,0,0.0
+29183,63,Personal foul by T. Herro (drawn by W. Matthews),1:03.0,94-89,Milwaukee,0,0.0
+29184,63,W. Matthews makes free throw 1 of 2,1:03.0,94-90,Milwaukee,0,0.0
+29185,63,J. Holiday enters the game for J. Carter,1:03.0,94-90,Milwaukee,1,0.0
+29186,63,W. Matthews makes free throw 2 of 2,1:03.0,94-91,Milwaukee,0,0.0
+29187,63,B. Adebayo misses 2-pt jump shot from 16 ft,0:48.0,94-91,Miami,0,0.0
+29188,63,Defensive rebound by G. Antetokounmpo,0:45.0,94-91,Milwaukee,0,0.0
+29189,63,G. Antetokounmpo misses 2-pt hook shot from 3 ft,0:38.0,94-91,Milwaukee,0,0.0
+29190,63,Offensive rebound by J. Holiday,0:37.0,94-91,Milwaukee,0,0.0
+29191,63,G. Antetokounmpo makes 2-pt dunk from 2 ft (assist by J. Holiday),0:37.0,94-93,Milwaukee,0,0.0
+29192,63,M. Strus makes 3-pt jump shot from 27 ft (assist by T. Herro),0:29.0,97-93,Miami,0,0.0
+29193,63,G. Antetokounmpo misses 3-pt jump shot from 26 ft,0:18.0,97-93,Milwaukee,0,0.0
+29194,63,Defensive rebound by T. Herro,0:15.0,97-93,Miami,0,0.0
+29195,63,T. Herro misses 3-pt jump shot from 29 ft,0:03.0,97-93,Miami,0,0.0
+29196,63,Defensive rebound by G. Allen,0:00.0,97-93,Milwaukee,0,0.0
+29197,63,C. Martin makes 2-pt layup from 1 ft (assist by B. Adebayo),11:38.0,99-93,Miami,0,0.0
+29198,63,Violation by Team (def goaltending),11:38.0,99-93,Milwaukee,0,0.0
+29199,63,Turnover by J. Holiday (bad pass; steal by B. Adebayo),11:16.0,99-93,Milwaukee,0,0.0
+29200,63,C. Martin makes 3-pt jump shot from 23 ft (assist by G. Vincent),11:05.0,102-93,Miami,0,0.0
+29201,63,G. Antetokounmpo makes 2-pt jump shot from 7 ft (assist by J. Holiday),10:54.0,102-95,Milwaukee,0,0.0
+29202,63,M. Strus misses 3-pt jump shot from 28 ft,10:36.0,102-95,Miami,0,0.0
+29203,63,Offensive rebound by C. Martin,10:32.0,102-95,Miami,0,0.0
+29204,63,G. Vincent misses 3-pt jump shot from 28 ft,10:30.0,102-95,Miami,0,0.0
+29205,63,Defensive rebound by D. Bembry,10:27.0,102-95,Milwaukee,0,0.0
+29206,63,J. Holiday misses 3-pt jump shot from 23 ft,10:18.0,102-95,Milwaukee,0,0.0
+29207,63,Defensive rebound by C. Martin,10:16.0,102-95,Miami,0,1.0
+29208,63,M. Strus misses 3-pt jump shot from 24 ft,10:02.0,102-95,Miami,0,1.0
+29209,63,Defensive rebound by G. Antetokounmpo,9:59.0,102-95,Milwaukee,0,0.0
+29210,63,D. Bembry misses 2-pt layup from 3 ft,9:44.0,102-95,Milwaukee,0,0.0
+29211,63,Defensive rebound by B. Adebayo,9:42.0,102-95,Miami,0,0.0
+29212,63,T. Herro makes 2-pt layup from 1 ft,9:26.0,104-95,Miami,0,0.0
+29213,63,G. Antetokounmpo makes 2-pt layup from 3 ft (assist by J. Holiday),9:18.0,104-97,Milwaukee,0,1.0
+29214,63,C. Martin misses 3-pt jump shot from 26 ft,9:05.0,104-97,Miami,0,0.0
+29215,63,Defensive rebound by G. Allen,9:01.0,104-97,Milwaukee,0,0.0
+29216,63,Turnover by J. Holiday (bad pass; steal by G. Vincent),8:54.0,104-97,Milwaukee,0,0.0
+29217,63,K. Middleton enters the game for G. Allen,8:54.0,104-97,Milwaukee,1,0.0
+29218,63,B. Portis enters the game for S. Ibaka,8:54.0,104-97,Milwaukee,1,0.0
+29219,63,B. Adebayo misses 2-pt jump shot from 17 ft,8:43.0,104-97,Miami,0,0.0
+29220,63,Defensive rebound by D. Bembry,8:41.0,104-97,Milwaukee,0,0.0
+29221,63,Shooting foul by B. Adebayo (drawn by G. Antetokounmpo),8:37.0,104-97,Milwaukee,0,1.0
+29222,63,G. Antetokounmpo makes free throw 1 of 2,8:37.0,104-98,Milwaukee,0,1.0
+29223,63,J. Carter enters the game for J. Holiday,8:37.0,104-98,Milwaukee,1,0.0
+29224,63,G. Antetokounmpo makes free throw 2 of 2,8:37.0,104-99,Milwaukee,0,0.0
+29225,63,Miami full timeout,8:32.0,104-99,Miami,0,0.0
+29226,63,T. Herro makes 3-pt jump shot from 27 ft (assist by C. Martin),8:26.0,107-99,Miami,0,0.0
+29227,63,K. Middleton misses 2-pt jump shot from 13 ft,8:10.0,107-99,Milwaukee,0,0.0
+29228,63,Defensive rebound by C. Martin,8:08.0,107-99,Miami,0,0.0
+29229,63,G. Vincent makes 3-pt jump shot from 23 ft (assist by C. Martin),7:51.0,110-99,Miami,0,0.0
+29230,63,Milwaukee full timeout,7:42.0,110-99,Milwaukee,0,0.0
+29231,63,J. Holiday enters the game for D. Bembry,7:42.0,110-99,Milwaukee,1,0.0
+29232,63,W. Matthews enters the game for J. Carter,7:42.0,110-99,Milwaukee,1,0.0
+29233,63,G. Antetokounmpo misses 2-pt layup from 6 ft,7:28.0,110-99,Milwaukee,0,0.0
+29234,63,Offensive rebound by G. Antetokounmpo,7:26.0,110-99,Milwaukee,0,0.0
+29235,63,G. Antetokounmpo misses 2-pt layup at rim,7:26.0,110-99,Milwaukee,0,0.0
+29236,63,Defensive rebound by M. Strus,7:26.0,110-99,Miami,0,0.0
+29237,63,G. Vincent makes 3-pt jump shot from 26 ft (assist by T. Herro),7:12.0,113-99,Miami,0,0.0
+29238,63,Turnover by K. Middleton (bad pass; steal by C. Martin),7:02.0,113-99,Milwaukee,0,0.0
+29239,63,M. Strus misses 3-pt jump shot from 26 ft,6:56.0,113-99,Miami,0,0.0
+29240,63,Defensive rebound by G. Antetokounmpo,6:53.0,113-99,Milwaukee,0,0.0
+29241,63,G. Antetokounmpo misses 3-pt jump shot from 27 ft,6:48.0,113-99,Milwaukee,0,0.0
+29242,63,Defensive rebound by B. Adebayo,6:48.0,113-99,Miami,0,0.0
+29243,63,Personal foul by W. Matthews (drawn by T. Herro),6:29.0,113-99,Miami,0,0.0
+29244,63,J. Butler enters the game for C. Martin,6:29.0,113-99,Miami,0,0.0
+29245,63,Personal foul by W. Matthews (drawn by T. Herro),6:24.0,113-99,Miami,0,0.0
+29246,63,T. Herro misses 3-pt jump shot from 27 ft,6:08.0,113-99,Miami,0,0.0
+29247,63,Defensive rebound by B. Portis,6:06.0,113-99,Milwaukee,0,0.0
+29248,63,G. Antetokounmpo makes 2-pt dunk from 3 ft (assist by J. Holiday),5:49.0,113-101,Milwaukee,0,0.0
+29249,63,B. Adebayo misses 2-pt jump shot from 12 ft,5:23.0,113-101,Miami,0,0.0
+29250,63,Defensive rebound by Team,5:21.0,113-101,Milwaukee,0,0.0
+29251,63,J. Holiday misses 2-pt layup from 2 ft,5:10.0,113-101,Milwaukee,0,0.0
+29252,63,Offensive rebound by G. Antetokounmpo,5:04.0,113-101,Milwaukee,0,0.0
+29253,63,G. Antetokounmpo makes 2-pt layup at rim,5:04.0,113-103,Milwaukee,0,0.0
+29254,63,Turnover by T. Herro (bad pass; steal by B. Portis),4:55.0,113-103,Miami,0,0.0
+29255,63,Shooting foul by M. Strus (drawn by B. Portis),4:53.0,113-103,Milwaukee,0,0.0
+29256,63,B. Portis makes free throw 1 of 2,4:53.0,113-104,Milwaukee,0,0.0
+29257,63,P. Tucker enters the game for G. Vincent,4:53.0,113-104,Miami,0,0.0
+29258,63,B. Portis misses free throw 2 of 2,4:53.0,113-104,Milwaukee,0,0.0
+29259,63,Defensive rebound by B. Adebayo,4:50.0,113-104,Miami,0,0.0
+29260,63,Turnover by Team (shot clock),4:29.0,113-104,Miami,0,0.0
+29261,63,J. Holiday makes 3-pt jump shot from 25 ft,4:20.0,113-107,Milwaukee,0,0.0
+29262,63,Instant Replay (Request: Ruling Stands),4:20.0,113-107,Milwaukee,0,0.0
+29263,63,Miami full timeout,4:20.0,113-107,Miami,0,0.0
+29264,63,G. Vincent enters the game for M. Strus,4:20.0,113-107,Miami,0,0.0
+29265,63,J. Butler misses 2-pt jump shot from 15 ft,4:04.0,113-107,Miami,0,0.0
+29266,63,Defensive rebound by J. Holiday,4:01.0,113-107,Milwaukee,0,0.0
+29267,63,B. Portis misses 3-pt jump shot from 23 ft,3:55.0,113-107,Milwaukee,0,0.0
+29268,63,Defensive rebound by B. Adebayo,3:55.0,113-107,Miami,0,0.0
+29269,63,B. Adebayo makes 2-pt hook shot from 8 ft (assist by J. Butler),3:36.0,115-107,Miami,0,0.0
+29270,63,Milwaukee full timeout,3:31.0,115-107,Milwaukee,0,0.0
+29271,63,K. Middleton misses 3-pt jump shot from 27 ft,3:16.0,115-107,Milwaukee,0,0.0
+29272,63,Defensive rebound by B. Adebayo,3:13.0,115-107,Miami,0,0.0
+29273,63,Personal foul by B. Portis (drawn by B. Adebayo),3:06.0,115-107,Miami,0,0.0
+29274,63,Personal foul by B. Adebayo (drawn by B. Portis),3:06.0,115-107,Milwaukee,0,0.0
+29275,63,G. Vincent misses 3-pt jump shot from 25 ft,2:55.0,115-107,Miami,0,0.0
+29276,63,Defensive rebound by W. Matthews,2:55.0,115-107,Milwaukee,0,0.0
+29277,63,Personal foul by B. Adebayo (drawn by W. Matthews),2:55.0,115-107,Milwaukee,0,0.0
+29278,63,J. Holiday makes 2-pt jump shot from 15 ft,2:44.0,115-109,Milwaukee,0,0.0
+29279,63,Turnover by T. Herro (back court),2:28.0,115-109,Miami,0,0.0
+29280,63,G. Antetokounmpo misses 2-pt jump shot from 7 ft,2:16.0,115-109,Milwaukee,0,0.0
+29281,63,Offensive rebound by K. Middleton,2:15.0,115-109,Milwaukee,0,0.0
+29282,63,K. Middleton misses 2-pt layup from 2 ft,2:14.0,115-109,Milwaukee,0,0.0
+29283,63,Offensive rebound by B. Portis,2:13.0,115-109,Milwaukee,0,0.0
+29284,63,B. Portis makes 2-pt layup at rim,2:12.0,115-111,Milwaukee,0,0.0
+29285,63,P. Tucker misses 3-pt jump shot from 24 ft,1:43.0,115-111,Miami,0,0.0
+29286,63,Defensive rebound by G. Antetokounmpo,1:40.0,115-111,Milwaukee,0,0.0
+29287,63,Shooting foul by B. Adebayo (drawn by G. Antetokounmpo),1:39.0,115-111,Milwaukee,0,0.0
+29288,63,G. Antetokounmpo makes free throw 1 of 2,1:39.0,115-112,Milwaukee,0,0.0
+29289,63,G. Antetokounmpo makes free throw 2 of 2,1:39.0,115-113,Milwaukee,0,0.0
+29290,63,T. Herro makes 2-pt jump shot from 16 ft,1:22.0,117-113,Miami,0,1.0
+29291,63,Personal foul by J. Butler (drawn by G. Antetokounmpo),1:05.0,117-113,Milwaukee,0,0.0
+29292,63,G. Antetokounmpo makes free throw 1 of 2,1:05.0,117-114,Milwaukee,0,1.0
+29293,63,G. Antetokounmpo makes free throw 2 of 2,1:05.0,117-115,Milwaukee,0,0.0
+29294,63,B. Adebayo makes 2-pt jump shot from 13 ft,0:44.0,119-115,Miami,0,0.0
+29295,63,G. Antetokounmpo misses 2-pt layup from 3 ft,0:34.0,119-115,Milwaukee,0,0.0
+29296,63,Defensive rebound by T. Herro,0:31.0,119-115,Miami,0,0.0
+29297,63,Turnover by T. Herro (bad pass; steal by B. Portis),0:16.0,119-115,Miami,0,
+29298,63,K. Middleton makes 3-pt jump shot from 26 ft,0:13.0,119-118,Milwaukee,0,
+29299,63,Miami full timeout,0:13.0,119-118,Miami,0,
+29300,63,D. Bembry enters the game for B. Portis,0:13.0,119-118,Milwaukee,1,
+29301,63,Miami full timeout,0:13.0,119-118,Miami,0,
+29302,63,B. Portis enters the game for D. Bembry,0:13.0,119-118,Milwaukee,1,
+29303,63,Turnover by J. Butler (lost ball; steal by G. Antetokounmpo),0:02.0,119-118,Miami,0,
+29304,63,J. Holiday makes 2-pt layup from 7 ft,0:01.0,119-120,Milwaukee,0,
+29305,63,T. Herro misses 3-pt jump shot from 36 ft,0:00.0,119-120,Miami,0,
+29306,63,Offensive rebound by Team,0:00.0,119-120,Miami,0,

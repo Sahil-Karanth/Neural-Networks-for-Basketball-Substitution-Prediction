@@ -1,0 +1,458 @@
+,game number,play,time,score,team,current_sub_status,future_sub_status
+24935,55,J. Holiday misses 3-pt jump shot from 25 ft,11:39.0,0-0,Milwaukee,0,0.0
+24936,55,Defensive rebound by N. Batum,11:35.0,0-0,LA Clippers,0,0.0
+24937,55,R. Jackson makes 2-pt jump shot from 21 ft,11:29.0,0-2,LA Clippers,0,0.0
+24938,55,K. Middleton misses 3-pt jump shot from 27 ft,11:15.0,0-2,Milwaukee,0,0.0
+24939,55,Defensive rebound by M. Morris,11:12.0,0-2,LA Clippers,0,0.0
+24940,55,Turnover by M. Morris (bad pass; steal by K. Middleton),11:09.0,0-2,LA Clippers,0,0.0
+24941,55,Shooting foul by M. Morris (drawn by G. Antetokounmpo),11:06.0,0-2,Milwaukee,0,0.0
+24942,55,G. Antetokounmpo makes free throw 1 of 2,11:06.0,1-2,Milwaukee,0,0.0
+24943,55,G. Antetokounmpo misses free throw 2 of 2,11:06.0,1-2,Milwaukee,0,0.0
+24944,55,Defensive rebound by I. Zubac,11:03.0,1-2,LA Clippers,0,0.0
+24945,55,I. Zubac misses 2-pt hook shot from 5 ft,10:52.0,1-2,LA Clippers,0,0.0
+24946,55,Defensive rebound by B. Portis,10:50.0,1-2,Milwaukee,0,0.0
+24947,55,G. Antetokounmpo makes 2-pt dunk from 1 ft (assist by J. Holiday),10:44.0,3-2,Milwaukee,0,0.0
+24948,55,M. Morris makes 2-pt jump shot from 14 ft,10:20.0,3-4,LA Clippers,0,0.0
+24949,55,G. Antetokounmpo makes 3-pt jump shot from 27 ft,10:13.0,6-4,Milwaukee,0,0.0
+24950,55,A. Coffey makes 3-pt jump shot from 24 ft (assist by R. Jackson),9:53.0,6-7,LA Clippers,0,0.0
+24951,55,P. Connaughton misses 3-pt jump shot from 26 ft,9:42.0,6-7,Milwaukee,0,0.0
+24952,55,Defensive rebound by I. Zubac,9:38.0,6-7,LA Clippers,0,0.0
+24953,55,N. Batum misses 3-pt jump shot from 24 ft,9:32.0,6-7,LA Clippers,0,0.0
+24954,55,Defensive rebound by B. Portis,9:29.0,6-7,Milwaukee,0,0.0
+24955,55,J. Holiday makes 2-pt layup from 3 ft,9:22.0,8-7,Milwaukee,0,0.0
+24956,55,I. Zubac makes 2-pt hook shot from 7 ft (assist by N. Batum),8:52.0,8-9,LA Clippers,0,0.0
+24957,55,B. Portis misses 2-pt jump shot from 12 ft,8:41.0,8-9,Milwaukee,0,0.0
+24958,55,Defensive rebound by N. Batum,8:38.0,8-9,LA Clippers,0,0.0
+24959,55,A. Coffey misses 3-pt jump shot from 27 ft,8:32.0,8-9,LA Clippers,0,0.0
+24960,55,Defensive rebound by G. Antetokounmpo,8:28.0,8-9,Milwaukee,0,0.0
+24961,55,G. Antetokounmpo misses 2-pt jump shot from 16 ft,8:22.0,8-9,Milwaukee,0,0.0
+24962,55,Defensive rebound by N. Batum,8:20.0,8-9,LA Clippers,0,0.0
+24963,55,R. Jackson makes 3-pt jump shot from 25 ft (assist by M. Morris),8:08.0,8-12,LA Clippers,0,0.0
+24964,55,J. Holiday misses 2-pt jump shot from 6 ft,7:46.0,8-12,Milwaukee,0,0.0
+24965,55,Defensive rebound by I. Zubac,7:43.0,8-12,LA Clippers,0,0.0
+24966,55,A. Coffey misses 2-pt layup from 6 ft (block by J. Holiday),7:42.0,8-12,LA Clippers,0,0.0
+24967,55,Offensive rebound by Team,7:42.0,8-12,LA Clippers,0,1.0
+24968,55,N. Batum misses 2-pt jump shot from 18 ft,7:33.0,8-12,LA Clippers,0,0.0
+24969,55,Defensive rebound by G. Antetokounmpo,7:29.0,8-12,Milwaukee,0,0.0
+24970,55,P. Connaughton makes 3-pt jump shot from 26 ft (assist by G. Antetokounmpo),7:23.0,11-12,Milwaukee,0,0.0
+24971,55,R. Jackson misses 3-pt jump shot from 28 ft,6:54.0,11-12,LA Clippers,0,0.0
+24972,55,Offensive rebound by M. Morris,6:51.0,11-12,LA Clippers,0,0.0
+24973,55,M. Morris makes 2-pt jump shot from 23 ft,6:51.0,11-14,LA Clippers,0,0.0
+24974,55,Shooting foul by J. Holiday (drawn by M. Morris),6:51.0,11-14,LA Clippers,0,0.0
+24975,55,LA Clippers full timeout,6:51.0,11-14,LA Clippers,0,0.0
+24976,55,Instant Replay (Request: Ruling Stands),6:51.0,11-14,LA Clippers,0,0.0
+24977,55,W. Matthews enters the game for G. Antetokounmpo,6:51.0,11-14,Milwaukee,1,0.0
+24978,55,M. Morris makes free throw 1 of 1,6:51.0,11-15,LA Clippers,0,0.0
+24979,55,W. Matthews misses 3-pt jump shot from 26 ft,6:25.0,11-15,Milwaukee,0,1.0
+24980,55,Offensive rebound by K. Middleton,6:22.0,11-15,Milwaukee,0,0.0
+24981,55,K. Middleton makes 3-pt jump shot from 26 ft (assist by J. Holiday),6:20.0,14-15,Milwaukee,0,0.0
+24982,55,M. Morris makes 3-pt jump shot from 24 ft (assist by R. Jackson),6:05.0,14-18,LA Clippers,0,0.0
+24983,55,K. Middleton misses 3-pt jump shot from 27 ft (block by I. Zubac),5:50.0,14-18,Milwaukee,0,0.0
+24984,55,Defensive rebound by M. Morris,5:47.0,14-18,LA Clippers,0,0.0
+24985,55,Turnover by A. Coffey (out of bounds lost ball),5:46.0,14-18,LA Clippers,0,0.0
+24986,55,S. Ibaka enters the game for I. Zubac,5:46.0,14-18,LA Clippers,0,0.0
+24987,55,Def 3 sec tech foul by Team,5:35.0,14-18,Milwaukee,0,0.0
+24988,55,K. Middleton makes technical free throw,5:35.0,15-18,Milwaukee,0,0.0
+24989,55,G. Monroe enters the game for K. Middleton,5:35.0,15-18,Milwaukee,1,0.0
+24990,55,J. Holiday makes 2-pt layup from 5 ft (assist by B. Portis),5:22.0,17-18,Milwaukee,0,0.0
+24991,55,A. Coffey misses 3-pt jump shot from 26 ft,5:01.0,17-18,LA Clippers,0,0.0
+24992,55,Defensive rebound by B. Portis,5:01.0,17-18,Milwaukee,0,1.0
+24993,55,J. Holiday misses 3-pt jump shot from 25 ft,4:49.0,17-18,Milwaukee,0,0.0
+24994,55,Defensive rebound by S. Ibaka,4:49.0,17-18,LA Clippers,0,0.0
+24995,55,A. Coffey misses 2-pt jump shot from 3 ft,4:37.0,17-18,LA Clippers,0,0.0
+24996,55,Defensive rebound by B. Portis,4:37.0,17-18,Milwaukee,0,0.0
+24997,55,B. Portis misses 2-pt layup from 8 ft,4:24.0,17-18,Milwaukee,0,0.0
+24998,55,Defensive rebound by M. Morris,4:19.0,17-18,LA Clippers,0,1.0
+24999,55,Turnover by M. Morris (lost ball; steal by J. Holiday),4:16.0,17-18,LA Clippers,0,0.0
+25000,55,J. Holiday makes 2-pt layup from 3 ft,4:15.0,19-18,Milwaukee,0,0.0
+25001,55,LA Clippers full timeout,4:15.0,19-18,LA Clippers,0,0.0
+25002,55,D. DiVincenzo enters the game for P. Connaughton,4:15.0,19-18,Milwaukee,1,0.0
+25003,55,L. Kennard enters the game for N. Batum,4:15.0,19-18,LA Clippers,0,0.0
+25004,55,N. Powell enters the game for A. Coffey,4:15.0,19-18,LA Clippers,0,0.0
+25005,55,M. Morris misses 2-pt jump shot from 13 ft,4:00.0,19-18,LA Clippers,0,0.0
+25006,55,Defensive rebound by D. DiVincenzo,3:57.0,19-18,Milwaukee,0,0.0
+25007,55,Turnover by G. Monroe (bad pass),3:46.0,19-18,Milwaukee,0,0.0
+25008,55,J. Nwora enters the game for B. Portis,3:46.0,19-18,Milwaukee,1,0.0
+25009,55,T. Mann enters the game for R. Jackson,3:46.0,19-18,LA Clippers,0,0.0
+25010,55,N. Powell makes 3-pt jump shot from 27 ft,3:33.0,19-21,LA Clippers,0,0.0
+25011,55,G. Monroe makes 2-pt layup from 3 ft (assist by J. Holiday),3:16.0,21-21,Milwaukee,0,0.0
+25012,55,T. Mann misses 2-pt jump shot from 16 ft,3:00.0,21-21,LA Clippers,0,0.0
+25013,55,Defensive rebound by J. Nwora,2:55.0,21-21,Milwaukee,0,1.0
+25014,55,J. Holiday makes 2-pt jump shot from 16 ft (assist by J. Nwora),2:50.0,23-21,Milwaukee,0,1.0
+25015,55,L. Kennard misses 3-pt jump shot from 26 ft,2:28.0,23-21,LA Clippers,0,0.0
+25016,55,Defensive rebound by J. Holiday,2:26.0,23-21,Milwaukee,0,0.0
+25017,55,D. DiVincenzo misses 3-pt jump shot from 26 ft,2:18.0,23-21,Milwaukee,0,0.0
+25018,55,Defensive rebound by T. Mann,2:16.0,23-21,LA Clippers,0,0.0
+25019,55,M. Morris makes 3-pt jump shot from 27 ft (assist by T. Mann),2:10.0,23-24,LA Clippers,0,0.0
+25020,55,Turnover by J. Holiday (bad pass; steal by M. Morris),1:49.0,23-24,Milwaukee,0,0.0
+25021,55,Shooting foul by W. Matthews (drawn by N. Powell),1:47.0,23-24,LA Clippers,0,0.0
+25022,55,N. Powell makes free throw 1 of 2,1:47.0,23-25,LA Clippers,0,0.0
+25023,55,G. Antetokounmpo enters the game for J. Holiday,1:47.0,23-25,Milwaukee,1,0.0
+25024,55,K. Middleton enters the game for G. Monroe,1:47.0,23-25,Milwaukee,1,1.0
+25025,55,R. Covington enters the game for M. Morris,1:47.0,23-25,LA Clippers,0,0.0
+25026,55,N. Powell makes free throw 2 of 2,1:47.0,23-26,LA Clippers,0,0.0
+25027,55,K. Middleton misses 2-pt jump shot from 6 ft,1:32.0,23-26,Milwaukee,0,0.0
+25028,55,Offensive rebound by G. Antetokounmpo,1:30.0,23-26,Milwaukee,0,0.0
+25029,55,G. Antetokounmpo makes 2-pt layup from 3 ft,1:25.0,25-26,Milwaukee,0,0.0
+25030,55,S. Ibaka makes 2-pt jump shot from 15 ft (assist by T. Mann),1:00.0,25-28,LA Clippers,0,0.0
+25031,55,Shooting foul by N. Powell (drawn by D. DiVincenzo),0:53.0,25-28,Milwaukee,0,0.0
+25032,55,D. DiVincenzo misses free throw 1 of 2,0:53.0,25-28,Milwaukee,0,0.0
+25033,55,Offensive rebound by Team,0:53.0,25-28,Milwaukee,0,0.0
+25034,55,R. Hood enters the game for W. Matthews,0:53.0,25-28,Milwaukee,1,0.0
+25035,55,D. DiVincenzo makes free throw 2 of 2,0:53.0,26-28,Milwaukee,0,0.0
+25036,55,N. Powell makes 2-pt layup from 1 ft,0:43.0,26-30,LA Clippers,0,0.0
+25037,55,J. Nwora misses 2-pt jump shot from 19 ft,0:32.0,26-30,Milwaukee,0,0.0
+25038,55,Defensive rebound by S. Ibaka,0:30.0,26-30,LA Clippers,0,0.0
+25039,55,L. Kennard makes 2-pt jump shot from 12 ft (assist by T. Mann),0:21.0,26-32,LA Clippers,0,0.0
+25040,55,K. Middleton makes 2-pt jump shot from 18 ft,0:00.0,28-32,Milwaukee,0,0.0
+25041,55,Instant Replay (Request: Ruling Stands),0:00.0,28-32,Milwaukee,0,0.0
+25042,55,N. Powell makes 2-pt jump shot from 12 ft (assist by T. Mann),11:46.0,28-34,LA Clippers,0,0.0
+25043,55,Turnover by D. DiVincenzo (lost ball; steal by L. Kennard),11:32.0,28-34,Milwaukee,0,0.0
+25044,55,R. Covington makes 3-pt jump shot from 27 ft (assist by N. Powell),11:24.0,28-37,LA Clippers,0,0.0
+25045,55,K. Middleton makes 2-pt jump shot from 16 ft,11:10.0,30-37,Milwaukee,0,0.0
+25046,55,Offensive foul by N. Powell (drawn by D. DiVincenzo),10:53.0,30-37,LA Clippers,0,0.0
+25047,55,Turnover by N. Powell (offensive foul),10:53.0,30-37,LA Clippers,0,0.0
+25048,55,G. Antetokounmpo misses 2-pt jump shot from 13 ft,10:40.0,30-37,Milwaukee,0,0.0
+25049,55,Offensive rebound by J. Nwora,10:37.0,30-37,Milwaukee,0,0.0
+25050,55,J. Nwora makes 2-pt jump shot from 5 ft,10:35.0,32-37,Milwaukee,0,0.0
+25051,55,N. Powell misses 3-pt jump shot from 29 ft,10:23.0,32-37,LA Clippers,0,0.0
+25052,55,Offensive rebound by L. Kennard,10:20.0,32-37,LA Clippers,0,0.0
+25053,55,L. Kennard misses 3-pt jump shot from 27 ft,10:14.0,32-37,LA Clippers,0,0.0
+25054,55,Defensive rebound by K. Middleton,10:10.0,32-37,Milwaukee,0,0.0
+25055,55,Shooting foul by R. Covington (drawn by G. Antetokounmpo),10:05.0,32-37,Milwaukee,0,0.0
+25056,55,G. Antetokounmpo makes free throw 1 of 2,10:05.0,33-37,Milwaukee,0,0.0
+25057,55,I. Hartenstein enters the game for S. Ibaka,10:05.0,33-37,LA Clippers,0,0.0
+25058,55,G. Antetokounmpo makes free throw 2 of 2,10:05.0,34-37,Milwaukee,0,0.0
+25059,55,I. Hartenstein misses 2-pt layup from 3 ft (block by R. Hood),9:54.0,34-37,LA Clippers,0,1.0
+25060,55,Defensive rebound by G. Antetokounmpo,9:50.0,34-37,Milwaukee,0,0.0
+25061,55,G. Antetokounmpo makes 2-pt layup from 4 ft,9:49.0,36-37,Milwaukee,0,0.0
+25062,55,Shooting foul by N. Powell (drawn by G. Antetokounmpo),9:49.0,36-37,Milwaukee,0,0.0
+25063,55,R. Jackson enters the game for N. Powell,9:49.0,36-37,LA Clippers,0,0.0
+25064,55,G. Antetokounmpo makes free throw 1 of 1,9:49.0,37-37,Milwaukee,0,0.0
+25065,55,R. Jackson makes 3-pt jump shot from 27 ft (assist by L. Kennard),9:36.0,37-40,LA Clippers,0,0.0
+25066,55,R. Hood misses 2-pt jump shot from 19 ft,9:20.0,37-40,Milwaukee,0,0.0
+25067,55,Defensive rebound by I. Hartenstein,9:17.0,37-40,LA Clippers,0,0.0
+25068,55,Personal foul by K. Middleton (drawn by I. Hartenstein),9:11.0,37-40,LA Clippers,0,0.0
+25069,55,B. Portis enters the game for J. Nwora,9:11.0,37-40,Milwaukee,1,0.0
+25070,55,L. Kennard misses 3-pt jump shot from 28 ft,9:05.0,37-40,LA Clippers,0,0.0
+25071,55,Offensive rebound by T. Mann,9:01.0,37-40,LA Clippers,0,0.0
+25072,55,R. Jackson misses 3-pt jump shot from 27 ft,8:57.0,37-40,LA Clippers,0,0.0
+25073,55,Defensive rebound by G. Antetokounmpo,8:55.0,37-40,Milwaukee,0,0.0
+25074,55,R. Hood misses 3-pt jump shot from 28 ft,8:35.0,37-40,Milwaukee,0,0.0
+25075,55,Defensive rebound by L. Kennard,8:31.0,37-40,LA Clippers,0,1.0
+25076,55,R. Covington misses 3-pt jump shot from 26 ft,8:24.0,37-40,LA Clippers,0,1.0
+25077,55,Defensive rebound by K. Middleton,8:21.0,37-40,Milwaukee,0,0.0
+25078,55,D. DiVincenzo misses 3-pt jump shot from 24 ft,8:16.0,37-40,Milwaukee,0,0.0
+25079,55,Defensive rebound by T. Mann,8:12.0,37-40,LA Clippers,0,0.0
+25080,55,R. Jackson misses 2-pt layup from 4 ft,8:02.0,37-40,LA Clippers,0,0.0
+25081,55,Offensive rebound by R. Jackson,7:59.0,37-40,LA Clippers,0,0.0
+25082,55,R. Jackson misses 2-pt jump shot from 10 ft,7:47.0,37-40,LA Clippers,0,0.0
+25083,55,Offensive rebound by Team,7:46.0,37-40,LA Clippers,0,0.0
+25084,55,Loose ball foul by R. Hood (drawn by I. Hartenstein),7:46.0,37-40,Milwaukee,0,0.0
+25085,55,P. Connaughton enters the game for G. Antetokounmpo,7:46.0,37-40,Milwaukee,1,0.0
+25086,55,J. Holiday enters the game for D. DiVincenzo,7:46.0,37-40,Milwaukee,1,0.0
+25087,55,L. Kennard misses 2-pt jump shot from 16 ft,7:43.0,37-40,LA Clippers,0,0.0
+25088,55,Defensive rebound by J. Holiday,7:40.0,37-40,Milwaukee,0,0.0
+25089,55,B. Portis misses 3-pt jump shot from 28 ft,7:33.0,37-40,Milwaukee,0,0.0
+25090,55,Defensive rebound by R. Covington,7:29.0,37-40,LA Clippers,0,0.0
+25091,55,R. Jackson misses 3-pt jump shot from 26 ft,7:16.0,37-40,LA Clippers,0,0.0
+25092,55,Defensive rebound by Team,7:15.0,37-40,Milwaukee,0,0.0
+25093,55,Loose ball foul by I. Hartenstein (drawn by B. Portis),7:15.0,37-40,LA Clippers,0,0.0
+25094,55,A. Coffey enters the game for R. Covington,7:15.0,37-40,LA Clippers,0,0.0
+25095,55,M. Morris enters the game for L. Kennard,7:15.0,37-40,LA Clippers,0,0.0
+25096,55,K. Middleton makes 2-pt jump shot from 13 ft (assist by J. Holiday),7:03.0,39-40,Milwaukee,0,0.0
+25097,55,R. Jackson misses 2-pt jump shot from 9 ft,6:36.0,39-40,LA Clippers,0,0.0
+25098,55,Defensive rebound by B. Portis,6:36.0,39-40,Milwaukee,0,0.0
+25099,55,K. Middleton misses 3-pt jump shot from 27 ft,6:26.0,39-40,Milwaukee,0,0.0
+25100,55,Defensive rebound by M. Morris,6:24.0,39-40,LA Clippers,0,0.0
+25101,55,M. Morris misses 2-pt jump shot from 19 ft,6:09.0,39-40,LA Clippers,0,1.0
+25102,55,Offensive rebound by I. Hartenstein,6:05.0,39-40,LA Clippers,0,1.0
+25103,55,I. Hartenstein misses 2-pt layup from 9 ft,6:03.0,39-40,LA Clippers,0,0.0
+25104,55,Defensive rebound by K. Middleton,6:02.0,39-40,Milwaukee,0,0.0
+25105,55,P. Connaughton misses 3-pt jump shot from 26 ft,6:00.0,39-40,Milwaukee,0,0.0
+25106,55,Defensive rebound by A. Coffey,5:55.0,39-40,LA Clippers,0,0.0
+25107,55,M. Morris misses 2-pt jump shot from 17 ft,5:36.0,39-40,LA Clippers,0,0.0
+25108,55,Defensive rebound by P. Connaughton,5:32.0,39-40,Milwaukee,0,0.0
+25109,55,Shooting foul by A. Coffey (drawn by J. Holiday),5:24.0,39-40,Milwaukee,0,0.0
+25110,55,LA Clippers full timeout,5:24.0,39-40,LA Clippers,0,0.0
+25111,55,W. Matthews enters the game for R. Hood,5:24.0,39-40,Milwaukee,1,0.0
+25112,55,G. Monroe enters the game for K. Middleton,5:24.0,39-40,Milwaukee,1,1.0
+25113,55,N. Batum enters the game for I. Hartenstein,5:24.0,39-40,LA Clippers,0,0.0
+25114,55,I. Zubac enters the game for T. Mann,5:24.0,39-40,LA Clippers,0,0.0
+25115,55,J. Holiday misses free throw 1 of 2,5:24.0,39-40,Milwaukee,0,0.0
+25116,55,Offensive rebound by Team,5:24.0,39-40,Milwaukee,0,0.0
+25117,55,J. Holiday makes free throw 2 of 2,5:24.0,40-40,Milwaukee,0,0.0
+25118,55,R. Jackson misses 2-pt jump shot from 10 ft,5:04.0,40-40,LA Clippers,0,0.0
+25119,55,Defensive rebound by P. Connaughton,5:01.0,40-40,Milwaukee,0,0.0
+25120,55,Personal foul by N. Batum (drawn by B. Portis),4:56.0,40-40,Milwaukee,0,0.0
+25121,55,B. Portis makes free throw 1 of 2,4:56.0,41-40,Milwaukee,0,1.0
+25122,55,G. Antetokounmpo enters the game for G. Monroe,4:56.0,41-40,Milwaukee,1,0.0
+25123,55,B. Portis makes free throw 2 of 2,4:56.0,42-40,Milwaukee,0,0.0
+25124,55,N. Batum misses 3-pt jump shot from 25 ft,4:44.0,42-40,LA Clippers,0,0.0
+25125,55,Defensive rebound by P. Connaughton,4:40.0,42-40,Milwaukee,0,0.0
+25126,55,B. Portis makes 3-pt jump shot from 23 ft (assist by J. Holiday),4:28.0,45-40,Milwaukee,0,0.0
+25127,55,M. Morris makes 3-pt jump shot from 23 ft (assist by I. Zubac),4:12.0,45-43,LA Clippers,0,0.0
+25128,55,J. Holiday makes 2-pt jump shot from 5 ft,4:02.0,47-43,Milwaukee,0,0.0
+25129,55,I. Zubac makes 2-pt hook shot from 5 ft (assist by R. Jackson),3:43.0,47-45,LA Clippers,0,0.0
+25130,55,Milwaukee full timeout,3:35.0,47-45,Milwaukee,0,0.0
+25131,55,G. Monroe enters the game for B. Portis,3:35.0,47-45,Milwaukee,1,1.0
+25132,55,W. Matthews misses 3-pt jump shot from 25 ft,3:28.0,47-45,Milwaukee,0,0.0
+25133,55,Offensive rebound by W. Matthews,3:23.0,47-45,Milwaukee,0,0.0
+25134,55,Personal foul by R. Jackson (drawn by G. Antetokounmpo),3:21.0,47-45,Milwaukee,0,0.0
+25135,55,G. Antetokounmpo makes free throw 1 of 2,3:21.0,48-45,Milwaukee,0,0.0
+25136,55,G. Antetokounmpo makes free throw 2 of 2,3:21.0,49-45,Milwaukee,0,0.0
+25137,55,I. Zubac misses 2-pt hook shot from 5 ft (block by G. Antetokounmpo),3:06.0,49-45,LA Clippers,0,0.0
+25138,55,Defensive rebound by W. Matthews,3:06.0,49-45,Milwaukee,0,0.0
+25139,55,G. Monroe makes 2-pt layup from 2 ft (assist by J. Holiday),2:48.0,51-45,Milwaukee,0,1.0
+25140,55,Personal foul by W. Matthews (drawn by M. Morris),2:38.0,51-45,LA Clippers,0,0.0
+25141,55,D. DiVincenzo enters the game for P. Connaughton,2:38.0,51-45,Milwaukee,1,0.0
+25142,55,M. Morris misses 2-pt jump shot from 12 ft,2:31.0,51-45,LA Clippers,0,0.0
+25143,55,Defensive rebound by J. Holiday,2:28.0,51-45,Milwaukee,0,0.0
+25144,55,G. Antetokounmpo misses 2-pt jump shot from 10 ft,2:11.0,51-45,Milwaukee,0,0.0
+25145,55,Offensive rebound by G. Monroe,2:07.0,51-45,Milwaukee,0,0.0
+25146,55,G. Monroe makes 2-pt layup from 6 ft,2:07.0,53-45,Milwaukee,0,0.0
+25147,55,Shooting foul by G. Monroe (drawn by R. Jackson),1:49.0,53-45,LA Clippers,0,0.0
+25148,55,R. Jackson makes free throw 1 of 2,1:49.0,53-46,LA Clippers,0,1.0
+25149,55,K. Middleton enters the game for W. Matthews,1:49.0,53-46,Milwaukee,1,0.0
+25150,55,R. Jackson makes free throw 2 of 2,1:49.0,53-47,LA Clippers,0,0.0
+25151,55,G. Antetokounmpo misses 2-pt jump shot from 14 ft,1:33.0,53-47,Milwaukee,0,0.0
+25152,55,Defensive rebound by R. Jackson,1:29.0,53-47,LA Clippers,0,0.0
+25153,55,A. Coffey makes 2-pt layup from 4 ft (assist by R. Jackson),1:17.0,53-49,LA Clippers,0,0.0
+25154,55,D. DiVincenzo makes 2-pt layup from 3 ft (assist by K. Middleton),1:04.0,55-49,Milwaukee,0,0.0
+25155,55,M. Morris misses 3-pt jump shot from 26 ft,0:48.0,55-49,LA Clippers,0,0.0
+25156,55,Defensive rebound by G. Monroe,0:45.0,55-49,Milwaukee,0,0.0
+25157,55,Turnover by G. Antetokounmpo (bad pass),0:42.0,55-49,Milwaukee,0,0.0
+25158,55,B. Portis enters the game for G. Monroe,0:42.0,55-49,Milwaukee,1,0.0
+25159,55,Turnover by R. Jackson (lost ball; steal by J. Holiday),0:35.0,55-49,LA Clippers,0,0.0
+25160,55,Shooting foul by I. Zubac (drawn by G. Antetokounmpo),0:32.0,55-49,Milwaukee,0,0.0
+25161,55,G. Antetokounmpo makes free throw 1 of 2,0:32.0,56-49,Milwaukee,0,0.0
+25162,55,G. Antetokounmpo makes free throw 2 of 2,0:32.0,57-49,Milwaukee,0,0.0
+25163,55,Personal foul by B. Portis (drawn by I. Zubac),0:16.0,57-49,LA Clippers,0,0.0
+25164,55,I. Zubac makes free throw 1 of 2,0:16.0,57-50,LA Clippers,0,0.0
+25165,55,I. Zubac makes free throw 2 of 2,0:16.0,57-51,LA Clippers,0,0.0
+25166,55,B. Portis makes 3-pt jump shot from 23 ft (assist by K. Middleton),0:01.0,60-51,Milwaukee,0,0.0
+25167,55,Instant Replay (Request: Ruling Stands),0:00.0,60-51,Milwaukee,0,0.0
+25168,55,A. Coffey misses 2-pt layup from 3 ft,11:50.0,60-51,LA Clippers,0,0.0
+25169,55,Defensive rebound by B. Portis,11:48.0,60-51,Milwaukee,0,0.0
+25170,55,G. Antetokounmpo misses 3-pt jump shot from 24 ft,11:34.0,60-51,Milwaukee,0,0.0
+25171,55,Defensive rebound by N. Batum,11:32.0,60-51,LA Clippers,0,0.0
+25172,55,Personal foul by B. Portis (drawn by I. Zubac),11:27.0,60-51,LA Clippers,0,0.0
+25173,55,Turnover by I. Zubac (3 sec),11:19.0,60-51,LA Clippers,0,0.0
+25174,55,Personal foul by M. Morris (drawn by G. Antetokounmpo),11:10.0,60-51,Milwaukee,0,0.0
+25175,55,B. Portis misses 2-pt jump shot from 8 ft,11:03.0,60-51,Milwaukee,0,0.0
+25176,55,Defensive rebound by I. Zubac,10:59.0,60-51,LA Clippers,0,0.0
+25177,55,R. Jackson misses 2-pt jump shot from 18 ft,10:42.0,60-51,LA Clippers,0,0.0
+25178,55,Offensive rebound by M. Morris,10:40.0,60-51,LA Clippers,0,0.0
+25179,55,N. Batum makes 2-pt jump shot from 18 ft (assist by M. Morris),10:37.0,60-53,LA Clippers,0,0.0
+25180,55,K. Middleton makes 3-pt jump shot from 26 ft (assist by G. Antetokounmpo),10:27.0,63-53,Milwaukee,0,0.0
+25181,55,N. Batum misses 3-pt jump shot from 29 ft,10:13.0,63-53,LA Clippers,0,0.0
+25182,55,Defensive rebound by P. Connaughton,10:10.0,63-53,Milwaukee,0,0.0
+25183,55,G. Antetokounmpo makes 2-pt layup from 5 ft (assist by J. Holiday),10:08.0,65-53,Milwaukee,0,0.0
+25184,55,Shooting foul by R. Jackson (drawn by G. Antetokounmpo),10:08.0,65-53,Milwaukee,0,0.0
+25185,55,G. Antetokounmpo misses free throw 1 of 1,10:08.0,65-53,Milwaukee,0,0.0
+25186,55,Defensive rebound by M. Morris,10:06.0,65-53,LA Clippers,0,0.0
+25187,55,M. Morris misses 3-pt jump shot from 28 ft,9:59.0,65-53,LA Clippers,0,0.0
+25188,55,Offensive rebound by A. Coffey,9:57.0,65-53,LA Clippers,0,0.0
+25189,55,Personal foul by P. Connaughton (drawn by A. Coffey),9:57.0,65-53,LA Clippers,0,0.0
+25190,55,R. Jackson misses 2-pt jump shot from 4 ft,9:42.0,65-53,LA Clippers,0,0.0
+25191,55,Defensive rebound by B. Portis,9:41.0,65-53,Milwaukee,0,0.0
+25192,55,P. Connaughton makes 3-pt jump shot from 23 ft (assist by J. Holiday),9:36.0,68-53,Milwaukee,0,0.0
+25193,55,LA Clippers full timeout,9:36.0,68-53,LA Clippers,0,0.0
+25194,55,M. Morris misses 2-pt jump shot from 16 ft,9:20.0,68-53,LA Clippers,0,0.0
+25195,55,Defensive rebound by G. Antetokounmpo,9:18.0,68-53,Milwaukee,0,0.0
+25196,55,Shooting foul by N. Batum (drawn by K. Middleton),9:15.0,68-53,Milwaukee,0,0.0
+25197,55,K. Middleton makes free throw 1 of 2,9:15.0,69-53,Milwaukee,0,0.0
+25198,55,N. Powell enters the game for N. Batum,9:15.0,69-53,LA Clippers,0,0.0
+25199,55,K. Middleton makes free throw 2 of 2,9:15.0,70-53,Milwaukee,0,0.0
+25200,55,A. Coffey makes 3-pt jump shot from 26 ft (assist by R. Jackson),9:03.0,70-56,LA Clippers,0,1.0
+25201,55,P. Connaughton makes 3-pt jump shot from 27 ft (assist by K. Middleton),8:51.0,73-56,Milwaukee,0,0.0
+25202,55,A. Coffey misses 3-pt jump shot from 26 ft,8:31.0,73-56,LA Clippers,0,0.0
+25203,55,Defensive rebound by G. Antetokounmpo,8:27.0,73-56,Milwaukee,0,0.0
+25204,55,P. Connaughton makes 3-pt jump shot from 26 ft (assist by G. Antetokounmpo),8:23.0,76-56,Milwaukee,0,1.0
+25205,55,Turnover by M. Morris (bad pass; steal by G. Antetokounmpo),8:02.0,76-56,LA Clippers,0,0.0
+25206,55,P. Connaughton makes 3-pt jump shot from 23 ft (assist by G. Antetokounmpo),7:57.0,79-56,Milwaukee,0,0.0
+25207,55,N. Powell makes 3-pt jump shot from 26 ft,7:43.0,79-59,LA Clippers,0,0.0
+25208,55,Shooting foul by I. Zubac (drawn by G. Antetokounmpo),7:31.0,79-59,Milwaukee,0,0.0
+25209,55,G. Antetokounmpo makes free throw 1 of 2,7:31.0,80-59,Milwaukee,0,0.0
+25210,55,W. Matthews enters the game for J. Holiday,7:31.0,80-59,Milwaukee,1,0.0
+25211,55,G. Antetokounmpo makes free throw 2 of 2,7:31.0,81-59,Milwaukee,0,0.0
+25212,55,Shooting foul by B. Portis (drawn by N. Powell),7:24.0,81-59,LA Clippers,0,0.0
+25213,55,N. Powell makes free throw 1 of 2,7:24.0,81-60,LA Clippers,0,0.0
+25214,55,J. Holiday enters the game for B. Portis,7:24.0,81-60,Milwaukee,1,0.0
+25215,55,N. Powell makes free throw 2 of 2,7:24.0,81-61,LA Clippers,0,0.0
+25216,55,G. Antetokounmpo makes 2-pt hook shot from 7 ft,7:08.0,83-61,Milwaukee,0,1.0
+25217,55,I. Zubac makes 2-pt hook shot from 5 ft (assist by M. Morris),6:55.0,83-63,LA Clippers,0,0.0
+25218,55,J. Holiday misses 2-pt jump shot from 10 ft,6:41.0,83-63,Milwaukee,0,0.0
+25219,55,Defensive rebound by I. Zubac,6:38.0,83-63,LA Clippers,0,0.0
+25220,55,N. Powell misses 3-pt jump shot from 26 ft,6:35.0,83-63,LA Clippers,0,0.0
+25221,55,Defensive rebound by P. Connaughton,6:28.0,83-63,Milwaukee,0,0.0
+25222,55,G. Antetokounmpo makes 3-pt jump shot from 27 ft,6:26.0,86-63,Milwaukee,0,0.0
+25223,55,A. Coffey misses 3-pt jump shot from 27 ft,6:02.0,86-63,LA Clippers,0,0.0
+25224,55,Defensive rebound by K. Middleton,6:00.0,86-63,Milwaukee,0,0.0
+25225,55,Milwaukee full timeout,5:57.0,86-63,Milwaukee,0,0.0
+25226,55,B. Portis enters the game for G. Antetokounmpo,5:57.0,86-63,Milwaukee,1,1.0
+25227,55,L. Kennard enters the game for A. Coffey,5:57.0,86-63,LA Clippers,0,0.0
+25228,55,T. Mann enters the game for R. Jackson,5:57.0,86-63,LA Clippers,0,0.0
+25229,55,P. Connaughton misses 3-pt jump shot from 26 ft,5:52.0,86-63,Milwaukee,0,0.0
+25230,55,Defensive rebound by M. Morris,5:47.0,86-63,LA Clippers,0,0.0
+25231,55,T. Mann makes 2-pt jump shot from 13 ft,5:39.0,86-65,LA Clippers,0,0.0
+25232,55,K. Middleton misses 2-pt jump shot from 15 ft,5:28.0,86-65,Milwaukee,0,1.0
+25233,55,Defensive rebound by T. Mann,5:25.0,86-65,LA Clippers,0,0.0
+25234,55,Shooting foul by K. Middleton (drawn by I. Zubac),5:19.0,86-65,LA Clippers,0,0.0
+25235,55,I. Zubac makes free throw 1 of 2,5:19.0,86-66,LA Clippers,0,0.0
+25236,55,G. Monroe enters the game for K. Middleton,5:19.0,86-66,Milwaukee,1,0.0
+25237,55,I. Zubac makes free throw 2 of 2,5:19.0,86-67,LA Clippers,0,0.0
+25238,55,J. Holiday makes 3-pt jump shot from 26 ft,5:07.0,89-67,Milwaukee,0,0.0
+25239,55,N. Powell makes 2-pt dunk from 1 ft,4:53.0,89-69,LA Clippers,0,0.0
+25240,55,Shooting foul by N. Powell (drawn by J. Holiday),4:45.0,89-69,Milwaukee,0,0.0
+25241,55,J. Holiday makes free throw 1 of 2,4:45.0,90-69,Milwaukee,0,0.0
+25242,55,D. DiVincenzo enters the game for P. Connaughton,4:45.0,90-69,Milwaukee,1,0.0
+25243,55,R. Covington enters the game for I. Zubac,4:45.0,90-69,LA Clippers,0,0.0
+25244,55,J. Holiday makes free throw 2 of 2,4:45.0,91-69,Milwaukee,0,0.0
+25245,55,M. Morris makes 3-pt jump shot from 26 ft (assist by L. Kennard),4:30.0,91-72,LA Clippers,0,0.0
+25246,55,B. Portis makes 2-pt jump shot from 5 ft (assist by J. Holiday),4:17.0,93-72,Milwaukee,0,1.0
+25247,55,N. Powell misses 2-pt layup from 4 ft,3:58.0,93-72,LA Clippers,0,0.0
+25248,55,Defensive rebound by G. Monroe,3:58.0,93-72,Milwaukee,0,0.0
+25249,55,B. Portis makes 2-pt hook shot from 6 ft (assist by J. Holiday),3:50.0,95-72,Milwaukee,0,0.0
+25250,55,N. Powell misses 2-pt jump shot from 22 ft,3:25.0,95-72,LA Clippers,0,0.0
+25251,55,Defensive rebound by J. Holiday,3:21.0,95-72,Milwaukee,0,0.0
+25252,55,G. Monroe makes 2-pt jump shot from 6 ft (assist by J. Holiday),3:18.0,97-72,Milwaukee,0,0.0
+25253,55,N. Powell makes 3-pt jump shot from 27 ft (assist by M. Morris),2:55.0,97-75,LA Clippers,0,0.0
+25254,55,Personal foul by M. Morris (drawn by B. Portis),2:43.0,97-75,Milwaukee,0,0.0
+25255,55,B. Portis makes free throw 1 of 2,2:43.0,98-75,Milwaukee,0,0.0
+25256,55,J. Nwora enters the game for G. Monroe,2:43.0,98-75,Milwaukee,1,0.0
+25257,55,S. Ibaka enters the game for M. Morris,2:43.0,98-75,LA Clippers,0,0.0
+25258,55,B. Portis makes free throw 2 of 2,2:43.0,99-75,Milwaukee,0,0.0
+25259,55,L. Kennard makes 3-pt jump shot from 26 ft (assist by T. Mann),2:32.0,99-78,LA Clippers,0,0.0
+25260,55,Turnover by D. DiVincenzo (lost ball; steal by L. Kennard),2:24.0,99-78,Milwaukee,0,0.0
+25261,55,L. Kennard misses 3-pt jump shot from 25 ft,2:19.0,99-78,LA Clippers,0,1.0
+25262,55,Defensive rebound by J. Holiday,2:14.0,99-78,Milwaukee,0,1.0
+25263,55,J. Nwora misses 3-pt jump shot from 27 ft,2:10.0,99-78,Milwaukee,0,0.0
+25264,55,Defensive rebound by S. Ibaka,2:06.0,99-78,LA Clippers,0,0.0
+25265,55,Turnover by R. Covington (bad pass; steal by B. Portis),1:58.0,99-78,LA Clippers,0,1.0
+25266,55,J. Nwora misses 2-pt jump shot from 8 ft,1:52.0,99-78,Milwaukee,0,0.0
+25267,55,Defensive rebound by N. Powell,1:49.0,99-78,LA Clippers,0,0.0
+25268,55,Shooting foul by J. Nwora (drawn by N. Powell),1:43.0,99-78,LA Clippers,0,0.0
+25269,55,N. Powell misses free throw 1 of 2,1:43.0,99-78,LA Clippers,0,0.0
+25270,55,Offensive rebound by Team,1:43.0,99-78,LA Clippers,0,0.0
+25271,55,G. Antetokounmpo enters the game for J. Holiday,1:43.0,99-78,Milwaukee,1,0.0
+25272,55,G. Monroe enters the game for B. Portis,1:43.0,99-78,Milwaukee,1,0.0
+25273,55,N. Powell makes free throw 2 of 2,1:43.0,99-79,LA Clippers,0,0.0
+25274,55,Milwaukee full timeout,1:37.0,99-79,Milwaukee,0,0.0
+25275,55,K. Middleton enters the game for W. Matthews,1:37.0,99-79,Milwaukee,1,0.0
+25276,55,Turnover by G. Antetokounmpo (bad pass),1:30.0,99-79,Milwaukee,0,0.0
+25277,55,N. Powell misses 3-pt jump shot from 27 ft,1:14.0,99-79,LA Clippers,0,0.0
+25278,55,Defensive rebound by G. Antetokounmpo,1:11.0,99-79,Milwaukee,0,0.0
+25279,55,G. Monroe misses 2-pt hook shot from 4 ft,1:02.0,99-79,Milwaukee,0,0.0
+25280,55,Offensive rebound by G. Monroe,1:00.0,99-79,Milwaukee,0,0.0
+25281,55,G. Monroe misses 2-pt layup from 4 ft (block by S. Ibaka),0:59.0,99-79,Milwaukee,0,0.0
+25282,55,Defensive rebound by T. Mann,0:56.0,99-79,LA Clippers,0,0.0
+25283,55,T. Mann misses 2-pt layup from 4 ft,0:54.0,99-79,LA Clippers,0,0.0
+25284,55,Defensive rebound by K. Middleton,0:51.0,99-79,Milwaukee,0,0.0
+25285,55,K. Middleton misses 2-pt jump shot from 22 ft,0:47.0,99-79,Milwaukee,0,0.0
+25286,55,Defensive rebound by R. Covington,0:43.0,99-79,LA Clippers,0,0.0
+25287,55,L. Kennard misses 3-pt jump shot from 26 ft,0:36.0,99-79,LA Clippers,0,0.0
+25288,55,Defensive rebound by D. DiVincenzo,0:33.0,99-79,Milwaukee,0,0.0
+25289,55,Turnover by D. DiVincenzo (bad pass; steal by T. Mann),0:24.0,99-79,Milwaukee,0,0.0
+25290,55,T. Mann makes 2-pt layup from 1 ft,0:20.0,99-81,LA Clippers,0,0.0
+25291,55,Turnover by J. Nwora (step out of bounds),0:02.0,99-81,Milwaukee,0,0.0
+25292,55,G. Antetokounmpo misses 2-pt jump shot from 16 ft,11:46.0,99-81,Milwaukee,0,0.0
+25293,55,Defensive rebound by S. Ibaka,11:42.0,99-81,LA Clippers,0,0.0
+25294,55,Offensive foul by R. Covington (drawn by D. DiVincenzo),11:29.0,99-81,LA Clippers,0,0.0
+25295,55,Turnover by R. Covington (offensive foul),11:29.0,99-81,LA Clippers,0,0.0
+25296,55,G. Antetokounmpo misses 2-pt jump shot from 11 ft,11:13.0,99-81,Milwaukee,0,0.0
+25297,55,Defensive rebound by S. Ibaka,11:11.0,99-81,LA Clippers,0,0.0
+25298,55,Personal foul by K. Middleton (drawn by S. Ibaka),11:07.0,99-81,LA Clippers,0,1.0
+25299,55,N. Powell makes 3-pt jump shot from 27 ft,11:00.0,99-84,LA Clippers,0,0.0
+25300,55,Turnover by K. Middleton (bad pass; steal by T. Mann),10:47.0,99-84,Milwaukee,0,0.0
+25301,55,T. Mann misses 2-pt layup from 5 ft,10:45.0,99-84,LA Clippers,0,0.0
+25302,55,Offensive rebound by S. Ibaka,10:44.0,99-84,LA Clippers,0,0.0
+25303,55,S. Ibaka misses 2-pt layup from 5 ft (block by G. Antetokounmpo),10:43.0,99-84,LA Clippers,0,0.0
+25304,55,Defensive rebound by D. DiVincenzo,10:42.0,99-84,Milwaukee,0,0.0
+25305,55,K. Middleton makes 2-pt dunk from 1 ft (assist by D. DiVincenzo),10:39.0,101-84,Milwaukee,0,0.0
+25306,55,N. Powell makes 2-pt layup from 3 ft (assist by L. Kennard),10:24.0,101-86,LA Clippers,0,0.0
+25307,55,Shooting foul by G. Antetokounmpo (drawn by N. Powell),10:24.0,101-86,LA Clippers,0,0.0
+25308,55,J. Holiday enters the game for D. DiVincenzo,10:24.0,101-86,Milwaukee,1,0.0
+25309,55,N. Powell makes free throw 1 of 1,10:24.0,101-87,LA Clippers,0,0.0
+25310,55,K. Middleton misses 2-pt jump shot from 5 ft,10:10.0,101-87,Milwaukee,0,0.0
+25311,55,Offensive rebound by G. Antetokounmpo,10:07.0,101-87,Milwaukee,0,0.0
+25312,55,R. Hood misses 3-pt jump shot from 26 ft,10:06.0,101-87,Milwaukee,0,0.0
+25313,55,Defensive rebound by S. Ibaka,10:02.0,101-87,LA Clippers,0,0.0
+25314,55,S. Ibaka misses 2-pt jump shot from 19 ft,9:54.0,101-87,LA Clippers,0,0.0
+25315,55,Offensive rebound by R. Covington,9:50.0,101-87,LA Clippers,0,1.0
+25316,55,R. Covington makes 3-pt jump shot from 24 ft (assist by N. Powell),9:49.0,101-90,LA Clippers,0,0.0
+25317,55,Milwaukee full timeout,9:40.0,101-90,Milwaukee,0,0.0
+25318,55,Turnover by J. Holiday (lost ball; steal by R. Covington),9:27.0,101-90,Milwaukee,0,0.0
+25319,55,N. Powell misses 2-pt jump shot from 5 ft,9:13.0,101-90,LA Clippers,0,0.0
+25320,55,Offensive rebound by R. Covington,9:12.0,101-90,LA Clippers,0,0.0
+25321,55,R. Covington makes 2-pt layup at rim,9:12.0,101-92,LA Clippers,0,0.0
+25322,55,J. Holiday misses 3-pt jump shot from 23 ft,8:53.0,101-92,Milwaukee,0,0.0
+25323,55,Offensive rebound by Team,8:53.0,101-92,Milwaukee,0,0.0
+25324,55,Loose ball foul by L. Kennard (drawn by R. Hood),8:53.0,101-92,LA Clippers,0,0.0
+25325,55,B. Portis enters the game for R. Hood,8:53.0,101-92,Milwaukee,1,0.0
+25326,55,Personal foul by S. Ibaka (drawn by G. Antetokounmpo),8:47.0,101-92,Milwaukee,0,0.0
+25327,55,J. Holiday makes 2-pt jump shot from 5 ft,8:42.0,103-92,Milwaukee,0,0.0
+25328,55,T. Mann misses 3-pt jump shot from 27 ft,8:14.0,103-92,LA Clippers,0,0.0
+25329,55,Defensive rebound by G. Antetokounmpo,8:08.0,103-92,Milwaukee,0,1.0
+25330,55,B. Portis makes 2-pt jump shot from 10 ft (assist by K. Middleton),7:53.0,105-92,Milwaukee,0,0.0
+25331,55,Shooting foul by G. Antetokounmpo (drawn by R. Covington),7:28.0,105-92,LA Clippers,0,0.0
+25332,55,R. Covington makes free throw 1 of 2,7:28.0,105-93,LA Clippers,0,0.0
+25333,55,R. Covington makes free throw 2 of 2,7:28.0,105-94,LA Clippers,0,0.0
+25334,55,J. Holiday makes 2-pt layup from 3 ft,7:15.0,107-94,Milwaukee,0,0.0
+25335,55,R. Covington misses 3-pt jump shot from 28 ft,6:59.0,107-94,LA Clippers,0,0.0
+25336,55,Defensive rebound by B. Portis,6:56.0,107-94,Milwaukee,0,0.0
+25337,55,J. Holiday makes 3-pt jump shot from 26 ft,6:50.0,110-94,Milwaukee,0,0.0
+25338,55,LA Clippers full timeout,6:49.0,110-94,LA Clippers,0,0.0
+25339,55,W. Matthews enters the game for G. Antetokounmpo,6:49.0,110-94,Milwaukee,1,0.0
+25340,55,M. Morris enters the game for T. Mann,6:49.0,110-94,LA Clippers,0,0.0
+25341,55,S. Ibaka makes 2-pt dunk from 1 ft (assist by N. Powell),6:37.0,110-96,LA Clippers,0,1.0
+25342,55,B. Portis makes 3-pt jump shot from 23 ft (assist by J. Holiday),6:22.0,113-96,Milwaukee,0,0.0
+25343,55,M. Morris makes 3-pt jump shot from 27 ft (assist by S. Ibaka),6:00.0,113-99,LA Clippers,0,0.0
+25344,55,J. Holiday makes 2-pt jump shot from 6 ft,5:46.0,115-99,Milwaukee,0,0.0
+25345,55,N. Powell makes 2-pt jump shot from 14 ft,5:31.0,115-101,LA Clippers,0,0.0
+25346,55,P. Connaughton makes 3-pt jump shot from 29 ft (assist by K. Middleton),5:13.0,118-101,Milwaukee,0,0.0
+25347,55,N. Powell misses 3-pt jump shot from 29 ft,5:00.0,118-101,LA Clippers,0,0.0
+25348,55,Defensive rebound by B. Portis,4:57.0,118-101,Milwaukee,0,0.0
+25349,55,J. Holiday makes 2-pt jump shot from 19 ft,4:47.0,120-101,Milwaukee,0,1.0
+25350,55,LA Clippers full timeout,4:46.0,120-101,LA Clippers,0,0.0
+25351,55,G. Antetokounmpo enters the game for K. Middleton,4:46.0,120-101,Milwaukee,1,0.0
+25352,55,R. Jackson enters the game for L. Kennard,4:46.0,120-101,LA Clippers,0,0.0
+25353,55,S. Ibaka makes 3-pt jump shot from 28 ft (assist by N. Powell),4:30.0,120-104,LA Clippers,0,0.0
+25354,55,B. Portis makes 2-pt jump shot from 10 ft,4:10.0,122-104,Milwaukee,0,0.0
+25355,55,M. Morris misses 3-pt jump shot from 27 ft,3:59.0,122-104,LA Clippers,0,0.0
+25356,55,Defensive rebound by B. Portis,3:57.0,122-104,Milwaukee,0,0.0
+25357,55,B. Portis makes 3-pt jump shot from 27 ft (assist by G. Antetokounmpo),3:51.0,125-104,Milwaukee,0,0.0
+25358,55,LA Clippers full timeout,3:42.0,125-104,LA Clippers,0,0.0
+25359,55,D. DiVincenzo enters the game for P. Connaughton,3:42.0,125-104,Milwaukee,1,1.0
+25360,55,B. Boston enters the game for S. Ibaka,3:42.0,125-104,LA Clippers,0,1.0
+25361,55,A. Coffey enters the game for R. Jackson,3:42.0,125-104,LA Clippers,0,1.0
+25362,55,I. Hartenstein enters the game for M. Morris,3:42.0,125-104,LA Clippers,0,0.0
+25363,55,T. Mann enters the game for N. Powell,3:42.0,125-104,LA Clippers,0,0.0
+25364,55,R. Covington makes 3-pt jump shot from 27 ft (assist by I. Hartenstein),3:36.0,125-107,LA Clippers,0,0.0
+25365,55,G. Antetokounmpo makes 2-pt hook shot from 6 ft (assist by J. Holiday),3:22.0,127-107,Milwaukee,0,0.0
+25366,55,R. Covington misses 3-pt jump shot from 26 ft,3:05.0,127-107,LA Clippers,0,0.0
+25367,55,Defensive rebound by B. Portis,3:03.0,127-107,Milwaukee,0,0.0
+25368,55,Milwaukee full timeout,3:01.0,127-107,Milwaukee,0,0.0
+25369,55,R. Hood enters the game for G. Antetokounmpo,3:01.0,127-107,Milwaukee,1,0.0
+25370,55,G. Monroe enters the game for J. Holiday,3:01.0,127-107,Milwaukee,1,0.0
+25371,55,J. Nwora enters the game for B. Portis,3:01.0,127-107,Milwaukee,1,0.0
+25372,55,D. DiVincenzo misses 2-pt jump shot from 17 ft,2:53.0,127-107,Milwaukee,0,0.0
+25373,55,Defensive rebound by T. Mann,2:50.0,127-107,LA Clippers,0,0.0
+25374,55,T. Mann makes 2-pt dunk from 1 ft,2:44.0,127-109,LA Clippers,0,0.0
+25375,55,D. DiVincenzo makes 3-pt jump shot from 27 ft (assist by J. Nwora),2:24.0,130-109,Milwaukee,0,0.0
+25376,55,B. Boston misses 3-pt jump shot from 29 ft,2:10.0,130-109,LA Clippers,0,0.0
+25377,55,Defensive rebound by W. Matthews,2:06.0,130-109,Milwaukee,0,0.0
+25378,55,D. DiVincenzo makes 3-pt jump shot from 26 ft,2:02.0,133-109,Milwaukee,0,0.0
+25379,55,A. Coffey makes 2-pt dunk from 2 ft (assist by I. Hartenstein),1:40.0,133-111,LA Clippers,0,1.0
+25380,55,D. DiVincenzo misses 3-pt jump shot from 26 ft,1:28.0,133-111,Milwaukee,0,0.0
+25381,55,Defensive rebound by T. Mann,1:24.0,133-111,LA Clippers,0,0.0
+25382,55,T. Mann misses 3-pt jump shot from 27 ft,1:20.0,133-111,LA Clippers,0,
+25383,55,Defensive rebound by J. Nwora,1:16.0,133-111,Milwaukee,0,
+25384,55,W. Matthews makes 3-pt jump shot from 28 ft (assist by G. Monroe),1:02.0,136-111,Milwaukee,0,
+25385,55,Turnover by I. Hartenstein (bad pass; steal by R. Hood),0:43.0,136-111,LA Clippers,0,
+25386,55,Shooting foul by R. Covington (drawn by G. Monroe),0:36.0,136-111,Milwaukee,0,
+25387,55,G. Monroe misses free throw 1 of 2,0:36.0,136-111,Milwaukee,0,
+25388,55,Offensive rebound by Team,0:36.0,136-111,Milwaukee,0,
+25389,55,L. Wigginton enters the game for W. Matthews,0:36.0,136-111,Milwaukee,1,
+25390,55,G. Monroe makes free throw 2 of 2,0:36.0,137-111,Milwaukee,0,
+25391,55,B. Boston makes 2-pt jump shot from 12 ft,0:17.0,137-113,LA Clippers,0,

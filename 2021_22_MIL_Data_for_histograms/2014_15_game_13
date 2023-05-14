@@ -1,0 +1,461 @@
+,game number,play,time,score,team,current_sub_status,future_sub_status
+5627,13,R. Williams makes 2-pt dunk from 2 ft (assist by A. Horford),11:41.0,0-2,Boston,0,0.0
+5628,13,G. Hill misses 3-pt jump shot from 27 ft,11:21.0,0-2,Milwaukee,0,0.0
+5629,13,Offensive rebound by J. Holiday,11:17.0,0-2,Milwaukee,0,0.0
+5630,13,J. Holiday misses 3-pt jump shot from 26 ft,11:17.0,0-2,Milwaukee,0,0.0
+5631,13,Defensive rebound by R. Williams,11:16.0,0-2,Boston,0,0.0
+5632,13,A. Horford misses 2-pt jump shot from 12 ft,11:06.0,0-2,Boston,0,0.0
+5633,13,Defensive rebound by G. Hill,11:03.0,0-2,Milwaukee,0,0.0
+5634,13,B. Portis makes 2-pt hook shot from 9 ft (assist by G. Hill),10:51.0,2-2,Milwaukee,0,0.0
+5635,13,Personal foul by P. Connaughton (drawn by A. Horford),10:39.0,2-2,Boston,0,0.0
+5636,13,D. Schröder misses 3-pt jump shot from 26 ft,10:26.0,2-2,Boston,0,0.0
+5637,13,Offensive rebound by A. Horford,10:24.0,2-2,Boston,0,0.0
+5638,13,A. Horford makes 2-pt layup at rim,10:24.0,2-4,Boston,0,0.0
+5639,13,G. Allen makes 3-pt jump shot from 28 ft (assist by J. Holiday),10:02.0,5-4,Milwaukee,0,0.0
+5640,13,A. Horford misses 2-pt hook shot from 2 ft,9:56.0,5-4,Boston,0,0.0
+5641,13,Offensive rebound by A. Horford,9:54.0,5-4,Boston,0,0.0
+5642,13,D. Schröder makes 3-pt jump shot from 25 ft (assist by A. Horford),9:51.0,5-7,Boston,0,0.0
+5643,13,B. Portis makes 2-pt jump shot from 8 ft,9:39.0,7-7,Milwaukee,0,0.0
+5644,13,A. Horford misses 3-pt jump shot from 23 ft,9:29.0,7-7,Boston,0,0.0
+5645,13,Offensive rebound by R. Williams,9:27.0,7-7,Boston,0,0.0
+5646,13,D. Schröder misses 3-pt jump shot from 26 ft,9:25.0,7-7,Boston,0,0.0
+5647,13,Offensive rebound by R. Williams,9:23.0,7-7,Boston,0,1.0
+5648,13,Turnover by A. Horford (lost ball; steal by P. Connaughton),9:12.0,7-7,Boston,0,0.0
+5649,13,J. Holiday misses 3-pt jump shot from 27 ft,9:02.0,7-7,Milwaukee,0,0.0
+5650,13,Defensive rebound by J. Tatum,8:58.0,7-7,Boston,0,0.0
+5651,13,J. Tatum makes 2-pt layup from 5 ft,8:51.0,7-9,Boston,0,0.0
+5652,13,G. Allen misses 3-pt jump shot from 24 ft,8:40.0,7-9,Milwaukee,0,0.0
+5653,13,Defensive rebound by A. Horford,8:38.0,7-9,Boston,0,0.0
+5654,13,J. Tatum makes 2-pt jump shot from 17 ft,8:29.0,7-11,Boston,0,0.0
+5655,13,Shooting foul by M. Smart (drawn by J. Holiday),8:11.0,7-11,Milwaukee,0,0.0
+5656,13,J. Holiday makes free throw 1 of 2,8:11.0,8-11,Milwaukee,0,0.0
+5657,13,S. Ojeleye enters the game for P. Connaughton,8:11.0,8-11,Milwaukee,1,0.0
+5658,13,J. Holiday makes free throw 2 of 2,8:11.0,9-11,Milwaukee,0,0.0
+5659,13,D. Schröder misses 2-pt jump shot from 16 ft,8:00.0,9-11,Boston,0,0.0
+5660,13,Defensive rebound by G. Allen,7:57.0,9-11,Milwaukee,0,0.0
+5661,13,G. Allen misses 3-pt jump shot from 30 ft,7:53.0,9-11,Milwaukee,0,0.0
+5662,13,Defensive rebound by D. Schröder,7:49.0,9-11,Boston,0,0.0
+5663,13,M. Smart misses 3-pt jump shot from 24 ft,7:37.0,9-11,Boston,0,0.0
+5664,13,Offensive rebound by R. Williams,7:34.0,9-11,Boston,0,1.0
+5665,13,Turnover by R. Williams (back court),7:32.0,9-11,Boston,0,1.0
+5666,13,B. Portis makes 2-pt jump shot from 18 ft (assist by J. Holiday),7:23.0,11-11,Milwaukee,0,0.0
+5667,13,J. Tatum misses 3-pt jump shot from 27 ft,7:07.0,11-11,Boston,0,0.0
+5668,13,Defensive rebound by J. Holiday,7:05.0,11-11,Milwaukee,0,0.0
+5669,13,J. Holiday misses 3-pt jump shot from 25 ft,6:57.0,11-11,Milwaukee,0,0.0
+5670,13,Defensive rebound by J. Tatum,6:53.0,11-11,Boston,0,0.0
+5671,13,Turnover by A. Horford (lost ball; steal by G. Hill),6:36.0,11-11,Boston,0,0.0
+5672,13,B. Portis makes 2-pt layup from 8 ft,6:31.0,13-11,Milwaukee,0,0.0
+5673,13,Boston full timeout,6:31.0,13-11,Boston,0,0.0
+5674,13,P. Connaughton enters the game for G. Allen,6:31.0,13-11,Milwaukee,1,0.0
+5675,13,J. Nwora enters the game for G. Hill,6:31.0,13-11,Milwaukee,1,0.0
+5676,13,J. Richardson enters the game for A. Horford,6:31.0,13-11,Boston,0,0.0
+5677,13,J. Tatum makes 3-pt jump shot from 25 ft,6:17.0,13-14,Boston,0,0.0
+5678,13,B. Portis misses 3-pt jump shot from 28 ft,6:04.0,13-14,Milwaukee,0,0.0
+5679,13,Defensive rebound by J. Tatum,6:00.0,13-14,Boston,0,0.0
+5680,13,D. Schröder makes 2-pt layup from 4 ft (assist by R. Williams),5:49.0,13-16,Boston,0,0.0
+5681,13,J. Holiday misses 2-pt layup from 3 ft,5:32.0,13-16,Milwaukee,0,0.0
+5682,13,Defensive rebound by M. Smart,5:30.0,13-16,Boston,0,0.0
+5683,13,M. Smart misses 2-pt jump shot from 4 ft,5:21.0,13-16,Boston,0,0.0
+5684,13,Defensive rebound by B. Portis,5:18.0,13-16,Milwaukee,0,0.0
+5685,13,J. Nwora makes 2-pt layup from 3 ft (assist by J. Holiday),5:16.0,15-16,Milwaukee,0,0.0
+5686,13,J. Tatum misses 2-pt jump shot from 18 ft,4:53.0,15-16,Boston,0,0.0
+5687,13,Defensive rebound by B. Portis,4:49.0,15-16,Milwaukee,0,0.0
+5688,13,B. Portis makes 2-pt jump shot from 16 ft (assist by J. Nwora),4:37.0,17-16,Milwaukee,0,1.0
+5689,13,D. Schröder makes 3-pt jump shot from 24 ft,4:24.0,17-19,Boston,0,1.0
+5690,13,J. Holiday misses 2-pt layup from 3 ft,4:11.0,17-19,Milwaukee,0,0.0
+5691,13,Defensive rebound by D. Schröder,4:09.0,17-19,Boston,0,0.0
+5692,13,D. Schröder makes 2-pt layup from 10 ft (assist by J. Tatum),4:01.0,17-21,Boston,0,0.0
+5693,13,P. Connaughton misses 3-pt jump shot from 26 ft,3:47.0,17-21,Milwaukee,0,0.0
+5694,13,Defensive rebound by J. Tatum,3:45.0,17-21,Boston,0,0.0
+5695,13,D. Schröder misses 3-pt jump shot from 30 ft,3:38.0,17-21,Boston,0,0.0
+5696,13,Defensive rebound by J. Nwora,3:35.0,17-21,Milwaukee,0,0.0
+5697,13,Milwaukee full timeout,3:31.0,17-21,Milwaukee,0,0.0
+5698,13,T. Antetokounmpo enters the game for J. Holiday,3:31.0,17-21,Milwaukee,1,1.0
+5699,13,G. Hill enters the game for B. Portis,3:31.0,17-21,Milwaukee,1,0.0
+5700,13,R. Langford enters the game for M. Smart,3:31.0,17-21,Boston,0,0.0
+5701,13,J. Nwora misses 3-pt jump shot from 27 ft (block by R. Williams),3:20.0,17-21,Milwaukee,0,0.0
+5702,13,Offensive rebound by T. Antetokounmpo,3:16.0,17-21,Milwaukee,0,0.0
+5703,13,T. Antetokounmpo makes 2-pt layup from 1 ft,3:14.0,19-21,Milwaukee,0,0.0
+5704,13,Turnover by R. Williams (bad pass; steal by P. Connaughton),3:04.0,19-21,Boston,0,0.0
+5705,13,J. Nwora misses 2-pt jump shot from 19 ft,2:56.0,19-21,Milwaukee,0,0.0
+5706,13,Defensive rebound by J. Tatum,2:56.0,19-21,Boston,0,0.0
+5707,13,Violation by Team (kicked ball),2:53.0,19-21,Boston,0,0.0
+5708,13,G. Allen enters the game for P. Connaughton,2:53.0,19-21,Milwaukee,1,0.0
+5709,13,A. Horford enters the game for R. Williams,2:53.0,19-21,Boston,0,0.0
+5710,13,G. Allen misses 2-pt layup from 2 ft (block by A. Horford),2:42.0,19-21,Milwaukee,0,1.0
+5711,13,Defensive rebound by A. Horford,2:35.0,19-21,Boston,0,0.0
+5712,13,J. Tatum misses 3-pt jump shot from 28 ft,2:30.0,19-21,Boston,0,0.0
+5713,13,Defensive rebound by S. Ojeleye,2:27.0,19-21,Milwaukee,0,0.0
+5714,13,T. Antetokounmpo makes 2-pt layup from 2 ft (assist by J. Nwora),2:20.0,21-21,Milwaukee,0,0.0
+5715,13,D. Schröder makes 2-pt jump shot from 15 ft,2:05.0,21-23,Boston,0,0.0
+5716,13,T. Antetokounmpo makes 2-pt layup from 4 ft (assist by G. Hill),1:48.0,23-23,Milwaukee,0,0.0
+5717,13,A. Horford makes 3-pt jump shot from 25 ft (assist by J. Richardson),1:30.0,23-26,Boston,0,0.0
+5718,13,G. Allen misses 3-pt jump shot from 27 ft,1:22.0,23-26,Milwaukee,0,0.0
+5719,13,Defensive rebound by Team,1:21.0,23-26,Boston,0,0.0
+5720,13,R. Hood enters the game for S. Ojeleye,1:21.0,23-26,Milwaukee,1,0.0
+5721,13,G. Williams enters the game for J. Tatum,1:21.0,23-26,Boston,0,1.0
+5722,13,D. Schröder makes 2-pt layup from 2 ft,1:09.0,23-28,Boston,0,0.0
+5723,13,G. Hill makes 2-pt layup from 4 ft,0:54.0,25-28,Milwaukee,0,0.0
+5724,13,G. Williams makes 2-pt layup from 8 ft (assist by A. Horford),0:40.0,25-30,Boston,0,0.0
+5725,13,G. Hill makes 2-pt jump shot from 22 ft,0:32.0,27-30,Milwaukee,0,0.0
+5726,13,D. Schröder misses 2-pt layup from 4 ft,0:12.0,27-30,Boston,0,0.0
+5727,13,Defensive rebound by G. Hill,0:10.0,27-30,Milwaukee,0,0.0
+5728,13,Shooting foul by J. Richardson (drawn by G. Allen),0:04.0,27-30,Milwaukee,0,0.0
+5729,13,G. Allen makes free throw 1 of 3,0:04.0,28-30,Milwaukee,0,0.0
+5730,13,G. Allen makes free throw 2 of 3,0:04.0,29-30,Milwaukee,0,0.0
+5731,13,S. Ojeleye enters the game for J. Nwora,0:04.0,29-30,Milwaukee,1,0.0
+5732,13,G. Allen makes free throw 3 of 3,0:04.0,30-30,Milwaukee,0,0.0
+5733,13,D. Schröder misses 3-pt jump shot from 27 ft,0:01.0,30-30,Boston,0,0.0
+5734,13,Offensive rebound by Team,0:01.0,30-30,Boston,0,0.0
+5735,13,R. Hood makes 3-pt jump shot from 28 ft,11:43.0,33-30,Milwaukee,0,0.0
+5736,13,M. Smart makes 2-pt layup from 6 ft (assist by A. Horford),11:27.0,33-32,Boston,0,0.0
+5737,13,G. Allen misses 2-pt hook shot from 10 ft,11:06.0,33-32,Milwaukee,0,0.0
+5738,13,Defensive rebound by A. Horford,11:04.0,33-32,Boston,0,0.0
+5739,13,J. Richardson misses 3-pt jump shot from 27 ft,10:54.0,33-32,Boston,0,0.0
+5740,13,Defensive rebound by G. Allen,10:51.0,33-32,Milwaukee,0,0.0
+5741,13,G. Allen makes 2-pt layup from 4 ft (assist by G. Hill),10:34.0,35-32,Milwaukee,0,0.0
+5742,13,G. Williams misses 3-pt jump shot from 23 ft,10:23.0,35-32,Boston,0,0.0
+5743,13,Defensive rebound by S. Ojeleye,10:19.0,35-32,Milwaukee,0,0.0
+5744,13,G. Hill misses 3-pt jump shot from 27 ft,10:13.0,35-32,Milwaukee,0,1.0
+5745,13,Defensive rebound by J. Richardson,10:09.0,35-32,Boston,0,0.0
+5746,13,J. Richardson misses 3-pt jump shot from 25 ft,9:54.0,35-32,Boston,0,0.0
+5747,13,Offensive rebound by M. Smart,9:48.0,35-32,Boston,0,0.0
+5748,13,J. Richardson makes 2-pt layup from 4 ft (assist by A. Horford),9:46.0,35-34,Boston,0,0.0
+5749,13,G. Allen misses 3-pt jump shot from 27 ft,9:26.0,35-34,Milwaukee,0,1.0
+5750,13,Defensive rebound by G. Williams,9:24.0,35-34,Boston,0,1.0
+5751,13,R. Langford misses 3-pt jump shot from 27 ft,9:14.0,35-34,Boston,0,0.0
+5752,13,Offensive rebound by R. Langford,9:09.0,35-34,Boston,0,0.0
+5753,13,Personal foul by G. Allen (drawn by A. Horford),9:01.0,35-34,Boston,0,0.0
+5754,13,B. Portis enters the game for T. Antetokounmpo,9:01.0,35-34,Milwaukee,1,0.0
+5755,13,R. Williams enters the game for A. Horford,9:01.0,35-34,Boston,0,0.0
+5756,13,M. Smart misses 2-pt jump shot from 17 ft,8:57.0,35-34,Boston,0,0.0
+5757,13,Defensive rebound by R. Hood,8:53.0,35-34,Milwaukee,0,0.0
+5758,13,Milwaukee full timeout,8:45.0,35-34,Milwaukee,0,0.0
+5759,13,P. Connaughton enters the game for G. Allen,8:45.0,35-34,Milwaukee,1,1.0
+5760,13,J. Holiday enters the game for G. Hill,8:45.0,35-34,Milwaukee,1,0.0
+5761,13,A. Nesmith enters the game for J. Richardson,8:45.0,35-34,Boston,0,0.0
+5762,13,B. Portis misses 2-pt jump shot from 12 ft,8:32.0,35-34,Milwaukee,0,0.0
+5763,13,Defensive rebound by R. Williams,8:30.0,35-34,Boston,0,0.0
+5764,13,A. Nesmith makes 3-pt jump shot from 24 ft (assist by M. Smart),8:10.0,35-37,Boston,0,0.0
+5765,13,J. Holiday makes 2-pt jump shot from 16 ft,7:54.0,37-37,Milwaukee,0,0.0
+5766,13,M. Smart makes 3-pt jump shot from 26 ft (assist by R. Williams),7:40.0,37-40,Boston,0,0.0
+5767,13,Offensive foul by B. Portis (drawn by G. Williams),7:25.0,37-40,Milwaukee,0,0.0
+5768,13,Turnover by B. Portis (offensive foul),7:25.0,37-40,Milwaukee,0,0.0
+5769,13,J. Nwora enters the game for R. Hood,7:25.0,37-40,Milwaukee,1,0.0
+5770,13,J. Tatum enters the game for R. Langford,7:25.0,37-40,Boston,0,0.0
+5771,13,J. Tatum misses 2-pt jump shot from 14 ft,7:15.0,37-40,Boston,0,0.0
+5772,13,Defensive rebound by P. Connaughton,7:11.0,37-40,Milwaukee,0,0.0
+5773,13,J. Holiday makes 2-pt jump shot from 16 ft (assist by B. Portis),7:02.0,39-40,Milwaukee,0,0.0
+5774,13,A. Nesmith misses 3-pt jump shot from 27 ft,6:49.0,39-40,Boston,0,0.0
+5775,13,Defensive rebound by J. Holiday,6:45.0,39-40,Milwaukee,0,0.0
+5776,13,Turnover by P. Connaughton (out of bounds lost ball),6:33.0,39-40,Milwaukee,0,0.0
+5777,13,Turnover by J. Tatum (bad pass),6:23.0,39-40,Boston,0,0.0
+5778,13,J. Holiday makes 2-pt jump shot from 14 ft,6:11.0,41-40,Milwaukee,0,0.0
+5779,13,J. Tatum makes 3-pt jump shot from 25 ft (assist by G. Williams),5:59.0,41-43,Boston,0,0.0
+5780,13,J. Holiday misses 3-pt jump shot from 28 ft,5:44.0,41-43,Milwaukee,0,1.0
+5781,13,Defensive rebound by R. Williams,5:41.0,41-43,Boston,0,0.0
+5782,13,G. Williams makes 2-pt layup from 2 ft (assist by M. Smart),5:35.0,41-45,Boston,0,0.0
+5783,13,P. Connaughton makes 3-pt jump shot from 28 ft,5:19.0,44-45,Milwaukee,0,1.0
+5784,13,R. Williams makes 2-pt dunk from 1 ft (assist by M. Smart),5:07.0,44-47,Boston,0,0.0
+5785,13,P. Connaughton misses 3-pt jump shot from 31 ft,4:50.0,44-47,Milwaukee,0,0.0
+5786,13,Defensive rebound by A. Nesmith,4:47.0,44-47,Boston,0,0.0
+5787,13,M. Smart misses 3-pt jump shot from 25 ft,4:33.0,44-47,Boston,0,0.0
+5788,13,Offensive rebound by A. Nesmith,4:30.0,44-47,Boston,0,1.0
+5789,13,Personal foul by P. Connaughton (drawn by J. Tatum),4:22.0,44-47,Boston,0,1.0
+5790,13,G. Allen enters the game for S. Ojeleye,4:22.0,44-47,Milwaukee,1,0.0
+5791,13,D. Schröder enters the game for G. Williams,4:22.0,44-47,Boston,0,0.0
+5792,13,Turnover by D. Schröder (bad pass),4:18.0,44-47,Boston,0,0.0
+5793,13,T. Antetokounmpo enters the game for B. Portis,4:18.0,44-47,Milwaukee,1,0.0
+5794,13,J. Holiday makes 2-pt layup from 9 ft,3:59.0,46-47,Milwaukee,0,0.0
+5795,13,Turnover by D. Schröder (bad pass),3:38.0,46-47,Boston,0,0.0
+5796,13,J. Nwora makes 3-pt jump shot from 27 ft (assist by J. Holiday),3:24.0,49-47,Milwaukee,0,0.0
+5797,13,Boston full timeout,3:23.0,49-47,Boston,0,0.0
+5798,13,G. Hill enters the game for P. Connaughton,3:23.0,49-47,Milwaukee,1,0.0
+5799,13,S. Ojeleye enters the game for J. Holiday,3:23.0,49-47,Milwaukee,1,0.0
+5800,13,J. Richardson enters the game for J. Tatum,3:23.0,49-47,Boston,0,0.0
+5801,13,Personal foul by T. Antetokounmpo (drawn by R. Williams),3:15.0,49-47,Boston,0,0.0
+5802,13,J. Tatum enters the game for A. Nesmith,3:15.0,49-47,Boston,0,0.0
+5803,13,J. Tatum makes 2-pt jump shot from 21 ft,3:04.0,49-49,Boston,0,0.0
+5804,13,Turnover by J. Nwora (bad pass; steal by M. Smart),2:55.0,49-49,Milwaukee,0,0.0
+5805,13,M. Smart misses 2-pt layup from 3 ft,2:54.0,49-49,Boston,0,0.0
+5806,13,Offensive rebound by D. Schröder,2:53.0,49-49,Boston,0,1.0
+5807,13,D. Schröder misses 2-pt layup at rim,2:53.0,49-49,Boston,0,0.0
+5808,13,Offensive rebound by J. Tatum,2:52.0,49-49,Boston,0,0.0
+5809,13,J. Tatum misses 2-pt layup at rim,2:51.0,49-49,Boston,0,0.0
+5810,13,Offensive rebound by R. Williams,2:50.0,49-49,Boston,0,0.0
+5811,13,J. Tatum misses 2-pt layup at rim (block by S. Ojeleye),2:46.0,49-49,Boston,0,0.0
+5812,13,Offensive rebound by J. Tatum,2:45.0,49-49,Boston,0,1.0
+5813,13,J. Tatum makes 2-pt layup at rim,2:45.0,49-51,Boston,0,0.0
+5814,13,G. Allen misses 2-pt layup from 3 ft (block by J. Richardson),2:25.0,49-51,Milwaukee,0,0.0
+5815,13,Offensive rebound by T. Antetokounmpo,2:24.0,49-51,Milwaukee,0,0.0
+5816,13,J. Holiday enters the game for J. Nwora,2:24.0,49-51,Milwaukee,1,0.0
+5817,13,J. Holiday misses 3-pt jump shot from 29 ft,2:17.0,49-51,Milwaukee,0,1.0
+5818,13,Defensive rebound by J. Richardson,2:14.0,49-51,Boston,0,0.0
+5819,13,J. Richardson misses 3-pt jump shot from 25 ft,2:07.0,49-51,Boston,0,0.0
+5820,13,Defensive rebound by J. Holiday,2:04.0,49-51,Milwaukee,0,0.0
+5821,13,Turnover by G. Hill (step out of bounds),1:49.0,49-51,Milwaukee,0,0.0
+5822,13,B. Portis enters the game for T. Antetokounmpo,1:49.0,49-51,Milwaukee,1,0.0
+5823,13,D. Schröder misses 2-pt jump shot from 15 ft,1:36.0,49-51,Boston,0,0.0
+5824,13,Defensive rebound by B. Portis,1:33.0,49-51,Milwaukee,0,0.0
+5825,13,G. Allen makes 3-pt jump shot from 28 ft (assist by S. Ojeleye),1:21.0,52-51,Milwaukee,0,0.0
+5826,13,Personal foul by G. Allen (drawn by M. Smart),1:01.0,52-51,Boston,0,0.0
+5827,13,P. Connaughton enters the game for S. Ojeleye,1:01.0,52-51,Milwaukee,1,0.0
+5828,13,Offensive foul by D. Schröder (drawn by G. Hill),0:56.0,52-51,Boston,0,0.0
+5829,13,Turnover by D. Schröder (offensive foul),0:56.0,52-51,Boston,0,0.0
+5830,13,Turnover by P. Connaughton (bad pass),0:41.0,52-51,Milwaukee,0,0.0
+5831,13,Turnover by J. Richardson (step out of bounds),0:33.0,52-51,Boston,0,0.0
+5832,13,G. Hill makes 3-pt jump shot from 23 ft (assist by J. Holiday),0:10.0,55-51,Milwaukee,0,0.0
+5833,13,D. Schröder misses 2-pt jump shot from 9 ft,0:01.0,55-51,Boston,0,0.0
+5834,13,Offensive rebound by Team,0:00.0,55-51,Boston,0,0.0
+5835,13,P. Connaughton misses 3-pt jump shot from 23 ft,11:43.0,55-51,Milwaukee,0,0.0
+5836,13,Defensive rebound by D. Schröder,11:40.0,55-51,Boston,0,0.0
+5837,13,J. Tatum misses 3-pt jump shot from 23 ft,11:26.0,55-51,Boston,0,0.0
+5838,13,Defensive rebound by B. Portis,11:22.0,55-51,Milwaukee,0,0.0
+5839,13,G. Allen misses 2-pt jump shot from 9 ft,11:11.0,55-51,Milwaukee,0,0.0
+5840,13,Defensive rebound by J. Tatum,11:09.0,55-51,Boston,0,0.0
+5841,13,J. Tatum makes 3-pt jump shot from 27 ft,10:56.0,55-54,Boston,0,0.0
+5842,13,P. Connaughton makes 3-pt jump shot from 26 ft,10:36.0,58-54,Milwaukee,0,0.0
+5843,13,D. Schröder makes 2-pt layup from 3 ft,10:24.0,58-56,Boston,0,1.0
+5844,13,Shooting foul by G. Hill (drawn by D. Schröder),10:24.0,58-56,Boston,0,0.0
+5845,13,D. Schröder makes free throw 1 of 1,10:24.0,58-57,Boston,0,0.0
+5846,13,J. Holiday misses 2-pt jump shot from 13 ft,10:13.0,58-57,Milwaukee,0,0.0
+5847,13,Defensive rebound by A. Horford,10:10.0,58-57,Boston,0,0.0
+5848,13,R. Williams makes 2-pt layup from 3 ft (assist by D. Schröder),10:03.0,58-59,Boston,0,0.0
+5849,13,G. Hill misses 2-pt layup from 5 ft,9:48.0,58-59,Milwaukee,0,0.0
+5850,13,Defensive rebound by J. Tatum,9:46.0,58-59,Boston,0,0.0
+5851,13,Shooting foul by P. Connaughton (drawn by M. Smart),9:45.0,58-59,Boston,0,0.0
+5852,13,M. Smart makes free throw 1 of 2,9:45.0,58-60,Boston,0,0.0
+5853,13,S. Ojeleye enters the game for P. Connaughton,9:45.0,58-60,Milwaukee,1,0.0
+5854,13,M. Smart makes free throw 2 of 2,9:45.0,58-61,Boston,0,0.0
+5855,13,G. Hill misses 3-pt jump shot from 23 ft,9:24.0,58-61,Milwaukee,0,0.0
+5856,13,Offensive rebound by S. Ojeleye,9:18.0,58-61,Milwaukee,0,0.0
+5857,13,B. Portis misses 3-pt jump shot from 23 ft,9:07.0,58-61,Milwaukee,0,0.0
+5858,13,Offensive rebound by S. Ojeleye,9:04.0,58-61,Milwaukee,0,0.0
+5859,13,S. Ojeleye misses 2-pt jump shot from 9 ft (block by J. Tatum),9:02.0,58-61,Milwaukee,0,0.0
+5860,13,Offensive rebound by S. Ojeleye,8:59.0,58-61,Milwaukee,0,0.0
+5861,13,J. Holiday misses 3-pt jump shot from 26 ft,8:54.0,58-61,Milwaukee,0,0.0
+5862,13,Defensive rebound by M. Smart,8:51.0,58-61,Boston,0,0.0
+5863,13,Turnover by D. Schröder (bad pass; steal by J. Holiday),8:42.0,58-61,Boston,0,0.0
+5864,13,Shooting foul by J. Tatum (drawn by G. Allen),8:39.0,58-61,Milwaukee,0,0.0
+5865,13,G. Allen misses free throw 1 of 2,8:39.0,58-61,Milwaukee,0,0.0
+5866,13,Offensive rebound by Team,8:39.0,58-61,Milwaukee,0,0.0
+5867,13,G. Allen makes free throw 2 of 2,8:39.0,59-61,Milwaukee,0,0.0
+5868,13,J. Tatum misses 3-pt jump shot from 26 ft,8:29.0,59-61,Boston,0,0.0
+5869,13,Defensive rebound by B. Portis,8:26.0,59-61,Milwaukee,0,1.0
+5870,13,J. Holiday misses 2-pt jump shot from 5 ft,8:16.0,59-61,Milwaukee,0,0.0
+5871,13,Defensive rebound by A. Horford,8:13.0,59-61,Boston,0,0.0
+5872,13,Turnover by A. Horford (bad pass; steal by G. Allen),8:08.0,59-61,Boston,0,0.0
+5873,13,G. Hill makes 3-pt jump shot from 24 ft (assist by J. Holiday),8:00.0,62-61,Milwaukee,0,0.0
+5874,13,Boston full timeout,8:00.0,62-61,Boston,0,0.0
+5875,13,M. Smart makes 2-pt layup from 6 ft (assist by D. Schröder),7:50.0,62-63,Boston,0,1.0
+5876,13,G. Hill makes 2-pt layup from 4 ft,7:35.0,64-63,Milwaukee,0,0.0
+5877,13,M. Smart makes 2-pt layup from 3 ft,7:26.0,64-65,Boston,0,0.0
+5878,13,Shooting foul by G. Allen (drawn by M. Smart),7:26.0,64-65,Boston,0,0.0
+5879,13,P. Connaughton enters the game for G. Allen,7:26.0,64-65,Milwaukee,1,0.0
+5880,13,M. Smart makes free throw 1 of 1,7:26.0,64-66,Boston,0,0.0
+5881,13,Turnover by Team (shot clock),7:02.0,64-66,Milwaukee,0,0.0
+5882,13,J. Richardson enters the game for A. Horford,7:02.0,64-66,Boston,0,0.0
+5883,13,M. Smart makes 2-pt jump shot from 14 ft,6:52.0,64-68,Boston,0,0.0
+5884,13,P. Connaughton makes 2-pt jump shot from 11 ft,6:35.0,66-68,Milwaukee,0,0.0
+5885,13,J. Nwora enters the game for G. Hill,6:35.0,66-68,Milwaukee,1,0.0
+5886,13,Turnover by R. Williams (out of bounds lost ball),6:09.0,66-68,Boston,0,0.0
+5887,13,J. Holiday misses 3-pt jump shot from 26 ft,5:53.0,66-68,Milwaukee,0,0.0
+5888,13,Offensive rebound by J. Nwora,5:50.0,66-68,Milwaukee,0,0.0
+5889,13,B. Portis misses 2-pt jump shot from 11 ft,5:40.0,66-68,Milwaukee,0,0.0
+5890,13,Offensive rebound by S. Ojeleye,5:38.0,66-68,Milwaukee,0,0.0
+5891,13,J. Nwora makes 3-pt jump shot from 24 ft (assist by P. Connaughton),5:33.0,69-68,Milwaukee,0,0.0
+5892,13,M. Smart makes 3-pt jump shot from 27 ft (assist by D. Schröder),5:21.0,69-71,Boston,0,1.0
+5893,13,J. Holiday misses 3-pt jump shot from 26 ft,5:11.0,69-71,Milwaukee,0,0.0
+5894,13,Defensive rebound by M. Smart,5:08.0,69-71,Boston,0,0.0
+5895,13,M. Smart misses 3-pt jump shot from 27 ft,5:01.0,69-71,Boston,0,0.0
+5896,13,Defensive rebound by J. Holiday,4:58.0,69-71,Milwaukee,0,0.0
+5897,13,P. Connaughton makes 3-pt jump shot from 24 ft (assist by J. Holiday),4:56.0,72-71,Milwaukee,0,0.0
+5898,13,J. Tatum makes 3-pt jump shot from 27 ft,4:31.0,72-74,Boston,0,0.0
+5899,13,Turnover by J. Holiday (lost ball; steal by M. Smart),4:16.0,72-74,Milwaukee,0,0.0
+5900,13,D. Schröder makes 2-pt layup from 3 ft (assist by M. Smart),4:05.0,72-76,Boston,0,0.0
+5901,13,Milwaukee full timeout,4:04.0,72-76,Milwaukee,0,0.0
+5902,13,T. Antetokounmpo enters the game for B. Portis,4:04.0,72-76,Milwaukee,1,0.0
+5903,13,R. Langford enters the game for D. Schröder,4:04.0,72-76,Boston,0,0.0
+5904,13,Personal foul by J. Richardson (drawn by J. Holiday),3:53.0,72-76,Milwaukee,0,1.0
+5905,13,J. Holiday misses 2-pt jump shot from 21 ft,3:39.0,72-76,Milwaukee,0,1.0
+5906,13,Offensive rebound by Team,3:38.0,72-76,Milwaukee,0,0.0
+5907,13,Turnover by Team (shot clock),3:38.0,72-76,Milwaukee,0,0.0
+5908,13,J. Tatum misses 2-pt jump shot from 9 ft,3:24.0,72-76,Boston,0,0.0
+5909,13,Offensive rebound by R. Williams,3:19.0,72-76,Boston,0,0.0
+5910,13,R. Williams makes 2-pt layup at rim,3:19.0,72-78,Boston,0,0.0
+5911,13,J. Holiday makes 2-pt dunk from 2 ft,3:04.0,74-78,Milwaukee,0,0.0
+5912,13,R. Langford makes 2-pt dunk from 1 ft (assist by R. Williams),2:51.0,74-80,Boston,0,0.0
+5913,13,Milwaukee full timeout,2:50.0,74-80,Milwaukee,0,0.0
+5914,13,G. Hill enters the game for T. Antetokounmpo,2:50.0,74-80,Milwaukee,1,0.0
+5915,13,B. Portis enters the game for J. Holiday,2:50.0,74-80,Milwaukee,1,0.0
+5916,13,A. Horford enters the game for R. Williams,2:50.0,74-80,Boston,0,0.0
+5917,13,Turnover by J. Nwora (step out of bounds),2:31.0,74-80,Milwaukee,0,0.0
+5918,13,Shooting foul by S. Ojeleye (drawn by J. Richardson),2:10.0,74-80,Boston,0,0.0
+5919,13,J. Richardson makes free throw 1 of 2,2:10.0,74-81,Boston,0,1.0
+5920,13,J. Richardson makes free throw 2 of 2,2:10.0,74-82,Boston,0,0.0
+5921,13,J. Nwora misses 2-pt jump shot from 19 ft,1:57.0,74-82,Milwaukee,0,0.0
+5922,13,Defensive rebound by J. Tatum,1:55.0,74-82,Boston,0,0.0
+5923,13,J. Tatum makes 2-pt layup from 2 ft,1:46.0,74-84,Boston,0,0.0
+5924,13,P. Connaughton makes 2-pt dunk from 3 ft (assist by J. Nwora),1:22.0,76-84,Milwaukee,0,0.0
+5925,13,J. Tatum misses 3-pt jump shot from 26 ft (block by S. Ojeleye),0:58.0,76-84,Boston,0,0.0
+5926,13,Offensive rebound by M. Smart,0:58.0,76-84,Boston,0,0.0
+5927,13,Shooting foul by G. Hill (drawn by A. Horford),0:58.0,76-84,Boston,0,0.0
+5928,13,A. Horford makes free throw 1 of 2,0:58.0,76-85,Boston,0,0.0
+5929,13,G. Allen enters the game for S. Ojeleye,0:58.0,76-85,Milwaukee,1,0.0
+5930,13,A. Horford makes free throw 2 of 2,0:58.0,76-86,Boston,0,0.0
+5931,13,J. Nwora makes 3-pt jump shot from 26 ft,0:47.0,79-86,Milwaukee,0,0.0
+5932,13,A. Horford makes 2-pt layup from 2 ft (assist by M. Smart),0:38.0,79-88,Boston,0,0.0
+5933,13,G. Hill makes 2-pt layup from 3 ft,0:29.0,81-88,Milwaukee,0,0.0
+5934,13,J. Tatum misses 3-pt jump shot from 27 ft,0:10.0,81-88,Boston,0,0.0
+5935,13,Defensive rebound by J. Nwora,0:09.0,81-88,Milwaukee,0,0.0
+5936,13,G. Hill misses 2-pt layup from 5 ft (block by J. Tatum),0:01.0,81-88,Milwaukee,0,0.0
+5937,13,Offensive rebound by Team,0:01.0,81-88,Milwaukee,0,0.0
+5938,13,Offensive foul by D. Schröder (drawn by G. Hill),11:49.0,81-88,Boston,0,0.0
+5939,13,Turnover by D. Schröder (offensive foul),11:49.0,81-88,Boston,0,0.0
+5940,13,G. Allen misses 2-pt jump shot from 14 ft,11:36.0,81-88,Milwaukee,0,1.0
+5941,13,Defensive rebound by J. Richardson,11:33.0,81-88,Boston,0,0.0
+5942,13,D. Schröder makes 2-pt layup from 6 ft,11:16.0,81-90,Boston,0,0.0
+5943,13,P. Connaughton makes 2-pt jump shot from 9 ft (assist by B. Portis),10:51.0,83-90,Milwaukee,0,0.0
+5944,13,J. Richardson misses 2-pt jump shot from 19 ft,10:38.0,83-90,Boston,0,0.0
+5945,13,Defensive rebound by R. Hood,10:35.0,83-90,Milwaukee,0,0.0
+5946,13,R. Hood misses 2-pt jump shot from 18 ft,10:28.0,83-90,Milwaukee,0,0.0
+5947,13,Defensive rebound by D. Schröder,10:25.0,83-90,Boston,0,0.0
+5948,13,A. Horford misses 3-pt jump shot from 28 ft,10:19.0,83-90,Boston,0,0.0
+5949,13,Defensive rebound by Team,10:17.0,83-90,Milwaukee,0,0.0
+5950,13,J. Holiday enters the game for P. Connaughton,10:17.0,83-90,Milwaukee,1,0.0
+5951,13,Turnover by G. Allen (bad pass; steal by A. Horford),10:02.0,83-90,Milwaukee,0,0.0
+5952,13,Personal foul by J. Holiday (drawn by D. Schröder),9:58.0,83-90,Boston,0,0.0
+5953,13,D. Schröder makes 2-pt jump shot from 15 ft,9:52.0,83-92,Boston,0,1.0
+5954,13,B. Portis makes 2-pt jump shot from 9 ft,9:34.0,85-92,Milwaukee,0,1.0
+5955,13,A. Horford misses 3-pt jump shot from 27 ft,9:16.0,85-92,Boston,0,1.0
+5956,13,Defensive rebound by G. Allen,9:14.0,85-92,Milwaukee,0,0.0
+5957,13,G. Hill misses 3-pt jump shot from 26 ft,8:55.0,85-92,Milwaukee,0,0.0
+5958,13,Defensive rebound by J. Richardson,8:51.0,85-92,Boston,0,0.0
+5959,13,A. Horford misses 3-pt jump shot from 27 ft,8:34.0,85-92,Boston,0,0.0
+5960,13,Defensive rebound by G. Hill,8:30.0,85-92,Milwaukee,0,0.0
+5961,13,B. Portis makes 2-pt jump shot from 8 ft,8:23.0,87-92,Milwaukee,0,0.0
+5962,13,Boston full timeout,8:22.0,87-92,Boston,0,0.0
+5963,13,T. Antetokounmpo enters the game for G. Allen,8:22.0,87-92,Milwaukee,1,0.0
+5964,13,P. Connaughton enters the game for G. Hill,8:22.0,87-92,Milwaukee,1,0.0
+5965,13,J. Nwora enters the game for B. Portis,8:22.0,87-92,Milwaukee,1,0.0
+5966,13,R. Williams enters the game for A. Horford,8:22.0,87-92,Boston,0,0.0
+5967,13,Turnover by D. Schröder (lost ball; steal by J. Holiday),8:04.0,87-92,Boston,0,0.0
+5968,13,Turnover by J. Holiday (bad pass; steal by D. Schröder),7:56.0,87-92,Milwaukee,0,0.0
+5969,13,R. Langford misses 2-pt layup from 8 ft,7:42.0,87-92,Boston,0,0.0
+5970,13,Defensive rebound by P. Connaughton,7:39.0,87-92,Milwaukee,0,1.0
+5971,13,J. Holiday misses 3-pt jump shot from 26 ft,7:34.0,87-92,Milwaukee,0,0.0
+5972,13,Defensive rebound by D. Schröder,7:32.0,87-92,Boston,0,0.0
+5973,13,R. Langford misses 2-pt layup from 10 ft (block by P. Connaughton),7:22.0,87-92,Boston,0,0.0
+5974,13,Defensive rebound by P. Connaughton,7:19.0,87-92,Milwaukee,0,0.0
+5975,13,J. Nwora misses 3-pt jump shot from 26 ft,7:15.0,87-92,Milwaukee,0,0.0
+5976,13,Defensive rebound by G. Williams,7:11.0,87-92,Boston,0,0.0
+5977,13,D. Schröder makes 2-pt jump shot from 4 ft,6:50.0,87-94,Boston,0,0.0
+5978,13,Shooting foul by D. Schröder (drawn by J. Holiday),6:39.0,87-94,Milwaukee,0,0.0
+5979,13,J. Holiday makes free throw 1 of 2,6:39.0,88-94,Milwaukee,0,1.0
+5980,13,B. Portis enters the game for T. Antetokounmpo,6:39.0,88-94,Milwaukee,1,1.0
+5981,13,J. Tatum enters the game for J. Richardson,6:39.0,88-94,Boston,0,0.0
+5982,13,J. Holiday makes free throw 2 of 2,6:39.0,89-94,Milwaukee,0,0.0
+5983,13,D. Schröder makes 3-pt jump shot from 28 ft (assist by G. Williams),6:23.0,89-97,Boston,0,0.0
+5984,13,P. Connaughton misses 3-pt jump shot from 26 ft,6:06.0,89-97,Milwaukee,0,0.0
+5985,13,Defensive rebound by R. Williams,6:04.0,89-97,Boston,0,0.0
+5986,13,G. Williams misses 3-pt jump shot from 23 ft,5:51.0,89-97,Boston,0,0.0
+5987,13,Defensive rebound by Team,5:48.0,89-97,Milwaukee,0,0.0
+5988,13,Loose ball foul by R. Langford (drawn by J. Nwora),5:48.0,89-97,Boston,0,0.0
+5989,13,G. Allen enters the game for R. Hood,5:48.0,89-97,Milwaukee,1,0.0
+5990,13,G. Hill enters the game for J. Nwora,5:48.0,89-97,Milwaukee,1,0.0
+5991,13,B. Portis makes 3-pt jump shot from 27 ft (assist by J. Holiday),5:27.0,92-97,Milwaukee,0,0.0
+5992,13,D. Schröder misses 3-pt jump shot from 27 ft,5:02.0,92-97,Boston,0,0.0
+5993,13,Offensive rebound by R. Williams,4:59.0,92-97,Boston,0,0.0
+5994,13,Shooting foul by G. Hill (drawn by J. Tatum),4:50.0,92-97,Boston,0,0.0
+5995,13,J. Tatum makes free throw 1 of 2,4:50.0,92-98,Boston,0,0.0
+5996,13,A. Horford enters the game for R. Langford,4:50.0,92-98,Boston,0,1.0
+5997,13,M. Smart enters the game for G. Williams,4:50.0,92-98,Boston,0,0.0
+5998,13,J. Tatum makes free throw 2 of 2,4:50.0,92-99,Boston,0,0.0
+5999,13,Personal foul by M. Smart (drawn by J. Holiday),4:38.0,92-99,Milwaukee,0,0.0
+6000,13,J. Holiday misses 3-pt jump shot from 25 ft,4:30.0,92-99,Milwaukee,0,0.0
+6001,13,Defensive rebound by M. Smart,4:29.0,92-99,Boston,0,0.0
+6002,13,Personal foul by B. Portis (drawn by M. Smart),4:29.0,92-99,Boston,0,0.0
+6003,13,J. Tatum misses 3-pt jump shot from 27 ft,4:11.0,92-99,Boston,0,0.0
+6004,13,Defensive rebound by P. Connaughton,4:07.0,92-99,Milwaukee,0,0.0
+6005,13,Personal foul by M. Smart (drawn by P. Connaughton),3:53.0,92-99,Milwaukee,0,0.0
+6006,13,S. Ojeleye enters the game for P. Connaughton,3:53.0,92-99,Milwaukee,1,0.0
+6007,13,G. Allen makes 3-pt jump shot from 26 ft (assist by J. Holiday),3:42.0,95-99,Milwaukee,0,0.0
+6008,13,J. Tatum makes 3-pt jump shot from 28 ft,3:15.0,95-102,Boston,0,0.0
+6009,13,J. Holiday makes 3-pt jump shot from 26 ft,3:00.0,98-102,Milwaukee,0,0.0
+6010,13,R. Williams makes 2-pt dunk from 1 ft (assist by M. Smart),2:45.0,98-104,Boston,0,1.0
+6011,13,B. Portis misses 3-pt jump shot from 24 ft,2:36.0,98-104,Milwaukee,0,0.0
+6012,13,Defensive rebound by J. Tatum,2:33.0,98-104,Boston,0,0.0
+6013,13,J. Tatum misses 3-pt jump shot from 27 ft,2:18.0,98-104,Boston,0,0.0
+6014,13,Defensive rebound by S. Ojeleye,2:14.0,98-104,Milwaukee,0,0.0
+6015,13,G. Hill misses 3-pt jump shot from 28 ft,2:02.0,98-104,Milwaukee,0,0.0
+6016,13,Offensive rebound by G. Allen,1:56.0,98-104,Milwaukee,0,0.0
+6017,13,S. Ojeleye makes 2-pt jump shot from 9 ft,1:49.0,100-104,Milwaukee,0,0.0
+6018,13,Personal foul by S. Ojeleye (drawn by J. Tatum),1:39.0,100-104,Boston,0,0.0
+6019,13,Milwaukee full timeout,1:39.0,100-104,Milwaukee,0,0.0
+6020,13,P. Connaughton enters the game for S. Ojeleye,1:39.0,100-104,Milwaukee,1,1.0
+6021,13,M. Smart makes 2-pt layup from 3 ft,1:30.0,100-106,Boston,0,0.0
+6022,13,G. Allen makes 3-pt jump shot from 24 ft (assist by J. Holiday),1:13.0,103-106,Milwaukee,0,0.0
+6023,13,Turnover by J. Tatum (lost ball; steal by J. Holiday),0:57.0,103-106,Boston,0,0.0
+6024,13,J. Holiday misses 3-pt jump shot from 26 ft,0:53.0,103-106,Milwaukee,0,0.0
+6025,13,Offensive rebound by G. Hill,0:50.0,103-106,Milwaukee,0,0.0
+6026,13,G. Hill makes 2-pt layup from 2 ft,0:50.0,105-106,Milwaukee,0,0.0
+6027,13,D. Schröder makes 2-pt jump shot from 11 ft,0:30.0,105-108,Boston,0,0.0
+6028,13,G. Allen makes 3-pt jump shot from 27 ft (assist by J. Holiday),0:13.0,108-108,Milwaukee,0,1.0
+6029,13,Boston full timeout,0:13.0,108-108,Boston,0,0.0
+6030,13,S. Ojeleye enters the game for G. Allen,0:13.0,108-108,Milwaukee,1,0.0
+6031,13,J. Tatum misses 2-pt jump shot from 13 ft,0:01.0,108-108,Boston,0,1.0
+6032,13,Offensive rebound by Team,0:01.0,108-108,Boston,0,0.0
+6033,13,D. Schröder makes 2-pt jump shot from 10 ft,4:44.0,108-110,Boston,0,0.0
+6034,13,B. Portis makes 2-pt jump shot from 20 ft (assist by J. Holiday),4:26.0,110-110,Milwaukee,0,0.0
+6035,13,A. Horford misses 3-pt jump shot from 23 ft,4:02.0,110-110,Boston,0,0.0
+6036,13,Defensive rebound by J. Holiday,4:00.0,110-110,Milwaukee,0,0.0
+6037,13,Turnover by J. Holiday (bad pass),3:52.0,110-110,Milwaukee,0,0.0
+6038,13,G. Allen enters the game for G. Hill,3:52.0,110-110,Milwaukee,1,1.0
+6039,13,Shooting foul by G. Allen (drawn by R. Williams),3:37.0,110-110,Boston,0,0.0
+6040,13,R. Williams makes free throw 1 of 2,3:37.0,110-111,Boston,0,0.0
+6041,13,G. Hill enters the game for S. Ojeleye,3:37.0,110-111,Milwaukee,1,0.0
+6042,13,R. Williams makes free throw 2 of 2,3:37.0,110-112,Boston,0,0.0
+6043,13,G. Hill misses 3-pt jump shot from 23 ft,3:27.0,110-112,Milwaukee,0,0.0
+6044,13,Defensive rebound by D. Schröder,3:23.0,110-112,Boston,0,0.0
+6045,13,J. Tatum misses 2-pt jump shot from 19 ft,3:02.0,110-112,Boston,0,0.0
+6046,13,Offensive rebound by Team,3:01.0,110-112,Boston,0,0.0
+6047,13,Turnover by Team (shot clock),3:01.0,110-112,Boston,0,0.0
+6048,13,S. Ojeleye enters the game for P. Connaughton,3:01.0,110-112,Milwaukee,1,0.0
+6049,13,J. Holiday misses 2-pt layup from 4 ft,2:49.0,110-112,Milwaukee,0,0.0
+6050,13,Offensive rebound by Team,2:48.0,110-112,Milwaukee,0,0.0
+6051,13,Loose ball foul by R. Williams (drawn by B. Portis),2:48.0,110-112,Boston,0,0.0
+6052,13,J. Richardson enters the game for A. Horford,2:48.0,110-112,Boston,0,1.0
+6053,13,Shooting foul by M. Smart (drawn by B. Portis),2:35.0,110-112,Milwaukee,0,0.0
+6054,13,B. Portis makes free throw 1 of 2,2:35.0,111-112,Milwaukee,0,0.0
+6055,13,B. Portis misses free throw 2 of 2,2:35.0,111-112,Milwaukee,0,0.0
+6056,13,Defensive rebound by J. Richardson,2:35.0,111-112,Boston,0,0.0
+6057,13,D. Schröder makes 2-pt jump shot from 23 ft (assist by J. Richardson),2:14.0,111-114,Boston,0,0.0
+6058,13,S. Ojeleye misses 2-pt jump shot from 10 ft (block by R. Williams),1:53.0,111-114,Milwaukee,0,0.0
+6059,13,Defensive rebound by D. Schröder,1:51.0,111-114,Boston,0,0.0
+6060,13,D. Schröder makes 2-pt layup from 6 ft,1:30.0,111-116,Boston,0,0.0
+6061,13,Milwaukee full timeout,1:30.0,111-116,Milwaukee,0,0.0
+6062,13,P. Connaughton enters the game for S. Ojeleye,1:30.0,111-116,Milwaukee,1,0.0
+6063,13,G. Allen misses 2-pt layup from 4 ft (block by R. Williams),1:19.0,111-116,Milwaukee,0,0.0
+6064,13,Offensive rebound by P. Connaughton,1:15.0,111-116,Milwaukee,0,0.0
+6065,13,J. Holiday misses 2-pt jump shot from 23 ft,1:13.0,111-116,Milwaukee,0,0.0
+6066,13,Offensive rebound by B. Portis,1:13.0,111-116,Milwaukee,0,0.0
+6067,13,Turnover by B. Portis (bad pass; steal by M. Smart),1:08.0,111-116,Milwaukee,0,0.0
+6068,13,Shooting foul by B. Portis (drawn by D. Schröder),0:54.0,111-116,Boston,0,0.0
+6069,13,D. Schröder makes free throw 1 of 2,0:54.0,111-117,Boston,0,0.0
+6070,13,D. Schröder makes free throw 2 of 2,0:54.0,111-118,Boston,0,0.0
+6071,13,J. Holiday misses 2-pt layup from 10 ft,0:40.0,111-118,Milwaukee,0,0.0
+6072,13,Defensive rebound by Team,0:39.0,111-118,Boston,0,0.0
+6073,13,Loose ball foul by B. Portis (drawn by J. Tatum),0:39.0,111-118,Milwaukee,0,0.0
+6074,13,J. Tatum misses free throw 1 of 2,0:39.0,111-118,Boston,0,0.0
+6075,13,Offensive rebound by Team,0:39.0,111-118,Boston,0,0.0
+6076,13,J. Tatum misses free throw 2 of 2,0:39.0,111-118,Boston,0,0.0
+6077,13,Offensive rebound by Team,0:38.0,111-118,Boston,0,
+6078,13,D. Schröder misses 3-pt jump shot from 28 ft,0:28.0,111-118,Boston,0,
+6079,13,Offensive rebound by J. Richardson,0:22.0,111-118,Boston,0,
+6080,13,J. Richardson makes 2-pt layup from 6 ft,0:20.0,111-120,Boston,0,
+6081,13,B. Portis makes 2-pt layup from 3 ft (assist by J. Holiday),0:10.0,113-120,Milwaukee,0,
+6082,13,Personal take foul by P. Connaughton (drawn by J. Richardson),0:07.0,113-120,Boston,0,
+6083,13,J. Richardson makes free throw 1 of 2,0:07.0,113-121,Boston,0,
+6084,13,J. Richardson makes free throw 2 of 2,0:07.0,113-122,Boston,0,
+6085,13,G. Hill misses 3-pt jump shot from 25 ft,0:00.0,113-122,Milwaukee,0,
+6086,13,Offensive rebound by Team,0:00.0,113-122,Milwaukee,0,

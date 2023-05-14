@@ -1,0 +1,471 @@
+,game number,play,time,score,team,current_sub_status,future_sub_status
+32554,71,Personal foul by A. Edwards (drawn by K. Middleton),11:39.0,0-0,Milwaukee,0,0.0
+32555,71,B. Lopez misses 3-pt jump shot from 26 ft,11:33.0,0-0,Milwaukee,0,0.0
+32556,71,Offensive rebound by B. Portis,11:31.0,0-0,Milwaukee,0,0.0
+32557,71,B. Portis misses 2-pt hook shot from 6 ft,11:28.0,0-0,Milwaukee,0,0.0
+32558,71,Defensive rebound by J. Vanderbilt,11:26.0,0-0,Minnesota,0,0.0
+32559,71,K. Towns misses 2-pt jump shot from 7 ft,11:11.0,0-0,Minnesota,0,0.0
+32560,71,Defensive rebound by G. Allen,11:09.0,0-0,Milwaukee,0,0.0
+32561,71,B. Portis misses 2-pt layup from 3 ft (block by P. Beverley),11:00.0,0-0,Milwaukee,0,0.0
+32562,71,Offensive rebound by B. Portis,10:54.0,0-0,Milwaukee,0,0.0
+32563,71,B. Portis makes 2-pt layup from 2 ft,10:54.0,2-0,Milwaukee,0,0.0
+32564,71,A. Edwards misses 2-pt dunk from 2 ft (block by B. Portis),10:47.0,2-0,Minnesota,0,0.0
+32565,71,Defensive rebound by Team,10:45.0,2-0,Milwaukee,0,0.0
+32566,71,J. Holiday misses 2-pt jump shot from 21 ft,10:32.0,2-0,Milwaukee,0,0.0
+32567,71,Defensive rebound by D. Russell,10:31.0,2-0,Minnesota,0,0.0
+32568,71,Turnover by A. Edwards (out of bounds lost ball),10:21.0,2-0,Minnesota,0,0.0
+32569,71,Turnover by B. Portis (lost ball; steal by P. Beverley),10:05.0,2-0,Milwaukee,0,0.0
+32570,71,P. Beverley misses 3-pt jump shot from 26 ft,9:56.0,2-0,Minnesota,0,0.0
+32571,71,Defensive rebound by J. Holiday,9:51.0,2-0,Milwaukee,0,0.0
+32572,71,B. Lopez misses 2-pt layup from 3 ft,9:40.0,2-0,Milwaukee,0,0.0
+32573,71,Offensive rebound by B. Lopez,9:37.0,2-0,Milwaukee,0,0.0
+32574,71,B. Lopez makes 2-pt layup at rim,9:37.0,4-0,Milwaukee,0,0.0
+32575,71,K. Towns makes 2-pt layup from 1 ft (assist by D. Russell),9:26.0,4-2,Minnesota,0,0.0
+32576,71,Shooting foul by B. Lopez (drawn by K. Towns),9:26.0,4-2,Minnesota,0,0.0
+32577,71,K. Towns misses free throw 1 of 1,9:26.0,4-2,Minnesota,0,0.0
+32578,71,Defensive rebound by J. Holiday,9:24.0,4-2,Milwaukee,0,0.0
+32579,71,K. Middleton makes 3-pt jump shot from 25 ft (assist by J. Holiday),9:15.0,7-2,Milwaukee,0,0.0
+32580,71,Shooting foul by B. Portis (drawn by J. Vanderbilt),9:05.0,7-2,Minnesota,0,0.0
+32581,71,J. Vanderbilt makes free throw 1 of 2,9:05.0,7-3,Minnesota,0,0.0
+32582,71,J. Vanderbilt misses free throw 2 of 2,9:05.0,7-3,Minnesota,0,0.0
+32583,71,Defensive rebound by B. Portis,9:03.0,7-3,Milwaukee,0,0.0
+32584,71,G. Allen makes 3-pt jump shot from 26 ft (assist by B. Lopez),8:51.0,10-3,Milwaukee,0,0.0
+32585,71,D. Russell makes 3-pt jump shot from 24 ft (assist by J. Vanderbilt),8:30.0,10-6,Minnesota,0,0.0
+32586,71,G. Allen makes 3-pt jump shot from 23 ft (assist by K. Middleton),8:14.0,13-6,Milwaukee,0,0.0
+32587,71,J. Vanderbilt misses 3-pt jump shot from 26 ft,7:58.0,13-6,Minnesota,0,0.0
+32588,71,Defensive rebound by K. Middleton,7:56.0,13-6,Milwaukee,0,0.0
+32589,71,J. Holiday misses 3-pt jump shot from 27 ft,7:50.0,13-6,Milwaukee,0,0.0
+32590,71,Defensive rebound by P. Beverley,7:48.0,13-6,Minnesota,0,0.0
+32591,71,Turnover by D. Russell (bad pass),7:37.0,13-6,Minnesota,0,1.0
+32592,71,G. Allen misses 3-pt jump shot from 25 ft,7:26.0,13-6,Milwaukee,0,1.0
+32593,71,Defensive rebound by Team,7:24.0,13-6,Minnesota,0,0.0
+32594,71,D. Russell misses 3-pt jump shot from 25 ft,7:12.0,13-6,Minnesota,0,0.0
+32595,71,Offensive rebound by D. Russell,7:10.0,13-6,Minnesota,0,0.0
+32596,71,A. Edwards makes 2-pt layup from 1 ft (assist by D. Russell),7:07.0,13-8,Minnesota,0,0.0
+32597,71,Turnover by J. Holiday (lost ball; steal by A. Edwards),6:53.0,13-8,Milwaukee,0,0.0
+32598,71,A. Edwards makes 3-pt jump shot from 25 ft,6:45.0,13-11,Minnesota,0,0.0
+32599,71,Instant Replay (Request: Ruling Stands),6:45.0,13-11,Minnesota,0,0.0
+32600,71,Milwaukee full timeout,6:37.0,13-11,Milwaukee,0,0.0
+32601,71,G. Hill enters the game for J. Holiday,6:37.0,13-11,Milwaukee,1,0.0
+32602,71,S. Ibaka enters the game for B. Lopez,6:37.0,13-11,Milwaukee,1,0.0
+32603,71,G. Allen misses 3-pt jump shot from 25 ft,6:26.0,13-11,Milwaukee,0,0.0
+32604,71,Defensive rebound by A. Edwards,6:23.0,13-11,Minnesota,0,0.0
+32605,71,A. Edwards makes 3-pt jump shot from 25 ft (assist by D. Russell),6:15.0,13-14,Minnesota,0,0.0
+32606,71,S. Ibaka misses 3-pt jump shot from 24 ft,5:54.0,13-14,Milwaukee,0,0.0
+32607,71,Defensive rebound by A. Edwards,5:52.0,13-14,Minnesota,0,0.0
+32608,71,A. Edwards misses 3-pt jump shot from 25 ft,5:43.0,13-14,Minnesota,0,0.0
+32609,71,Defensive rebound by S. Ibaka,5:39.0,13-14,Milwaukee,0,0.0
+32610,71,K. Middleton makes 2-pt jump shot from 12 ft,5:34.0,15-14,Milwaukee,0,0.0
+32611,71,P. Beverley misses 2-pt hook shot from 8 ft,5:11.0,15-14,Minnesota,0,0.0
+32612,71,Defensive rebound by K. Middleton,5:07.0,15-14,Milwaukee,0,0.0
+32613,71,K. Middleton misses 3-pt jump shot from 27 ft,5:02.0,15-14,Milwaukee,0,0.0
+32614,71,Defensive rebound by K. Towns,5:00.0,15-14,Minnesota,0,0.0
+32615,71,K. Towns misses 3-pt jump shot from 26 ft,4:54.0,15-14,Minnesota,0,0.0
+32616,71,Defensive rebound by B. Portis,4:51.0,15-14,Milwaukee,0,0.0
+32617,71,Turnover by K. Middleton (bad pass; steal by K. Towns),4:44.0,15-14,Milwaukee,0,1.0
+32618,71,Turnover by K. Towns (bad pass; steal by K. Middleton),4:40.0,15-14,Minnesota,0,1.0
+32619,71,S. Ibaka misses 2-pt layup from 5 ft,4:33.0,15-14,Milwaukee,0,1.0
+32620,71,Defensive rebound by K. Towns,4:30.0,15-14,Minnesota,0,0.0
+32621,71,A. Edwards makes 2-pt layup at rim,4:25.0,15-16,Minnesota,0,0.0
+32622,71,B. Portis makes 2-pt jump shot from 10 ft (assist by K. Middleton),4:09.0,17-16,Milwaukee,0,0.0
+32623,71,A. Edwards makes 2-pt jump shot from 21 ft,3:53.0,17-18,Minnesota,0,0.0
+32624,71,B. Portis misses 2-pt jump shot from 7 ft,3:39.0,17-18,Milwaukee,0,0.0
+32625,71,Defensive rebound by J. Vanderbilt,3:38.0,17-18,Minnesota,0,0.0
+32626,71,Minnesota full timeout,3:38.0,17-18,Minnesota,0,0.0
+32627,71,P. Connaughton enters the game for G. Allen,3:38.0,17-18,Milwaukee,1,0.0
+32628,71,J. Holiday enters the game for K. Middleton,3:38.0,17-18,Milwaukee,1,0.0
+32629,71,W. Matthews enters the game for B. Portis,3:38.0,17-18,Milwaukee,1,0.0
+32630,71,M. Beasley enters the game for D. Russell,3:38.0,17-18,Minnesota,0,0.0
+32631,71,T. Prince enters the game for J. Vanderbilt,3:38.0,17-18,Minnesota,0,0.0
+32632,71,T. Prince misses 3-pt jump shot from 24 ft,3:23.0,17-18,Minnesota,0,0.0
+32633,71,Offensive rebound by K. Towns,3:20.0,17-18,Minnesota,0,0.0
+32634,71,Shooting foul by G. Hill (drawn by K. Towns),3:20.0,17-18,Minnesota,0,0.0
+32635,71,K. Towns makes free throw 1 of 2,3:20.0,17-19,Minnesota,0,0.0
+32636,71,K. Towns makes free throw 2 of 2,3:20.0,17-20,Minnesota,0,0.0
+32637,71,Turnover by J. Holiday (bad pass; steal by T. Prince),3:08.0,17-20,Milwaukee,0,0.0
+32638,71,Turnover by P. Beverley (bad pass; steal by G. Hill),2:59.0,17-20,Minnesota,0,0.0
+32639,71,P. Connaughton misses 3-pt jump shot from 25 ft,2:44.0,17-20,Milwaukee,0,0.0
+32640,71,Defensive rebound by K. Towns,2:40.0,17-20,Minnesota,0,0.0
+32641,71,P. Beverley makes 3-pt jump shot from 25 ft,2:35.0,17-23,Minnesota,0,0.0
+32642,71,J. Holiday makes 3-pt jump shot from 24 ft,2:21.0,20-23,Milwaukee,0,0.0
+32643,71,Shooting foul by P. Connaughton (drawn by K. Towns),2:11.0,20-23,Minnesota,0,0.0
+32644,71,K. Towns misses free throw 1 of 2,2:11.0,20-23,Minnesota,0,0.0
+32645,71,Offensive rebound by Team,2:11.0,20-23,Minnesota,0,0.0
+32646,71,J. Nowell enters the game for A. Edwards,2:11.0,20-23,Minnesota,0,1.0
+32647,71,K. Towns makes free throw 2 of 2,2:11.0,20-24,Minnesota,0,0.0
+32648,71,Instant Replay,2:11.0,20-24,Minnesota,0,0.0
+32649,71,Personal foul by T. Prince (drawn by S. Ibaka),2:11.0,20-24,Milwaukee,0,0.0
+32650,71,Personal foul by S. Ibaka (drawn by T. Prince),2:11.0,20-24,Minnesota,0,0.0
+32651,71,Technical foul by P. Beverley,2:11.0,20-24,Minnesota,0,0.0
+32652,71,Technical foul by G. Hill,2:11.0,20-24,Milwaukee,0,0.0
+32653,71,G. Hill ejected from game,2:11.0,20-24,Milwaukee,0,0.0
+32654,71,P. Beverley ejected from game,2:11.0,20-24,Minnesota,0,0.0
+32655,71,Technical foul by S. Ibaka,2:11.0,20-24,Milwaukee,0,0.0
+32656,71,J. Carter enters the game for G. Hill,2:11.0,20-24,Milwaukee,1,0.0
+32657,71,J. McLaughlin enters the game for P. Beverley,2:11.0,20-24,Minnesota,0,0.0
+32658,71,M. Beasley makes technical free throw,2:11.0,20-25,Minnesota,0,0.0
+32659,71,J. Holiday makes 2-pt jump shot from 8 ft,1:53.0,22-25,Milwaukee,0,0.0
+32660,71,K. Towns misses 2-pt jump shot from 8 ft,1:31.0,22-25,Minnesota,0,1.0
+32661,71,Offensive rebound by K. Towns,1:29.0,22-25,Minnesota,0,0.0
+32662,71,K. Towns makes 2-pt layup at rim,1:28.0,22-27,Minnesota,0,0.0
+32663,71,Shooting foul by S. Ibaka (drawn by K. Towns),1:28.0,22-27,Minnesota,0,0.0
+32664,71,K. Towns makes free throw 1 of 1,1:28.0,22-28,Minnesota,0,0.0
+32665,71,P. Connaughton makes 3-pt jump shot from 25 ft (assist by J. Holiday),1:16.0,25-28,Milwaukee,0,0.0
+32666,71,K. Towns makes 3-pt jump shot from 26 ft (assist by J. McLaughlin),1:02.0,25-31,Minnesota,0,0.0
+32667,71,Turnover by J. Holiday (bad pass; steal by K. Towns),0:52.0,25-31,Milwaukee,0,0.0
+32668,71,T. Prince makes 2-pt jump shot from 7 ft (assist by K. Towns),0:48.0,25-33,Minnesota,0,0.0
+32669,71,Shooting foul by P. Connaughton (drawn by T. Prince),0:48.0,25-33,Minnesota,0,0.0
+32670,71,B. Portis enters the game for S. Ibaka,0:48.0,25-33,Milwaukee,1,0.0
+32671,71,T. Prince makes free throw 1 of 1,0:48.0,25-34,Minnesota,0,0.0
+32672,71,B. Portis misses 3-pt jump shot from 25 ft,0:32.0,25-34,Milwaukee,0,0.0
+32673,71,Offensive rebound by B. Portis,0:29.0,25-34,Milwaukee,0,0.0
+32674,71,W. Matthews makes 3-pt jump shot from 24 ft (assist by P. Connaughton),0:26.0,28-34,Milwaukee,0,0.0
+32675,71,Offensive foul by K. Towns (drawn by W. Matthews),0:02.0,28-34,Minnesota,0,0.0
+32676,71,Turnover by K. Towns (offensive foul),0:02.0,28-34,Minnesota,0,1.0
+32677,71,J. Holiday misses 3-pt jump shot from 25 ft,0:00.0,28-34,Milwaukee,0,1.0
+32678,71,Offensive rebound by Team,0:00.0,28-34,Milwaukee,0,0.0
+32679,71,M. Beasley misses 2-pt jump shot from 22 ft,11:37.0,28-34,Minnesota,0,0.0
+32680,71,Defensive rebound by J. Carter,11:35.0,28-34,Milwaukee,0,0.0
+32681,71,Turnover by J. Carter (bad pass),11:32.0,28-34,Milwaukee,0,0.0
+32682,71,J. Nowell makes 2-pt layup from 1 ft (assist by N. Reid),11:16.0,28-36,Minnesota,0,0.0
+32683,71,Shooting foul by T. Prince (drawn by J. Holiday),11:02.0,28-36,Milwaukee,0,0.0
+32684,71,J. Holiday misses free throw 1 of 2,11:02.0,28-36,Milwaukee,0,0.0
+32685,71,Offensive rebound by Team,11:02.0,28-36,Milwaukee,0,0.0
+32686,71,G. Allen enters the game for P. Connaughton,11:02.0,28-36,Milwaukee,1,0.0
+32687,71,K. Middleton enters the game for W. Matthews,11:02.0,28-36,Milwaukee,1,0.0
+32688,71,J. Holiday makes free throw 2 of 2,11:02.0,29-36,Milwaukee,0,0.0
+32689,71,N. Reid makes 2-pt layup from 2 ft (assist by D. Russell),10:51.0,29-38,Minnesota,0,0.0
+32690,71,Shooting foul by K. Middleton (drawn by N. Reid),10:51.0,29-38,Minnesota,0,0.0
+32691,71,N. Reid makes free throw 1 of 1,10:51.0,29-39,Minnesota,0,0.0
+32692,71,G. Allen makes 3-pt jump shot from 24 ft (assist by J. Holiday),10:37.0,32-39,Milwaukee,0,0.0
+32693,71,D. Russell misses 2-pt jump shot from 12 ft,10:18.0,32-39,Minnesota,0,0.0
+32694,71,Defensive rebound by B. Portis,10:15.0,32-39,Milwaukee,0,0.0
+32695,71,G. Allen misses 3-pt jump shot from 28 ft,10:12.0,32-39,Milwaukee,0,0.0
+32696,71,Defensive rebound by D. Russell,10:10.0,32-39,Minnesota,0,0.0
+32697,71,N. Reid makes 2-pt layup from 1 ft (assist by M. Beasley),10:01.0,32-41,Minnesota,0,0.0
+32698,71,J. Holiday makes 2-pt layup at rim,9:52.0,34-41,Milwaukee,0,1.0
+32699,71,M. Beasley misses 2-pt layup from 2 ft,9:42.0,34-41,Minnesota,0,0.0
+32700,71,Offensive rebound by N. Reid,9:38.0,34-41,Minnesota,0,0.0
+32701,71,N. Reid makes 2-pt layup at rim,9:38.0,34-43,Minnesota,0,0.0
+32702,71,K. Middleton misses 2-pt jump shot from 13 ft,9:20.0,34-43,Milwaukee,0,0.0
+32703,71,Defensive rebound by M. Beasley,9:17.0,34-43,Minnesota,0,0.0
+32704,71,T. Prince misses 3-pt jump shot from 25 ft,9:09.0,34-43,Minnesota,0,0.0
+32705,71,Defensive rebound by K. Middleton,9:05.0,34-43,Milwaukee,0,0.0
+32706,71,Shooting foul by T. Prince (drawn by G. Allen),8:53.0,34-43,Milwaukee,0,1.0
+32707,71,G. Allen makes free throw 1 of 2,8:53.0,35-43,Milwaukee,0,0.0
+32708,71,J. Nwora enters the game for J. Carter,8:53.0,35-43,Milwaukee,1,0.0
+32709,71,A. Edwards enters the game for T. Prince,8:53.0,35-43,Minnesota,0,0.0
+32710,71,G. Allen makes free throw 2 of 2,8:53.0,36-43,Milwaukee,0,0.0
+32711,71,N. Reid makes 2-pt dunk from 1 ft (assist by D. Russell),8:40.0,36-45,Minnesota,0,0.0
+32712,71,Shooting foul by J. Nowell (drawn by J. Holiday),8:23.0,36-45,Milwaukee,0,0.0
+32713,71,Technical foul by N. Reid,8:23.0,36-45,Minnesota,0,0.0
+32714,71,Technical foul by B. Portis,8:23.0,36-45,Milwaukee,0,0.0
+32715,71,J. Holiday makes free throw 1 of 2,8:23.0,37-45,Milwaukee,0,0.0
+32716,71,J. Carter enters the game for G. Allen,8:23.0,37-45,Milwaukee,1,0.0
+32717,71,J. Holiday makes free throw 2 of 2,8:23.0,38-45,Milwaukee,0,1.0
+32718,71,N. Reid makes 3-pt jump shot from 27 ft (assist by D. Russell),8:10.0,38-48,Minnesota,0,0.0
+32719,71,K. Middleton makes 3-pt jump shot from 25 ft (assist by J. Holiday),7:59.0,41-48,Milwaukee,0,0.0
+32720,71,N. Reid misses 3-pt jump shot from 26 ft,7:41.0,41-48,Minnesota,0,0.0
+32721,71,Offensive rebound by J. Nowell,7:39.0,41-48,Minnesota,0,0.0
+32722,71,M. Beasley misses 3-pt jump shot from 25 ft,7:36.0,41-48,Minnesota,0,0.0
+32723,71,Defensive rebound by K. Middleton,7:34.0,41-48,Milwaukee,0,0.0
+32724,71,Turnover by K. Middleton (lost ball; steal by A. Edwards),7:27.0,41-48,Milwaukee,0,0.0
+32725,71,Shooting foul by J. Holiday (drawn by A. Edwards),7:23.0,41-48,Minnesota,0,0.0
+32726,71,A. Edwards makes free throw 1 of 2,7:23.0,41-49,Minnesota,0,0.0
+32727,71,G. Allen enters the game for J. Holiday,7:23.0,41-49,Milwaukee,1,0.0
+32728,71,J. McLaughlin enters the game for M. Beasley,7:23.0,41-49,Minnesota,0,0.0
+32729,71,J. Vanderbilt enters the game for D. Russell,7:23.0,41-49,Minnesota,0,0.0
+32730,71,A. Edwards makes free throw 2 of 2,7:23.0,41-50,Minnesota,0,0.0
+32731,71,Personal foul by J. Vanderbilt (drawn by K. Middleton),7:13.0,41-50,Milwaukee,0,0.0
+32732,71,B. Portis misses 3-pt jump shot from 23 ft,7:06.0,41-50,Milwaukee,0,0.0
+32733,71,Defensive rebound by A. Edwards,7:02.0,41-50,Minnesota,0,1.0
+32734,71,J. Nowell misses 2-pt jump shot from 6 ft,6:51.0,41-50,Minnesota,0,0.0
+32735,71,Defensive rebound by K. Middleton,6:48.0,41-50,Milwaukee,0,0.0
+32736,71,K. Middleton makes 2-pt jump shot from 7 ft,6:45.0,43-50,Milwaukee,0,0.0
+32737,71,N. Reid misses 3-pt jump shot from 26 ft,6:24.0,43-50,Minnesota,0,0.0
+32738,71,Defensive rebound by G. Allen,6:23.0,43-50,Milwaukee,0,0.0
+32739,71,G. Allen makes 2-pt layup from 3 ft,6:17.0,45-50,Milwaukee,0,0.0
+32740,71,J. Nowell makes 3-pt jump shot from 25 ft (assist by A. Edwards),5:55.0,45-53,Minnesota,0,0.0
+32741,71,K. Middleton makes 3-pt jump shot from 25 ft (assist by J. Carter),5:34.0,48-53,Milwaukee,0,0.0
+32742,71,Minnesota full timeout,5:31.0,48-53,Minnesota,0,0.0
+32743,71,B. Lopez enters the game for B. Portis,5:31.0,48-53,Milwaukee,1,0.0
+32744,71,K. Towns enters the game for N. Reid,5:31.0,48-53,Minnesota,0,0.0
+32745,71,Personal foul by B. Lopez (drawn by K. Towns),5:21.0,48-53,Minnesota,0,0.0
+32746,71,K. Towns makes 3-pt jump shot from 25 ft (assist by A. Edwards),5:15.0,48-56,Minnesota,0,0.0
+32747,71,K. Middleton misses 2-pt jump shot from 13 ft,5:02.0,48-56,Milwaukee,0,0.0
+32748,71,Defensive rebound by J. Vanderbilt,5:00.0,48-56,Minnesota,0,0.0
+32749,71,K. Towns misses 2-pt layup from 7 ft (block by J. Nwora),4:45.0,48-56,Minnesota,0,1.0
+32750,71,Defensive rebound by G. Allen,4:44.0,48-56,Milwaukee,0,0.0
+32751,71,Turnover by G. Allen (lost ball; steal by J. McLaughlin),4:38.0,48-56,Milwaukee,0,0.0
+32752,71,A. Edwards misses 3-pt jump shot from 25 ft,4:34.0,48-56,Minnesota,0,0.0
+32753,71,Offensive rebound by J. McLaughlin,4:29.0,48-56,Minnesota,0,0.0
+32754,71,J. McLaughlin makes 2-pt layup at rim,4:29.0,48-58,Minnesota,0,0.0
+32755,71,J. Carter makes 2-pt layup from 2 ft (assist by K. Middleton),4:16.0,50-58,Milwaukee,0,0.0
+32756,71,Away from play foul by J. Carter (drawn by J. McLaughlin),4:12.0,50-58,Minnesota,0,0.0
+32757,71,Instant Replay (Request: Ruling Stands),4:12.0,50-58,Minnesota,0,0.0
+32758,71,K. Towns makes free throw 1 of 1,4:12.0,50-59,Minnesota,0,0.0
+32759,71,P. Connaughton enters the game for G. Allen,4:12.0,50-59,Milwaukee,1,0.0
+32760,71,K. Towns misses 2-pt layup from 8 ft (block by B. Lopez),3:56.0,50-59,Minnesota,0,0.0
+32761,71,Defensive rebound by P. Connaughton,3:53.0,50-59,Milwaukee,0,0.0
+32762,71,K. Middleton misses 3-pt jump shot from 25 ft,3:37.0,50-59,Milwaukee,0,1.0
+32763,71,Defensive rebound by J. Nowell,3:35.0,50-59,Minnesota,0,1.0
+32764,71,J. Nowell misses 2-pt layup from 2 ft,3:26.0,50-59,Minnesota,0,0.0
+32765,71,Defensive rebound by J. Carter,3:22.0,50-59,Milwaukee,0,0.0
+32766,71,J. Nwora makes 3-pt jump shot from 25 ft (assist by J. Carter),3:18.0,53-59,Milwaukee,0,0.0
+32767,71,J. Nowell misses 3-pt jump shot from 25 ft,2:59.0,53-59,Minnesota,0,0.0
+32768,71,Defensive rebound by K. Middleton,2:57.0,53-59,Milwaukee,0,0.0
+32769,71,Turnover by K. Middleton (bad pass; steal by J. Vanderbilt),2:48.0,53-59,Milwaukee,0,0.0
+32770,71,J. Nowell makes 2-pt layup from 1 ft,2:41.0,53-61,Minnesota,0,0.0
+32771,71,Milwaukee full timeout,2:40.0,53-61,Milwaukee,0,0.0
+32772,71,J. Holiday enters the game for J. Carter,2:40.0,53-61,Milwaukee,1,0.0
+32773,71,W. Matthews enters the game for K. Middleton,2:40.0,53-61,Milwaukee,1,0.0
+32774,71,D. Russell enters the game for J. McLaughlin,2:40.0,53-61,Minnesota,0,0.0
+32775,71,P. Connaughton makes 3-pt jump shot from 25 ft (assist by J. Holiday),2:20.0,56-61,Milwaukee,0,0.0
+32776,71,D. Russell misses 2-pt jump shot from 16 ft,1:57.0,56-61,Minnesota,0,0.0
+32777,71,Defensive rebound by J. Nwora,1:56.0,56-61,Milwaukee,0,0.0
+32778,71,B. Lopez misses 2-pt jump shot from 15 ft,1:44.0,56-61,Milwaukee,0,0.0
+32779,71,Defensive rebound by K. Towns,1:42.0,56-61,Minnesota,0,0.0
+32780,71,Personal foul by W. Matthews (drawn by K. Towns),1:42.0,56-61,Minnesota,0,0.0
+32781,71,K. Towns makes free throw 1 of 2,1:42.0,56-62,Minnesota,0,0.0
+32782,71,M. Beasley enters the game for J. Nowell,1:42.0,56-62,Minnesota,0,0.0
+32783,71,K. Towns makes free throw 2 of 2,1:42.0,56-63,Minnesota,0,0.0
+32784,71,J. Holiday misses 2-pt jump shot from 23 ft,1:27.0,56-63,Milwaukee,0,0.0
+32785,71,Defensive rebound by K. Towns,1:25.0,56-63,Minnesota,0,0.0
+32786,71,Turnover by D. Russell (bad pass; steal by W. Matthews),1:12.0,56-63,Minnesota,0,0.0
+32787,71,J. Nwora misses 2-pt layup from 2 ft,1:07.0,56-63,Milwaukee,0,0.0
+32788,71,Defensive rebound by J. Vanderbilt,1:04.0,56-63,Minnesota,0,0.0
+32789,71,D. Russell makes 3-pt jump shot from 26 ft,0:57.0,56-66,Minnesota,0,0.0
+32790,71,W. Matthews misses 3-pt jump shot from 22 ft,0:46.0,56-66,Milwaukee,0,0.0
+32791,71,Defensive rebound by K. Towns,0:43.0,56-66,Minnesota,0,0.0
+32792,71,Turnover by K. Towns (lost ball; steal by J. Holiday),0:41.0,56-66,Minnesota,0,0.0
+32793,71,J. Holiday misses 2-pt jump shot from 10 ft,0:30.0,56-66,Milwaukee,0,0.0
+32794,71,Defensive rebound by K. Towns,0:27.0,56-66,Minnesota,0,0.0
+32795,71,A. Edwards misses 3-pt jump shot from 24 ft,0:08.0,56-66,Minnesota,0,0.0
+32796,71,Offensive rebound by M. Beasley,0:06.0,56-66,Minnesota,0,0.0
+32797,71,M. Beasley makes 2-pt jump shot from 10 ft,0:05.0,56-68,Minnesota,0,0.0
+32798,71,B. Lopez misses 3-pt jump shot from 25 ft,0:00.0,56-68,Milwaukee,0,0.0
+32799,71,Offensive rebound by Team,0:00.0,56-68,Milwaukee,0,0.0
+32800,71,Turnover by D. Russell (bad pass; steal by J. Holiday),11:49.0,56-68,Minnesota,0,0.0
+32801,71,B. Lopez makes 2-pt layup at rim (assist by J. Holiday),11:46.0,58-68,Milwaukee,0,0.0
+32802,71,A. Edwards makes 3-pt jump shot from 25 ft (assist by K. Towns),11:31.0,58-71,Minnesota,0,0.0
+32803,71,K. Middleton misses 3-pt jump shot from 25 ft,11:19.0,58-71,Milwaukee,0,0.0
+32804,71,Defensive rebound by K. Towns,11:16.0,58-71,Minnesota,0,0.0
+32805,71,M. Beasley misses 2-pt layup from 2 ft (block by B. Lopez),11:13.0,58-71,Minnesota,0,0.0
+32806,71,Offensive rebound by Team,11:12.0,58-71,Minnesota,0,0.0
+32807,71,D. Russell misses 3-pt jump shot from 27 ft,11:00.0,58-71,Minnesota,0,0.0
+32808,71,Defensive rebound by G. Allen,10:58.0,58-71,Milwaukee,0,0.0
+32809,71,Turnover by G. Allen (bad pass; steal by A. Edwards),10:47.0,58-71,Milwaukee,0,0.0
+32810,71,J. Vanderbilt makes 2-pt layup from 4 ft,10:41.0,58-73,Minnesota,0,0.0
+32811,71,B. Lopez makes 2-pt dunk at rim (assist by J. Holiday),10:22.0,60-73,Milwaukee,0,0.0
+32812,71,M. Beasley misses 3-pt jump shot from 23 ft,10:05.0,60-73,Minnesota,0,0.0
+32813,71,Offensive rebound by Team,10:05.0,60-73,Minnesota,0,0.0
+32814,71,K. Towns makes 3-pt jump shot from 26 ft (assist by D. Russell),10:02.0,60-76,Minnesota,0,0.0
+32815,71,B. Lopez makes 2-pt layup from 1 ft,9:47.0,62-76,Milwaukee,0,0.0
+32816,71,A. Edwards makes 3-pt jump shot from 25 ft,9:29.0,62-79,Minnesota,0,0.0
+32817,71,J. Holiday misses 2-pt layup from 1 ft,9:04.0,62-79,Milwaukee,0,0.0
+32818,71,Offensive rebound by B. Lopez,9:03.0,62-79,Milwaukee,0,0.0
+32819,71,B. Lopez makes 2-pt layup from 2 ft,9:01.0,64-79,Milwaukee,0,0.0
+32820,71,Shooting foul by K. Towns (drawn by B. Lopez),9:01.0,64-79,Milwaukee,0,0.0
+32821,71,B. Lopez makes free throw 1 of 1,9:01.0,65-79,Milwaukee,0,1.0
+32822,71,A. Edwards makes 3-pt jump shot from 25 ft (assist by K. Towns),8:47.0,65-82,Minnesota,0,0.0
+32823,71,B. Lopez makes 2-pt dunk from 1 ft (assist by G. Allen),8:27.0,67-82,Milwaukee,0,0.0
+32824,71,Personal foul by B. Lopez (drawn by K. Towns),8:16.0,67-82,Minnesota,0,0.0
+32825,71,M. Beasley makes 3-pt jump shot from 25 ft (assist by D. Russell),8:12.0,67-85,Minnesota,0,0.0
+32826,71,B. Portis misses 3-pt jump shot from 23 ft,8:01.0,67-85,Milwaukee,0,0.0
+32827,71,Defensive rebound by A. Edwards,7:58.0,67-85,Minnesota,0,0.0
+32828,71,J. Vanderbilt makes 2-pt layup from 1 ft (assist by A. Edwards),7:55.0,67-87,Minnesota,0,0.0
+32829,71,Violation by Team (def goaltending),7:55.0,67-87,Milwaukee,0,0.0
+32830,71,Milwaukee full timeout,7:55.0,67-87,Milwaukee,0,0.0
+32831,71,W. Matthews enters the game for B. Portis,7:55.0,67-87,Milwaukee,1,0.0
+32832,71,K. Middleton makes 2-pt layup from 3 ft (assist by G. Allen),7:37.0,69-87,Milwaukee,0,0.0
+32833,71,D. Russell makes 3-pt jump shot from 26 ft (assist by K. Towns),7:15.0,69-90,Minnesota,0,0.0
+32834,71,J. Holiday misses 3-pt jump shot from 25 ft,7:03.0,69-90,Milwaukee,0,0.0
+32835,71,Offensive rebound by B. Lopez,7:01.0,69-90,Milwaukee,0,0.0
+32836,71,T. Prince enters the game for J. Vanderbilt,7:01.0,69-90,Minnesota,0,1.0
+32837,71,Turnover by J. Holiday (bad pass; steal by T. Prince),6:50.0,69-90,Milwaukee,0,0.0
+32838,71,Shooting foul by G. Allen (drawn by T. Prince),6:47.0,69-90,Minnesota,0,0.0
+32839,71,T. Prince makes free throw 1 of 2,6:47.0,69-91,Minnesota,0,0.0
+32840,71,T. Prince makes free throw 2 of 2,6:47.0,69-92,Minnesota,0,0.0
+32841,71,J. Holiday makes 2-pt jump shot from 8 ft (assist by W. Matthews),6:28.0,71-92,Milwaukee,0,0.0
+32842,71,Turnover by D. Russell (bad pass),6:09.0,71-92,Minnesota,0,0.0
+32843,71,Turnover by G. Allen (bad pass; steal by T. Prince),5:52.0,71-92,Milwaukee,0,0.0
+32844,71,Shooting foul by K. Middleton (drawn by T. Prince),5:50.0,71-92,Minnesota,0,0.0
+32845,71,T. Prince makes free throw 1 of 2,5:50.0,71-93,Minnesota,0,0.0
+32846,71,B. Portis enters the game for B. Lopez,5:50.0,71-93,Milwaukee,1,0.0
+32847,71,J. McLaughlin enters the game for D. Russell,5:50.0,71-93,Minnesota,0,0.0
+32848,71,T. Prince misses free throw 2 of 2,5:50.0,71-93,Minnesota,0,0.0
+32849,71,Defensive rebound by B. Portis,5:47.0,71-93,Milwaukee,0,0.0
+32850,71,K. Middleton misses 3-pt jump shot from 26 ft,5:34.0,71-93,Milwaukee,0,0.0
+32851,71,Offensive rebound by W. Matthews,5:31.0,71-93,Milwaukee,0,0.0
+32852,71,J. Holiday misses 2-pt jump shot from 15 ft,5:22.0,71-93,Milwaukee,0,1.0
+32853,71,Defensive rebound by J. McLaughlin,5:19.0,71-93,Minnesota,0,1.0
+32854,71,J. McLaughlin misses 2-pt layup from 2 ft,5:16.0,71-93,Minnesota,0,0.0
+32855,71,Defensive rebound by B. Portis,5:13.0,71-93,Milwaukee,0,0.0
+32856,71,K. Middleton misses 2-pt layup from 2 ft,5:06.0,71-93,Milwaukee,0,0.0
+32857,71,Defensive rebound by A. Edwards,4:59.0,71-93,Minnesota,0,0.0
+32858,71,M. Beasley misses 3-pt jump shot from 25 ft,4:54.0,71-93,Minnesota,0,0.0
+32859,71,Defensive rebound by G. Allen,4:51.0,71-93,Milwaukee,0,0.0
+32860,71,J. Holiday makes 2-pt layup at rim (assist by K. Middleton),4:43.0,73-93,Milwaukee,0,0.0
+32861,71,Minnesota full timeout,4:43.0,73-93,Minnesota,0,0.0
+32862,71,J. Carter enters the game for G. Allen,4:43.0,73-93,Milwaukee,1,0.0
+32863,71,S. Ibaka enters the game for J. Holiday,4:43.0,73-93,Milwaukee,1,0.0
+32864,71,J. Nowell enters the game for M. Beasley,4:43.0,73-93,Minnesota,0,0.0
+32865,71,Shooting foul by S. Ibaka (drawn by K. Towns),4:22.0,73-93,Minnesota,0,0.0
+32866,71,K. Towns makes free throw 1 of 2,4:22.0,73-94,Minnesota,0,1.0
+32867,71,K. Towns makes free throw 2 of 2,4:22.0,73-95,Minnesota,0,0.0
+32868,71,B. Portis misses 3-pt jump shot from 23 ft,4:07.0,73-95,Milwaukee,0,0.0
+32869,71,Offensive rebound by K. Middleton,4:03.0,73-95,Milwaukee,0,0.0
+32870,71,S. Ibaka makes 3-pt jump shot from 25 ft (assist by K. Middleton),4:02.0,76-95,Milwaukee,0,0.0
+32871,71,J. Nowell misses 3-pt jump shot from 25 ft,3:36.0,76-95,Minnesota,0,0.0
+32872,71,Defensive rebound by B. Portis,3:34.0,76-95,Milwaukee,0,0.0
+32873,71,W. Matthews makes 3-pt jump shot from 25 ft (assist by J. Carter),3:22.0,79-95,Milwaukee,0,0.0
+32874,71,T. Prince makes 3-pt jump shot from 23 ft (assist by J. Nowell),3:04.0,79-98,Minnesota,0,0.0
+32875,71,Personal foul by K. Towns (drawn by K. Middleton),2:54.0,79-98,Milwaukee,0,0.0
+32876,71,P. Connaughton enters the game for K. Middleton,2:54.0,79-98,Milwaukee,1,0.0
+32877,71,J. Vanderbilt enters the game for A. Edwards,2:54.0,79-98,Minnesota,0,0.0
+32878,71,Personal foul by J. Vanderbilt (drawn by B. Portis),2:49.0,79-98,Milwaukee,0,0.0
+32879,71,W. Matthews makes 3-pt jump shot from 25 ft (assist by J. Carter),2:44.0,82-98,Milwaukee,0,0.0
+32880,71,K. Towns makes 3-pt jump shot from 25 ft (assist by T. Prince),2:26.0,82-101,Minnesota,0,0.0
+32881,71,P. Connaughton misses 3-pt jump shot from 26 ft,2:17.0,82-101,Milwaukee,0,0.0
+32882,71,Defensive rebound by J. Vanderbilt,2:17.0,82-101,Minnesota,0,0.0
+32883,71,K. Towns misses 3-pt jump shot from 30 ft,2:04.0,82-101,Minnesota,0,0.0
+32884,71,Defensive rebound by B. Portis,2:01.0,82-101,Milwaukee,0,0.0
+32885,71,S. Ibaka misses 2-pt jump shot from 18 ft,1:48.0,82-101,Milwaukee,0,0.0
+32886,71,Defensive rebound by K. Towns,1:45.0,82-101,Minnesota,0,0.0
+32887,71,J. Nowell misses 2-pt jump shot from 15 ft,1:34.0,82-101,Minnesota,0,0.0
+32888,71,Defensive rebound by J. Carter,1:32.0,82-101,Milwaukee,0,0.0
+32889,71,B. Portis misses 2-pt layup from 6 ft (block by T. Prince),1:23.0,82-101,Milwaukee,0,0.0
+32890,71,Defensive rebound by T. Prince,1:21.0,82-101,Minnesota,0,0.0
+32891,71,J. McLaughlin makes 3-pt jump shot from 25 ft,1:12.0,82-104,Minnesota,0,0.0
+32892,71,Personal foul by J. Nowell (drawn by W. Matthews),0:51.0,82-104,Milwaukee,0,0.0
+32893,71,N. Reid enters the game for K. Towns,0:51.0,82-104,Minnesota,0,0.0
+32894,71,P. Connaughton misses 3-pt jump shot from 25 ft,0:45.0,82-104,Milwaukee,0,0.0
+32895,71,Defensive rebound by T. Prince,0:42.0,82-104,Minnesota,0,0.0
+32896,71,J. Nowell misses 2-pt layup from 4 ft,0:38.0,82-104,Minnesota,0,0.0
+32897,71,Defensive rebound by W. Matthews,0:36.0,82-104,Milwaukee,0,0.0
+32898,71,W. Matthews misses 3-pt jump shot from 28 ft,0:30.0,82-104,Milwaukee,0,0.0
+32899,71,Defensive rebound by J. Vanderbilt,0:28.0,82-104,Minnesota,0,0.0
+32900,71,J. Nowell misses 2-pt jump shot from 16 ft,0:17.0,82-104,Minnesota,0,0.0
+32901,71,Offensive rebound by N. Reid,0:14.0,82-104,Minnesota,0,0.0
+32902,71,N. Reid makes 2-pt layup from 7 ft,0:14.0,82-106,Minnesota,0,0.0
+32903,71,J. Carter misses 3-pt jump shot from 25 ft,0:01.0,82-106,Milwaukee,0,0.0
+32904,71,Defensive rebound by T. Prince,0:00.0,82-106,Minnesota,0,0.0
+32905,71,P. Connaughton makes 3-pt jump shot from 23 ft (assist by J. Nwora),11:49.0,85-106,Milwaukee,0,0.0
+32906,71,D. Russell makes 2-pt layup from 3 ft,11:34.0,85-108,Minnesota,0,0.0
+32907,71,J. Carter makes 3-pt jump shot from 26 ft,11:26.0,88-108,Milwaukee,0,0.0
+32908,71,J. McLaughlin makes 2-pt layup from 1 ft (assist by D. Russell),11:15.0,88-110,Minnesota,0,0.0
+32909,71,J. Carter makes 2-pt jump shot from 14 ft,10:56.0,90-110,Milwaukee,0,0.0
+32910,71,T. Prince makes 2-pt layup from 4 ft (assist by J. McLaughlin),10:49.0,90-112,Minnesota,0,0.0
+32911,71,J. Carter misses 3-pt jump shot from 25 ft,10:33.0,90-112,Milwaukee,0,0.0
+32912,71,Offensive rebound by J. Nwora,10:31.0,90-112,Milwaukee,0,0.0
+32913,71,J. Nwora makes 2-pt jump shot from 8 ft,10:28.0,92-112,Milwaukee,0,0.0
+32914,71,D. Russell misses 3-pt jump shot from 25 ft,10:13.0,92-112,Minnesota,0,0.0
+32915,71,Defensive rebound by J. Nwora,10:10.0,92-112,Milwaukee,0,0.0
+32916,71,Loose ball foul by J. Vanderbilt (drawn by P. Connaughton),10:03.0,92-112,Minnesota,0,0.0
+32917,71,A. Edwards enters the game for T. Prince,10:03.0,92-112,Minnesota,0,0.0
+32918,71,J. Nwora misses 2-pt jump shot from 22 ft,9:55.0,92-112,Milwaukee,0,0.0
+32919,71,Defensive rebound by J. Vanderbilt,9:52.0,92-112,Minnesota,0,0.0
+32920,71,N. Reid misses 3-pt jump shot from 25 ft,9:37.0,92-112,Minnesota,0,0.0
+32921,71,Defensive rebound by P. Connaughton,9:34.0,92-112,Milwaukee,0,0.0
+32922,71,Turnover by J. Carter (bad pass),9:26.0,92-112,Milwaukee,0,0.0
+32923,71,Offensive foul by N. Reid (drawn by T. Antetokounmpo),9:18.0,92-112,Minnesota,0,0.0
+32924,71,Turnover by N. Reid (offensive foul),9:18.0,92-112,Minnesota,0,0.0
+32925,71,Turnover by J. Nwora (lost ball; steal by N. Reid),9:04.0,92-112,Milwaukee,0,1.0
+32926,71,A. Edwards makes 2-pt dunk from 1 ft (assist by J. McLaughlin),9:01.0,92-114,Minnesota,0,0.0
+32927,71,P. Connaughton misses 3-pt jump shot from 25 ft,8:41.0,92-114,Milwaukee,0,0.0
+32928,71,Offensive rebound by T. Antetokounmpo,8:36.0,92-114,Milwaukee,0,0.0
+32929,71,T. Antetokounmpo makes 2-pt layup at rim,8:36.0,94-114,Milwaukee,0,0.0
+32930,71,Turnover by D. Russell (lost ball; steal by P. Connaughton),8:19.0,94-114,Minnesota,0,0.0
+32931,71,J. Nwora misses 3-pt jump shot from 23 ft,8:14.0,94-114,Milwaukee,0,0.0
+32932,71,Offensive rebound by S. Ibaka,8:11.0,94-114,Milwaukee,0,0.0
+32933,71,Shooting foul by N. Reid (drawn by S. Ibaka),8:11.0,94-114,Milwaukee,0,0.0
+32934,71,S. Ibaka makes free throw 1 of 2,8:11.0,95-114,Milwaukee,0,0.0
+32935,71,B. Lopez enters the game for P. Connaughton,8:11.0,95-114,Milwaukee,1,0.0
+32936,71,M. Beasley enters the game for J. McLaughlin,8:11.0,95-114,Minnesota,0,0.0
+32937,71,S. Ibaka makes free throw 2 of 2,8:11.0,96-114,Milwaukee,0,0.0
+32938,71,A. Edwards misses 2-pt jump shot from 7 ft,8:01.0,96-114,Minnesota,0,0.0
+32939,71,Defensive rebound by S. Ibaka,7:59.0,96-114,Milwaukee,0,0.0
+32940,71,S. Ibaka misses 3-pt jump shot from 24 ft,7:53.0,96-114,Milwaukee,0,0.0
+32941,71,Defensive rebound by M. Beasley,7:49.0,96-114,Minnesota,0,0.0
+32942,71,J. Vanderbilt makes 2-pt dunk from 1 ft (assist by A. Edwards),7:38.0,96-116,Minnesota,0,0.0
+32943,71,S. Ibaka misses 3-pt jump shot from 23 ft,7:22.0,96-116,Milwaukee,0,0.0
+32944,71,Defensive rebound by M. Beasley,7:19.0,96-116,Minnesota,0,0.0
+32945,71,D. Russell misses 3-pt jump shot from 23 ft,7:09.0,96-116,Minnesota,0,1.0
+32946,71,Defensive rebound by T. Antetokounmpo,7:06.0,96-116,Milwaukee,0,0.0
+32947,71,S. Ibaka misses 2-pt layup from 1 ft,7:02.0,96-116,Milwaukee,0,0.0
+32948,71,Defensive rebound by N. Reid,7:00.0,96-116,Minnesota,0,0.0
+32949,71,A. Edwards misses 3-pt jump shot from 26 ft,6:56.0,96-116,Minnesota,0,0.0
+32950,71,Defensive rebound by B. Lopez,6:55.0,96-116,Milwaukee,0,0.0
+32951,71,S. Ibaka misses 3-pt jump shot from 23 ft,6:42.0,96-116,Milwaukee,0,0.0
+32952,71,Offensive rebound by T. Antetokounmpo,6:39.0,96-116,Milwaukee,0,0.0
+32953,71,T. Antetokounmpo makes 2-pt layup at rim,6:39.0,98-116,Milwaukee,0,0.0
+32954,71,Minnesota full timeout,6:39.0,98-116,Minnesota,0,0.0
+32955,71,W. Matthews enters the game for S. Ibaka,6:39.0,98-116,Milwaukee,1,0.0
+32956,71,K. Towns enters the game for N. Reid,6:39.0,98-116,Minnesota,0,0.0
+32957,71,D. Russell makes 2-pt layup from 3 ft,6:25.0,98-118,Minnesota,0,0.0
+32958,71,J. Carter makes 2-pt jump shot from 18 ft,6:12.0,100-118,Milwaukee,0,1.0
+32959,71,A. Edwards misses 3-pt jump shot from 26 ft,5:56.0,100-118,Minnesota,0,0.0
+32960,71,Defensive rebound by T. Antetokounmpo,5:53.0,100-118,Milwaukee,0,0.0
+32961,71,Personal foul by D. Russell (drawn by T. Antetokounmpo),5:47.0,100-118,Milwaukee,0,0.0
+32962,71,Shooting foul by J. Vanderbilt (drawn by B. Lopez),5:39.0,100-118,Milwaukee,0,0.0
+32963,71,B. Lopez makes free throw 1 of 2,5:39.0,101-118,Milwaukee,0,0.0
+32964,71,B. Lopez makes free throw 2 of 2,5:39.0,102-118,Milwaukee,0,0.0
+32965,71,Shooting foul by J. Nwora (drawn by J. Vanderbilt),5:22.0,102-118,Minnesota,0,1.0
+32966,71,J. Vanderbilt makes free throw 1 of 2,5:22.0,102-119,Minnesota,0,0.0
+32967,71,J. Vanderbilt makes free throw 2 of 2,5:22.0,102-120,Minnesota,0,0.0
+32968,71,S. Ibaka enters the game for W. Matthews,5:22.0,102-120,Milwaukee,1,0.0
+32969,71,J. Nwora misses 3-pt jump shot from 25 ft,5:05.0,102-120,Milwaukee,0,0.0
+32970,71,Offensive rebound by S. Ibaka,5:02.0,102-120,Milwaukee,0,0.0
+32971,71,S. Ibaka misses 3-pt jump shot from 23 ft,5:00.0,102-120,Milwaukee,0,0.0
+32972,71,Defensive rebound by J. Vanderbilt,4:57.0,102-120,Minnesota,0,0.0
+32973,71,D. Russell makes 3-pt jump shot from 25 ft (assist by K. Towns),4:50.0,102-123,Minnesota,0,0.0
+32974,71,Milwaukee full timeout,4:48.0,102-123,Milwaukee,0,0.0
+32975,71,P. Connaughton enters the game for B. Lopez,4:48.0,102-123,Milwaukee,1,0.0
+32976,71,T. Prince enters the game for A. Edwards,4:48.0,102-123,Minnesota,0,0.0
+32977,71,P. Connaughton makes 3-pt jump shot from 24 ft (assist by J. Nwora),4:38.0,105-123,Milwaukee,0,0.0
+32978,71,T. Prince makes 3-pt jump shot from 24 ft (assist by M. Beasley),4:21.0,105-126,Minnesota,0,0.0
+32979,71,S. Ibaka misses 2-pt jump shot from 19 ft,4:07.0,105-126,Milwaukee,0,0.0
+32980,71,Defensive rebound by T. Prince,4:04.0,105-126,Minnesota,0,0.0
+32981,71,M. Beasley makes 3-pt jump shot from 24 ft (assist by T. Prince),3:58.0,105-129,Minnesota,0,0.0
+32982,71,P. Connaughton misses 3-pt jump shot from 28 ft,3:41.0,105-129,Milwaukee,0,0.0
+32983,71,Offensive rebound by P. Connaughton,3:40.0,105-129,Milwaukee,0,0.0
+32984,71,J. Nwora makes 3-pt jump shot from 24 ft (assist by P. Connaughton),3:38.0,108-129,Milwaukee,0,0.0
+32985,71,Minnesota full timeout,3:36.0,108-129,Minnesota,0,0.0
+32986,71,N. Knight enters the game for M. Beasley,3:36.0,108-129,Minnesota,0,0.0
+32987,71,J. Layman enters the game for T. Prince,3:36.0,108-129,Minnesota,0,0.0
+32988,71,J. McLaughlin enters the game for D. Russell,3:36.0,108-129,Minnesota,0,0.0
+32989,71,J. Nowell enters the game for K. Towns,3:36.0,108-129,Minnesota,0,0.0
+32990,71,J. Okogie enters the game for J. Vanderbilt,3:36.0,108-129,Minnesota,0,0.0
+32991,71,N. Knight makes 2-pt layup from 2 ft (assist by J. Okogie),3:19.0,108-131,Minnesota,0,0.0
+32992,71,Personal foul by J. McLaughlin (drawn by J. Carter),3:11.0,108-131,Milwaukee,0,0.0
+32993,71,J. Carter makes free throw 1 of 2,3:11.0,109-131,Milwaukee,0,0.0
+32994,71,J. Carter makes free throw 2 of 2,3:11.0,110-131,Milwaukee,0,0.0
+32995,71,J. McLaughlin misses 3-pt jump shot from 23 ft,2:53.0,110-131,Minnesota,0,0.0
+32996,71,Defensive rebound by J. Nwora,2:50.0,110-131,Milwaukee,0,0.0
+32997,71,T. Antetokounmpo makes 2-pt layup from 1 ft (assist by J. Carter),2:41.0,112-131,Milwaukee,0,0.0
+32998,71,Shooting foul by J. Nwora (drawn by N. Knight),2:29.0,112-131,Minnesota,0,0.0
+32999,71,L. Bolmaro enters the game for J. McLaughlin,2:29.0,112-131,Minnesota,0,0.0
+33000,71,N. Knight makes free throw 1 of 2,2:29.0,112-132,Minnesota,0,0.0
+33001,71,N. Knight makes free throw 2 of 2,2:29.0,112-133,Minnesota,0,0.0
+33002,71,S. Ibaka misses 2-pt hook shot from 8 ft,2:10.0,112-133,Milwaukee,0,0.0
+33003,71,Defensive rebound by Team,2:09.0,112-133,Minnesota,0,0.0
+33004,71,N. Knight makes 2-pt dunk from 1 ft (assist by J. Nowell),1:58.0,112-135,Minnesota,0,0.0
+33005,71,Shooting foul by N. Knight (drawn by T. Antetokounmpo),1:49.0,112-135,Milwaukee,0,0.0
+33006,71,T. Antetokounmpo misses free throw 1 of 2,1:49.0,112-135,Milwaukee,0,0.0
+33007,71,Offensive rebound by Team,1:49.0,112-135,Milwaukee,0,0.0
+33008,71,T. Antetokounmpo makes free throw 2 of 2,1:49.0,113-135,Milwaukee,0,0.0
+33009,71,J. Okogie misses 2-pt jump shot from 6 ft,1:36.0,113-135,Minnesota,0,0.0
+33010,71,Defensive rebound by S. Ibaka,1:33.0,113-135,Milwaukee,0,0.0
+33011,71,Shooting foul by L. Bolmaro (drawn by T. Antetokounmpo),1:29.0,113-135,Milwaukee,0,0.0
+33012,71,T. Antetokounmpo misses free throw 1 of 2,1:29.0,113-135,Milwaukee,0,0.0
+33013,71,Offensive rebound by Team,1:29.0,113-135,Milwaukee,0,0.0
+33014,71,T. Antetokounmpo makes free throw 2 of 2,1:29.0,114-135,Milwaukee,0,
+33015,71,L. Bolmaro misses 2-pt jump shot from 16 ft,1:17.0,114-135,Minnesota,0,
+33016,71,Defensive rebound by J. Carter,1:14.0,114-135,Milwaukee,0,
+33017,71,P. Connaughton makes 3-pt jump shot from 26 ft (assist by J. Carter),1:07.0,117-135,Milwaukee,0,
+33018,71,N. Knight misses 3-pt jump shot from 26 ft,0:53.0,117-135,Minnesota,0,
+33019,71,Defensive rebound by J. Carter,0:50.0,117-135,Milwaukee,0,
+33020,71,P. Connaughton misses 3-pt jump shot from 28 ft,0:44.0,117-135,Milwaukee,0,
+33021,71,Defensive rebound by J. Nowell,0:40.0,117-135,Minnesota,0,
+33022,71,J. Nowell makes 3-pt jump shot from 25 ft,0:32.0,117-138,Minnesota,0,
+33023,71,T. Antetokounmpo makes 2-pt dunk at rim (assist by J. Carter),0:24.0,119-138,Milwaukee,0,

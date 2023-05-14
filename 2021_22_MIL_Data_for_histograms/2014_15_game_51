@@ -1,0 +1,488 @@
+,game number,play,time,score,team,current_sub_status,future_sub_status
+23194,51,Turnover by J. Randle (lost ball; steal by G. Allen),11:44.0,0-0,New York,0,0.0
+23195,51,B. Portis makes 2-pt jump shot from 21 ft (assist by K. Middleton),11:37.0,0-2,Milwaukee,0,0.0
+23196,51,J. Randle misses 2-pt jump shot from 18 ft,11:16.0,0-2,New York,0,0.0
+23197,51,Defensive rebound by B. Portis,11:16.0,0-2,Milwaukee,0,0.0
+23198,51,G. Antetokounmpo makes 3-pt jump shot from 26 ft,11:10.0,0-5,Milwaukee,0,0.0
+23199,51,E. Fournier makes 2-pt jump shot from 9 ft (assist by J. Randle),10:55.0,2-5,New York,0,0.0
+23200,51,Turnover by K. Middleton (bad pass),10:40.0,2-5,Milwaukee,0,0.0
+23201,51,R. Barrett misses 2-pt jump shot from 8 ft,10:30.0,2-5,New York,0,0.0
+23202,51,Offensive rebound by M. Robinson,10:30.0,2-5,New York,0,0.0
+23203,51,M. Robinson makes 2-pt dunk from 2 ft,10:25.0,4-5,New York,0,0.0
+23204,51,G. Antetokounmpo makes 2-pt dunk from 2 ft (assist by J. Holiday),10:04.0,4-7,Milwaukee,0,0.0
+23205,51,K. Walker makes 2-pt jump shot from 10 ft,9:52.0,6-7,New York,0,0.0
+23206,51,Shooting foul by E. Fournier (drawn by G. Antetokounmpo),9:40.0,6-7,Milwaukee,0,0.0
+23207,51,G. Antetokounmpo makes free throw 1 of 2,9:40.0,6-8,Milwaukee,0,0.0
+23208,51,G. Antetokounmpo misses free throw 2 of 2,9:40.0,6-8,Milwaukee,0,0.0
+23209,51,Defensive rebound by J. Randle,9:36.0,6-8,New York,0,0.0
+23210,51,Turnover by K. Walker (bad pass; steal by K. Middleton),9:27.0,6-8,New York,0,0.0
+23211,51,J. Holiday makes 2-pt layup from 2 ft (assist by K. Middleton),9:22.0,6-10,Milwaukee,0,0.0
+23212,51,K. Walker misses 3-pt jump shot from 26 ft,9:05.0,6-10,New York,0,0.0
+23213,51,Offensive rebound by R. Barrett,9:02.0,6-10,New York,0,0.0
+23214,51,R. Barrett misses 3-pt jump shot from 26 ft,9:00.0,6-10,New York,0,0.0
+23215,51,Defensive rebound by B. Portis,8:58.0,6-10,Milwaukee,0,0.0
+23216,51,Shooting foul by M. Robinson (drawn by G. Antetokounmpo),8:52.0,6-10,Milwaukee,0,0.0
+23217,51,G. Antetokounmpo misses free throw 1 of 2,8:52.0,6-10,Milwaukee,0,0.0
+23218,51,Offensive rebound by Team,8:52.0,6-10,Milwaukee,0,0.0
+23219,51,G. Antetokounmpo makes free throw 2 of 2,8:52.0,6-11,Milwaukee,0,0.0
+23220,51,J. Randle misses 2-pt layup from 3 ft,8:36.0,6-11,New York,0,0.0
+23221,51,Offensive rebound by M. Robinson,8:32.0,6-11,New York,0,0.0
+23222,51,M. Robinson makes 2-pt layup at rim,8:32.0,8-11,New York,0,0.0
+23223,51,K. Middleton makes 2-pt jump shot from 9 ft,8:14.0,8-13,Milwaukee,0,0.0
+23224,51,Offensive foul by M. Robinson (drawn by G. Allen),7:56.0,8-13,New York,0,0.0
+23225,51,Turnover by M. Robinson (offensive foul),7:56.0,8-13,New York,0,0.0
+23226,51,N. Noel enters the game for M. Robinson,7:56.0,8-13,New York,0,1.0
+23227,51,G. Allen misses 3-pt jump shot from 23 ft,7:45.0,8-13,Milwaukee,0,0.0
+23228,51,Defensive rebound by N. Noel,7:41.0,8-13,New York,0,0.0
+23229,51,K. Walker makes 2-pt layup from 2 ft,7:38.0,10-13,New York,0,0.0
+23230,51,G. Antetokounmpo makes 2-pt jump shot from 9 ft (assist by G. Allen),7:28.0,10-15,Milwaukee,0,0.0
+23231,51,K. Walker makes 2-pt jump shot from 17 ft,7:18.0,12-15,New York,0,0.0
+23232,51,K. Middleton misses 3-pt jump shot from 26 ft,7:07.0,12-15,Milwaukee,0,0.0
+23233,51,Defensive rebound by K. Walker,7:04.0,12-15,New York,0,0.0
+23234,51,Shooting foul by K. Middleton (drawn by R. Barrett),6:57.0,12-15,New York,0,0.0
+23235,51,Milwaukee full timeout,6:57.0,12-15,Milwaukee,0,0.0
+23236,51,P. Connaughton enters the game for G. Antetokounmpo,6:57.0,12-15,Milwaukee,1,0.0
+23237,51,R. Barrett makes free throw 1 of 2,6:57.0,13-15,New York,0,0.0
+23238,51,R. Barrett makes free throw 2 of 2,6:57.0,14-15,New York,0,0.0
+23239,51,G. Allen makes 3-pt jump shot from 24 ft (assist by J. Holiday),6:40.0,14-18,Milwaukee,0,0.0
+23240,51,E. Fournier makes 3-pt jump shot from 28 ft (assist by K. Walker),6:25.0,17-18,New York,0,0.0
+23241,51,K. Middleton misses 3-pt jump shot from 25 ft,6:13.0,17-18,Milwaukee,0,0.0
+23242,51,Offensive rebound by P. Connaughton,6:09.0,17-18,Milwaukee,0,0.0
+23243,51,B. Portis misses 3-pt jump shot from 26 ft,6:07.0,17-18,Milwaukee,0,0.0
+23244,51,Defensive rebound by J. Randle,6:07.0,17-18,New York,0,0.0
+23245,51,R. Barrett misses 2-pt jump shot from 9 ft,5:47.0,17-18,New York,0,1.0
+23246,51,Offensive rebound by J. Randle,5:44.0,17-18,New York,0,1.0
+23247,51,R. Barrett misses 2-pt jump shot from 15 ft,5:41.0,17-18,New York,0,0.0
+23248,51,Defensive rebound by J. Holiday,5:38.0,17-18,Milwaukee,0,0.0
+23249,51,J. Holiday makes 3-pt jump shot from 26 ft,5:36.0,17-21,Milwaukee,0,0.0
+23250,51,E. Fournier makes 3-pt jump shot from 23 ft (assist by R. Barrett),5:18.0,20-21,New York,0,0.0
+23251,51,B. Portis makes 3-pt jump shot from 27 ft (assist by J. Holiday),5:08.0,20-24,Milwaukee,0,0.0
+23252,51,R. Barrett misses 2-pt layup from 7 ft,4:53.0,20-24,New York,0,0.0
+23253,51,Defensive rebound by Team,4:52.0,20-24,Milwaukee,0,0.0
+23254,51,A. Burks enters the game for K. Walker,4:52.0,20-24,New York,0,0.0
+23255,51,D. DiVincenzo enters the game for G. Allen,4:52.0,20-24,Milwaukee,1,0.0
+23256,51,G. Hill enters the game for J. Holiday,4:52.0,20-24,Milwaukee,1,0.0
+23257,51,Turnover by K. Middleton (bad pass),4:40.0,20-24,Milwaukee,0,1.0
+23258,51,A. Burks misses 3-pt jump shot from 28 ft,4:19.0,20-24,New York,0,1.0
+23259,51,Defensive rebound by K. Middleton,4:16.0,20-24,Milwaukee,0,0.0
+23260,51,P. Connaughton makes 2-pt layup from 3 ft (assist by K. Middleton),4:15.0,20-26,Milwaukee,0,0.0
+23261,51,Turnover by A. Burks (bad pass; steal by P. Connaughton),4:07.0,20-26,New York,0,0.0
+23262,51,Turnover by P. Connaughton (bad pass; steal by R. Barrett),4:07.0,20-26,Milwaukee,0,0.0
+23263,51,R. Barrett makes 3-pt jump shot from 27 ft (assist by A. Burks),3:54.0,23-26,New York,0,0.0
+23264,51,K. Middleton makes 2-pt jump shot from 11 ft,3:41.0,23-28,Milwaukee,0,0.0
+23265,51,Personal foul by P. Connaughton (drawn by R. Barrett),3:32.0,23-28,New York,0,0.0
+23266,51,Q. Grimes enters the game for E. Fournier,3:32.0,23-28,New York,0,0.0
+23267,51,G. Antetokounmpo enters the game for K. Middleton,3:32.0,23-28,Milwaukee,1,0.0
+23268,51,W. Matthews enters the game for B. Portis,3:32.0,23-28,Milwaukee,1,0.0
+23269,51,R. Barrett misses 3-pt jump shot from 24 ft,3:28.0,23-28,New York,0,0.0
+23270,51,Offensive rebound by A. Burks,3:25.0,23-28,New York,0,0.0
+23271,51,N. Noel misses 2-pt hook shot from 5 ft,3:08.0,23-28,New York,0,0.0
+23272,51,Defensive rebound by G. Antetokounmpo,3:05.0,23-28,Milwaukee,0,0.0
+23273,51,P. Connaughton misses 3-pt jump shot from 27 ft,3:01.0,23-28,Milwaukee,0,0.0
+23274,51,Defensive rebound by J. Randle,2:58.0,23-28,New York,0,0.0
+23275,51,Def 3 sec tech foul by Team,2:50.0,23-28,New York,0,0.0
+23276,51,New York full timeout,2:50.0,23-28,New York,0,0.0
+23277,51,A. Burks makes technical free throw,2:50.0,24-28,New York,0,0.0
+23278,51,Turnover by R. Barrett (lost ball; steal by G. Antetokounmpo),2:38.0,24-28,New York,0,1.0
+23279,51,P. Connaughton misses 2-pt jump shot from 14 ft,2:21.0,24-28,Milwaukee,0,0.0
+23280,51,Defensive rebound by N. Noel,2:18.0,24-28,New York,0,0.0
+23281,51,Turnover by J. Randle (bad pass),2:00.0,24-28,New York,0,0.0
+23282,51,W. Matthews makes 2-pt layup from 2 ft (assist by G. Antetokounmpo),1:45.0,24-30,Milwaukee,0,0.0
+23283,51,R. Barrett misses 3-pt jump shot from 27 ft,1:28.0,24-30,New York,0,0.0
+23284,51,Defensive rebound by G. Antetokounmpo,1:24.0,24-30,Milwaukee,0,0.0
+23285,51,G. Antetokounmpo makes 2-pt layup from 2 ft,1:19.0,24-32,Milwaukee,0,0.0
+23286,51,New York full timeout,1:12.0,24-32,New York,0,0.0
+23287,51,I. Quickley enters the game for R. Barrett,1:12.0,24-32,New York,0,0.0
+23288,51,J. Holiday enters the game for P. Connaughton,1:12.0,24-32,Milwaukee,1,0.0
+23289,51,Q. Grimes makes 3-pt jump shot from 29 ft (assist by I. Quickley),1:00.0,27-32,New York,0,0.0
+23290,51,G. Antetokounmpo makes 2-pt jump shot from 15 ft,0:52.0,27-34,Milwaukee,0,0.0
+23291,51,I. Quickley misses 3-pt jump shot from 28 ft,0:42.0,27-34,New York,0,0.0
+23292,51,Defensive rebound by G. Antetokounmpo,0:39.0,27-34,Milwaukee,0,0.0
+23293,51,J. Holiday makes 3-pt jump shot from 23 ft (assist by G. Antetokounmpo),0:33.0,27-37,Milwaukee,0,0.0
+23294,51,I. Quickley makes 3-pt jump shot from 26 ft (assist by J. Randle),0:15.0,30-37,New York,0,0.0
+23295,51,D. DiVincenzo makes 2-pt layup from 2 ft (assist by J. Holiday),0:01.0,30-39,Milwaukee,0,0.0
+23296,51,Turnover by J. Holiday (bad pass; steal by N. Noel),11:47.0,30-39,Milwaukee,0,0.0
+23297,51,Personal foul by W. Matthews (drawn by O. Toppin),11:46.0,30-39,New York,0,0.0
+23298,51,Turnover by N. Noel (lost ball; steal by J. Holiday),11:35.0,30-39,New York,0,0.0
+23299,51,W. Matthews misses 3-pt jump shot from 23 ft,11:28.0,30-39,Milwaukee,0,0.0
+23300,51,Defensive rebound by N. Noel,11:25.0,30-39,New York,0,0.0
+23301,51,I. Quickley misses 2-pt jump shot from 18 ft,11:18.0,30-39,New York,0,0.0
+23302,51,Defensive rebound by G. Antetokounmpo,11:15.0,30-39,Milwaukee,0,0.0
+23303,51,Flagrant foul type 1 by N. Noel (drawn by G. Antetokounmpo),11:10.0,30-39,Milwaukee,0,0.0
+23304,51,Instant Replay (Request: Ruling Stands),11:10.0,30-39,Milwaukee,0,0.0
+23305,51,G. Antetokounmpo makes flagrant free throw 1 of 2,11:10.0,30-40,Milwaukee,0,0.0
+23306,51,G. Antetokounmpo makes flagrant free throw 2 of 2,11:10.0,30-41,Milwaukee,0,0.0
+23307,51,J. Holiday makes 3-pt jump shot from 23 ft,10:54.0,30-44,Milwaukee,0,0.0
+23308,51,A. Burks makes 3-pt jump shot from 27 ft,10:35.0,33-44,New York,0,0.0
+23309,51,Personal foul by N. Noel (drawn by G. Antetokounmpo),10:17.0,33-44,Milwaukee,0,0.0
+23310,51,G. Antetokounmpo misses 3-pt jump shot from 28 ft,10:11.0,33-44,Milwaukee,0,0.0
+23311,51,Defensive rebound by Q. Grimes,10:09.0,33-44,New York,0,0.0
+23312,51,Q. Grimes misses 3-pt jump shot from 27 ft,10:01.0,33-44,New York,0,0.0
+23313,51,Defensive rebound by G. Allen,9:57.0,33-44,Milwaukee,0,1.0
+23314,51,Personal take foul by A. Burks (drawn by G. Antetokounmpo),9:56.0,33-44,Milwaukee,0,1.0
+23315,51,Turnover by G. Antetokounmpo (bad pass; steal by Q. Grimes),9:47.0,33-44,Milwaukee,0,0.0
+23316,51,Q. Grimes makes 3-pt jump shot from 25 ft (assist by A. Burks),9:42.0,36-44,New York,0,0.0
+23317,51,G. Allen makes 3-pt jump shot from 23 ft (assist by G. Antetokounmpo),9:23.0,36-47,Milwaukee,0,0.0
+23318,51,I. Quickley misses 2-pt jump shot from 14 ft,9:10.0,36-47,New York,0,0.0
+23319,51,Defensive rebound by W. Matthews,9:07.0,36-47,Milwaukee,0,0.0
+23320,51,J. Holiday makes 3-pt jump shot from 27 ft,9:03.0,36-50,Milwaukee,0,0.0
+23321,51,New York full timeout,8:53.0,36-50,New York,0,0.0
+23322,51,M. Robinson enters the game for N. Noel,8:53.0,36-50,New York,0,0.0
+23323,51,P. Connaughton enters the game for G. Antetokounmpo,8:53.0,36-50,Milwaukee,1,0.0
+23324,51,K. Middleton enters the game for D. DiVincenzo,8:53.0,36-50,Milwaukee,1,1.0
+23325,51,Q. Grimes makes 2-pt jump shot from 14 ft,8:40.0,38-50,New York,0,0.0
+23326,51,J. Holiday misses 3-pt jump shot from 27 ft,8:28.0,38-50,Milwaukee,0,0.0
+23327,51,Defensive rebound by O. Toppin,8:25.0,38-50,New York,0,0.0
+23328,51,Personal foul by W. Matthews (drawn by A. Burks),8:22.0,38-50,New York,0,0.0
+23329,51,Q. Grimes misses 3-pt jump shot from 29 ft,8:07.0,38-50,New York,0,0.0
+23330,51,Defensive rebound by K. Middleton,8:03.0,38-50,Milwaukee,0,0.0
+23331,51,K. Middleton misses 2-pt jump shot from 15 ft,7:53.0,38-50,Milwaukee,0,1.0
+23332,51,Defensive rebound by M. Robinson,7:50.0,38-50,New York,0,0.0
+23333,51,Turnover by A. Burks (out of bounds lost ball),7:36.0,38-50,New York,0,0.0
+23334,51,B. Portis enters the game for W. Matthews,7:36.0,38-50,Milwaukee,1,0.0
+23335,51,K. Middleton makes 2-pt jump shot from 10 ft (assist by J. Holiday),7:21.0,38-52,Milwaukee,0,0.0
+23336,51,O. Toppin makes 2-pt dunk from 1 ft (assist by I. Quickley),7:02.0,40-52,New York,0,0.0
+23337,51,Shooting foul by A. Burks (drawn by G. Allen),6:57.0,40-52,Milwaukee,0,0.0
+23338,51,G. Allen makes free throw 1 of 2,6:57.0,40-53,Milwaukee,0,0.0
+23339,51,E. Fournier enters the game for A. Burks,6:57.0,40-53,New York,0,0.0
+23340,51,K. Walker enters the game for I. Quickley,6:57.0,40-53,New York,0,0.0
+23341,51,G. Hill enters the game for J. Holiday,6:57.0,40-53,Milwaukee,1,0.0
+23342,51,G. Allen makes free throw 2 of 2,6:57.0,40-54,Milwaukee,0,0.0
+23343,51,O. Toppin makes 2-pt dunk from 2 ft (assist by K. Walker),6:47.0,42-54,New York,0,0.0
+23344,51,Def 3 sec tech foul by Team,6:34.0,42-54,Milwaukee,0,0.0
+23345,51,K. Middleton makes technical free throw,6:34.0,42-55,Milwaukee,0,0.0
+23346,51,K. Middleton misses 2-pt jump shot from 12 ft (block by Q. Grimes),6:26.0,42-55,Milwaukee,0,0.0
+23347,51,Defensive rebound by K. Walker,6:25.0,42-55,New York,0,0.0
+23348,51,Personal foul by G. Hill (drawn by K. Walker),6:25.0,42-55,New York,0,0.0
+23349,51,E. Fournier misses 3-pt jump shot from 26 ft,6:12.0,42-55,New York,0,0.0
+23350,51,Defensive rebound by G. Allen,6:09.0,42-55,Milwaukee,0,0.0
+23351,51,B. Portis misses 3-pt jump shot from 24 ft,5:59.0,42-55,Milwaukee,0,0.0
+23352,51,Defensive rebound by Q. Grimes,5:56.0,42-55,New York,0,0.0
+23353,51,Turnover by Q. Grimes (bad pass; steal by G. Allen),5:51.0,42-55,New York,0,0.0
+23354,51,K. Middleton makes 2-pt jump shot from 15 ft (assist by G. Allen),5:42.0,42-57,Milwaukee,0,0.0
+23355,51,Q. Grimes makes 3-pt jump shot from 30 ft (assist by K. Walker),5:28.0,45-57,New York,0,1.0
+23356,51,P. Connaughton misses 2-pt layup from 3 ft,5:16.0,45-57,Milwaukee,0,1.0
+23357,51,Defensive rebound by O. Toppin,5:14.0,45-57,New York,0,0.0
+23358,51,Turnover by Q. Grimes (bad pass; steal by B. Portis),5:08.0,45-57,New York,0,0.0
+23359,51,G. Allen misses 3-pt jump shot from 24 ft,5:00.0,45-57,Milwaukee,0,0.0
+23360,51,Defensive rebound by E. Fournier,4:57.0,45-57,New York,0,0.0
+23361,51,K. Walker misses 3-pt jump shot from 28 ft,4:51.0,45-57,New York,0,0.0
+23362,51,Offensive rebound by Team,4:50.0,45-57,New York,0,0.0
+23363,51,Loose ball foul by G. Allen (drawn by M. Robinson),4:50.0,45-57,Milwaukee,0,0.0
+23364,51,R. Barrett enters the game for Q. Grimes,4:50.0,45-57,New York,0,0.0
+23365,51,G. Antetokounmpo enters the game for G. Allen,4:50.0,45-57,Milwaukee,1,0.0
+23366,51,D. DiVincenzo enters the game for P. Connaughton,4:50.0,45-57,Milwaukee,1,0.0
+23367,51,M. Robinson makes 2-pt dunk from 2 ft (assist by K. Walker),4:43.0,47-57,New York,0,0.0
+23368,51,K. Middleton misses 3-pt jump shot from 27 ft,4:33.0,47-57,Milwaukee,0,0.0
+23369,51,Defensive rebound by R. Barrett,4:30.0,47-57,New York,0,0.0
+23370,51,R. Barrett makes 2-pt layup from 2 ft,4:21.0,49-57,New York,0,0.0
+23371,51,Milwaukee full timeout,4:13.0,49-57,Milwaukee,0,0.0
+23372,51,J. Randle enters the game for O. Toppin,4:13.0,49-57,New York,0,0.0
+23373,51,B. Portis misses 2-pt jump shot from 18 ft,3:57.0,49-57,Milwaukee,0,0.0
+23374,51,Defensive rebound by K. Walker,3:52.0,49-57,New York,0,0.0
+23375,51,Turnover by K. Walker (bad pass; steal by D. DiVincenzo),3:45.0,49-57,New York,0,0.0
+23376,51,Offensive foul by G. Antetokounmpo (drawn by R. Barrett),3:42.0,49-57,Milwaukee,0,1.0
+23377,51,Turnover by G. Antetokounmpo (offensive foul),3:42.0,49-57,Milwaukee,0,0.0
+23378,51,Shooting foul by G. Antetokounmpo (drawn by R. Barrett),3:27.0,49-57,New York,0,0.0
+23379,51,R. Barrett makes free throw 1 of 2,3:27.0,50-57,New York,0,0.0
+23380,51,R. Barrett makes free throw 2 of 2,3:27.0,51-57,New York,0,1.0
+23381,51,G. Antetokounmpo makes 2-pt dunk from 1 ft (assist by G. Hill),3:08.0,51-59,Milwaukee,0,0.0
+23382,51,R. Barrett makes 3-pt jump shot from 26 ft,2:48.0,54-59,New York,0,0.0
+23383,51,K. Middleton makes 2-pt jump shot from 13 ft (assist by G. Hill),2:38.0,54-61,Milwaukee,0,0.0
+23384,51,Shooting foul by R. Barrett (drawn by K. Middleton),2:38.0,54-61,Milwaukee,0,0.0
+23385,51,N. Noel enters the game for M. Robinson,2:38.0,54-61,New York,0,0.0
+23386,51,J. Holiday enters the game for G. Hill,2:38.0,54-61,Milwaukee,1,0.0
+23387,51,K. Middleton makes free throw 1 of 1,2:38.0,54-62,Milwaukee,0,0.0
+23388,51,E. Fournier makes 2-pt jump shot from 19 ft,2:22.0,56-62,New York,0,0.0
+23389,51,Turnover by G. Antetokounmpo (step out of bounds),2:07.0,56-62,Milwaukee,0,0.0
+23390,51,G. Hill enters the game for K. Middleton,2:07.0,56-62,Milwaukee,1,0.0
+23391,51,J. Randle makes 2-pt layup from 4 ft (assist by R. Barrett),1:56.0,58-62,New York,0,0.0
+23392,51,G. Hill misses 2-pt layup from 3 ft,1:49.0,58-62,Milwaukee,0,0.0
+23393,51,Offensive rebound by B. Portis,1:45.0,58-62,Milwaukee,0,0.0
+23394,51,B. Portis misses 2-pt layup at rim,1:45.0,58-62,Milwaukee,0,1.0
+23395,51,Defensive rebound by J. Randle,1:45.0,58-62,New York,0,0.0
+23396,51,Turnover by J. Randle (bad pass; steal by G. Hill),1:39.0,58-62,New York,0,0.0
+23397,51,G. Hill makes 2-pt layup from 2 ft,1:35.0,58-64,Milwaukee,0,0.0
+23398,51,R. Barrett misses 2-pt jump shot from 13 ft,1:22.0,58-64,New York,0,0.0
+23399,51,Offensive rebound by R. Barrett,1:19.0,58-64,New York,0,0.0
+23400,51,Shooting foul by G. Antetokounmpo (drawn by R. Barrett),1:18.0,58-64,New York,0,1.0
+23401,51,Violation by Team (delay of game),1:18.0,58-64,Milwaukee,0,0.0
+23402,51,R. Barrett misses free throw 1 of 2,1:18.0,58-64,New York,0,0.0
+23403,51,Offensive rebound by Team,1:18.0,58-64,New York,0,0.0
+23404,51,P. Connaughton enters the game for G. Antetokounmpo,1:18.0,58-64,Milwaukee,1,0.0
+23405,51,R. Barrett makes free throw 2 of 2,1:18.0,59-64,New York,0,0.0
+23406,51,Offensive foul by B. Portis (drawn by N. Noel),1:02.0,59-64,Milwaukee,0,0.0
+23407,51,Turnover by B. Portis (offensive foul),1:02.0,59-64,Milwaukee,0,0.0
+23408,51,Personal foul by J. Holiday (drawn by N. Noel),0:56.0,59-64,New York,0,0.0
+23409,51,N. Noel makes free throw 1 of 2,0:56.0,60-64,New York,0,0.0
+23410,51,K. Middleton enters the game for G. Hill,0:56.0,60-64,Milwaukee,1,0.0
+23411,51,N. Noel makes free throw 2 of 2,0:56.0,61-64,New York,0,0.0
+23412,51,J. Holiday misses 2-pt layup from 4 ft,0:40.0,61-64,Milwaukee,0,0.0
+23413,51,Defensive rebound by N. Noel,0:37.0,61-64,New York,0,0.0
+23414,51,J. Randle makes 2-pt jump shot from 12 ft,0:17.0,63-64,New York,0,0.0
+23415,51,P. Connaughton makes 3-pt jump shot from 25 ft (assist by D. DiVincenzo),0:00.0,63-67,Milwaukee,0,0.0
+23416,51,Instant Replay (Request: Ruling Stands),0:00.0,63-67,Milwaukee,0,0.0
+23417,51,Personal foul by J. Randle (drawn by G. Antetokounmpo),11:51.0,63-67,Milwaukee,0,0.0
+23418,51,B. Portis misses 3-pt jump shot from 23 ft,11:36.0,63-67,Milwaukee,0,0.0
+23419,51,Offensive rebound by Team,11:36.0,63-67,Milwaukee,0,0.0
+23420,51,K. Middleton makes 2-pt layup from 1 ft (assist by J. Holiday),11:32.0,63-69,Milwaukee,0,0.0
+23421,51,E. Fournier makes 2-pt jump shot from 12 ft,11:11.0,65-69,New York,0,0.0
+23422,51,J. Holiday misses 2-pt hook shot from 5 ft,10:53.0,65-69,Milwaukee,0,0.0
+23423,51,Offensive rebound by B. Portis,10:49.0,65-69,Milwaukee,0,0.0
+23424,51,B. Portis misses 2-pt layup at rim,10:49.0,65-69,Milwaukee,0,0.0
+23425,51,Defensive rebound by J. Randle,10:49.0,65-69,New York,0,0.0
+23426,51,R. Barrett makes 3-pt jump shot from 24 ft (assist by K. Walker),10:45.0,68-69,New York,0,0.0
+23427,51,J. Holiday makes 2-pt layup from 2 ft (assist by K. Middleton),10:34.0,68-71,Milwaukee,0,0.0
+23428,51,E. Fournier misses 3-pt jump shot from 25 ft,10:15.0,68-71,New York,0,0.0
+23429,51,Defensive rebound by J. Holiday,10:11.0,68-71,Milwaukee,0,0.0
+23430,51,G. Antetokounmpo makes 2-pt dunk from 2 ft (assist by J. Holiday),10:06.0,68-73,Milwaukee,0,0.0
+23431,51,R. Barrett misses 2-pt jump shot from 17 ft,9:37.0,68-73,New York,0,0.0
+23432,51,Defensive rebound by G. Antetokounmpo,9:34.0,68-73,Milwaukee,0,0.0
+23433,51,G. Antetokounmpo misses 3-pt jump shot from 26 ft,9:30.0,68-73,Milwaukee,0,0.0
+23434,51,Defensive rebound by K. Walker,9:27.0,68-73,New York,0,0.0
+23435,51,K. Walker misses 3-pt jump shot from 29 ft,9:23.0,68-73,New York,0,0.0
+23436,51,Offensive rebound by E. Fournier,9:18.0,68-73,New York,0,0.0
+23437,51,K. Walker makes 2-pt layup from 2 ft,9:11.0,70-73,New York,0,0.0
+23438,51,K. Middleton misses 2-pt jump shot from 15 ft,8:52.0,70-73,Milwaukee,0,0.0
+23439,51,Defensive rebound by M. Robinson,8:50.0,70-73,New York,0,0.0
+23440,51,J. Randle misses 3-pt jump shot from 26 ft,8:42.0,70-73,New York,0,0.0
+23441,51,Defensive rebound by G. Allen,8:37.0,70-73,Milwaukee,0,0.0
+23442,51,J. Holiday misses 3-pt jump shot from 27 ft,8:32.0,70-73,Milwaukee,0,0.0
+23443,51,Defensive rebound by J. Randle,8:28.0,70-73,New York,0,0.0
+23444,51,R. Barrett misses 3-pt jump shot from 26 ft,8:18.0,70-73,New York,0,1.0
+23445,51,Defensive rebound by Team,8:18.0,70-73,Milwaukee,0,0.0
+23446,51,Personal foul by K. Walker (drawn by G. Antetokounmpo),8:00.0,70-73,Milwaukee,0,0.0
+23447,51,Shooting foul by E. Fournier (drawn by J. Holiday),7:49.0,70-73,Milwaukee,0,0.0
+23448,51,J. Holiday makes free throw 1 of 2,7:49.0,70-74,Milwaukee,0,1.0
+23449,51,J. Holiday makes free throw 2 of 2,7:49.0,70-75,Milwaukee,0,0.0
+23450,51,E. Fournier misses 3-pt jump shot from 27 ft,7:34.0,70-75,New York,0,0.0
+23451,51,Defensive rebound by B. Portis,7:30.0,70-75,Milwaukee,0,0.0
+23452,51,Shooting foul by M. Robinson (drawn by G. Antetokounmpo),7:19.0,70-75,Milwaukee,0,0.0
+23453,51,G. Antetokounmpo makes free throw 1 of 2,7:19.0,70-76,Milwaukee,0,0.0
+23454,51,P. Connaughton enters the game for K. Middleton,7:19.0,70-76,Milwaukee,1,0.0
+23455,51,G. Antetokounmpo makes free throw 2 of 2,7:19.0,70-77,Milwaukee,0,0.0
+23456,51,J. Randle makes 2-pt layup from 1 ft (assist by K. Walker),7:11.0,72-77,New York,0,0.0
+23457,51,Milwaukee full timeout,7:06.0,72-77,Milwaukee,0,0.0
+23458,51,K. Middleton enters the game for G. Antetokounmpo,7:06.0,72-77,Milwaukee,1,0.0
+23459,51,Turnover by J. Holiday (bad pass; steal by R. Barrett),6:58.0,72-77,Milwaukee,0,0.0
+23460,51,R. Barrett makes 2-pt dunk from 2 ft (assist by E. Fournier),6:54.0,74-77,New York,0,1.0
+23461,51,K. Middleton misses 3-pt jump shot from 23 ft,6:43.0,74-77,Milwaukee,0,0.0
+23462,51,Defensive rebound by J. Randle,6:40.0,74-77,New York,0,0.0
+23463,51,J. Randle misses 2-pt layup at rim,6:30.0,74-77,New York,0,0.0
+23464,51,Defensive rebound by K. Middleton,6:27.0,74-77,Milwaukee,0,0.0
+23465,51,J. Holiday makes 2-pt jump shot from 8 ft,6:14.0,74-79,Milwaukee,0,0.0
+23466,51,R. Barrett misses 2-pt jump shot from 7 ft,5:50.0,74-79,New York,0,0.0
+23467,51,Offensive rebound by M. Robinson,5:48.0,74-79,New York,0,0.0
+23468,51,E. Fournier makes 2-pt layup from 1 ft,5:40.0,76-79,New York,0,0.0
+23469,51,Shooting foul by P. Connaughton (drawn by E. Fournier),5:40.0,76-79,New York,0,0.0
+23470,51,D. DiVincenzo enters the game for G. Allen,5:40.0,76-79,Milwaukee,1,0.0
+23471,51,E. Fournier misses free throw 1 of 1,5:40.0,76-79,New York,0,0.0
+23472,51,Defensive rebound by K. Middleton,5:36.0,76-79,Milwaukee,0,0.0
+23473,51,Shooting foul by R. Barrett (drawn by J. Holiday),5:19.0,76-79,Milwaukee,0,0.0
+23474,51,J. Holiday makes free throw 1 of 2,5:19.0,76-80,Milwaukee,0,0.0
+23475,51,J. Holiday makes free throw 2 of 2,5:19.0,76-81,Milwaukee,0,1.0
+23476,51,Personal foul by K. Middleton (drawn by J. Randle),5:09.0,76-81,New York,0,1.0
+23477,51,E. Fournier makes 3-pt jump shot from 25 ft,4:59.0,79-81,New York,0,1.0
+23478,51,D. DiVincenzo makes 2-pt jump shot from 11 ft (assist by J. Holiday),4:49.0,79-83,Milwaukee,0,0.0
+23479,51,Turnover by J. Randle (lost ball; steal by K. Middleton),4:29.0,79-83,New York,0,0.0
+23480,51,D. DiVincenzo misses 3-pt jump shot from 23 ft,4:22.0,79-83,Milwaukee,0,0.0
+23481,51,Defensive rebound by E. Fournier,4:19.0,79-83,New York,0,0.0
+23482,51,Shooting foul by K. Middleton (drawn by M. Robinson),4:14.0,79-83,New York,0,0.0
+23483,51,M. Robinson makes free throw 1 of 2,4:14.0,80-83,New York,0,0.0
+23484,51,A. Burks enters the game for K. Walker,4:14.0,80-83,New York,0,0.0
+23485,51,G. Antetokounmpo enters the game for J. Holiday,4:14.0,80-83,Milwaukee,1,0.0
+23486,51,G. Hill enters the game for K. Middleton,4:14.0,80-83,Milwaukee,1,0.0
+23487,51,W. Matthews enters the game for B. Portis,4:14.0,80-83,Milwaukee,1,0.0
+23488,51,M. Robinson misses free throw 2 of 2,4:14.0,80-83,New York,0,0.0
+23489,51,Defensive rebound by P. Connaughton,4:11.0,80-83,Milwaukee,0,0.0
+23490,51,Turnover by G. Antetokounmpo (out of bounds lost ball),4:03.0,80-83,Milwaukee,0,0.0
+23491,51,N. Noel enters the game for M. Robinson,4:03.0,80-83,New York,0,0.0
+23492,51,R. Barrett misses 2-pt hook shot from 7 ft,3:47.0,80-83,New York,0,0.0
+23493,51,Offensive rebound by E. Fournier,3:45.0,80-83,New York,0,0.0
+23494,51,J. Randle makes 2-pt layup from 1 ft (assist by E. Fournier),3:40.0,82-83,New York,0,0.0
+23495,51,Q. Grimes enters the game for E. Fournier,3:40.0,82-83,New York,0,0.0
+23496,51,Shooting foul by N. Noel (drawn by G. Antetokounmpo),3:19.0,82-83,Milwaukee,0,0.0
+23497,51,G. Antetokounmpo makes free throw 1 of 2,3:19.0,82-84,Milwaukee,0,0.0
+23498,51,G. Antetokounmpo makes free throw 2 of 2,3:19.0,82-85,Milwaukee,0,0.0
+23499,51,Turnover by R. Barrett (bad pass; steal by G. Hill),3:09.0,82-85,New York,0,0.0
+23500,51,G. Hill misses 3-pt jump shot from 27 ft,2:47.0,82-85,Milwaukee,0,0.0
+23501,51,Defensive rebound by R. Barrett,2:44.0,82-85,New York,0,0.0
+23502,51,Shooting foul by W. Matthews (drawn by J. Randle),2:40.0,82-85,New York,0,0.0
+23503,51,New York full timeout,2:40.0,82-85,New York,0,0.0
+23504,51,J. Randle makes free throw 1 of 2,2:40.0,83-85,New York,0,0.0
+23505,51,J. Randle misses free throw 2 of 2,2:40.0,83-85,New York,0,0.0
+23506,51,Defensive rebound by G. Antetokounmpo,2:36.0,83-85,Milwaukee,0,0.0
+23507,51,P. Connaughton misses 2-pt layup from 5 ft (block by N. Noel),2:21.0,83-85,Milwaukee,0,0.0
+23508,51,Defensive rebound by A. Burks,2:18.0,83-85,New York,0,0.0
+23509,51,A. Burks misses 3-pt jump shot from 26 ft,2:15.0,83-85,New York,0,0.0
+23510,51,Defensive rebound by G. Antetokounmpo,2:13.0,83-85,Milwaukee,0,0.0
+23511,51,G. Hill makes 3-pt jump shot from 25 ft (assist by G. Antetokounmpo),2:04.0,83-88,Milwaukee,0,0.0
+23512,51,N. Noel makes 2-pt layup from 1 ft (assist by R. Barrett),1:45.0,85-88,New York,0,0.0
+23513,51,W. Matthews misses 3-pt jump shot from 26 ft,1:30.0,85-88,Milwaukee,0,0.0
+23514,51,Defensive rebound by A. Burks,1:27.0,85-88,New York,0,1.0
+23515,51,J. Randle misses 2-pt jump shot from 12 ft,1:18.0,85-88,New York,0,0.0
+23516,51,Defensive rebound by G. Hill,1:16.0,85-88,Milwaukee,0,0.0
+23517,51,G. Antetokounmpo misses 2-pt layup from 3 ft,1:09.0,85-88,Milwaukee,0,0.0
+23518,51,Defensive rebound by N. Noel,1:06.0,85-88,New York,0,0.0
+23519,51,R. Barrett misses 3-pt jump shot from 24 ft,1:02.0,85-88,New York,0,0.0
+23520,51,Defensive rebound by G. Hill,1:02.0,85-88,Milwaukee,0,0.0
+23521,51,Personal foul by Q. Grimes (drawn by G. Hill),0:59.0,85-88,Milwaukee,0,0.0
+23522,51,G. Hill makes free throw 1 of 2,0:59.0,85-89,Milwaukee,0,0.0
+23523,51,I. Quickley enters the game for R. Barrett,0:59.0,85-89,New York,0,0.0
+23524,51,J. Holiday enters the game for P. Connaughton,0:59.0,85-89,Milwaukee,1,0.0
+23525,51,G. Hill makes free throw 2 of 2,0:59.0,85-90,Milwaukee,0,0.0
+23526,51,Q. Grimes misses 3-pt jump shot from 26 ft,0:45.0,85-90,New York,0,0.0
+23527,51,Defensive rebound by G. Antetokounmpo,0:42.0,85-90,Milwaukee,0,0.0
+23528,51,Personal foul by I. Quickley (drawn by G. Antetokounmpo),0:41.0,85-90,Milwaukee,0,0.0
+23529,51,Instant Replay (Request: Stands),0:41.0,85-90,Milwaukee,0,0.0
+23530,51,G. Antetokounmpo makes free throw 1 of 2,0:41.0,85-91,Milwaukee,0,0.0
+23531,51,G. Antetokounmpo misses free throw 2 of 2,0:41.0,85-91,Milwaukee,0,0.0
+23532,51,Offensive rebound by Team,0:40.0,85-91,Milwaukee,0,0.0
+23533,51,D. DiVincenzo misses 3-pt jump shot from 23 ft,0:31.0,85-91,Milwaukee,0,0.0
+23534,51,Defensive rebound by Team,0:31.0,85-91,New York,0,0.0
+23535,51,Loose ball foul by W. Matthews (drawn by N. Noel),0:31.0,85-91,Milwaukee,0,0.0
+23536,51,N. Noel misses free throw 1 of 2,0:31.0,85-91,New York,0,0.0
+23537,51,Offensive rebound by Team,0:31.0,85-91,New York,0,0.0
+23538,51,N. Noel makes free throw 2 of 2,0:31.0,86-91,New York,0,0.0
+23539,51,G. Antetokounmpo makes 2-pt jump shot from 19 ft,0:26.0,86-93,Milwaukee,0,1.0
+23540,51,A. Burks makes 2-pt layup from 1 ft (assist by N. Noel),0:03.0,88-93,New York,0,0.0
+23541,51,A. Burks makes 3-pt jump shot from 27 ft,11:44.0,91-93,New York,0,0.0
+23542,51,J. Holiday makes 2-pt layup from 1 ft,11:31.0,91-95,Milwaukee,0,0.0
+23543,51,Personal foul by W. Matthews (drawn by N. Noel),11:21.0,91-95,New York,0,0.0
+23544,51,Q. Grimes misses 3-pt jump shot from 24 ft,11:06.0,91-95,New York,0,0.0
+23545,51,Defensive rebound by D. DiVincenzo,11:03.0,91-95,Milwaukee,0,0.0
+23546,51,G. Antetokounmpo makes 2-pt dunk from 1 ft (assist by D. DiVincenzo),10:56.0,91-97,Milwaukee,0,0.0
+23547,51,I. Quickley makes 2-pt jump shot from 11 ft,10:34.0,93-97,New York,0,0.0
+23548,51,Personal foul by N. Noel (drawn by G. Antetokounmpo),10:14.0,93-97,Milwaukee,0,1.0
+23549,51,B. Portis enters the game for W. Matthews,10:14.0,93-97,Milwaukee,1,0.0
+23550,51,J. Holiday misses 3-pt jump shot from 27 ft,10:08.0,93-97,Milwaukee,0,0.0
+23551,51,Offensive rebound by G. Antetokounmpo,10:05.0,93-97,Milwaukee,0,0.0
+23552,51,G. Antetokounmpo makes 2-pt jump shot from 14 ft,10:03.0,93-99,Milwaukee,0,0.0
+23553,51,O. Toppin misses 3-pt jump shot from 29 ft,9:41.0,93-99,New York,0,0.0
+23554,51,Defensive rebound by B. Portis,9:36.0,93-99,Milwaukee,0,0.0
+23555,51,G. Antetokounmpo makes 3-pt jump shot from 26 ft,9:29.0,93-102,Milwaukee,0,0.0
+23556,51,New York full timeout,9:28.0,93-102,New York,0,0.0
+23557,51,J. Randle enters the game for N. Noel,9:28.0,93-102,New York,0,0.0
+23558,51,K. Middleton enters the game for D. DiVincenzo,9:28.0,93-102,Milwaukee,1,0.0
+23559,51,Shooting foul by K. Middleton (drawn by A. Burks),9:16.0,93-102,New York,0,0.0
+23560,51,A. Burks misses free throw 1 of 2,9:16.0,93-102,New York,0,0.0
+23561,51,Offensive rebound by Team,9:16.0,93-102,New York,0,0.0
+23562,51,A. Burks makes free throw 2 of 2,9:16.0,94-102,New York,0,0.0
+23563,51,Personal foul by J. Randle (drawn by G. Antetokounmpo),9:05.0,94-102,Milwaukee,0,0.0
+23564,51,B. Portis misses 3-pt jump shot from 26 ft,8:53.0,94-102,Milwaukee,0,0.0
+23565,51,Defensive rebound by J. Randle,8:50.0,94-102,New York,0,0.0
+23566,51,O. Toppin misses 2-pt layup from 3 ft (block by B. Portis),8:33.0,94-102,New York,0,0.0
+23567,51,Defensive rebound by K. Middleton,8:30.0,94-102,Milwaukee,0,0.0
+23568,51,G. Allen misses 3-pt jump shot from 26 ft,8:27.0,94-102,Milwaukee,0,0.0
+23569,51,Offensive rebound by G. Antetokounmpo,8:25.0,94-102,Milwaukee,0,1.0
+23570,51,G. Allen makes 3-pt jump shot from 27 ft (assist by G. Antetokounmpo),8:20.0,94-105,Milwaukee,0,0.0
+23571,51,I. Quickley misses 3-pt jump shot from 31 ft,8:02.0,94-105,New York,0,0.0
+23572,51,Defensive rebound by J. Holiday,7:59.0,94-105,Milwaukee,0,0.0
+23573,51,Shooting foul by J. Randle (drawn by K. Middleton),7:55.0,94-105,Milwaukee,0,0.0
+23574,51,K. Middleton makes free throw 1 of 3,7:55.0,94-106,Milwaukee,0,0.0
+23575,51,K. Middleton makes free throw 2 of 3,7:55.0,94-107,Milwaukee,0,0.0
+23576,51,R. Barrett enters the game for A. Burks,7:55.0,94-107,New York,0,0.0
+23577,51,E. Fournier enters the game for Q. Grimes,7:55.0,94-107,New York,0,0.0
+23578,51,K. Walker enters the game for I. Quickley,7:55.0,94-107,New York,0,0.0
+23579,51,P. Connaughton enters the game for G. Antetokounmpo,7:55.0,94-107,Milwaukee,1,0.0
+23580,51,K. Middleton makes free throw 3 of 3,7:55.0,94-108,Milwaukee,0,0.0
+23581,51,Shooting foul by K. Middleton (drawn by O. Toppin),7:31.0,94-108,New York,0,0.0
+23582,51,O. Toppin misses free throw 1 of 2,7:31.0,94-108,New York,0,0.0
+23583,51,Offensive rebound by Team,7:31.0,94-108,New York,0,0.0
+23584,51,O. Toppin makes free throw 2 of 2,7:31.0,95-108,New York,0,0.0
+23585,51,B. Portis misses 2-pt dunk from 2 ft,7:17.0,95-108,Milwaukee,0,1.0
+23586,51,Offensive rebound by G. Allen,7:13.0,95-108,Milwaukee,0,0.0
+23587,51,K. Middleton misses 3-pt jump shot from 26 ft,7:11.0,95-108,Milwaukee,0,0.0
+23588,51,Defensive rebound by E. Fournier,7:11.0,95-108,New York,0,0.0
+23589,51,R. Barrett makes 2-pt layup from 1 ft (assist by E. Fournier),7:02.0,97-108,New York,0,0.0
+23590,51,K. Middleton misses 2-pt layup from 3 ft,6:49.0,97-108,Milwaukee,0,0.0
+23591,51,Offensive rebound by K. Middleton,6:48.0,97-108,Milwaukee,0,1.0
+23592,51,K. Middleton misses 2-pt layup at rim,6:47.0,97-108,Milwaukee,0,0.0
+23593,51,Offensive rebound by Team,6:47.0,97-108,Milwaukee,0,0.0
+23594,51,M. Robinson enters the game for O. Toppin,6:47.0,97-108,New York,0,0.0
+23595,51,G. Antetokounmpo enters the game for B. Portis,6:47.0,97-108,Milwaukee,1,0.0
+23596,51,G. Allen makes 2-pt jump shot from 9 ft (assist by P. Connaughton),6:40.0,97-110,Milwaukee,0,0.0
+23597,51,E. Fournier misses 3-pt jump shot from 26 ft,6:20.0,97-110,New York,0,0.0
+23598,51,Defensive rebound by J. Holiday,6:16.0,97-110,Milwaukee,0,0.0
+23599,51,K. Middleton makes 3-pt jump shot from 23 ft (assist by J. Holiday),6:07.0,97-113,Milwaukee,0,0.0
+23600,51,New York full timeout,6:06.0,97-113,New York,0,0.0
+23601,51,D. DiVincenzo enters the game for J. Holiday,6:06.0,97-113,Milwaukee,1,0.0
+23602,51,K. Walker misses 3-pt jump shot from 26 ft,5:59.0,97-113,New York,0,0.0
+23603,51,Defensive rebound by G. Antetokounmpo,5:56.0,97-113,Milwaukee,0,0.0
+23604,51,G. Allen misses 3-pt jump shot from 23 ft,5:50.0,97-113,Milwaukee,0,1.0
+23605,51,Defensive rebound by K. Walker,5:48.0,97-113,New York,0,0.0
+23606,51,Personal take foul by D. DiVincenzo (drawn by K. Walker),5:48.0,97-113,New York,0,0.0
+23607,51,E. Fournier makes 3-pt jump shot from 26 ft (assist by K. Walker),5:39.0,100-113,New York,0,0.0
+23608,51,G. Antetokounmpo misses 2-pt layup from 6 ft (block by M. Robinson),5:22.0,100-113,Milwaukee,0,0.0
+23609,51,Offensive rebound by G. Antetokounmpo,5:21.0,100-113,Milwaukee,0,0.0
+23610,51,Turnover by K. Middleton (lost ball; steal by E. Fournier),5:19.0,100-113,Milwaukee,0,0.0
+23611,51,E. Fournier misses 2-pt layup from 1 ft,5:13.0,100-113,New York,0,0.0
+23612,51,Defensive rebound by P. Connaughton,5:10.0,100-113,Milwaukee,0,0.0
+23613,51,Milwaukee full timeout,5:05.0,100-113,Milwaukee,0,0.0
+23614,51,J. Holiday enters the game for G. Allen,5:05.0,100-113,Milwaukee,1,0.0
+23615,51,Turnover by D. DiVincenzo (bad pass; steal by K. Walker),4:57.0,100-113,Milwaukee,0,0.0
+23616,51,Personal foul by J. Holiday (drawn by R. Barrett),4:56.0,100-113,New York,0,0.0
+23617,51,R. Barrett makes free throw 1 of 2,4:56.0,101-113,New York,0,0.0
+23618,51,R. Barrett makes free throw 2 of 2,4:56.0,102-113,New York,0,0.0
+23619,51,D. DiVincenzo misses 2-pt layup from 3 ft (block by E. Fournier),4:38.0,102-113,Milwaukee,0,0.0
+23620,51,Defensive rebound by E. Fournier,4:36.0,102-113,New York,0,1.0
+23621,51,E. Fournier makes 3-pt jump shot from 29 ft (assist by J. Randle),4:25.0,105-113,New York,0,0.0
+23622,51,G. Antetokounmpo misses 2-pt jump shot from 15 ft,4:03.0,105-113,Milwaukee,0,0.0
+23623,51,Offensive rebound by P. Connaughton,4:01.0,105-113,Milwaukee,0,0.0
+23624,51,J. Holiday misses 3-pt jump shot from 29 ft,3:59.0,105-113,Milwaukee,0,0.0
+23625,51,Defensive rebound by Team,3:58.0,105-113,New York,0,0.0
+23626,51,Loose ball foul by G. Antetokounmpo (drawn by M. Robinson),3:58.0,105-113,Milwaukee,0,0.0
+23627,51,M. Robinson misses free throw 1 of 2,3:58.0,105-113,New York,0,0.0
+23628,51,Offensive rebound by Team,3:58.0,105-113,New York,0,0.0
+23629,51,Milwaukee full timeout,3:58.0,105-113,Milwaukee,0,0.0
+23630,51,G. Allen enters the game for D. DiVincenzo,3:58.0,105-113,Milwaukee,1,0.0
+23631,51,M. Robinson misses free throw 2 of 2,3:58.0,105-113,New York,0,0.0
+23632,51,Defensive rebound by K. Middleton,3:54.0,105-113,Milwaukee,0,0.0
+23633,51,Personal foul by E. Fournier (drawn by P. Connaughton),3:42.0,105-113,Milwaukee,0,0.0
+23634,51,Shooting foul by M. Robinson (drawn by G. Antetokounmpo),3:37.0,105-113,Milwaukee,0,0.0
+23635,51,G. Antetokounmpo makes free throw 1 of 2,3:37.0,105-114,Milwaukee,0,0.0
+23636,51,G. Antetokounmpo misses free throw 2 of 2,3:37.0,105-114,Milwaukee,0,0.0
+23637,51,Defensive rebound by J. Randle,3:34.0,105-114,New York,0,0.0
+23638,51,E. Fournier misses 3-pt jump shot from 26 ft,3:23.0,105-114,New York,0,0.0
+23639,51,Defensive rebound by G. Allen,3:20.0,105-114,Milwaukee,0,0.0
+23640,51,G. Antetokounmpo misses 3-pt jump shot from 29 ft,3:04.0,105-114,Milwaukee,0,0.0
+23641,51,Defensive rebound by J. Randle,3:01.0,105-114,New York,0,0.0
+23642,51,R. Barrett misses 2-pt jump shot from 14 ft,2:54.0,105-114,New York,0,0.0
+23643,51,Defensive rebound by G. Allen,2:51.0,105-114,Milwaukee,0,0.0
+23644,51,K. Middleton misses 3-pt jump shot from 24 ft,2:32.0,105-114,Milwaukee,0,0.0
+23645,51,Offensive rebound by P. Connaughton,2:30.0,105-114,Milwaukee,0,0.0
+23646,51,G. Antetokounmpo misses 3-pt jump shot from 25 ft,2:21.0,105-114,Milwaukee,0,0.0
+23647,51,Offensive rebound by G. Allen,2:17.0,105-114,Milwaukee,0,0.0
+23648,51,Personal foul by E. Fournier (drawn by G. Antetokounmpo),2:14.0,105-114,Milwaukee,0,0.0
+23649,51,G. Antetokounmpo makes free throw 1 of 2,2:14.0,105-115,Milwaukee,0,0.0
+23650,51,G. Antetokounmpo makes free throw 2 of 2,2:14.0,105-116,Milwaukee,0,0.0
+23651,51,E. Fournier misses 2-pt jump shot from 18 ft,2:03.0,105-116,New York,0,0.0
+23652,51,Offensive rebound by M. Robinson,2:03.0,105-116,New York,0,0.0
+23653,51,Shooting foul by G. Antetokounmpo (drawn by M. Robinson),2:03.0,105-116,New York,0,0.0
+23654,51,M. Robinson misses free throw 1 of 2,2:03.0,105-116,New York,0,0.0
+23655,51,Offensive rebound by Team,2:03.0,105-116,New York,0,1.0
+23656,51,M. Robinson misses free throw 2 of 2,2:03.0,105-116,New York,0,1.0
+23657,51,Defensive rebound by G. Antetokounmpo,2:00.0,105-116,Milwaukee,0,1.0
+23658,51,G. Antetokounmpo makes 2-pt jump shot from 18 ft (assist by J. Holiday),1:40.0,105-118,Milwaukee,0,1.0
+23659,51,E. Fournier misses 3-pt jump shot from 27 ft,1:28.0,105-118,New York,0,0.0
+23660,51,Defensive rebound by J. Holiday,1:23.0,105-118,Milwaukee,0,0.0
+23661,51,J. Holiday misses 3-pt jump shot from 27 ft,1:08.0,105-118,Milwaukee,0,0.0
+23662,51,Offensive rebound by Team,1:08.0,105-118,Milwaukee,0,0.0
+23663,51,Loose ball foul by E. Fournier (drawn by G. Allen),1:08.0,105-118,New York,0,0.0
+23664,51,G. Allen makes free throw 1 of 2,1:08.0,105-119,Milwaukee,0,1.0
+23665,51,T. Antetokounmpo enters the game for G. Antetokounmpo,1:08.0,105-119,Milwaukee,1,0.0
+23666,51,D. DiVincenzo enters the game for P. Connaughton,1:08.0,105-119,Milwaukee,1,0.0
+23667,51,J. Nwora enters the game for J. Holiday,1:08.0,105-119,Milwaukee,1,0.0
+23668,51,L. Wigginton enters the game for K. Middleton,1:08.0,105-119,Milwaukee,1,0.0
+23669,51,G. Allen makes free throw 2 of 2,1:08.0,105-120,Milwaukee,0,0.0
+23670,51,Shooting foul by L. Wigginton (drawn by R. Barrett),1:03.0,105-120,New York,0,0.0
+23671,51,R. Barrett misses free throw 1 of 2,1:03.0,105-120,New York,0,
+23672,51,Offensive rebound by Team,1:03.0,105-120,New York,0,
+23673,51,O. Toppin enters the game for J. Randle,1:03.0,105-120,New York,0,
+23674,51,S. Mamukelashvili enters the game for G. Allen,1:03.0,105-120,Milwaukee,1,
+23675,51,R. Barrett makes free throw 2 of 2,1:03.0,106-120,New York,0,
+23676,51,S. Mamukelashvili makes 3-pt jump shot from 27 ft (assist by D. DiVincenzo),0:50.0,106-123,Milwaukee,0,
+23677,51,E. Fournier misses 3-pt jump shot from 26 ft,0:34.0,106-123,New York,0,
+23678,51,Offensive rebound by E. Fournier,0:32.0,106-123,New York,0,
+23679,51,E. Fournier makes 2-pt layup at rim,0:31.0,108-123,New York,0,
+23680,51,Turnover by Team (shot clock),0:07.0,108-123,Milwaukee,0,

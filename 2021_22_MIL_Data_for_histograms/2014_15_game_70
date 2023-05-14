@@ -1,0 +1,474 @@
+,game number,play,time,score,team,current_sub_status,future_sub_status
+32081,70,G. Allen misses 3-pt jump shot from 25 ft,11:43.0,0-0,Milwaukee,0,0.0
+32082,70,Defensive rebound by T. Lyles,11:40.0,0-0,Sacramento,0,0.0
+32083,70,D. Fox misses 3-pt jump shot from 25 ft,11:29.0,0-0,Sacramento,0,0.0
+32084,70,Defensive rebound by B. Portis,11:25.0,0-0,Milwaukee,0,0.0
+32085,70,Personal foul by T. Lyles (drawn by G. Antetokounmpo),11:23.0,0-0,Milwaukee,0,0.0
+32086,70,K. Middleton makes 3-pt jump shot from 25 ft,11:10.0,3-0,Milwaukee,0,0.0
+32087,70,J. Holiday misses 3-pt jump shot from 24 ft,10:53.0,3-0,Sacramento,0,0.0
+32088,70,Defensive rebound by B. Portis,10:50.0,3-0,Milwaukee,0,0.0
+32089,70,B. Portis makes 2-pt jump shot from 17 ft,10:36.0,5-0,Milwaukee,0,0.0
+32090,70,D. Sabonis makes 2-pt layup from 3 ft (assist by D. Fox),10:25.0,5-2,Sacramento,0,0.0
+32091,70,G. Antetokounmpo misses 2-pt layup from 3 ft,10:15.0,5-2,Milwaukee,0,0.0
+32092,70,Defensive rebound by T. Lyles,10:11.0,5-2,Sacramento,0,0.0
+32093,70,H. Barnes misses 3-pt jump shot from 23 ft,10:07.0,5-2,Sacramento,0,0.0
+32094,70,Defensive rebound by K. Middleton,10:04.0,5-2,Milwaukee,0,0.0
+32095,70,K. Middleton makes 2-pt jump shot from 6 ft,9:57.0,7-2,Milwaukee,0,0.0
+32096,70,H. Barnes makes 2-pt layup from 4 ft (assist by J. Holiday),9:41.0,7-4,Sacramento,0,0.0
+32097,70,Shooting foul by G. Allen (drawn by H. Barnes),9:41.0,7-4,Sacramento,0,0.0
+32098,70,H. Barnes makes free throw 1 of 1,9:41.0,7-5,Sacramento,0,0.0
+32099,70,J. Holiday misses 3-pt jump shot from 25 ft,9:33.0,7-5,Milwaukee,0,0.0
+32100,70,Defensive rebound by T. Lyles,9:30.0,7-5,Sacramento,0,0.0
+32101,70,D. Fox makes 3-pt jump shot from 26 ft (assist by D. Sabonis),9:19.0,7-8,Sacramento,0,0.0
+32102,70,G. Antetokounmpo makes 2-pt dunk from 1 ft (assist by K. Middleton),9:08.0,9-8,Milwaukee,0,0.0
+32103,70,Turnover by D. Sabonis (lost ball; steal by J. Holiday),9:00.0,9-8,Sacramento,0,0.0
+32104,70,Turnover by J. Holiday (bad pass; steal by D. Fox),8:57.0,9-8,Milwaukee,0,0.0
+32105,70,D. Sabonis misses 2-pt hook shot from 9 ft,8:46.0,9-8,Sacramento,0,0.0
+32106,70,Defensive rebound by G. Antetokounmpo,8:42.0,9-8,Milwaukee,0,1.0
+32107,70,Offensive foul by G. Antetokounmpo (drawn by T. Lyles),8:42.0,9-8,Milwaukee,0,0.0
+32108,70,Turnover by G. Antetokounmpo (offensive foul),8:42.0,9-8,Milwaukee,0,0.0
+32109,70,Violation by Team (kicked ball),8:36.0,9-8,Milwaukee,0,0.0
+32110,70,T. Lyles makes 3-pt jump shot from 23 ft (assist by D. Fox),8:29.0,9-11,Sacramento,0,0.0
+32111,70,G. Antetokounmpo misses 2-pt jump shot from 4 ft,8:13.0,9-11,Milwaukee,0,0.0
+32112,70,Offensive rebound by G. Antetokounmpo,8:12.0,9-11,Milwaukee,0,0.0
+32113,70,G. Antetokounmpo makes 2-pt layup from 2 ft,8:12.0,11-11,Milwaukee,0,0.0
+32114,70,D. Fox misses 3-pt jump shot from 25 ft,8:02.0,11-11,Sacramento,0,0.0
+32115,70,Defensive rebound by Team,8:02.0,11-11,Milwaukee,0,0.0
+32116,70,S. Ibaka enters the game for B. Portis,8:02.0,11-11,Milwaukee,1,0.0
+32117,70,K. Middleton misses 2-pt jump shot from 8 ft (block by H. Barnes),7:51.0,11-11,Milwaukee,0,0.0
+32118,70,Defensive rebound by T. Lyles,7:48.0,11-11,Sacramento,0,0.0
+32119,70,J. Holiday misses 3-pt jump shot from 23 ft,7:42.0,11-11,Sacramento,0,0.0
+32120,70,Defensive rebound by Team,7:38.0,11-11,Milwaukee,0,1.0
+32121,70,G. Allen makes 3-pt jump shot from 26 ft (assist by J. Holiday),7:29.0,14-11,Milwaukee,0,0.0
+32122,70,J. Holiday misses 3-pt jump shot from 26 ft,7:14.0,14-11,Sacramento,0,0.0
+32123,70,Defensive rebound by G. Antetokounmpo,7:09.0,14-11,Milwaukee,0,0.0
+32124,70,G. Antetokounmpo misses 3-pt jump shot from 25 ft,7:07.0,14-11,Milwaukee,0,0.0
+32125,70,Defensive rebound by J. Holiday,7:02.0,14-11,Sacramento,0,0.0
+32126,70,D. Fox makes 2-pt jump shot from 9 ft,6:54.0,14-13,Sacramento,0,0.0
+32127,70,J. Holiday misses 2-pt jump shot from 12 ft,6:34.0,14-13,Milwaukee,0,0.0
+32128,70,Defensive rebound by Team,6:33.0,14-13,Sacramento,0,0.0
+32129,70,Sacramento full timeout,6:33.0,14-13,Sacramento,0,0.0
+32130,70,G. Hill enters the game for J. Holiday,6:33.0,14-13,Milwaukee,1,1.0
+32131,70,R. Holmes enters the game for J. Holiday,6:33.0,14-13,Sacramento,0,0.0
+32132,70,D. Mitchell enters the game for T. Lyles,6:33.0,14-13,Sacramento,0,0.0
+32133,70,D. Sabonis makes 2-pt jump shot from 15 ft (assist by D. Fox),6:22.0,14-15,Sacramento,0,0.0
+32134,70,S. Ibaka misses 2-pt layup from 3 ft (block by R. Holmes),6:07.0,14-15,Milwaukee,0,0.0
+32135,70,Defensive rebound by H. Barnes,6:03.0,14-15,Sacramento,0,0.0
+32136,70,H. Barnes misses 3-pt jump shot from 25 ft,5:58.0,14-15,Sacramento,0,0.0
+32137,70,Defensive rebound by S. Ibaka,5:55.0,14-15,Milwaukee,0,0.0
+32138,70,Shooting foul by R. Holmes (drawn by G. Antetokounmpo),5:45.0,14-15,Milwaukee,0,0.0
+32139,70,G. Antetokounmpo makes free throw 1 of 2,5:45.0,15-15,Milwaukee,0,0.0
+32140,70,W. Matthews enters the game for K. Middleton,5:45.0,15-15,Milwaukee,1,0.0
+32141,70,G. Antetokounmpo makes free throw 2 of 2,5:45.0,16-15,Milwaukee,0,0.0
+32142,70,D. Fox makes 2-pt jump shot from 10 ft (assist by R. Holmes),5:33.0,16-17,Sacramento,0,0.0
+32143,70,G. Hill misses 3-pt jump shot from 27 ft,5:21.0,16-17,Milwaukee,0,1.0
+32144,70,Defensive rebound by D. Sabonis,5:18.0,16-17,Sacramento,0,1.0
+32145,70,D. Mitchell misses 3-pt jump shot from 26 ft,5:12.0,16-17,Sacramento,0,0.0
+32146,70,Defensive rebound by W. Matthews,5:09.0,16-17,Milwaukee,0,0.0
+32147,70,S. Ibaka makes 2-pt layup from 3 ft (assist by W. Matthews),5:00.0,18-17,Milwaukee,0,0.0
+32148,70,Turnover by D. Fox (bad pass; steal by W. Matthews),4:56.0,18-17,Sacramento,0,0.0
+32149,70,S. Ibaka makes 2-pt layup from 4 ft (assist by W. Matthews),4:40.0,20-17,Milwaukee,0,0.0
+32150,70,D. Mitchell makes 3-pt jump shot from 25 ft (assist by D. Fox),4:22.0,20-20,Sacramento,0,0.0
+32151,70,W. Matthews misses 3-pt jump shot from 25 ft,4:10.0,20-20,Milwaukee,0,0.0
+32152,70,Defensive rebound by Team,4:09.0,20-20,Sacramento,0,0.0
+32153,70,K. Middleton enters the game for G. Allen,4:09.0,20-20,Milwaukee,1,0.0
+32154,70,B. Portis enters the game for G. Antetokounmpo,4:09.0,20-20,Milwaukee,1,0.0
+32155,70,D. DiVincenzo enters the game for H. Barnes,4:09.0,20-20,Sacramento,0,0.0
+32156,70,C. Metu enters the game for D. Sabonis,4:09.0,20-20,Sacramento,0,0.0
+32157,70,R. Holmes misses 2-pt jump shot from 14 ft,3:56.0,20-20,Sacramento,0,0.0
+32158,70,Defensive rebound by W. Matthews,3:53.0,20-20,Milwaukee,0,0.0
+32159,70,Turnover by K. Middleton (bad pass; steal by D. DiVincenzo),3:42.0,20-20,Milwaukee,0,0.0
+32160,70,R. Holmes misses 2-pt layup from 2 ft,3:39.0,20-20,Sacramento,0,0.0
+32161,70,Offensive rebound by C. Metu,3:37.0,20-20,Sacramento,0,0.0
+32162,70,C. Metu makes 2-pt dunk from 3 ft,3:37.0,20-22,Sacramento,0,0.0
+32163,70,B. Portis makes 2-pt jump shot from 11 ft (assist by K. Middleton),3:20.0,22-22,Milwaukee,0,0.0
+32164,70,D. DiVincenzo misses 3-pt jump shot from 26 ft,3:04.0,22-22,Sacramento,0,0.0
+32165,70,Defensive rebound by S. Ibaka,3:00.0,22-22,Milwaukee,0,0.0
+32166,70,Turnover by K. Middleton (bad pass; steal by D. Fox),2:54.0,22-22,Milwaukee,0,0.0
+32167,70,D. Fox misses 2-pt layup from 3 ft,2:44.0,22-22,Sacramento,0,0.0
+32168,70,Offensive rebound by R. Holmes,2:38.0,22-22,Sacramento,0,0.0
+32169,70,R. Holmes makes 2-pt layup from 2 ft,2:38.0,22-24,Sacramento,0,0.0
+32170,70,Milwaukee full timeout,2:37.0,22-24,Milwaukee,0,0.0
+32171,70,G. Hill misses 2-pt layup from 2 ft,2:30.0,22-24,Milwaukee,0,0.0
+32172,70,Offensive rebound by W. Matthews,2:24.0,22-24,Milwaukee,0,0.0
+32173,70,W. Matthews misses 2-pt layup at rim,2:24.0,22-24,Milwaukee,0,0.0
+32174,70,Offensive rebound by W. Matthews,2:22.0,22-24,Milwaukee,0,1.0
+32175,70,K. Middleton makes 3-pt jump shot from 25 ft (assist by B. Portis),2:17.0,25-24,Milwaukee,0,0.0
+32176,70,C. Metu makes 2-pt jump shot from 18 ft,1:58.0,25-26,Sacramento,0,0.0
+32177,70,K. Middleton misses 3-pt jump shot from 25 ft,1:47.0,25-26,Milwaukee,0,0.0
+32178,70,Defensive rebound by D. Fox,1:45.0,25-26,Sacramento,0,1.0
+32179,70,D. Fox misses 3-pt jump shot from 25 ft,1:39.0,25-26,Sacramento,0,0.0
+32180,70,Offensive rebound by C. Metu,1:33.0,25-26,Sacramento,0,0.0
+32181,70,C. Metu makes 2-pt layup at rim,1:33.0,25-28,Sacramento,0,0.0
+32182,70,B. Portis misses 3-pt jump shot from 25 ft,1:23.0,25-28,Milwaukee,0,0.0
+32183,70,Defensive rebound by Team,1:21.0,25-28,Sacramento,0,0.0
+32184,70,J. Carter enters the game for K. Middleton,1:21.0,25-28,Milwaukee,1,0.0
+32185,70,D. Sabonis enters the game for D. Fox,1:21.0,25-28,Sacramento,0,0.0
+32186,70,D. Sabonis makes 2-pt layup from 3 ft (assist by D. Mitchell),1:00.0,25-30,Sacramento,0,1.0
+32187,70,Shooting foul by B. Portis (drawn by D. Sabonis),1:00.0,25-30,Sacramento,0,0.0
+32188,70,G. Antetokounmpo enters the game for S. Ibaka,1:00.0,25-30,Milwaukee,1,0.0
+32189,70,D. Sabonis makes free throw 1 of 1,1:00.0,25-31,Sacramento,0,0.0
+32190,70,J. Carter misses 3-pt jump shot from 24 ft,0:46.0,25-31,Milwaukee,0,0.0
+32191,70,Defensive rebound by D. Sabonis,0:42.0,25-31,Sacramento,0,0.0
+32192,70,C. Metu misses 3-pt jump shot from 25 ft,0:35.0,25-31,Sacramento,0,0.0
+32193,70,Defensive rebound by J. Carter,0:32.0,25-31,Milwaukee,0,0.0
+32194,70,W. Matthews makes 3-pt jump shot from 23 ft (assist by B. Portis),0:25.0,28-31,Milwaukee,0,0.0
+32195,70,Shooting foul by D. DiVincenzo (drawn by W. Matthews),0:25.0,28-31,Milwaukee,0,0.0
+32196,70,J. Holiday enters the game for G. Hill,0:25.0,28-31,Milwaukee,1,0.0
+32197,70,W. Matthews misses free throw 1 of 1,0:25.0,28-31,Milwaukee,0,0.0
+32198,70,Defensive rebound by D. Mitchell,0:22.0,28-31,Sacramento,0,0.0
+32199,70,D. DiVincenzo misses 2-pt hook shot from 3 ft (block by B. Portis),0:02.0,28-31,Sacramento,0,0.0
+32200,70,Defensive rebound by B. Portis,0:02.0,28-31,Milwaukee,0,0.0
+32201,70,D. Mitchell makes 3-pt jump shot from 26 ft (assist by C. Metu),11:43.0,28-34,Sacramento,0,0.0
+32202,70,B. Lopez makes 3-pt jump shot from 24 ft,11:16.0,31-34,Milwaukee,0,0.0
+32203,70,J. Holiday misses 2-pt jump shot from 18 ft,11:02.0,31-34,Sacramento,0,0.0
+32204,70,Defensive rebound by J. Carter,10:59.0,31-34,Milwaukee,0,0.0
+32205,70,Turnover by J. Holiday (bad pass; steal by D. DiVincenzo),10:51.0,31-34,Milwaukee,0,1.0
+32206,70,Shooting foul by B. Lopez (drawn by D. Sabonis),10:46.0,31-34,Sacramento,0,0.0
+32207,70,D. Sabonis makes free throw 1 of 2,10:46.0,31-35,Sacramento,0,0.0
+32208,70,D. Sabonis makes free throw 2 of 2,10:46.0,31-36,Sacramento,0,0.0
+32209,70,G. Antetokounmpo makes 2-pt jump shot from 16 ft,10:32.0,33-36,Milwaukee,0,0.0
+32210,70,D. Sabonis makes 2-pt hook shot from 6 ft,10:19.0,33-38,Sacramento,0,0.0
+32211,70,J. Carter makes 3-pt jump shot from 25 ft,10:10.0,36-38,Milwaukee,0,0.0
+32212,70,D. DiVincenzo makes 3-pt jump shot from 24 ft (assist by J. Holiday),9:53.0,36-41,Sacramento,0,0.0
+32213,70,G. Antetokounmpo makes 2-pt layup from 2 ft (assist by B. Portis),9:37.0,38-41,Milwaukee,0,0.0
+32214,70,Personal foul by J. Carter (drawn by D. Sabonis),9:27.0,38-41,Sacramento,0,0.0
+32215,70,K. Middleton enters the game for B. Portis,9:27.0,38-41,Milwaukee,1,0.0
+32216,70,D. DiVincenzo misses 3-pt jump shot from 23 ft,9:16.0,38-41,Sacramento,0,0.0
+32217,70,Defensive rebound by J. Carter,9:13.0,38-41,Milwaukee,0,1.0
+32218,70,J. Holiday makes 2-pt jump shot from 9 ft,9:04.0,40-41,Milwaukee,0,0.0
+32219,70,D. DiVincenzo makes 3-pt jump shot from 24 ft (assist by D. Mitchell),8:48.0,40-44,Sacramento,0,0.0
+32220,70,Shooting foul by C. Metu (drawn by G. Antetokounmpo),8:40.0,40-44,Milwaukee,0,0.0
+32221,70,G. Antetokounmpo makes free throw 1 of 2,8:40.0,41-44,Milwaukee,0,0.0
+32222,70,G. Antetokounmpo makes free throw 2 of 2,8:40.0,42-44,Milwaukee,0,0.0
+32223,70,C. Metu makes 3-pt jump shot from 24 ft (assist by D. DiVincenzo),8:29.0,42-47,Sacramento,0,0.0
+32224,70,G. Antetokounmpo misses 2-pt layup from 3 ft (block by C. Metu),8:17.0,42-47,Milwaukee,0,0.0
+32225,70,Defensive rebound by J. Holiday,8:13.0,42-47,Sacramento,0,0.0
+32226,70,Personal foul by B. Lopez (drawn by J. Holiday),8:12.0,42-47,Sacramento,0,0.0
+32227,70,G. Allen enters the game for J. Carter,8:12.0,42-47,Milwaukee,1,0.0
+32228,70,H. Barnes enters the game for D. DiVincenzo,8:12.0,42-47,Sacramento,0,0.0
+32229,70,D. Fox enters the game for D. Mitchell,8:12.0,42-47,Sacramento,0,0.0
+32230,70,J. Holiday makes 3-pt jump shot from 26 ft (assist by D. Sabonis),8:05.0,42-50,Sacramento,0,0.0
+32231,70,J. Holiday makes 2-pt layup from 3 ft,7:48.0,44-50,Milwaukee,0,0.0
+32232,70,Turnover by D. Fox (bad pass; steal by J. Holiday),7:37.0,44-50,Sacramento,0,0.0
+32233,70,Shooting foul by C. Metu (drawn by G. Antetokounmpo),7:35.0,44-50,Milwaukee,0,0.0
+32234,70,Instant Replay (Request: Ruling Stands),7:35.0,44-50,Milwaukee,0,0.0
+32235,70,T. Lyles enters the game for C. Metu,7:35.0,44-50,Sacramento,0,0.0
+32236,70,G. Antetokounmpo misses free throw 1 of 2,7:35.0,44-50,Milwaukee,0,0.0
+32237,70,Offensive rebound by Team,7:35.0,44-50,Milwaukee,0,0.0
+32238,70,Defensive rebound by D. Sabonis,7:35.0,44-50,Sacramento,0,0.0
+32239,70,G. Antetokounmpo misses free throw 2 of 2,7:35.0,44-50,Milwaukee,0,0.0
+32240,70,T. Lyles misses 3-pt jump shot from 26 ft,7:20.0,44-50,Sacramento,0,0.0
+32241,70,Defensive rebound by G. Allen,7:15.0,44-50,Milwaukee,0,1.0
+32242,70,G. Antetokounmpo misses 2-pt jump shot from 19 ft,7:08.0,44-50,Milwaukee,0,1.0
+32243,70,Defensive rebound by T. Lyles,7:05.0,44-50,Sacramento,0,0.0
+32244,70,D. Sabonis misses 3-pt jump shot from 26 ft,7:00.0,44-50,Sacramento,0,0.0
+32245,70,Defensive rebound by K. Middleton,6:53.0,44-50,Milwaukee,0,0.0
+32246,70,K. Middleton misses 2-pt jump shot from 13 ft,6:50.0,44-50,Milwaukee,0,0.0
+32247,70,Defensive rebound by T. Lyles,6:45.0,44-50,Sacramento,0,0.0
+32248,70,D. Sabonis misses 2-pt jump shot from 16 ft,6:38.0,44-50,Sacramento,0,0.0
+32249,70,Defensive rebound by G. Allen,6:34.0,44-50,Milwaukee,0,0.0
+32250,70,Milwaukee full timeout,6:32.0,44-50,Milwaukee,0,0.0
+32251,70,S. Ibaka enters the game for G. Antetokounmpo,6:32.0,44-50,Milwaukee,1,0.0
+32252,70,B. Portis enters the game for B. Lopez,6:32.0,44-50,Milwaukee,1,1.0
+32253,70,J. Holiday misses 2-pt jump shot from 16 ft,6:20.0,44-50,Milwaukee,0,0.0
+32254,70,Offensive rebound by G. Allen,6:17.0,44-50,Milwaukee,0,0.0
+32255,70,K. Middleton makes 3-pt jump shot from 27 ft (assist by G. Allen),6:15.0,47-50,Milwaukee,0,0.0
+32256,70,Turnover by D. Fox (bad pass; steal by J. Holiday),5:57.0,47-50,Sacramento,0,0.0
+32257,70,K. Middleton makes 3-pt jump shot from 25 ft (assist by J. Holiday),5:49.0,50-50,Milwaukee,0,0.0
+32258,70,D. Fox misses 2-pt layup from 3 ft,5:36.0,50-50,Sacramento,0,0.0
+32259,70,Defensive rebound by J. Holiday,5:33.0,50-50,Milwaukee,0,0.0
+32260,70,Technical foul by D. Fox,5:24.0,50-50,Sacramento,0,0.0
+32261,70,K. Middleton makes technical free throw,5:24.0,51-50,Milwaukee,0,0.0
+32262,70,G. Hill enters the game for J. Holiday,5:24.0,51-50,Milwaukee,1,0.0
+32263,70,K. Middleton misses 2-pt jump shot from 19 ft,5:11.0,51-50,Milwaukee,0,0.0
+32264,70,Defensive rebound by D. Fox,5:06.0,51-50,Sacramento,0,0.0
+32265,70,H. Barnes makes 2-pt jump shot from 4 ft (assist by T. Lyles),4:57.0,51-52,Sacramento,0,0.0
+32266,70,S. Ibaka makes 2-pt jump shot from 16 ft (assist by G. Hill),4:35.0,53-52,Milwaukee,0,0.0
+32267,70,D. Fox misses 2-pt layup from 4 ft,4:27.0,53-52,Sacramento,0,0.0
+32268,70,Defensive rebound by G. Hill,4:25.0,53-52,Milwaukee,0,0.0
+32269,70,K. Middleton makes 2-pt jump shot from 16 ft,4:12.0,55-52,Milwaukee,0,0.0
+32270,70,Sacramento full timeout,4:11.0,55-52,Sacramento,0,0.0
+32271,70,D. DiVincenzo enters the game for J. Holiday,4:11.0,55-52,Sacramento,0,0.0
+32272,70,D. DiVincenzo makes 3-pt jump shot from 26 ft (assist by D. Fox),4:04.0,55-55,Sacramento,0,0.0
+32273,70,K. Middleton misses 3-pt jump shot from 25 ft,3:40.0,55-55,Milwaukee,0,0.0
+32274,70,Defensive rebound by D. DiVincenzo,3:37.0,55-55,Sacramento,0,0.0
+32275,70,Turnover by H. Barnes (lost ball; steal by K. Middleton),3:31.0,55-55,Sacramento,0,0.0
+32276,70,K. Middleton misses 2-pt layup from 3 ft,3:25.0,55-55,Milwaukee,0,1.0
+32277,70,Defensive rebound by D. DiVincenzo,3:23.0,55-55,Sacramento,0,1.0
+32278,70,D. DiVincenzo misses 3-pt jump shot from 26 ft,3:10.0,55-55,Sacramento,0,1.0
+32279,70,Defensive rebound by B. Portis,3:08.0,55-55,Milwaukee,0,0.0
+32280,70,B. Portis makes 2-pt jump shot from 16 ft (assist by K. Middleton),2:51.0,57-55,Milwaukee,0,0.0
+32281,70,D. Fox misses 2-pt jump shot from 14 ft,2:39.0,57-55,Sacramento,0,0.0
+32282,70,Defensive rebound by K. Middleton,2:36.0,57-55,Milwaukee,0,0.0
+32283,70,G. Hill makes 3-pt jump shot from 23 ft (assist by K. Middleton),2:26.0,60-55,Milwaukee,0,0.0
+32284,70,Shooting foul by G. Hill (drawn by D. Sabonis),2:14.0,60-55,Sacramento,0,0.0
+32285,70,D. Sabonis makes free throw 1 of 2,2:14.0,60-56,Sacramento,0,0.0
+32286,70,G. Antetokounmpo enters the game for G. Allen,2:14.0,60-56,Milwaukee,1,0.0
+32287,70,J. Holiday enters the game for K. Middleton,2:14.0,60-56,Milwaukee,1,0.0
+32288,70,W. Matthews enters the game for B. Portis,2:14.0,60-56,Milwaukee,1,0.0
+32289,70,D. Mitchell enters the game for D. Fox,2:14.0,60-56,Sacramento,0,0.0
+32290,70,D. Sabonis makes free throw 2 of 2,2:14.0,60-57,Sacramento,0,0.0
+32291,70,Shooting foul by D. Mitchell (drawn by J. Holiday),1:59.0,60-57,Milwaukee,0,0.0
+32292,70,J. Holiday makes free throw 1 of 2,1:59.0,61-57,Milwaukee,0,0.0
+32293,70,J. Holiday makes free throw 2 of 2,1:59.0,62-57,Milwaukee,0,0.0
+32294,70,D. Sabonis misses 2-pt layup from 3 ft,1:47.0,62-57,Sacramento,0,0.0
+32295,70,Offensive rebound by H. Barnes,1:43.0,62-57,Sacramento,0,0.0
+32296,70,T. Lyles misses 2-pt layup from 3 ft (block by G. Antetokounmpo),1:42.0,62-57,Sacramento,0,1.0
+32297,70,Offensive rebound by Team,1:42.0,62-57,Sacramento,0,0.0
+32298,70,D. DiVincenzo makes 2-pt jump shot from 15 ft (assist by D. Sabonis),1:34.0,62-59,Sacramento,0,0.0
+32299,70,J. Holiday misses 2-pt jump shot from 12 ft,1:07.0,62-59,Milwaukee,0,0.0
+32300,70,Defensive rebound by T. Lyles,1:04.0,62-59,Sacramento,0,0.0
+32301,70,D. DiVincenzo misses 3-pt jump shot from 28 ft,1:00.0,62-59,Sacramento,0,0.0
+32302,70,Defensive rebound by Team,1:00.0,62-59,Milwaukee,0,0.0
+32303,70,Loose ball foul by H. Barnes (drawn by G. Hill),0:57.0,62-59,Sacramento,0,0.0
+32304,70,G. Hill misses free throw 1 of 2,0:57.0,62-59,Milwaukee,0,0.0
+32305,70,Offensive rebound by Team,0:57.0,62-59,Milwaukee,0,0.0
+32306,70,J. Carter enters the game for S. Ibaka,0:57.0,62-59,Milwaukee,1,0.0
+32307,70,G. Hill misses free throw 2 of 2,0:57.0,62-59,Milwaukee,0,0.0
+32308,70,Defensive rebound by D. Mitchell,0:54.0,62-59,Sacramento,0,0.0
+32309,70,D. Mitchell makes 2-pt layup from 2 ft,0:41.0,62-61,Sacramento,0,1.0
+32310,70,J. Holiday makes 2-pt layup from 2 ft,0:33.0,64-61,Milwaukee,0,1.0
+32311,70,D. Mitchell misses 3-pt jump shot from 25 ft,0:14.0,64-61,Sacramento,0,0.0
+32312,70,Defensive rebound by G. Hill,0:08.0,64-61,Milwaukee,0,0.0
+32313,70,G. Antetokounmpo makes 2-pt dunk from 1 ft,0:06.0,66-61,Milwaukee,0,0.0
+32314,70,T. Lyles misses 2-pt layup from 4 ft,0:01.0,66-61,Sacramento,0,0.0
+32315,70,Defensive rebound by J. Holiday,0:00.0,66-61,Milwaukee,0,0.0
+32316,70,Loose ball foul by D. Sabonis (drawn by W. Matthews),0:00.0,66-61,Sacramento,0,0.0
+32317,70,Instant Replay (Request: Ruling Stands),0:00.0,66-61,Sacramento,0,0.0
+32318,70,W. Matthews makes free throw 1 of 2,0:00.0,67-61,Milwaukee,0,0.0
+32319,70,S. Ibaka enters the game for G. Antetokounmpo,0:00.0,67-61,Milwaukee,1,0.0
+32320,70,B. Portis enters the game for J. Holiday,0:00.0,67-61,Milwaukee,1,0.0
+32321,70,W. Matthews makes free throw 2 of 2,0:00.0,68-61,Milwaukee,0,0.0
+32322,70,Turnover by J. Holiday (bad pass; steal by B. Portis),11:47.0,68-61,Sacramento,0,0.0
+32323,70,B. Portis misses 3-pt jump shot from 26 ft,11:38.0,68-61,Milwaukee,0,0.0
+32324,70,Defensive rebound by T. Lyles,11:34.0,68-61,Sacramento,0,0.0
+32325,70,Turnover by D. Sabonis (bad pass; steal by K. Middleton),11:21.0,68-61,Sacramento,0,0.0
+32326,70,G. Antetokounmpo makes 2-pt layup from 2 ft (assist by K. Middleton),11:17.0,70-61,Milwaukee,0,0.0
+32327,70,Shooting foul by G. Antetokounmpo (drawn by D. Sabonis),11:02.0,70-61,Sacramento,0,0.0
+32328,70,D. Sabonis makes free throw 1 of 2,11:02.0,70-62,Sacramento,0,0.0
+32329,70,D. Sabonis misses free throw 2 of 2,11:02.0,70-62,Sacramento,0,0.0
+32330,70,Defensive rebound by G. Antetokounmpo,10:58.0,70-62,Milwaukee,0,0.0
+32331,70,G. Antetokounmpo misses 3-pt jump shot from 26 ft,10:52.0,70-62,Milwaukee,0,0.0
+32332,70,Defensive rebound by D. Fox,10:49.0,70-62,Sacramento,0,0.0
+32333,70,D. Fox makes 3-pt jump shot from 25 ft,10:47.0,70-65,Sacramento,0,0.0
+32334,70,K. Middleton makes 3-pt jump shot from 26 ft,10:27.0,73-65,Milwaukee,0,0.0
+32335,70,Turnover by D. Sabonis (lost ball; steal by J. Holiday),10:09.0,73-65,Sacramento,0,0.0
+32336,70,G. Allen makes 3-pt jump shot from 23 ft (assist by K. Middleton),10:00.0,76-65,Milwaukee,0,0.0
+32337,70,D. Fox misses 2-pt layup from 1 ft,9:46.0,76-65,Sacramento,0,0.0
+32338,70,Offensive rebound by T. Lyles,9:46.0,76-65,Sacramento,0,0.0
+32339,70,H. Barnes makes 3-pt jump shot from 25 ft (assist by D. Sabonis),9:40.0,76-68,Sacramento,0,0.0
+32340,70,B. Portis makes 2-pt dunk from 1 ft (assist by K. Middleton),9:30.0,78-68,Milwaukee,0,0.0
+32341,70,Shooting foul by K. Middleton (drawn by J. Holiday),9:22.0,78-68,Sacramento,0,0.0
+32342,70,J. Holiday makes free throw 1 of 2,9:22.0,78-69,Sacramento,0,0.0
+32343,70,J. Holiday makes free throw 2 of 2,9:22.0,78-70,Sacramento,0,0.0
+32344,70,G. Antetokounmpo misses 2-pt layup from 2 ft,9:13.0,78-70,Milwaukee,0,0.0
+32345,70,Defensive rebound by D. Fox,9:09.0,78-70,Sacramento,0,0.0
+32346,70,Personal foul by B. Portis (drawn by D. Sabonis),9:01.0,78-70,Sacramento,0,0.0
+32347,70,D. Fox misses 3-pt jump shot from 25 ft,8:55.0,78-70,Sacramento,0,0.0
+32348,70,Defensive rebound by K. Middleton,8:48.0,78-70,Milwaukee,0,0.0
+32349,70,Turnover by K. Middleton (bad pass),8:48.0,78-70,Milwaukee,0,1.0
+32350,70,Shooting foul by K. Middleton (drawn by H. Barnes),8:31.0,78-70,Sacramento,0,0.0
+32351,70,H. Barnes makes free throw 1 of 2,8:31.0,78-71,Sacramento,0,0.0
+32352,70,H. Barnes makes free throw 2 of 2,8:31.0,78-72,Sacramento,0,0.0
+32353,70,Offensive foul by G. Antetokounmpo (drawn by T. Lyles),8:18.0,78-72,Milwaukee,0,0.0
+32354,70,Turnover by G. Antetokounmpo (offensive foul),8:18.0,78-72,Milwaukee,0,0.0
+32355,70,T. Lyles makes 2-pt layup from 2 ft (assist by D. Sabonis),8:01.0,78-74,Sacramento,0,0.0
+32356,70,Turnover by G. Allen (bad pass; steal by T. Lyles),7:52.0,78-74,Milwaukee,0,0.0
+32357,70,T. Lyles makes 3-pt jump shot from 22 ft (assist by H. Barnes),7:36.0,78-77,Sacramento,0,0.0
+32358,70,Milwaukee full timeout,7:28.0,78-77,Milwaukee,0,0.0
+32359,70,B. Lopez enters the game for G. Antetokounmpo,7:28.0,78-77,Milwaukee,1,0.0
+32360,70,J. Holiday makes 2-pt layup from 3 ft (assist by K. Middleton),7:20.0,80-77,Milwaukee,0,0.0
+32361,70,D. Sabonis misses 2-pt layup from 3 ft,7:04.0,80-77,Sacramento,0,0.0
+32362,70,Defensive rebound by K. Middleton,7:00.0,80-77,Milwaukee,0,0.0
+32363,70,Personal foul by H. Barnes (drawn by K. Middleton),6:57.0,80-77,Milwaukee,0,0.0
+32364,70,Shooting foul by J. Holiday (drawn by K. Middleton),6:50.0,80-77,Milwaukee,0,0.0
+32365,70,K. Middleton makes free throw 1 of 2,6:50.0,81-77,Milwaukee,0,0.0
+32366,70,K. Middleton makes free throw 2 of 2,6:50.0,82-77,Milwaukee,0,0.0
+32367,70,J. Holiday makes 3-pt jump shot from 26 ft (assist by D. Fox),6:42.0,82-80,Sacramento,0,0.0
+32368,70,J. Holiday misses 3-pt jump shot from 25 ft,6:31.0,82-80,Milwaukee,0,0.0
+32369,70,Defensive rebound by H. Barnes,6:28.0,82-80,Sacramento,0,1.0
+32370,70,T. Lyles misses 3-pt jump shot from 26 ft,6:20.0,82-80,Sacramento,0,0.0
+32371,70,Defensive rebound by K. Middleton,6:18.0,82-80,Milwaukee,0,0.0
+32372,70,B. Lopez misses 3-pt jump shot from 25 ft,6:08.0,82-80,Milwaukee,0,0.0
+32373,70,Offensive rebound by B. Portis,6:04.0,82-80,Milwaukee,0,0.0
+32374,70,B. Portis makes 2-pt layup from 3 ft,6:03.0,84-80,Milwaukee,0,0.0
+32375,70,D. Fox misses 3-pt jump shot from 25 ft,5:52.0,84-80,Sacramento,0,0.0
+32376,70,Defensive rebound by B. Portis,5:48.0,84-80,Milwaukee,0,0.0
+32377,70,K. Middleton makes 2-pt layup from 3 ft,5:43.0,86-80,Milwaukee,0,0.0
+32378,70,Sacramento full timeout,5:36.0,86-80,Sacramento,0,0.0
+32379,70,G. Hill enters the game for G. Allen,5:36.0,86-80,Milwaukee,1,0.0
+32380,70,D. DiVincenzo enters the game for H. Barnes,5:36.0,86-80,Sacramento,0,0.0
+32381,70,C. Metu enters the game for J. Holiday,5:36.0,86-80,Sacramento,0,0.0
+32382,70,D. Mitchell enters the game for T. Lyles,5:36.0,86-80,Sacramento,0,0.0
+32383,70,D. Fox misses 2-pt jump shot from 8 ft,5:19.0,86-80,Sacramento,0,1.0
+32384,70,Defensive rebound by B. Lopez,5:16.0,86-80,Milwaukee,0,0.0
+32385,70,B. Lopez misses 2-pt jump shot from 12 ft,4:55.0,86-80,Milwaukee,0,0.0
+32386,70,Offensive rebound by Team,4:55.0,86-80,Milwaukee,0,0.0
+32387,70,Turnover by Team (shot clock),4:55.0,86-80,Milwaukee,0,0.0
+32388,70,D. Sabonis misses 3-pt jump shot from 25 ft,4:42.0,86-80,Sacramento,0,0.0
+32389,70,Defensive rebound by K. Middleton,4:39.0,86-80,Milwaukee,0,0.0
+32390,70,J. Holiday misses 3-pt jump shot from 24 ft,4:33.0,86-80,Milwaukee,0,1.0
+32391,70,Defensive rebound by C. Metu,4:29.0,86-80,Sacramento,0,0.0
+32392,70,Turnover by D. Fox (step out of bounds),4:23.0,86-80,Sacramento,0,0.0
+32393,70,G. Antetokounmpo enters the game for B. Portis,4:23.0,86-80,Milwaukee,1,0.0
+32394,70,K. Middleton misses 2-pt jump shot from 9 ft,4:06.0,86-80,Milwaukee,0,0.0
+32395,70,Defensive rebound by D. Sabonis,4:04.0,86-80,Sacramento,0,0.0
+32396,70,D. DiVincenzo misses 2-pt jump shot from 19 ft,4:00.0,86-80,Sacramento,0,0.0
+32397,70,Defensive rebound by G. Antetokounmpo,3:57.0,86-80,Milwaukee,0,0.0
+32398,70,G. Hill makes 3-pt jump shot from 23 ft (assist by G. Antetokounmpo),3:51.0,89-80,Milwaukee,0,1.0
+32399,70,Turnover by D. Fox (out of bounds lost ball),3:38.0,89-80,Sacramento,0,0.0
+32400,70,W. Matthews enters the game for J. Holiday,3:38.0,89-80,Milwaukee,1,0.0
+32401,70,B. Lopez misses 3-pt jump shot from 23 ft,3:20.0,89-80,Milwaukee,0,0.0
+32402,70,Offensive rebound by W. Matthews,3:16.0,89-80,Milwaukee,0,0.0
+32403,70,Turnover by W. Matthews (bad pass; steal by D. Sabonis),3:15.0,89-80,Milwaukee,0,0.0
+32404,70,D. DiVincenzo misses 2-pt layup from 1 ft,3:10.0,89-80,Sacramento,0,0.0
+32405,70,Offensive rebound by D. Sabonis,3:10.0,89-80,Sacramento,0,0.0
+32406,70,Shooting foul by W. Matthews (drawn by D. Sabonis),3:10.0,89-80,Sacramento,0,0.0
+32407,70,D. Sabonis makes free throw 1 of 2,3:10.0,89-81,Sacramento,0,0.0
+32408,70,J. Carter enters the game for K. Middleton,3:10.0,89-81,Milwaukee,1,0.0
+32409,70,M. Harkless enters the game for D. Fox,3:10.0,89-81,Sacramento,0,0.0
+32410,70,D. Sabonis makes free throw 2 of 2,3:10.0,89-82,Sacramento,0,0.0
+32411,70,Personal foul by C. Metu (drawn by G. Antetokounmpo),3:00.0,89-82,Milwaukee,0,0.0
+32412,70,G. Antetokounmpo misses 2-pt dunk from 2 ft (block by D. Sabonis),2:52.0,89-82,Milwaukee,0,0.0
+32413,70,Defensive rebound by M. Harkless,2:50.0,89-82,Sacramento,0,0.0
+32414,70,Shooting foul by B. Lopez (drawn by D. Sabonis),2:45.0,89-82,Sacramento,0,1.0
+32415,70,D. Sabonis makes free throw 1 of 2,2:45.0,89-83,Sacramento,0,0.0
+32416,70,D. Sabonis misses free throw 2 of 2,2:45.0,89-83,Sacramento,0,0.0
+32417,70,Defensive rebound by G. Antetokounmpo,2:42.0,89-83,Milwaukee,0,0.0
+32418,70,Shooting foul by M. Harkless (drawn by G. Antetokounmpo),2:34.0,89-83,Milwaukee,0,0.0
+32419,70,G. Antetokounmpo makes free throw 1 of 2,2:34.0,90-83,Milwaukee,0,0.0
+32420,70,G. Antetokounmpo makes free throw 2 of 2,2:34.0,91-83,Milwaukee,0,0.0
+32421,70,D. Mitchell makes 2-pt jump shot from 11 ft (assist by D. Sabonis),2:14.0,91-85,Sacramento,0,0.0
+32422,70,Personal foul by C. Metu (drawn by G. Antetokounmpo),1:59.0,91-85,Milwaukee,0,0.0
+32423,70,G. Antetokounmpo makes free throw 1 of 2,1:59.0,92-85,Milwaukee,0,0.0
+32424,70,S. Ibaka enters the game for B. Lopez,1:59.0,92-85,Milwaukee,1,0.0
+32425,70,T. Lyles enters the game for C. Metu,1:59.0,92-85,Sacramento,0,0.0
+32426,70,G. Antetokounmpo misses free throw 2 of 2,1:59.0,92-85,Milwaukee,0,0.0
+32427,70,Offensive rebound by G. Antetokounmpo,1:55.0,92-85,Milwaukee,0,0.0
+32428,70,G. Antetokounmpo makes 2-pt layup from 3 ft,1:53.0,94-85,Milwaukee,0,0.0
+32429,70,D. Sabonis makes 2-pt layup from 2 ft (assist by D. Mitchell),1:37.0,94-87,Sacramento,0,0.0
+32430,70,G. Antetokounmpo makes 2-pt jump shot from 15 ft,1:27.0,96-87,Milwaukee,0,0.0
+32431,70,D. DiVincenzo makes 2-pt jump shot from 7 ft,1:10.0,96-89,Sacramento,0,0.0
+32432,70,Shooting foul by T. Lyles (drawn by G. Antetokounmpo),1:03.0,96-89,Milwaukee,0,0.0
+32433,70,G. Antetokounmpo misses free throw 1 of 2,1:03.0,96-89,Milwaukee,0,0.0
+32434,70,Offensive rebound by Team,1:03.0,96-89,Milwaukee,0,0.0
+32435,70,G. Antetokounmpo makes free throw 2 of 2,1:03.0,97-89,Milwaukee,0,1.0
+32436,70,D. Mitchell makes 2-pt jump shot from 11 ft,0:50.0,97-91,Sacramento,0,0.0
+32437,70,G. Antetokounmpo makes 2-pt jump shot from 16 ft,0:35.0,99-91,Milwaukee,0,0.0
+32438,70,D. Mitchell misses 2-pt jump shot from 8 ft,0:19.0,99-91,Sacramento,0,0.0
+32439,70,Defensive rebound by G. Antetokounmpo,0:16.0,99-91,Milwaukee,0,0.0
+32440,70,Shooting foul by D. Mitchell (drawn by G. Antetokounmpo),0:10.0,99-91,Milwaukee,0,0.0
+32441,70,G. Antetokounmpo makes free throw 1 of 2,0:10.0,100-91,Milwaukee,0,0.0
+32442,70,G. Antetokounmpo makes free throw 2 of 2,0:10.0,101-91,Milwaukee,0,0.0
+32443,70,Shooting foul by S. Ibaka (drawn by D. Sabonis),0:02.0,101-91,Sacramento,0,0.0
+32444,70,D. Sabonis makes free throw 1 of 2,0:02.0,101-92,Sacramento,0,0.0
+32445,70,B. Portis enters the game for S. Ibaka,0:02.0,101-92,Milwaukee,1,0.0
+32446,70,D. Sabonis misses free throw 2 of 2,0:02.0,101-92,Sacramento,0,0.0
+32447,70,Defensive rebound by G. Antetokounmpo,0:00.0,101-92,Milwaukee,0,0.0
+32448,70,S. Ibaka makes 2-pt jump shot from 17 ft (assist by J. Carter),11:43.0,103-92,Milwaukee,0,0.0
+32449,70,D. Mitchell makes 3-pt jump shot from 25 ft (assist by T. Lyles),11:20.0,103-95,Sacramento,0,0.0
+32450,70,G. Antetokounmpo makes 2-pt layup from 2 ft,11:08.0,105-95,Milwaukee,0,0.0
+32451,70,D. Fox misses 3-pt jump shot from 23 ft,10:55.0,105-95,Sacramento,0,0.0
+32452,70,Defensive rebound by W. Matthews,10:51.0,105-95,Milwaukee,0,0.0
+32453,70,Shooting foul by D. Fox (drawn by J. Holiday),10:47.0,105-95,Milwaukee,0,0.0
+32454,70,J. Holiday misses free throw 1 of 2,10:47.0,105-95,Milwaukee,0,0.0
+32455,70,Offensive rebound by Team,10:47.0,105-95,Milwaukee,0,0.0
+32456,70,J. Holiday misses free throw 2 of 2,10:47.0,105-95,Milwaukee,0,0.0
+32457,70,Defensive rebound by R. Holmes,10:45.0,105-95,Sacramento,0,0.0
+32458,70,D. DiVincenzo makes 3-pt jump shot from 25 ft (assist by D. Mitchell),10:36.0,105-98,Sacramento,0,0.0
+32459,70,G. Antetokounmpo misses 2-pt hook shot from 8 ft,10:13.0,105-98,Milwaukee,0,0.0
+32460,70,Offensive rebound by J. Holiday,10:11.0,105-98,Milwaukee,0,0.0
+32461,70,J. Holiday misses 2-pt layup from 2 ft,10:11.0,105-98,Milwaukee,0,0.0
+32462,70,Defensive rebound by Team,10:11.0,105-98,Sacramento,0,1.0
+32463,70,Loose ball foul by S. Ibaka (drawn by R. Holmes),10:11.0,105-98,Milwaukee,0,1.0
+32464,70,D. Mitchell makes 2-pt layup from 2 ft,9:58.0,105-100,Sacramento,0,1.0
+32465,70,S. Ibaka misses 3-pt jump shot from 25 ft,9:44.0,105-100,Milwaukee,0,0.0
+32466,70,Defensive rebound by T. Lyles,9:44.0,105-100,Sacramento,0,0.0
+32467,70,D. Mitchell misses 3-pt jump shot from 25 ft,9:34.0,105-100,Sacramento,0,0.0
+32468,70,Defensive rebound by J. Holiday,9:29.0,105-100,Milwaukee,0,0.0
+32469,70,J. Holiday makes 3-pt jump shot from 26 ft,9:25.0,108-100,Milwaukee,0,1.0
+32470,70,D. Fox makes 2-pt layup from 3 ft,9:18.0,108-102,Sacramento,0,0.0
+32471,70,Shooting foul by S. Ibaka (drawn by D. Fox),9:18.0,108-102,Sacramento,0,0.0
+32472,70,B. Lopez enters the game for G. Antetokounmpo,9:18.0,108-102,Milwaukee,1,0.0
+32473,70,K. Middleton enters the game for S. Ibaka,9:18.0,108-102,Milwaukee,1,0.0
+32474,70,B. Portis enters the game for W. Matthews,9:18.0,108-102,Milwaukee,1,0.0
+32475,70,D. Fox makes free throw 1 of 1,9:18.0,108-103,Sacramento,0,0.0
+32476,70,Turnover by J. Holiday (bad pass; steal by D. DiVincenzo),9:00.0,108-103,Milwaukee,0,0.0
+32477,70,D. Mitchell makes 2-pt layup from 1 ft,8:56.0,108-105,Sacramento,0,0.0
+32478,70,Milwaukee full timeout,8:56.0,108-105,Milwaukee,0,0.0
+32479,70,G. Allen enters the game for J. Carter,8:56.0,108-105,Milwaukee,1,0.0
+32480,70,K. Middleton misses 3-pt jump shot from 26 ft,8:43.0,108-105,Milwaukee,0,1.0
+32481,70,Defensive rebound by T. Lyles,8:39.0,108-105,Sacramento,0,0.0
+32482,70,T. Lyles makes 2-pt jump shot from 7 ft,8:27.0,108-107,Sacramento,0,0.0
+32483,70,J. Holiday makes 2-pt jump shot from 8 ft,8:17.0,110-107,Milwaukee,0,0.0
+32484,70,D. Fox misses 3-pt jump shot from 25 ft,7:56.0,110-107,Sacramento,0,0.0
+32485,70,Offensive rebound by D. DiVincenzo,7:53.0,110-107,Sacramento,0,0.0
+32486,70,R. Holmes makes 2-pt hook shot from 6 ft (assist by T. Lyles),7:48.0,110-109,Sacramento,0,0.0
+32487,70,J. Holiday misses 2-pt layup from 7 ft,7:37.0,110-109,Milwaukee,0,0.0
+32488,70,Defensive rebound by D. Mitchell,7:33.0,110-109,Sacramento,0,0.0
+32489,70,Turnover by D. DiVincenzo (out of bounds lost ball),7:27.0,110-109,Sacramento,0,0.0
+32490,70,G. Antetokounmpo enters the game for B. Portis,7:27.0,110-109,Milwaukee,1,0.0
+32491,70,G. Antetokounmpo misses 2-pt layup from 5 ft (block by T. Lyles),7:07.0,110-109,Milwaukee,0,0.0
+32492,70,Offensive rebound by Team,7:07.0,110-109,Milwaukee,0,0.0
+32493,70,Sacramento full timeout,7:06.0,110-109,Sacramento,0,1.0
+32494,70,Instant Replay (Challenge: Ruling Stands),7:06.0,110-109,Sacramento,0,0.0
+32495,70,Personal foul by D. Mitchell (drawn by K. Middleton),7:01.0,110-109,Milwaukee,0,0.0
+32496,70,Turnover by  (5 sec),7:01.0,110-109,Milwaukee,0,0.0
+32497,70,D. Fox makes 2-pt jump shot from 13 ft,6:51.0,110-111,Sacramento,0,0.0
+32498,70,K. Middleton misses 2-pt jump shot from 10 ft,6:41.0,110-111,Milwaukee,0,0.0
+32499,70,Defensive rebound by D. DiVincenzo,6:41.0,110-111,Sacramento,0,0.0
+32500,70,R. Holmes makes 2-pt dunk from 1 ft,6:20.0,110-113,Sacramento,0,0.0
+32501,70,Shooting foul by D. Mitchell (drawn by K. Middleton),6:05.0,110-113,Milwaukee,0,0.0
+32502,70,K. Middleton makes free throw 1 of 2,6:05.0,111-113,Milwaukee,0,0.0
+32503,70,W. Matthews enters the game for G. Allen,6:05.0,111-113,Milwaukee,1,0.0
+32504,70,K. Middleton makes free throw 2 of 2,6:05.0,112-113,Milwaukee,0,0.0
+32505,70,D. Fox misses 2-pt jump shot from 7 ft,5:52.0,112-113,Sacramento,0,1.0
+32506,70,Defensive rebound by B. Lopez,5:49.0,112-113,Milwaukee,0,0.0
+32507,70,K. Middleton makes 3-pt jump shot from 25 ft,5:44.0,115-113,Milwaukee,0,0.0
+32508,70,Sacramento full timeout,5:43.0,115-113,Sacramento,0,0.0
+32509,70,D. Sabonis enters the game for R. Holmes,5:43.0,115-113,Sacramento,0,0.0
+32510,70,D. Sabonis makes 2-pt hook shot from 6 ft,5:24.0,115-115,Sacramento,0,0.0
+32511,70,K. Middleton misses 2-pt jump shot from 15 ft,5:09.0,115-115,Milwaukee,0,0.0
+32512,70,Defensive rebound by T. Lyles,5:05.0,115-115,Sacramento,0,0.0
+32513,70,D. DiVincenzo makes 2-pt jump shot from 6 ft,4:53.0,115-117,Sacramento,0,0.0
+32514,70,Shooting foul by B. Lopez (drawn by D. DiVincenzo),4:53.0,115-117,Sacramento,0,0.0
+32515,70,B. Portis enters the game for B. Lopez,4:53.0,115-117,Milwaukee,1,0.0
+32516,70,D. DiVincenzo makes free throw 1 of 1,4:53.0,115-118,Sacramento,0,0.0
+32517,70,J. Holiday makes 3-pt jump shot from 26 ft,4:41.0,118-118,Milwaukee,0,0.0
+32518,70,D. Sabonis misses 2-pt hook shot from 6 ft (block by K. Middleton),4:18.0,118-118,Sacramento,0,0.0
+32519,70,Offensive rebound by Team,4:18.0,118-118,Sacramento,0,0.0
+32520,70,T. Lyles makes 2-pt dunk from 1 ft (assist by D. Fox),4:14.0,118-120,Sacramento,0,0.0
+32521,70,G. Antetokounmpo makes 2-pt layup from 5 ft,4:05.0,120-120,Milwaukee,0,0.0
+32522,70,D. Fox makes 2-pt jump shot from 4 ft,3:50.0,120-122,Sacramento,0,0.0
+32523,70,Shooting foul by W. Matthews (drawn by D. Fox),3:50.0,120-122,Sacramento,0,0.0
+32524,70,D. Fox makes free throw 1 of 1,3:50.0,120-123,Sacramento,0,0.0
+32525,70,J. Holiday makes 3-pt jump shot from 25 ft,3:37.0,123-123,Milwaukee,0,0.0
+32526,70,D. Fox misses 3-pt jump shot from 24 ft,3:22.0,123-123,Sacramento,0,0.0
+32527,70,Defensive rebound by K. Middleton,3:19.0,123-123,Milwaukee,0,0.0
+32528,70,G. Antetokounmpo misses 2-pt layup from 3 ft,3:07.0,123-123,Milwaukee,0,0.0
+32529,70,Defensive rebound by Team,3:07.0,123-123,Sacramento,0,0.0
+32530,70,Turnover by D. Fox (bad pass; steal by G. Antetokounmpo),2:42.0,123-123,Sacramento,0,0.0
+32531,70,Personal take foul by T. Lyles (drawn by G. Antetokounmpo),2:42.0,123-123,Milwaukee,0,0.0
+32532,70,Turnover by J. Holiday (lost ball; steal by D. Mitchell),2:24.0,123-123,Milwaukee,0,0.0
+32533,70,Turnover by D. Fox (bad pass; steal by G. Antetokounmpo),2:16.0,123-123,Sacramento,0,0.0
+32534,70,K. Middleton makes 3-pt jump shot from 27 ft (assist by G. Antetokounmpo),2:07.0,126-123,Milwaukee,0,0.0
+32535,70,D. Fox makes 3-pt jump shot from 26 ft (assist by D. Sabonis),1:47.0,126-126,Sacramento,0,0.0
+32536,70,W. Matthews makes 3-pt jump shot from 24 ft (assist by J. Holiday),1:32.0,129-126,Milwaukee,0,0.0
+32537,70,D. Mitchell misses 3-pt jump shot from 25 ft,1:20.0,129-126,Sacramento,0,0.0
+32538,70,Defensive rebound by G. Antetokounmpo,1:16.0,129-126,Milwaukee,0,1.0
+32539,70,G. Antetokounmpo makes 2-pt hook shot from 7 ft,1:04.0,131-126,Milwaukee,0,1.0
+32540,70,Sacramento full timeout,1:04.0,131-126,Sacramento,0,1.0
+32541,70,Turnover by D. Fox (bad pass; steal by W. Matthews),0:45.0,131-126,Sacramento,0,0.0
+32542,70,Personal take foul by D. Fox (drawn by G. Antetokounmpo),0:38.0,131-126,Milwaukee,0,0.0
+32543,70,G. Antetokounmpo makes free throw 1 of 2,0:38.0,132-126,Milwaukee,0,0.0
+32544,70,G. Antetokounmpo makes free throw 2 of 2,0:38.0,133-126,Milwaukee,0,
+32545,70,Turnover by D. Fox (bad pass; steal by W. Matthews),0:31.0,133-126,Sacramento,0,
+32546,70,Personal take foul by D. Mitchell (drawn by B. Portis),0:25.0,133-126,Milwaukee,0,
+32547,70,B. Portis makes free throw 1 of 2,0:25.0,134-126,Milwaukee,0,
+32548,70,T. Antetokounmpo enters the game for G. Antetokounmpo,0:25.0,134-126,Milwaukee,1,
+32549,70,J. Carter enters the game for J. Holiday,0:25.0,134-126,Milwaukee,1,
+32550,70,S. Ibaka enters the game for K. Middleton,0:25.0,134-126,Milwaukee,1,
+32551,70,B. Portis makes free throw 2 of 2,0:25.0,135-126,Milwaukee,0,
+32552,70,T. Lyles misses 3-pt jump shot from 26 ft,0:18.0,135-126,Sacramento,0,
+32553,70,Defensive rebound by J. Carter,0:14.0,135-126,Milwaukee,0,

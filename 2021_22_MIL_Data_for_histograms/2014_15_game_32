@@ -1,0 +1,430 @@
+,game number,play,time,score,team,current_sub_status,future_sub_status
+14308,32,J. Nwora misses 2-pt jump shot from 20 ft,11:46.0,0-0,Milwaukee,0,0.0
+14309,32,Defensive rebound by J. Allen,11:43.0,0-0,Cleveland,0,0.0
+14310,32,Turnover by D. Garland (lost ball; steal by D. Cousins),11:38.0,0-0,Cleveland,0,0.0
+14311,32,G. Hill makes 2-pt dunk from 2 ft,11:34.0,0-2,Milwaukee,0,0.0
+14312,32,D. Garland makes 3-pt jump shot from 29 ft (assist by L. Markkanen),11:15.0,3-2,Cleveland,0,0.0
+14313,32,J. Smart misses 2-pt layup from 3 ft,11:02.0,3-2,Milwaukee,0,0.0
+14314,32,Offensive rebound by D. Cousins,11:01.0,3-2,Milwaukee,0,0.0
+14315,32,D. Cousins makes 2-pt layup from 1 ft,10:59.0,3-4,Milwaukee,0,0.0
+14316,32,D. Wade misses 3-pt jump shot from 27 ft,10:48.0,3-4,Cleveland,0,0.0
+14317,32,Defensive rebound by D. Cousins,10:44.0,3-4,Milwaukee,0,0.0
+14318,32,J. Nwora makes 3-pt jump shot from 27 ft,10:29.0,3-7,Milwaukee,0,0.0
+14319,32,D. Wade misses 3-pt jump shot from 23 ft,10:11.0,3-7,Cleveland,0,0.0
+14320,32,Offensive rebound by L. Stevens,10:06.0,3-7,Cleveland,0,0.0
+14321,32,D. Garland makes 3-pt jump shot from 25 ft (assist by L. Stevens),10:01.0,6-7,Cleveland,0,0.0
+14322,32,D. Cousins misses 3-pt jump shot from 27 ft,9:51.0,6-7,Milwaukee,0,0.0
+14323,32,Defensive rebound by L. Stevens,9:48.0,6-7,Cleveland,0,0.0
+14324,32,L. Markkanen misses 3-pt jump shot from 28 ft,9:42.0,6-7,Cleveland,0,0.0
+14325,32,Defensive rebound by J. Nwora,9:40.0,6-7,Milwaukee,0,0.0
+14326,32,Personal foul by D. Wade (drawn by D. Cousins),9:24.0,6-7,Milwaukee,0,0.0
+14327,32,J. Nwora makes 3-pt jump shot from 27 ft,9:13.0,6-10,Milwaukee,0,0.0
+14328,32,Cleveland full timeout,9:12.0,6-10,Cleveland,0,0.0
+14329,32,L. Stevens makes 3-pt jump shot from 28 ft (assist by J. Allen),8:52.0,9-10,Cleveland,0,0.0
+14330,32,Personal foul by L. Stevens (drawn by D. Cousins),8:43.0,9-10,Milwaukee,0,0.0
+14331,32,D. Cousins misses 2-pt jump shot from 17 ft,8:28.0,9-10,Milwaukee,0,0.0
+14332,32,Defensive rebound by D. Wade,8:25.0,9-10,Cleveland,0,0.0
+14333,32,Turnover by D. Garland (bad pass; steal by J. Smart),8:16.0,9-10,Cleveland,0,0.0
+14334,32,J. Smart makes 2-pt layup from 2 ft,8:10.0,9-12,Milwaukee,0,0.0
+14335,32,Turnover by L. Stevens (bad pass; steal by D. Cousins),7:54.0,9-12,Cleveland,0,0.0
+14336,32,J. Nwora misses 3-pt jump shot from 28 ft,7:45.0,9-12,Milwaukee,0,0.0
+14337,32,Defensive rebound by L. Stevens,7:42.0,9-12,Cleveland,0,0.0
+14338,32,L. Stevens misses 3-pt jump shot from 23 ft,7:28.0,9-12,Cleveland,0,0.0
+14339,32,Defensive rebound by J. Nwora,7:25.0,9-12,Milwaukee,0,0.0
+14340,32,J. Nwora misses 2-pt layup from 6 ft,7:23.0,9-12,Milwaukee,0,0.0
+14341,32,Offensive rebound by D. Cousins,7:22.0,9-12,Milwaukee,0,0.0
+14342,32,D. Cousins misses 2-pt layup at rim,7:22.0,9-12,Milwaukee,0,1.0
+14343,32,Offensive rebound by J. Nwora,7:20.0,9-12,Milwaukee,0,0.0
+14344,32,S. Mamukelashvili misses 3-pt jump shot from 25 ft,7:18.0,9-12,Milwaukee,0,0.0
+14345,32,Defensive rebound by D. Wade,7:16.0,9-12,Cleveland,0,0.0
+14346,32,D. Garland makes 2-pt layup from 2 ft,7:08.0,11-12,Cleveland,0,0.0
+14347,32,D. Cousins makes 3-pt jump shot from 26 ft (assist by J. Nwora),6:49.0,11-15,Milwaukee,0,0.0
+14348,32,Personal foul by D. Cousins (drawn by J. Allen),6:31.0,11-15,Cleveland,0,1.0
+14349,32,K. Love enters the game for L. Markkanen,6:31.0,11-15,Cleveland,0,0.0
+14350,32,C. Osman enters the game for L. Stevens,6:31.0,11-15,Cleveland,0,0.0
+14351,32,R. Rubio enters the game for D. Wade,6:31.0,11-15,Cleveland,0,0.0
+14352,32,P. Connaughton enters the game for G. Hill,6:31.0,11-15,Milwaukee,1,0.0
+14353,32,K. Love makes 3-pt jump shot from 26 ft (assist by R. Rubio),6:13.0,14-15,Cleveland,0,0.0
+14354,32,Turnover by J. Nwora (out of bounds lost ball),5:57.0,14-15,Milwaukee,0,0.0
+14355,32,K. Love misses 3-pt jump shot from 24 ft,5:50.0,14-15,Cleveland,0,0.0
+14356,32,Offensive rebound by C. Osman,5:49.0,14-15,Cleveland,0,0.0
+14357,32,Turnover by R. Rubio (step out of bounds),5:49.0,14-15,Cleveland,0,0.0
+14358,32,T. Antetokounmpo enters the game for D. Cousins,5:49.0,14-15,Milwaukee,1,0.0
+14359,32,J. Nwora misses 2-pt jump shot from 10 ft,5:35.0,14-15,Milwaukee,0,0.0
+14360,32,Defensive rebound by K. Love,5:33.0,14-15,Cleveland,0,0.0
+14361,32,D. Garland makes 2-pt jump shot from 16 ft,5:27.0,16-15,Cleveland,0,0.0
+14362,32,Personal foul by R. Rubio (drawn by J. Smart),5:19.0,16-15,Milwaukee,0,0.0
+14363,32,P. Connaughton misses 2-pt layup from 3 ft,5:12.0,16-15,Milwaukee,0,0.0
+14364,32,Offensive rebound by T. Antetokounmpo,5:10.0,16-15,Milwaukee,0,0.0
+14365,32,S. Mamukelashvili misses 3-pt jump shot from 27 ft,5:08.0,16-15,Milwaukee,0,0.0
+14366,32,Offensive rebound by P. Connaughton,5:08.0,16-15,Milwaukee,0,0.0
+14367,32,Turnover by P. Connaughton (bad pass; steal by R. Rubio),5:03.0,16-15,Milwaukee,0,1.0
+14368,32,D. Garland makes 2-pt layup from 2 ft (assist by R. Rubio),4:58.0,18-15,Cleveland,0,0.0
+14369,32,Turnover by T. Antetokounmpo (traveling),4:42.0,18-15,Milwaukee,0,0.0
+14370,32,J. Allen makes 2-pt layup from 1 ft (assist by R. Rubio),4:28.0,20-15,Cleveland,0,0.0
+14371,32,S. Mamukelashvili misses 2-pt layup from 5 ft,4:12.0,20-15,Milwaukee,0,0.0
+14372,32,Defensive rebound by R. Rubio,4:09.0,20-15,Cleveland,0,0.0
+14373,32,C. Osman makes 2-pt layup from 1 ft (assist by R. Rubio),4:07.0,22-15,Cleveland,0,0.0
+14374,32,Milwaukee full timeout,4:01.0,22-15,Milwaukee,0,0.0
+14375,32,L. Markkanen enters the game for J. Allen,4:01.0,22-15,Cleveland,0,0.0
+14376,32,D. Windler enters the game for D. Garland,4:01.0,22-15,Cleveland,0,0.0
+14377,32,S. Ojeleye enters the game for J. Nwora,4:01.0,22-15,Milwaukee,1,0.0
+14378,32,S. Mamukelashvili makes 3-pt jump shot from 24 ft (assist by J. Smart),3:50.0,22-18,Milwaukee,0,0.0
+14379,32,C. Osman makes 3-pt jump shot from 23 ft (assist by R. Rubio),3:34.0,25-18,Cleveland,0,0.0
+14380,32,S. Ojeleye misses 3-pt jump shot from 25 ft,3:16.0,25-18,Milwaukee,0,1.0
+14381,32,Defensive rebound by D. Windler,3:10.0,25-18,Cleveland,0,0.0
+14382,32,L. Markkanen makes 2-pt hook shot from 5 ft (assist by K. Love),3:00.0,27-18,Cleveland,0,0.0
+14383,32,J. Smart misses 2-pt jump shot from 20 ft (block by R. Rubio),2:50.0,27-18,Milwaukee,0,0.0
+14384,32,Defensive rebound by C. Osman,2:46.0,27-18,Cleveland,0,0.0
+14385,32,R. Rubio misses 2-pt jump shot from 17 ft,2:43.0,27-18,Cleveland,0,0.0
+14386,32,Offensive rebound by Team,2:43.0,27-18,Cleveland,0,0.0
+14387,32,Loose ball foul by T. Antetokounmpo (drawn by L. Markkanen),2:43.0,27-18,Milwaukee,0,0.0
+14388,32,Turnover by R. Rubio (bad pass; steal by P. Connaughton),2:33.0,27-18,Cleveland,0,0.0
+14389,32,Personal foul by D. Windler (drawn by S. Ojeleye),2:26.0,27-18,Milwaukee,0,0.0
+14390,32,J. Nwora enters the game for S. Mamukelashvili,2:26.0,27-18,Milwaukee,1,0.0
+14391,32,J. Smart misses 2-pt jump shot from 15 ft,2:15.0,27-18,Milwaukee,0,0.0
+14392,32,Offensive rebound by S. Ojeleye,2:12.0,27-18,Milwaukee,0,0.0
+14393,32,P. Connaughton misses 3-pt jump shot from 28 ft,2:08.0,27-18,Milwaukee,0,0.0
+14394,32,Offensive rebound by J. Nwora,2:05.0,27-18,Milwaukee,0,0.0
+14395,32,J. Nwora misses 3-pt jump shot from 26 ft,2:02.0,27-18,Milwaukee,0,1.0
+14396,32,Defensive rebound by C. Osman,2:00.0,27-18,Cleveland,0,0.0
+14397,32,C. Osman makes 2-pt layup from 3 ft (assist by K. Love),1:57.0,29-18,Cleveland,0,0.0
+14398,32,Violation by Team (def goaltending),1:57.0,29-18,Milwaukee,0,0.0
+14399,32,S. Ojeleye misses 3-pt jump shot from 24 ft,1:42.0,29-18,Milwaukee,0,0.0
+14400,32,Defensive rebound by D. Windler,1:39.0,29-18,Cleveland,0,0.0
+14401,32,L. Markkanen misses 2-pt dunk from 3 ft,1:31.0,29-18,Cleveland,0,0.0
+14402,32,Defensive rebound by S. Ojeleye,1:31.0,29-18,Milwaukee,0,0.0
+14403,32,Personal take foul by C. Osman (drawn by S. Ojeleye),1:31.0,29-18,Milwaukee,0,0.0
+14404,32,S. Ojeleye makes free throw 1 of 2,1:31.0,29-19,Milwaukee,0,0.0
+14405,32,S. Mamukelashvili enters the game for P. Connaughton,1:31.0,29-19,Milwaukee,1,0.0
+14406,32,S. Ojeleye makes free throw 2 of 2,1:31.0,29-20,Milwaukee,0,0.0
+14407,32,R. Rubio makes 2-pt jump shot from 12 ft,1:21.0,31-20,Cleveland,0,0.0
+14408,32,J. Smart misses 3-pt jump shot from 28 ft,1:00.0,31-20,Milwaukee,0,0.0
+14409,32,Defensive rebound by K. Love,0:57.0,31-20,Cleveland,0,0.0
+14410,32,C. Osman makes 3-pt jump shot from 28 ft (assist by R. Rubio),0:52.0,34-20,Cleveland,0,0.0
+14411,32,S. Ojeleye misses 3-pt jump shot from 26 ft,0:33.0,34-20,Milwaukee,0,0.0
+14412,32,Defensive rebound by R. Rubio,0:31.0,34-20,Cleveland,0,0.0
+14413,32,L. Markkanen misses 2-pt layup from 3 ft (block by J. Smart),0:27.0,34-20,Cleveland,0,0.0
+14414,32,Offensive rebound by Team,0:26.0,34-20,Cleveland,0,0.0
+14415,32,L. Markkanen misses 3-pt jump shot from 23 ft,0:08.0,34-20,Cleveland,0,0.0
+14416,32,Offensive rebound by C. Osman,0:05.0,34-20,Cleveland,0,0.0
+14417,32,K. Love misses 3-pt jump shot from 28 ft,0:01.0,34-20,Cleveland,0,0.0
+14418,32,Offensive rebound by Team,0:01.0,34-20,Cleveland,0,0.0
+14419,32,Turnover by R. Rubio (bad pass; steal by D. Cousins),11:47.0,34-20,Cleveland,0,0.0
+14420,32,Turnover by J. Smart (bad pass; steal by C. Osman),11:32.0,34-20,Milwaukee,0,0.0
+14421,32,Turnover by C. Osman (bad pass),11:30.0,34-20,Cleveland,0,0.0
+14422,32,J. Nwora misses 2-pt layup from 3 ft,11:17.0,34-20,Milwaukee,0,0.0
+14423,32,Offensive rebound by D. Cousins,11:15.0,34-20,Milwaukee,0,0.0
+14424,32,D. Cousins misses 2-pt layup from 3 ft,11:14.0,34-20,Milwaukee,0,0.0
+14425,32,Offensive rebound by Team,11:13.0,34-20,Milwaukee,0,0.0
+14426,32,Turnover by S. Mamukelashvili (lost ball; steal by R. Rubio),11:07.0,34-20,Milwaukee,0,0.0
+14427,32,Personal foul by D. Cousins (drawn by L. Markkanen),11:03.0,34-20,Cleveland,0,0.0
+14428,32,L. Markkanen misses 3-pt jump shot from 28 ft,10:46.0,34-20,Cleveland,0,0.0
+14429,32,Defensive rebound by D. Cousins,10:42.0,34-20,Milwaukee,0,0.0
+14430,32,Turnover by D. Cousins (bad pass),10:30.0,34-20,Milwaukee,0,0.0
+14431,32,D. Garland enters the game for D. Windler,10:30.0,34-20,Cleveland,0,0.0
+14432,32,Shooting foul by S. Mamukelashvili (drawn by K. Love),10:21.0,34-20,Cleveland,0,0.0
+14433,32,K. Love makes free throw 1 of 3,10:21.0,35-20,Cleveland,0,0.0
+14434,32,K. Love makes free throw 2 of 3,10:21.0,36-20,Cleveland,0,0.0
+14435,32,K. Love makes free throw 3 of 3,10:21.0,37-20,Cleveland,0,0.0
+14436,32,Turnover by D. Cousins (bad pass),10:02.0,37-20,Milwaukee,0,0.0
+14437,32,D. Garland makes 2-pt jump shot from 10 ft (assist by K. Love),9:52.0,39-20,Cleveland,0,0.0
+14438,32,G. Hill misses 2-pt jump shot from 21 ft,9:38.0,39-20,Milwaukee,0,0.0
+14439,32,Defensive rebound by R. Rubio,9:35.0,39-20,Cleveland,0,0.0
+14440,32,C. Osman misses 3-pt jump shot from 28 ft,9:28.0,39-20,Cleveland,0,0.0
+14441,32,Defensive rebound by Team,9:27.0,39-20,Milwaukee,0,0.0
+14442,32,Turnover by D. Cousins (bad pass; steal by R. Rubio),9:13.0,39-20,Milwaukee,0,0.0
+14443,32,Turnover by R. Rubio (bad pass; steal by D. Cousins),9:08.0,39-20,Cleveland,0,0.0
+14444,32,J. Smart makes 2-pt jump shot from 18 ft (assist by J. Nwora),8:59.0,39-22,Milwaukee,0,0.0
+14445,32,Personal foul by J. Smart (drawn by R. Rubio),8:41.0,39-22,Cleveland,0,0.0
+14446,32,L. Markkanen misses 3-pt jump shot from 23 ft,8:28.0,39-22,Cleveland,0,0.0
+14447,32,Defensive rebound by J. Nwora,8:25.0,39-22,Milwaukee,0,0.0
+14448,32,J. Nwora misses 2-pt jump shot from 14 ft,8:17.0,39-22,Milwaukee,0,0.0
+14449,32,Defensive rebound by L. Markkanen,8:15.0,39-22,Cleveland,0,0.0
+14450,32,K. Love misses 3-pt jump shot from 25 ft,8:12.0,39-22,Cleveland,0,1.0
+14451,32,Offensive rebound by C. Osman,8:09.0,39-22,Cleveland,0,1.0
+14452,32,L. Markkanen misses 3-pt jump shot from 27 ft,8:03.0,39-22,Cleveland,0,0.0
+14453,32,Defensive rebound by D. Cousins,8:00.0,39-22,Milwaukee,0,0.0
+14454,32,J. Nwora makes 2-pt dunk from 3 ft (assist by G. Hill),7:50.0,39-24,Milwaukee,0,0.0
+14455,32,R. Rubio makes 3-pt jump shot from 26 ft (assist by D. Garland),7:26.0,42-24,Cleveland,0,0.0
+14456,32,Milwaukee full timeout,7:21.0,42-24,Milwaukee,0,0.0
+14457,32,J. Allen enters the game for K. Love,7:21.0,42-24,Cleveland,0,0.0
+14458,32,L. Stevens enters the game for L. Markkanen,7:21.0,42-24,Cleveland,0,0.0
+14459,32,D. Wade enters the game for R. Rubio,7:21.0,42-24,Cleveland,0,0.0
+14460,32,T. Antetokounmpo enters the game for S. Mamukelashvili,7:21.0,42-24,Milwaukee,1,0.0
+14461,32,P. Connaughton enters the game for J. Smart,7:21.0,42-24,Milwaukee,1,0.0
+14462,32,J. Nwora makes 3-pt jump shot from 26 ft (assist by G. Hill),7:11.0,42-27,Milwaukee,0,0.0
+14463,32,J. Allen makes 2-pt dunk from 2 ft (assist by D. Wade),6:55.0,44-27,Cleveland,0,0.0
+14464,32,P. Connaughton misses 2-pt jump shot from 9 ft,6:38.0,44-27,Milwaukee,0,0.0
+14465,32,Offensive rebound by T. Antetokounmpo,6:36.0,44-27,Milwaukee,0,0.0
+14466,32,D. Cousins makes 2-pt layup from 2 ft (assist by T. Antetokounmpo),6:31.0,44-29,Milwaukee,0,0.0
+14467,32,C. Osman makes 2-pt layup from 2 ft (assist by D. Garland),6:09.0,46-29,Cleveland,0,1.0
+14468,32,D. Cousins makes 3-pt jump shot from 26 ft (assist by G. Hill),5:57.0,46-32,Milwaukee,0,1.0
+14469,32,D. Garland misses 2-pt jump shot from 8 ft,5:43.0,46-32,Cleveland,0,0.0
+14470,32,Defensive rebound by G. Hill,5:40.0,46-32,Milwaukee,0,0.0
+14471,32,G. Hill makes 2-pt layup from 3 ft,5:38.0,46-34,Milwaukee,0,0.0
+14472,32,C. Osman makes 3-pt jump shot from 23 ft (assist by L. Stevens),5:21.0,49-34,Cleveland,0,0.0
+14473,32,G. Hill makes 2-pt jump shot from 8 ft,5:08.0,49-36,Milwaukee,0,0.0
+14474,32,J. Allen misses 2-pt jump shot from 17 ft,4:56.0,49-36,Cleveland,0,0.0
+14475,32,Defensive rebound by D. Cousins,4:52.0,49-36,Milwaukee,0,1.0
+14476,32,Turnover by T. Antetokounmpo (step out of bounds),4:44.0,49-36,Milwaukee,0,0.0
+14477,32,S. Mamukelashvili enters the game for G. Hill,4:44.0,49-36,Milwaukee,1,0.0
+14478,32,J. Smart enters the game for J. Nwora,4:44.0,49-36,Milwaukee,1,0.0
+14479,32,L. Stevens misses 2-pt jump shot from 3 ft,4:31.0,49-36,Cleveland,0,0.0
+14480,32,Defensive rebound by T. Antetokounmpo,4:26.0,49-36,Milwaukee,0,0.0
+14481,32,Def 3 sec tech foul by Team,4:15.0,49-36,Milwaukee,0,0.0
+14482,32,P. Connaughton makes technical free throw,4:15.0,49-37,Milwaukee,0,0.0
+14483,32,L. Markkanen enters the game for C. Osman,4:15.0,49-37,Cleveland,0,0.0
+14484,32,D. Windler enters the game for L. Stevens,4:15.0,49-37,Cleveland,0,0.0
+14485,32,S. Ojeleye enters the game for D. Cousins,4:15.0,49-37,Milwaukee,1,0.0
+14486,32,P. Connaughton makes 2-pt jump shot from 15 ft,4:04.0,49-39,Milwaukee,0,1.0
+14487,32,D. Windler misses 3-pt jump shot from 28 ft,3:55.0,49-39,Cleveland,0,0.0
+14488,32,Offensive rebound by J. Allen,3:51.0,49-39,Cleveland,0,0.0
+14489,32,J. Allen makes 2-pt layup from 2 ft,3:49.0,51-39,Cleveland,0,0.0
+14490,32,T. Antetokounmpo makes 2-pt layup from 1 ft (assist by J. Smart),3:40.0,51-41,Milwaukee,0,0.0
+14491,32,Turnover by D. Windler (bad pass; steal by S. Mamukelashvili),3:26.0,51-41,Cleveland,0,0.0
+14492,32,Turnover by T. Antetokounmpo (lost ball; steal by D. Windler),3:18.0,51-41,Milwaukee,0,0.0
+14493,32,D. Windler misses 2-pt dunk from 3 ft (block by J. Smart),3:16.0,51-41,Cleveland,0,0.0
+14494,32,Offensive rebound by Team,3:16.0,51-41,Cleveland,0,0.0
+14495,32,R. Rubio enters the game for D. Windler,3:16.0,51-41,Cleveland,0,0.0
+14496,32,J. Nwora enters the game for T. Antetokounmpo,3:16.0,51-41,Milwaukee,1,1.0
+14497,32,R. Rubio makes 2-pt layup from 1 ft (assist by D. Wade),3:04.0,53-41,Cleveland,0,0.0
+14498,32,J. Smart misses 2-pt jump shot from 16 ft,2:40.0,53-41,Milwaukee,0,0.0
+14499,32,Defensive rebound by R. Rubio,2:36.0,53-41,Cleveland,0,0.0
+14500,32,R. Rubio misses 3-pt jump shot from 27 ft,2:28.0,53-41,Cleveland,0,0.0
+14501,32,Defensive rebound by S. Ojeleye,2:26.0,53-41,Milwaukee,0,0.0
+14502,32,S. Ojeleye misses 2-pt layup from 2 ft,2:22.0,53-41,Milwaukee,0,0.0
+14503,32,Defensive rebound by Team,2:22.0,53-41,Cleveland,0,0.0
+14504,32,Loose ball foul by S. Ojeleye (drawn by D. Wade),2:20.0,53-41,Milwaukee,0,0.0
+14505,32,Cleveland full timeout,2:20.0,53-41,Cleveland,0,0.0
+14506,32,T. Antetokounmpo enters the game for P. Connaughton,2:20.0,53-41,Milwaukee,1,0.0
+14507,32,Shooting foul by S. Mamukelashvili (drawn by J. Allen),1:58.0,53-41,Cleveland,0,0.0
+14508,32,J. Allen makes free throw 1 of 2,1:58.0,54-41,Cleveland,0,0.0
+14509,32,J. Allen makes free throw 2 of 2,1:58.0,55-41,Cleveland,0,0.0
+14510,32,J. Nwora makes 2-pt jump shot from 16 ft,1:37.0,55-43,Milwaukee,0,0.0
+14511,32,L. Markkanen makes 2-pt layup from 1 ft (assist by D. Garland),1:22.0,57-43,Cleveland,0,0.0
+14512,32,Personal foul by R. Rubio (drawn by J. Nwora),1:15.0,57-43,Milwaukee,0,0.0
+14513,32,T. Antetokounmpo makes 2-pt layup from 2 ft (assist by J. Smart),1:05.0,57-45,Milwaukee,0,0.0
+14514,32,D. Wade makes 3-pt jump shot from 26 ft (assist by D. Garland),0:43.0,60-45,Cleveland,0,0.0
+14515,32,J. Smart misses 3-pt jump shot from 27 ft,0:35.0,60-45,Milwaukee,0,0.0
+14516,32,Offensive rebound by J. Nwora,0:33.0,60-45,Milwaukee,0,0.0
+14517,32,J. Nwora makes 3-pt jump shot from 25 ft,0:29.0,60-48,Milwaukee,0,0.0
+14518,32,R. Rubio makes 2-pt jump shot from 16 ft,0:09.0,62-48,Cleveland,0,0.0
+14519,32,S. Mamukelashvili makes 3-pt jump shot from 29 ft (assist by J. Nwora),0:00.0,62-51,Milwaukee,0,0.0
+14520,32,J. Allen makes 2-pt layup at rim,11:40.0,64-51,Cleveland,0,0.0
+14521,32,D. Cousins misses 3-pt jump shot from 26 ft,11:20.0,64-51,Milwaukee,0,0.0
+14522,32,Defensive rebound by R. Rubio,11:17.0,64-51,Cleveland,0,0.0
+14523,32,D. Garland makes 2-pt jump shot from 21 ft (assist by R. Rubio),11:09.0,66-51,Cleveland,0,0.0
+14524,32,S. Mamukelashvili misses 3-pt jump shot from 27 ft,10:56.0,66-51,Milwaukee,0,0.0
+14525,32,Defensive rebound by D. Wade,10:54.0,66-51,Cleveland,0,0.0
+14526,32,L. Markkanen misses 3-pt jump shot from 23 ft,10:47.0,66-51,Cleveland,0,0.0
+14527,32,Defensive rebound by D. Cousins,10:43.0,66-51,Milwaukee,0,0.0
+14528,32,G. Hill makes 2-pt jump shot from 13 ft,10:29.0,66-53,Milwaukee,0,0.0
+14529,32,R. Rubio misses 3-pt jump shot from 26 ft,10:17.0,66-53,Cleveland,0,0.0
+14530,32,Defensive rebound by D. Cousins,10:14.0,66-53,Milwaukee,0,0.0
+14531,32,Turnover by G. Hill (bad pass; steal by D. Wade),10:10.0,66-53,Milwaukee,0,0.0
+14532,32,Offensive foul by L. Markkanen (drawn by D. Cousins),10:03.0,66-53,Cleveland,0,0.0
+14533,32,Turnover by L. Markkanen (offensive foul),10:03.0,66-53,Cleveland,0,0.0
+14534,32,J. Nwora misses 3-pt jump shot from 26 ft,9:44.0,66-53,Milwaukee,0,0.0
+14535,32,Defensive rebound by D. Wade,9:39.0,66-53,Cleveland,0,0.0
+14536,32,D. Wade misses 2-pt layup from 3 ft,9:32.0,66-53,Cleveland,0,0.0
+14537,32,Offensive rebound by D. Wade,9:29.0,66-53,Cleveland,0,0.0
+14538,32,D. Garland makes 2-pt jump shot from 9 ft (assist by D. Wade),9:26.0,68-53,Cleveland,0,0.0
+14539,32,G. Hill misses 2-pt layup from 2 ft (block by J. Allen),9:08.0,68-53,Milwaukee,0,0.0
+14540,32,Defensive rebound by D. Garland,9:04.0,68-53,Cleveland,0,0.0
+14541,32,L. Markkanen misses 2-pt hook shot from 8 ft,8:59.0,68-53,Cleveland,0,0.0
+14542,32,Defensive rebound by G. Hill,8:57.0,68-53,Milwaukee,0,0.0
+14543,32,J. Nwora makes 2-pt layup from 1 ft (assist by G. Hill),8:35.0,68-55,Milwaukee,0,0.0
+14544,32,R. Rubio misses 3-pt jump shot from 25 ft,8:11.0,68-55,Cleveland,0,0.0
+14545,32,Defensive rebound by D. Cousins,8:08.0,68-55,Milwaukee,0,0.0
+14546,32,Turnover by S. Mamukelashvili (step out of bounds),7:57.0,68-55,Milwaukee,0,0.0
+14547,32,L. Markkanen misses 2-pt jump shot from 13 ft,7:47.0,68-55,Cleveland,0,0.0
+14548,32,Defensive rebound by D. Cousins,7:46.0,68-55,Milwaukee,0,0.0
+14549,32,Personal foul by J. Allen (drawn by D. Cousins),7:46.0,68-55,Milwaukee,0,0.0
+14550,32,K. Love enters the game for L. Markkanen,7:46.0,68-55,Cleveland,0,1.0
+14551,32,J. Nwora makes 2-pt layup from 1 ft (assist by S. Mamukelashvili),7:29.0,68-57,Milwaukee,0,0.0
+14552,32,D. Wade misses 2-pt jump shot from 13 ft,7:17.0,68-57,Cleveland,0,0.0
+14553,32,Offensive rebound by J. Allen,7:14.0,68-57,Cleveland,0,0.0
+14554,32,J. Allen makes 2-pt layup from 1 ft,7:13.0,70-57,Cleveland,0,0.0
+14555,32,Turnover by J. Smart (lost ball; steal by J. Allen),7:02.0,70-57,Milwaukee,0,0.0
+14556,32,J. Allen makes 2-pt layup from 2 ft (assist by R. Rubio),6:57.0,72-57,Cleveland,0,0.0
+14557,32,Milwaukee full timeout,6:56.0,72-57,Milwaukee,0,1.0
+14558,32,C. Osman enters the game for R. Rubio,6:56.0,72-57,Cleveland,0,0.0
+14559,32,D. Valentine enters the game for D. Wade,6:56.0,72-57,Cleveland,0,0.0
+14560,32,P. Connaughton enters the game for G. Hill,6:56.0,72-57,Milwaukee,1,0.0
+14561,32,J. Nwora makes 2-pt jump shot from 13 ft (assist by D. Cousins),6:37.0,72-59,Milwaukee,0,0.0
+14562,32,C. Osman makes 3-pt jump shot from 27 ft (assist by J. Allen),6:12.0,75-59,Cleveland,0,0.0
+14563,32,J. Smart misses 2-pt jump shot from 15 ft,5:52.0,75-59,Milwaukee,0,0.0
+14564,32,Offensive rebound by D. Cousins,5:52.0,75-59,Milwaukee,0,0.0
+14565,32,Shooting foul by J. Allen (drawn by D. Cousins),5:52.0,75-59,Milwaukee,0,0.0
+14566,32,D. Cousins makes free throw 1 of 2,5:52.0,75-60,Milwaukee,0,1.0
+14567,32,T. Antetokounmpo enters the game for S. Mamukelashvili,5:52.0,75-60,Milwaukee,1,0.0
+14568,32,D. Cousins makes free throw 2 of 2,5:52.0,75-61,Milwaukee,0,0.0
+14569,32,D. Valentine makes 3-pt jump shot from 27 ft (assist by D. Garland),5:40.0,78-61,Cleveland,0,0.0
+14570,32,Turnover by J. Nwora (bad pass; steal by K. Love),5:23.0,78-61,Milwaukee,0,0.0
+14571,32,K. Love makes 3-pt jump shot from 26 ft (assist by C. Osman),5:16.0,81-61,Cleveland,0,0.0
+14572,32,J. Nwora misses 3-pt jump shot from 26 ft,4:55.0,81-61,Milwaukee,0,0.0
+14573,32,Defensive rebound by D. Garland,4:52.0,81-61,Cleveland,0,0.0
+14574,32,D. Garland makes 2-pt layup from 2 ft (assist by C. Osman),4:45.0,83-61,Cleveland,0,0.0
+14575,32,Milwaukee full timeout,4:45.0,83-61,Milwaukee,0,0.0
+14576,32,S. Mamukelashvili enters the game for D. Cousins,4:45.0,83-61,Milwaukee,1,0.0
+14577,32,J. Smart misses 2-pt jump shot from 14 ft,4:24.0,83-61,Milwaukee,0,0.0
+14578,32,Defensive rebound by K. Love,4:21.0,83-61,Cleveland,0,1.0
+14579,32,D. Garland misses 3-pt jump shot from 29 ft,4:00.0,83-61,Cleveland,0,0.0
+14580,32,Defensive rebound by J. Nwora,3:57.0,83-61,Milwaukee,0,0.0
+14581,32,P. Connaughton misses 3-pt jump shot from 27 ft,3:44.0,83-61,Milwaukee,0,0.0
+14582,32,Defensive rebound by D. Garland,3:41.0,83-61,Cleveland,0,0.0
+14583,32,C. Osman makes 3-pt jump shot from 26 ft (assist by D. Garland),3:25.0,86-61,Cleveland,0,0.0
+14584,32,J. Smart misses 3-pt jump shot from 26 ft,3:11.0,86-61,Milwaukee,0,0.0
+14585,32,Defensive rebound by K. Love,3:08.0,86-61,Cleveland,0,0.0
+14586,32,E. Davis enters the game for J. Allen,3:08.0,86-61,Cleveland,0,0.0
+14587,32,R. Rubio enters the game for D. Garland,3:08.0,86-61,Cleveland,0,0.0
+14588,32,S. Ojeleye enters the game for J. Nwora,3:08.0,86-61,Milwaukee,1,0.0
+14589,32,K. Love makes 2-pt jump shot from 16 ft (assist by R. Rubio),2:58.0,88-61,Cleveland,0,0.0
+14590,32,S. Mamukelashvili misses 3-pt jump shot from 27 ft,2:45.0,88-61,Milwaukee,0,0.0
+14591,32,Defensive rebound by D. Valentine,2:43.0,88-61,Cleveland,0,0.0
+14592,32,R. Rubio makes 2-pt layup from 2 ft (assist by K. Love),2:38.0,90-61,Cleveland,0,0.0
+14593,32,Shooting foul by T. Antetokounmpo (drawn by R. Rubio),2:38.0,90-61,Cleveland,0,0.0
+14594,32,R. Rubio makes free throw 1 of 1,2:38.0,91-61,Cleveland,0,0.0
+14595,32,Shooting foul by E. Davis (drawn by T. Antetokounmpo),2:25.0,91-61,Milwaukee,0,1.0
+14596,32,T. Antetokounmpo misses free throw 1 of 2,2:25.0,91-61,Milwaukee,0,0.0
+14597,32,Offensive rebound by Team,2:25.0,91-61,Milwaukee,0,0.0
+14598,32,T. Antetokounmpo misses free throw 2 of 2,2:25.0,91-61,Milwaukee,0,0.0
+14599,32,Defensive rebound by K. Love,2:22.0,91-61,Cleveland,0,0.0
+14600,32,C. Osman misses 3-pt jump shot from 26 ft,2:03.0,91-61,Cleveland,0,0.0
+14601,32,Defensive rebound by J. Smart,2:01.0,91-61,Milwaukee,0,0.0
+14602,32,S. Mamukelashvili makes 2-pt jump shot from 10 ft (assist by J. Smart),1:55.0,91-63,Milwaukee,0,0.0
+14603,32,K. Love misses 3-pt jump shot from 23 ft,1:36.0,91-63,Cleveland,0,0.0
+14604,32,Defensive rebound by S. Ojeleye,1:35.0,91-63,Milwaukee,0,0.0
+14605,32,J. Nwora enters the game for P. Connaughton,1:35.0,91-63,Milwaukee,1,0.0
+14606,32,Shooting foul by E. Davis (drawn by S. Mamukelashvili),1:22.0,91-63,Milwaukee,0,0.0
+14607,32,S. Mamukelashvili misses free throw 1 of 2,1:22.0,91-63,Milwaukee,0,0.0
+14608,32,Offensive rebound by Team,1:22.0,91-63,Milwaukee,0,0.0
+14609,32,S. Mamukelashvili makes free throw 2 of 2,1:22.0,91-64,Milwaukee,0,0.0
+14610,32,K. Love makes 2-pt jump shot from 11 ft (assist by D. Valentine),1:09.0,93-64,Cleveland,0,0.0
+14611,32,Personal foul by D. Valentine (drawn by J. Nwora),1:02.0,93-64,Milwaukee,0,0.0
+14612,32,J. Nwora makes free throw 1 of 2,1:02.0,93-65,Milwaukee,0,0.0
+14613,32,J. Nwora makes free throw 2 of 2,1:02.0,93-66,Milwaukee,0,0.0
+14614,32,D. Valentine misses 3-pt jump shot from 27 ft,0:47.0,93-66,Cleveland,0,0.0
+14615,32,Defensive rebound by S. Ojeleye,0:44.0,93-66,Milwaukee,0,0.0
+14616,32,S. Ojeleye makes 3-pt jump shot from 27 ft,0:40.0,93-69,Milwaukee,0,0.0
+14617,32,R. Rubio misses 2-pt jump shot from 10 ft,0:31.0,93-69,Cleveland,0,0.0
+14618,32,Defensive rebound by J. Smart,0:28.0,93-69,Milwaukee,0,0.0
+14619,32,S. Mamukelashvili misses 3-pt jump shot from 29 ft,0:24.0,93-69,Milwaukee,0,0.0
+14620,32,Defensive rebound by D. Valentine,0:21.0,93-69,Cleveland,0,0.0
+14621,32,K. Love misses 3-pt jump shot from 26 ft,0:01.0,93-69,Cleveland,0,0.0
+14622,32,Defensive rebound by J. Nwora,0:01.0,93-69,Milwaukee,0,0.0
+14623,32,G. Hill makes 2-pt jump shot from 11 ft,11:43.0,93-71,Milwaukee,0,0.0
+14624,32,D. Valentine misses 2-pt layup from 5 ft,11:28.0,93-71,Cleveland,0,0.0
+14625,32,Defensive rebound by J. Nwora,11:25.0,93-71,Milwaukee,0,0.0
+14626,32,G. Hill misses 3-pt jump shot from 27 ft,11:17.0,93-71,Milwaukee,0,0.0
+14627,32,Offensive rebound by S. Mamukelashvili,11:14.0,93-71,Milwaukee,0,0.0
+14628,32,S. Mamukelashvili makes 2-pt dunk at rim,11:14.0,93-73,Milwaukee,0,0.0
+14629,32,C. Osman misses 3-pt jump shot from 29 ft,10:45.0,93-73,Cleveland,0,0.0
+14630,32,Offensive rebound by Team,10:43.0,93-73,Cleveland,0,0.0
+14631,32,Turnover by Team (shot clock),10:43.0,93-73,Cleveland,0,0.0
+14632,32,D. Cousins misses 3-pt jump shot from 27 ft,10:30.0,93-73,Milwaukee,0,0.0
+14633,32,Defensive rebound by K. Love,10:27.0,93-73,Cleveland,0,0.0
+14634,32,D. Garland makes 2-pt jump shot from 10 ft,10:23.0,95-73,Cleveland,0,0.0
+14635,32,G. Hill makes 2-pt layup from 2 ft,10:10.0,95-75,Milwaukee,0,0.0
+14636,32,Turnover by D. Valentine (bad pass; steal by D. Cousins),9:57.0,95-75,Cleveland,0,0.0
+14637,32,G. Hill makes 2-pt layup from 1 ft,9:52.0,95-77,Milwaukee,0,0.0
+14638,32,Cleveland full timeout,9:52.0,95-77,Cleveland,0,0.0
+14639,32,L. Markkanen enters the game for C. Osman,9:52.0,95-77,Cleveland,0,1.0
+14640,32,R. Rubio enters the game for D. Valentine,9:52.0,95-77,Cleveland,0,0.0
+14641,32,K. Love misses 3-pt jump shot from 24 ft,9:40.0,95-77,Cleveland,0,0.0
+14642,32,Defensive rebound by G. Hill,9:38.0,95-77,Milwaukee,0,0.0
+14643,32,G. Hill misses 3-pt jump shot from 27 ft,9:35.0,95-77,Milwaukee,0,0.0
+14644,32,Defensive rebound by D. Garland,9:33.0,95-77,Cleveland,0,0.0
+14645,32,J. Allen misses 2-pt layup from 5 ft (block by D. Cousins),9:17.0,95-77,Cleveland,0,0.0
+14646,32,Offensive rebound by L. Markkanen,9:12.0,95-77,Cleveland,0,0.0
+14647,32,Shooting foul by J. Smart (drawn by K. Love),9:11.0,95-77,Cleveland,0,0.0
+14648,32,K. Love makes free throw 1 of 2,9:11.0,96-77,Cleveland,0,1.0
+14649,32,P. Connaughton enters the game for J. Smart,9:11.0,96-77,Milwaukee,1,1.0
+14650,32,K. Love makes free throw 2 of 2,9:11.0,97-77,Cleveland,0,0.0
+14651,32,S. Mamukelashvili makes 3-pt jump shot from 26 ft (assist by P. Connaughton),8:58.0,97-80,Milwaukee,0,0.0
+14652,32,L. Markkanen misses 3-pt jump shot from 23 ft,8:37.0,97-80,Cleveland,0,0.0
+14653,32,Offensive rebound by J. Allen,8:34.0,97-80,Cleveland,0,0.0
+14654,32,J. Allen misses 2-pt layup from 1 ft (block by S. Mamukelashvili),8:32.0,97-80,Cleveland,0,0.0
+14655,32,Defensive rebound by P. Connaughton,8:32.0,97-80,Milwaukee,0,0.0
+14656,32,D. Cousins misses 3-pt jump shot from 26 ft,8:23.0,97-80,Milwaukee,0,0.0
+14657,32,Defensive rebound by K. Love,8:19.0,97-80,Cleveland,0,0.0
+14658,32,S. Ojeleye enters the game for G. Hill,8:19.0,97-80,Milwaukee,1,0.0
+14659,32,J. Smart enters the game for J. Nwora,8:19.0,97-80,Milwaukee,1,0.0
+14660,32,D. Garland misses 3-pt jump shot from 23 ft,8:06.0,97-80,Cleveland,0,0.0
+14661,32,Defensive rebound by S. Mamukelashvili,8:03.0,97-80,Milwaukee,0,0.0
+14662,32,Turnover by S. Mamukelashvili (lost ball; steal by D. Garland),8:01.0,97-80,Milwaukee,0,0.0
+14663,32,L. Markkanen makes 2-pt layup from 5 ft (assist by R. Rubio),7:53.0,99-80,Cleveland,0,0.0
+14664,32,Shooting foul by D. Cousins (drawn by L. Markkanen),7:53.0,99-80,Cleveland,0,1.0
+14665,32,D. Wade enters the game for K. Love,7:53.0,99-80,Cleveland,0,1.0
+14666,32,L. Markkanen misses free throw 1 of 1,7:53.0,99-80,Cleveland,0,0.0
+14667,32,Defensive rebound by S. Ojeleye,7:50.0,99-80,Milwaukee,0,0.0
+14668,32,P. Connaughton misses 2-pt jump shot from 14 ft,7:35.0,99-80,Milwaukee,0,0.0
+14669,32,Defensive rebound by J. Allen,7:32.0,99-80,Cleveland,0,0.0
+14670,32,D. Wade makes 3-pt jump shot from 24 ft (assist by L. Markkanen),7:12.0,102-80,Cleveland,0,0.0
+14671,32,Milwaukee full timeout,7:05.0,102-80,Milwaukee,0,0.0
+14672,32,E. Davis enters the game for J. Allen,7:05.0,102-80,Cleveland,0,0.0
+14673,32,C. Osman enters the game for D. Garland,7:05.0,102-80,Cleveland,0,0.0
+14674,32,T. Antetokounmpo enters the game for P. Connaughton,7:05.0,102-80,Milwaukee,1,0.0
+14675,32,J. Nwora enters the game for S. Mamukelashvili,7:05.0,102-80,Milwaukee,1,0.0
+14676,32,Turnover by D. Cousins (bad pass; steal by D. Wade),6:56.0,102-80,Milwaukee,0,1.0
+14677,32,Personal foul by T. Antetokounmpo (drawn by D. Wade),6:56.0,102-80,Cleveland,0,0.0
+14678,32,Personal foul by J. Smart (drawn by L. Markkanen),6:45.0,102-80,Cleveland,0,0.0
+14679,32,Turnover by L. Markkanen (traveling),6:40.0,102-80,Cleveland,0,0.0
+14680,32,J. Nwora makes 2-pt jump shot from 11 ft,6:22.0,102-82,Milwaukee,0,0.0
+14681,32,R. Rubio misses 3-pt jump shot from 27 ft,6:05.0,102-82,Cleveland,0,0.0
+14682,32,Defensive rebound by J. Smart,6:03.0,102-82,Milwaukee,0,0.0
+14683,32,J. Smart misses 3-pt jump shot from 27 ft,5:59.0,102-82,Milwaukee,0,0.0
+14684,32,Defensive rebound by Team,5:59.0,102-82,Cleveland,0,0.0
+14685,32,Loose ball foul by D. Cousins (drawn by C. Osman),5:59.0,102-82,Milwaukee,0,1.0
+14686,32,S. Mamukelashvili enters the game for D. Cousins,5:59.0,102-82,Milwaukee,1,0.0
+14687,32,C. Osman makes free throw 1 of 2,5:59.0,103-82,Cleveland,0,0.0
+14688,32,C. Osman makes free throw 2 of 2,5:59.0,104-82,Cleveland,0,0.0
+14689,32,J. Nwora makes 2-pt jump shot from 20 ft (assist by T. Antetokounmpo),5:48.0,104-84,Milwaukee,0,0.0
+14690,32,C. Osman misses 3-pt jump shot from 25 ft,5:22.0,104-84,Cleveland,0,0.0
+14691,32,Defensive rebound by J. Nwora,5:18.0,104-84,Milwaukee,0,0.0
+14692,32,S. Mamukelashvili misses 2-pt hook shot from 6 ft,5:07.0,104-84,Milwaukee,0,0.0
+14693,32,Offensive rebound by Team,5:07.0,104-84,Milwaukee,0,0.0
+14694,32,Loose ball foul by E. Davis (drawn by J. Nwora),5:07.0,104-84,Cleveland,0,0.0
+14695,32,P. Connaughton enters the game for S. Ojeleye,5:07.0,104-84,Milwaukee,1,0.0
+14696,32,T. Antetokounmpo misses 2-pt layup from 2 ft (block by E. Davis),4:52.0,104-84,Milwaukee,0,0.0
+14697,32,Defensive rebound by E. Davis,4:49.0,104-84,Cleveland,0,0.0
+14698,32,D. Wade makes 3-pt jump shot from 24 ft (assist by C. Osman),4:40.0,107-84,Cleveland,0,0.0
+14699,32,J. Smart misses 2-pt layup from 1 ft,4:24.0,107-84,Milwaukee,0,0.0
+14700,32,Defensive rebound by E. Davis,4:21.0,107-84,Cleveland,0,0.0
+14701,32,Shooting foul by S. Mamukelashvili (drawn by L. Markkanen),4:20.0,107-84,Cleveland,0,0.0
+14702,32,L. Markkanen makes free throw 1 of 2,4:20.0,108-84,Cleveland,0,1.0
+14703,32,L. Markkanen makes free throw 2 of 2,4:20.0,109-84,Cleveland,0,0.0
+14704,32,S. Mamukelashvili makes 3-pt jump shot from 27 ft (assist by P. Connaughton),4:06.0,109-87,Milwaukee,0,0.0
+14705,32,R. Rubio makes 3-pt jump shot from 25 ft (assist by C. Osman),3:42.0,112-87,Cleveland,0,0.0
+14706,32,Turnover by J. Nwora (bad pass; steal by E. Davis),3:27.0,112-87,Milwaukee,0,0.0
+14707,32,Cleveland full timeout,3:20.0,112-87,Cleveland,0,0.0
+14708,32,R. Nembhard enters the game for L. Markkanen,3:20.0,112-87,Cleveland,0,0.0
+14709,32,K. Pangos enters the game for C. Osman,3:20.0,112-87,Cleveland,0,0.0
+14710,32,L. Stevens enters the game for R. Rubio,3:20.0,112-87,Cleveland,0,0.0
+14711,32,D. Valentine enters the game for D. Wade,3:20.0,112-87,Cleveland,0,0.0
+14712,32,S. Ojeleye enters the game for P. Connaughton,3:20.0,112-87,Milwaukee,1,0.0
+14713,32,K. Pangos misses 2-pt jump shot from 20 ft,3:03.0,112-87,Cleveland,0,0.0
+14714,32,Defensive rebound by S. Ojeleye,2:58.0,112-87,Milwaukee,0,0.0
+14715,32,S. Ojeleye misses 2-pt layup from 7 ft,2:52.0,112-87,Milwaukee,0,0.0
+14716,32,Defensive rebound by Team,2:52.0,112-87,Cleveland,0,0.0
+14717,32,Turnover by R. Nembhard (bad pass),2:37.0,112-87,Cleveland,0,0.0
+14718,32,T. Antetokounmpo makes 3-pt jump shot from 24 ft (assist by J. Nwora),2:20.0,112-90,Milwaukee,0,0.0
+14719,32,R. Nembhard makes 2-pt layup from 3 ft (assist by K. Pangos),1:59.0,114-90,Cleveland,0,0.0
+14720,32,J. Nwora misses 2-pt jump shot from 14 ft,1:48.0,114-90,Milwaukee,0,0.0
+14721,32,Offensive rebound by T. Antetokounmpo,1:46.0,114-90,Milwaukee,0,0.0
+14722,32,T. Antetokounmpo misses 2-pt layup from 2 ft,1:45.0,114-90,Milwaukee,0,0.0
+14723,32,Defensive rebound by E. Davis,1:42.0,114-90,Cleveland,0,0.0
+14724,32,L. Stevens makes 2-pt layup from 1 ft (assist by R. Nembhard),1:37.0,116-90,Cleveland,0,0.0
+14725,32,S. Ojeleye misses 2-pt jump shot from 16 ft,1:24.0,116-90,Milwaukee,0,0.0
+14726,32,Defensive rebound by K. Pangos,1:24.0,116-90,Cleveland,0,0.0
+14727,32,L. Stevens makes 2-pt jump shot from 14 ft,1:13.0,118-90,Cleveland,0,
+14728,32,Shooting foul by T. Antetokounmpo (drawn by L. Stevens),1:13.0,118-90,Cleveland,0,
+14729,32,L. Stevens makes free throw 1 of 1,1:13.0,119-90,Cleveland,0,
+14730,32,T. Antetokounmpo misses 3-pt jump shot from 26 ft,0:54.0,119-90,Milwaukee,0,
+14731,32,Defensive rebound by E. Davis,0:49.0,119-90,Cleveland,0,
+14732,32,K. Pangos misses 3-pt jump shot from 29 ft,0:40.0,119-90,Cleveland,0,
+14733,32,Defensive rebound by J. Nwora,0:36.0,119-90,Milwaukee,0,
+14734,32,J. Smart misses 3-pt jump shot from 26 ft,0:28.0,119-90,Milwaukee,0,
+14735,32,Defensive rebound by E. Davis,0:23.0,119-90,Cleveland,0,
+14736,32,Turnover by Team (shot clock),0:03.0,119-90,Cleveland,0,

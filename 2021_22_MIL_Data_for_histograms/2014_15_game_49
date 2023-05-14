@@ -1,0 +1,458 @@
+,game number,play,time,score,team,current_sub_status,future_sub_status
+22302,49,T. Davis makes 3-pt jump shot from 25 ft (assist by H. Barnes),11:40.0,3-0,Sacramento,0,0.0
+22303,49,K. Middleton makes 3-pt jump shot from 26 ft,11:21.0,3-3,Milwaukee,0,0.0
+22304,49,H. Barnes makes 3-pt jump shot from 27 ft (assist by R. Holmes),11:07.0,6-3,Sacramento,0,0.0
+22305,49,B. Portis misses 2-pt jump shot from 17 ft,10:47.0,6-3,Milwaukee,0,0.0
+22306,49,Defensive rebound by R. Holmes,10:45.0,6-3,Sacramento,0,0.0
+22307,49,M. Bagley misses 2-pt jump shot from 16 ft,10:38.0,6-3,Sacramento,0,0.0
+22308,49,Defensive rebound by K. Middleton,10:34.0,6-3,Milwaukee,0,0.0
+22309,49,K. Middleton makes 2-pt layup from 6 ft,10:29.0,6-5,Milwaukee,0,0.0
+22310,49,M. Bagley misses 2-pt jump shot from 14 ft,10:14.0,6-5,Sacramento,0,0.0
+22311,49,Defensive rebound by B. Portis,10:11.0,6-5,Milwaukee,0,0.0
+22312,49,J. Holiday misses 2-pt hook shot from 6 ft,10:02.0,6-5,Milwaukee,0,0.0
+22313,49,Defensive rebound by T. Davis,9:59.0,6-5,Sacramento,0,0.0
+22314,49,H. Barnes misses 3-pt jump shot from 28 ft,9:45.0,6-5,Sacramento,0,0.0
+22315,49,Defensive rebound by J. Holiday,9:42.0,6-5,Milwaukee,0,0.0
+22316,49,P. Connaughton misses 3-pt jump shot from 28 ft,9:32.0,6-5,Milwaukee,0,0.0
+22317,49,Defensive rebound by T. Davis,9:29.0,6-5,Sacramento,0,0.0
+22318,49,H. Barnes makes 2-pt layup from 1 ft,9:12.0,8-5,Sacramento,0,0.0
+22319,49,B. Portis misses 3-pt jump shot from 27 ft,8:57.0,8-5,Milwaukee,0,0.0
+22320,49,Defensive rebound by R. Holmes,8:54.0,8-5,Sacramento,0,0.0
+22321,49,T. Haliburton makes 2-pt jump shot from 14 ft,8:39.0,10-5,Sacramento,0,0.0
+22322,49,J. Holiday misses 2-pt layup from 4 ft,8:22.0,10-5,Milwaukee,0,0.0
+22323,49,Defensive rebound by T. Haliburton,8:19.0,10-5,Sacramento,0,0.0
+22324,49,T. Davis makes 2-pt jump shot from 10 ft (assist by H. Barnes),8:03.0,12-5,Sacramento,0,0.0
+22325,49,P. Connaughton makes 3-pt jump shot from 24 ft (assist by K. Middleton),7:45.0,12-8,Milwaukee,0,1.0
+22326,49,T. Davis misses 3-pt jump shot from 26 ft,7:33.0,12-8,Sacramento,0,0.0
+22327,49,Defensive rebound by B. Portis,7:30.0,12-8,Milwaukee,0,0.0
+22328,49,J. Holiday makes 2-pt layup from 1 ft,7:24.0,12-10,Milwaukee,0,0.0
+22329,49,T. Haliburton misses 3-pt jump shot from 26 ft,7:08.0,12-10,Sacramento,0,0.0
+22330,49,Defensive rebound by B. Portis,7:05.0,12-10,Milwaukee,0,0.0
+22331,49,Shooting foul by T. Davis (drawn by J. Holiday),6:53.0,12-10,Milwaukee,0,0.0
+22332,49,Milwaukee full timeout,6:53.0,12-10,Milwaukee,0,0.0
+22333,49,B. Hield enters the game for H. Barnes,6:53.0,12-10,Sacramento,0,0.0
+22334,49,D. Jones enters the game for R. Holmes,6:53.0,12-10,Sacramento,0,0.0
+22335,49,D. DiVincenzo enters the game for G. Hill,6:53.0,12-10,Milwaukee,1,1.0
+22336,49,J. Holiday makes free throw 1 of 2,6:53.0,12-11,Milwaukee,0,1.0
+22337,49,J. Holiday makes free throw 2 of 2,6:53.0,12-12,Milwaukee,0,0.0
+22338,49,M. Bagley makes 2-pt dunk from 1 ft (assist by D. Jones),6:35.0,14-12,Sacramento,0,0.0
+22339,49,K. Middleton makes 2-pt jump shot from 16 ft,6:24.0,14-14,Milwaukee,0,0.0
+22340,49,M. Bagley makes 3-pt jump shot from 23 ft (assist by T. Davis),6:15.0,17-14,Sacramento,0,0.0
+22341,49,J. Holiday misses 2-pt layup from 2 ft,6:02.0,17-14,Milwaukee,0,0.0
+22342,49,Defensive rebound by D. Jones,5:59.0,17-14,Sacramento,0,0.0
+22343,49,D. Jones makes 2-pt layup from 2 ft (assist by T. Davis),5:54.0,19-14,Sacramento,0,0.0
+22344,49,Shooting foul by D. DiVincenzo (drawn by D. Jones),5:54.0,19-14,Sacramento,0,0.0
+22345,49,W. Matthews enters the game for P. Connaughton,5:54.0,19-14,Milwaukee,1,0.0
+22346,49,J. Nwora enters the game for K. Middleton,5:54.0,19-14,Milwaukee,1,0.0
+22347,49,D. Jones misses free throw 1 of 1,5:54.0,19-14,Sacramento,0,0.0
+22348,49,Defensive rebound by B. Portis,5:50.0,19-14,Milwaukee,0,1.0
+22349,49,B. Portis misses 3-pt jump shot from 25 ft,5:36.0,19-14,Milwaukee,0,0.0
+22350,49,Offensive rebound by J. Holiday,5:34.0,19-14,Milwaukee,0,0.0
+22351,49,J. Holiday makes 3-pt jump shot from 27 ft,5:31.0,19-17,Milwaukee,0,0.0
+22352,49,T. Davis misses 3-pt jump shot from 27 ft,5:07.0,19-17,Sacramento,0,0.0
+22353,49,Offensive rebound by D. Jones,5:06.0,19-17,Sacramento,0,0.0
+22354,49,Shooting foul by B. Portis (drawn by D. Jones),5:06.0,19-17,Sacramento,0,0.0
+22355,49,D. Jones makes free throw 1 of 2,5:06.0,20-17,Sacramento,0,0.0
+22356,49,C. Metu enters the game for M. Bagley,5:06.0,20-17,Sacramento,0,0.0
+22357,49,D. Mitchell enters the game for T. Davis,5:06.0,20-17,Sacramento,0,0.0
+22358,49,S. Mamukelashvili enters the game for B. Portis,5:06.0,20-17,Milwaukee,1,0.0
+22359,49,D. Jones misses free throw 2 of 2,5:06.0,20-17,Sacramento,0,0.0
+22360,49,Defensive rebound by J. Holiday,5:06.0,20-17,Milwaukee,0,0.0
+22361,49,J. Holiday misses 2-pt jump shot from 10 ft,4:47.0,20-17,Milwaukee,0,0.0
+22362,49,Offensive rebound by W. Matthews,4:42.0,20-17,Milwaukee,0,0.0
+22363,49,W. Matthews misses 2-pt layup from 2 ft,4:37.0,20-17,Milwaukee,0,0.0
+22364,49,Defensive rebound by C. Metu,4:33.0,20-17,Sacramento,0,0.0
+22365,49,Turnover by D. Mitchell (bad pass; steal by S. Mamukelashvili),4:29.0,20-17,Sacramento,0,0.0
+22366,49,W. Matthews misses 3-pt jump shot from 26 ft,4:23.0,20-17,Milwaukee,0,1.0
+22367,49,Defensive rebound by B. Hield,4:19.0,20-17,Sacramento,0,0.0
+22368,49,D. Jones makes 2-pt dunk from 3 ft (assist by T. Haliburton),4:12.0,22-17,Sacramento,0,0.0
+22369,49,D. DiVincenzo misses 2-pt jump shot from 14 ft,3:58.0,22-17,Milwaukee,0,0.0
+22370,49,Defensive rebound by T. Haliburton,3:55.0,22-17,Sacramento,0,0.0
+22371,49,T. Haliburton makes 3-pt jump shot from 27 ft,3:43.0,25-17,Sacramento,0,0.0
+22372,49,J. Holiday misses 2-pt layup from 4 ft,3:26.0,25-17,Milwaukee,0,0.0
+22373,49,Defensive rebound by B. Hield,3:24.0,25-17,Sacramento,0,0.0
+22374,49,B. Hield makes 3-pt jump shot from 32 ft,3:18.0,28-17,Sacramento,0,0.0
+22375,49,Personal foul by D. Mitchell (drawn by J. Holiday),3:03.0,28-17,Milwaukee,0,0.0
+22376,49,G. Hill enters the game for J. Holiday,3:03.0,28-17,Milwaukee,1,0.0
+22377,49,J. Nwora makes 3-pt jump shot from 28 ft (assist by G. Hill),2:56.0,28-20,Milwaukee,0,0.0
+22378,49,Personal foul by J. Nwora (drawn by C. Metu),2:43.0,28-20,Sacramento,0,0.0
+22379,49,Sacramento full timeout,2:43.0,28-20,Sacramento,0,0.0
+22380,49,H. Barnes enters the game for T. Haliburton,2:43.0,28-20,Sacramento,0,0.0
+22381,49,D. Mitchell makes 2-pt layup from 1 ft,2:36.0,30-20,Sacramento,0,0.0
+22382,49,Turnover by G. Hill (lost ball; steal by D. Jones),2:18.0,30-20,Milwaukee,0,0.0
+22383,49,Turnover by C. Metu (bad pass; steal by J. Nwora),2:14.0,30-20,Sacramento,0,0.0
+22384,49,J. Nwora makes 2-pt layup from 1 ft,2:09.0,30-22,Milwaukee,0,0.0
+22385,49,H. Barnes misses 3-pt jump shot from 23 ft,1:53.0,30-22,Sacramento,0,0.0
+22386,49,Offensive rebound by B. Hield,1:50.0,30-22,Sacramento,0,0.0
+22387,49,B. Hield misses 2-pt layup from 3 ft,1:47.0,30-22,Sacramento,0,0.0
+22388,49,Offensive rebound by H. Barnes,1:47.0,30-22,Sacramento,0,1.0
+22389,49,H. Barnes makes 2-pt layup at rim,1:39.0,32-22,Sacramento,0,0.0
+22390,49,J. Nwora misses 3-pt jump shot from 26 ft,1:28.0,32-22,Milwaukee,0,0.0
+22391,49,Defensive rebound by H. Barnes,1:24.0,32-22,Sacramento,0,0.0
+22392,49,C. Metu makes 2-pt jump shot from 18 ft,1:14.0,34-22,Sacramento,0,0.0
+22393,49,J. Nwora makes 3-pt jump shot from 27 ft,0:59.0,34-25,Milwaukee,0,0.0
+22394,49,D. Mitchell misses 3-pt jump shot from 27 ft,0:52.0,34-25,Sacramento,0,0.0
+22395,49,Defensive rebound by J. Nwora,0:49.0,34-25,Milwaukee,0,0.0
+22396,49,Violation by Team (kicked ball),0:43.0,34-25,Sacramento,0,0.0
+22397,49,R. Holmes enters the game for D. Jones,0:43.0,34-25,Sacramento,0,1.0
+22398,49,K. Middleton enters the game for D. DiVincenzo,0:43.0,34-25,Milwaukee,1,0.0
+22399,49,J. Nwora misses 2-pt jump shot from 19 ft,0:32.0,34-25,Milwaukee,0,0.0
+22400,49,Defensive rebound by H. Barnes,0:29.0,34-25,Sacramento,0,0.0
+22401,49,R. Holmes misses 2-pt hook shot from 8 ft,0:23.0,34-25,Sacramento,0,0.0
+22402,49,Offensive rebound by B. Hield,0:19.0,34-25,Sacramento,0,0.0
+22403,49,C. Metu misses 3-pt jump shot from 29 ft,0:12.0,34-25,Sacramento,0,0.0
+22404,49,Offensive rebound by R. Holmes,0:09.0,34-25,Sacramento,0,0.0
+22405,49,Shooting foul by K. Middleton (drawn by H. Barnes),0:08.0,34-25,Sacramento,0,0.0
+22406,49,H. Barnes makes free throw 1 of 2,0:08.0,35-25,Sacramento,0,0.0
+22407,49,P. Connaughton enters the game for S. Mamukelashvili,0:08.0,35-25,Milwaukee,1,0.0
+22408,49,H. Barnes misses free throw 2 of 2,0:08.0,35-25,Sacramento,0,0.0
+22409,49,Defensive rebound by K. Middleton,0:05.0,35-25,Milwaukee,0,0.0
+22410,49,K. Middleton makes 2-pt jump shot from 6 ft,0:00.0,35-27,Milwaukee,0,0.0
+22411,49,K. Middleton misses 2-pt jump shot from 19 ft,11:40.0,35-27,Milwaukee,0,0.0
+22412,49,Defensive rebound by D. Mitchell,11:36.0,35-27,Sacramento,0,0.0
+22413,49,Turnover by D. Mitchell (bad pass; steal by G. Hill),11:23.0,35-27,Sacramento,0,0.0
+22414,49,Turnover by K. Middleton (bad pass),11:17.0,35-27,Milwaukee,0,0.0
+22415,49,H. Barnes misses 2-pt layup from 1 ft,11:07.0,35-27,Sacramento,0,0.0
+22416,49,Defensive rebound by B. Portis,11:04.0,35-27,Milwaukee,0,0.0
+22417,49,B. Portis misses 2-pt hook shot from 4 ft,10:51.0,35-27,Milwaukee,0,0.0
+22418,49,Offensive rebound by R. Hood,10:49.0,35-27,Milwaukee,0,1.0
+22419,49,R. Hood makes 2-pt layup from 1 ft (assist by J. Nwora),10:42.0,35-29,Milwaukee,0,0.0
+22420,49,H. Barnes makes 2-pt layup from 2 ft (assist by R. Holmes),10:26.0,37-29,Sacramento,0,0.0
+22421,49,G. Hill makes 3-pt jump shot from 26 ft (assist by R. Hood),10:08.0,37-32,Milwaukee,0,0.0
+22422,49,B. Hield misses 2-pt jump shot from 5 ft,9:48.0,37-32,Sacramento,0,0.0
+22423,49,Defensive rebound by B. Portis,9:45.0,37-32,Milwaukee,0,0.0
+22424,49,G. Hill makes 3-pt jump shot from 28 ft,9:41.0,37-35,Milwaukee,0,0.0
+22425,49,Sacramento full timeout,9:35.0,37-35,Sacramento,0,0.0
+22426,49,T. Davis enters the game for R. Holmes,9:35.0,37-35,Sacramento,0,0.0
+22427,49,D. Jones enters the game for C. Metu,9:35.0,37-35,Sacramento,0,0.0
+22428,49,P. Connaughton enters the game for J. Nwora,9:35.0,37-35,Milwaukee,1,0.0
+22429,49,D. Mitchell misses 3-pt jump shot from 25 ft,9:25.0,37-35,Sacramento,0,0.0
+22430,49,Defensive rebound by K. Middleton,9:21.0,37-35,Milwaukee,0,0.0
+22431,49,K. Middleton makes 2-pt layup from 2 ft,9:14.0,37-37,Milwaukee,0,1.0
+22432,49,T. Davis makes 3-pt jump shot from 24 ft (assist by D. Jones),8:56.0,40-37,Sacramento,0,0.0
+22433,49,B. Portis makes 2-pt dunk from 2 ft (assist by G. Hill),8:46.0,40-39,Milwaukee,0,0.0
+22434,49,B. Hield misses 3-pt jump shot from 31 ft,8:35.0,40-39,Sacramento,0,0.0
+22435,49,Defensive rebound by P. Connaughton,8:32.0,40-39,Milwaukee,0,0.0
+22436,49,Shooting foul by D. Jones (drawn by B. Portis),8:23.0,40-39,Milwaukee,0,0.0
+22437,49,B. Portis misses free throw 1 of 2,8:23.0,40-39,Milwaukee,0,0.0
+22438,49,Offensive rebound by Team,8:23.0,40-39,Milwaukee,0,0.0
+22439,49,M. Bagley enters the game for B. Hield,8:23.0,40-39,Sacramento,0,0.0
+22440,49,T. Haliburton enters the game for D. Mitchell,8:23.0,40-39,Sacramento,0,0.0
+22441,49,J. Holiday enters the game for G. Hill,8:23.0,40-39,Milwaukee,1,0.0
+22442,49,B. Portis makes free throw 2 of 2,8:23.0,40-40,Milwaukee,0,0.0
+22443,49,T. Davis misses 2-pt layup from 2 ft,8:05.0,40-40,Sacramento,0,0.0
+22444,49,Defensive rebound by J. Holiday,8:02.0,40-40,Milwaukee,0,0.0
+22445,49,Personal foul by M. Bagley (drawn by B. Portis),7:58.0,40-40,Milwaukee,0,0.0
+22446,49,B. Portis misses 3-pt jump shot from 28 ft,7:51.0,40-40,Milwaukee,0,0.0
+22447,49,Defensive rebound by T. Davis,7:49.0,40-40,Sacramento,0,0.0
+22448,49,T. Davis misses 2-pt jump shot from 21 ft,7:37.0,40-40,Sacramento,0,0.0
+22449,49,Defensive rebound by B. Portis,7:33.0,40-40,Milwaukee,0,0.0
+22450,49,Personal foul by T. Haliburton (drawn by J. Holiday),7:31.0,40-40,Milwaukee,0,0.0
+22451,49,J. Holiday misses 2-pt jump shot from 9 ft,7:19.0,40-40,Milwaukee,0,0.0
+22452,49,Defensive rebound by T. Davis,7:17.0,40-40,Sacramento,0,0.0
+22453,49,D. Jones misses 2-pt jump shot from 11 ft,7:09.0,40-40,Sacramento,0,0.0
+22454,49,Defensive rebound by P. Connaughton,7:06.0,40-40,Milwaukee,0,1.0
+22455,49,P. Connaughton misses 3-pt jump shot from 26 ft,6:58.0,40-40,Milwaukee,0,1.0
+22456,49,Defensive rebound by T. Davis,6:55.0,40-40,Sacramento,0,0.0
+22457,49,Turnover by T. Davis (lost ball; steal by P. Connaughton),6:45.0,40-40,Sacramento,0,0.0
+22458,49,P. Connaughton makes 3-pt jump shot from 27 ft (assist by J. Holiday),6:29.0,40-43,Milwaukee,0,0.0
+22459,49,H. Barnes makes 2-pt layup from 2 ft (assist by D. Jones),6:12.0,42-43,Sacramento,0,0.0
+22460,49,J. Holiday makes 2-pt layup from 3 ft,6:03.0,42-45,Milwaukee,0,0.0
+22461,49,M. Bagley misses 2-pt jump shot from 10 ft,5:50.0,42-45,Sacramento,0,1.0
+22462,49,Defensive rebound by P. Connaughton,5:47.0,42-45,Milwaukee,0,0.0
+22463,49,Turnover by P. Connaughton (traveling),5:35.0,42-45,Milwaukee,0,0.0
+22464,49,D. DiVincenzo enters the game for K. Middleton,5:35.0,42-45,Milwaukee,1,0.0
+22465,49,W. Matthews enters the game for B. Portis,5:35.0,42-45,Milwaukee,1,0.0
+22466,49,M. Bagley misses 3-pt jump shot from 23 ft,5:18.0,42-45,Sacramento,0,0.0
+22467,49,Defensive rebound by R. Hood,5:13.0,42-45,Milwaukee,0,0.0
+22468,49,Shooting foul by M. Bagley (drawn by D. DiVincenzo),5:11.0,42-45,Milwaukee,0,0.0
+22469,49,D. DiVincenzo makes free throw 1 of 2,5:11.0,42-46,Milwaukee,0,0.0
+22470,49,R. Holmes enters the game for D. Jones,5:11.0,42-46,Sacramento,0,0.0
+22471,49,J. Nwora enters the game for R. Hood,5:11.0,42-46,Milwaukee,1,0.0
+22472,49,D. DiVincenzo makes free throw 2 of 2,5:11.0,42-47,Milwaukee,0,0.0
+22473,49,Turnover by T. Davis (bad pass; steal by P. Connaughton),4:56.0,42-47,Sacramento,0,0.0
+22474,49,P. Connaughton misses 3-pt jump shot from 24 ft,4:51.0,42-47,Milwaukee,0,0.0
+22475,49,Defensive rebound by M. Bagley,4:48.0,42-47,Sacramento,0,0.0
+22476,49,Turnover by T. Davis (bad pass; steal by J. Holiday),4:39.0,42-47,Sacramento,0,0.0
+22477,49,J. Holiday misses 3-pt jump shot from 26 ft,4:33.0,42-47,Milwaukee,0,0.0
+22478,49,Defensive rebound by R. Holmes,4:29.0,42-47,Sacramento,0,0.0
+22479,49,Sacramento full timeout,4:22.0,42-47,Sacramento,0,0.0
+22480,49,B. Hield enters the game for T. Davis,4:22.0,42-47,Sacramento,0,0.0
+22481,49,B. Hield misses 2-pt jump shot from 20 ft,4:10.0,42-47,Sacramento,0,0.0
+22482,49,Offensive rebound by Team,4:09.0,42-47,Sacramento,0,0.0
+22483,49,R. Holmes makes 2-pt layup from 5 ft (assist by T. Haliburton),4:05.0,44-47,Sacramento,0,0.0
+22484,49,J. Nwora misses 2-pt jump shot from 20 ft,3:47.0,44-47,Milwaukee,0,0.0
+22485,49,Defensive rebound by B. Hield,3:43.0,44-47,Sacramento,0,0.0
+22486,49,M. Bagley misses 2-pt hook shot from 7 ft,3:25.0,44-47,Sacramento,0,0.0
+22487,49,Offensive rebound by Team,3:25.0,44-47,Sacramento,0,0.0
+22488,49,R. Holmes makes 2-pt dunk from 2 ft (assist by T. Haliburton),3:16.0,46-47,Sacramento,0,0.0
+22489,49,J. Holiday makes 2-pt layup from 2 ft,3:05.0,46-49,Milwaukee,0,1.0
+22490,49,R. Holmes makes 2-pt layup from 1 ft (assist by T. Haliburton),2:48.0,48-49,Sacramento,0,1.0
+22491,49,Shooting foul by J. Nwora (drawn by R. Holmes),2:48.0,48-49,Sacramento,0,0.0
+22492,49,R. Holmes makes free throw 1 of 1,2:48.0,49-49,Sacramento,0,0.0
+22493,49,J. Holiday makes 2-pt layup from 2 ft (assist by D. DiVincenzo),2:39.0,49-51,Milwaukee,0,0.0
+22494,49,B. Hield misses 3-pt jump shot from 23 ft,2:26.0,49-51,Sacramento,0,0.0
+22495,49,Defensive rebound by J. Nwora,2:23.0,49-51,Milwaukee,0,0.0
+22496,49,Shooting foul by B. Hield (drawn by W. Matthews),2:20.0,49-51,Milwaukee,0,0.0
+22497,49,W. Matthews misses free throw 1 of 2,2:20.0,49-51,Milwaukee,0,0.0
+22498,49,Offensive rebound by Team,2:20.0,49-51,Milwaukee,0,0.0
+22499,49,G. Hill enters the game for P. Connaughton,2:20.0,49-51,Milwaukee,1,0.0
+22500,49,K. Middleton enters the game for J. Holiday,2:20.0,49-51,Milwaukee,1,0.0
+22501,49,W. Matthews makes free throw 2 of 2,2:20.0,49-52,Milwaukee,0,0.0
+22502,49,H. Barnes misses 3-pt jump shot from 25 ft,2:09.0,49-52,Sacramento,0,0.0
+22503,49,Offensive rebound by T. Haliburton,2:01.0,49-52,Sacramento,0,0.0
+22504,49,T. Haliburton makes 2-pt layup at rim,2:01.0,51-52,Sacramento,0,0.0
+22505,49,J. Nwora makes 2-pt layup from 2 ft (assist by K. Middleton),1:49.0,51-54,Milwaukee,0,1.0
+22506,49,Violation by Team (def goaltending),1:49.0,51-54,Sacramento,0,0.0
+22507,49,T. Haliburton misses 2-pt jump shot from 15 ft,1:38.0,51-54,Sacramento,0,0.0
+22508,49,Defensive rebound by D. DiVincenzo,1:36.0,51-54,Milwaukee,0,0.0
+22509,49,D. DiVincenzo makes 2-pt layup from 1 ft,1:28.0,51-56,Milwaukee,0,0.0
+22510,49,T. Haliburton misses 2-pt layup from 7 ft,1:20.0,51-56,Sacramento,0,0.0
+22511,49,Defensive rebound by K. Middleton,1:18.0,51-56,Milwaukee,0,0.0
+22512,49,K. Middleton makes 3-pt jump shot from 26 ft,1:15.0,51-59,Milwaukee,0,0.0
+22513,49,Turnover by T. Haliburton (out of bounds lost ball),1:06.0,51-59,Sacramento,0,0.0
+22514,49,D. Mitchell enters the game for M. Bagley,1:06.0,51-59,Sacramento,0,1.0
+22515,49,B. Portis enters the game for W. Matthews,1:06.0,51-59,Milwaukee,1,0.0
+22516,49,J. Nwora misses 3-pt jump shot from 23 ft,0:49.0,51-59,Milwaukee,0,0.0
+22517,49,Defensive rebound by T. Haliburton,0:46.0,51-59,Sacramento,0,0.0
+22518,49,Turnover by B. Hield (step out of bounds),0:40.0,51-59,Sacramento,0,0.0
+22519,49,K. Middleton misses 2-pt jump shot from 13 ft (block by R. Holmes),0:32.0,51-59,Milwaukee,0,0.0
+22520,49,Offensive rebound by B. Portis,0:30.0,51-59,Milwaukee,0,0.0
+22521,49,Offensive foul by B. Portis (drawn by H. Barnes),0:28.0,51-59,Milwaukee,0,0.0
+22522,49,Turnover by B. Portis (offensive foul),0:28.0,51-59,Milwaukee,0,0.0
+22523,49,Instant Replay (Request: Stands),0:28.0,51-59,Milwaukee,0,0.0
+22524,49,W. Matthews enters the game for D. DiVincenzo,0:28.0,51-59,Milwaukee,1,0.0
+22525,49,H. Barnes makes 2-pt layup from 2 ft,0:13.0,53-59,Sacramento,0,0.0
+22526,49,K. Middleton makes 3-pt jump shot from 26 ft,0:02.0,53-62,Milwaukee,0,0.0
+22527,49,Shooting foul by J. Nwora (drawn by T. Haliburton),0:01.0,53-62,Sacramento,0,0.0
+22528,49,Instant Replay (Request: Stands),0:01.0,53-62,Sacramento,0,0.0
+22529,49,T. Haliburton makes free throw 1 of 3,0:01.0,54-62,Sacramento,0,0.0
+22530,49,T. Haliburton misses free throw 2 of 3,0:01.0,54-62,Sacramento,0,0.0
+22531,49,Offensive rebound by Team,0:01.0,54-62,Sacramento,0,0.0
+22532,49,T. Haliburton misses free throw 3 of 3,0:01.0,54-62,Sacramento,0,0.0
+22533,49,Offensive rebound by B. Hield,0:01.0,54-62,Sacramento,0,0.0
+22534,49,B. Hield misses 2-pt layup at rim,0:01.0,54-62,Sacramento,0,0.0
+22535,49,Defensive rebound by J. Nwora,0:00.0,54-62,Milwaukee,0,0.0
+22536,49,G. Hill misses 3-pt jump shot from 24 ft,11:43.0,54-62,Milwaukee,0,0.0
+22537,49,Defensive rebound by M. Bagley,11:41.0,54-62,Sacramento,0,0.0
+22538,49,R. Holmes makes 2-pt dunk from 1 ft (assist by T. Haliburton),11:33.0,56-62,Sacramento,0,0.0
+22539,49,K. Middleton misses 2-pt jump shot from 12 ft,11:19.0,56-62,Milwaukee,0,0.0
+22540,49,Defensive rebound by H. Barnes,11:16.0,56-62,Sacramento,0,0.0
+22541,49,T. Davis misses 2-pt layup from 3 ft,11:14.0,56-62,Sacramento,0,0.0
+22542,49,Offensive rebound by M. Bagley,11:09.0,56-62,Sacramento,0,0.0
+22543,49,M. Bagley makes 2-pt dunk at rim,11:09.0,58-62,Sacramento,0,0.0
+22544,49,J. Holiday misses 2-pt layup from 3 ft,11:00.0,58-62,Milwaukee,0,0.0
+22545,49,Defensive rebound by H. Barnes,10:58.0,58-62,Sacramento,0,0.0
+22546,49,H. Barnes misses 2-pt jump shot from 7 ft,10:47.0,58-62,Sacramento,0,0.0
+22547,49,Defensive rebound by B. Portis,10:45.0,58-62,Milwaukee,0,0.0
+22548,49,G. Hill makes 3-pt jump shot from 23 ft (assist by B. Portis),10:32.0,58-65,Milwaukee,0,0.0
+22549,49,T. Davis misses 3-pt jump shot from 29 ft,10:08.0,58-65,Sacramento,0,0.0
+22550,49,Defensive rebound by B. Portis,10:05.0,58-65,Milwaukee,0,0.0
+22551,49,Shooting foul by T. Davis (drawn by G. Hill),10:04.0,58-65,Milwaukee,0,0.0
+22552,49,G. Hill makes free throw 1 of 2,10:04.0,58-66,Milwaukee,0,0.0
+22553,49,G. Hill makes free throw 2 of 2,10:04.0,58-67,Milwaukee,0,0.0
+22554,49,R. Holmes makes 2-pt jump shot from 19 ft (assist by T. Haliburton),9:45.0,60-67,Sacramento,0,0.0
+22555,49,P. Connaughton misses 3-pt jump shot from 27 ft,9:33.0,60-67,Milwaukee,0,0.0
+22556,49,Defensive rebound by Team,9:33.0,60-67,Sacramento,0,0.0
+22557,49,T. Davis makes 2-pt jump shot from 11 ft,9:10.0,62-67,Sacramento,0,0.0
+22558,49,K. Middleton makes 3-pt jump shot from 28 ft,8:59.0,62-70,Milwaukee,0,0.0
+22559,49,Turnover by R. Holmes (bad pass; steal by P. Connaughton),8:47.0,62-70,Sacramento,0,0.0
+22560,49,K. Middleton misses 3-pt jump shot from 28 ft,8:40.0,62-70,Milwaukee,0,0.0
+22561,49,Defensive rebound by M. Bagley,8:36.0,62-70,Sacramento,0,0.0
+22562,49,Turnover by T. Haliburton (bad pass; steal by J. Holiday),8:25.0,62-70,Sacramento,0,1.0
+22563,49,Personal take foul by T. Haliburton (drawn by J. Holiday),8:23.0,62-70,Milwaukee,0,1.0
+22564,49,J. Holiday makes 2-pt layup from 2 ft,8:08.0,62-72,Milwaukee,0,0.0
+22565,49,T. Davis makes 2-pt layup from 7 ft,8:00.0,64-72,Sacramento,0,0.0
+22566,49,Turnover by J. Holiday (bad pass; steal by T. Davis),7:49.0,64-72,Milwaukee,0,0.0
+22567,49,M. Bagley makes 2-pt jump shot from 7 ft (assist by H. Barnes),7:42.0,66-72,Sacramento,0,1.0
+22568,49,P. Connaughton makes 3-pt jump shot from 26 ft (assist by B. Portis),7:25.0,66-75,Milwaukee,0,0.0
+22569,49,M. Bagley misses 2-pt jump shot from 11 ft,7:09.0,66-75,Sacramento,0,0.0
+22570,49,Offensive rebound by Team,7:09.0,66-75,Sacramento,0,0.0
+22571,49,Loose ball foul by K. Middleton (drawn by R. Holmes),7:09.0,66-75,Milwaukee,0,0.0
+22572,49,D. DiVincenzo enters the game for G. Hill,7:09.0,66-75,Milwaukee,1,0.0
+22573,49,W. Matthews enters the game for B. Portis,7:09.0,66-75,Milwaukee,1,0.0
+22574,49,M. Bagley makes 2-pt layup from 3 ft (assist by T. Haliburton),7:00.0,68-75,Sacramento,0,0.0
+22575,49,Milwaukee full timeout,7:00.0,68-75,Milwaukee,0,0.0
+22576,49,D. Jones enters the game for R. Holmes,7:00.0,68-75,Sacramento,0,0.0
+22577,49,B. Portis enters the game for P. Connaughton,7:00.0,68-75,Milwaukee,1,0.0
+22578,49,K. Middleton misses 2-pt jump shot from 18 ft,6:40.0,68-75,Milwaukee,0,0.0
+22579,49,Defensive rebound by T. Davis,6:37.0,68-75,Sacramento,0,0.0
+22580,49,H. Barnes makes 2-pt jump shot from 8 ft (assist by T. Davis),6:22.0,70-75,Sacramento,0,0.0
+22581,49,J. Holiday makes 3-pt jump shot from 29 ft,6:12.0,70-78,Milwaukee,0,1.0
+22582,49,T. Davis misses 3-pt jump shot from 26 ft,5:56.0,70-78,Sacramento,0,0.0
+22583,49,Defensive rebound by B. Portis,5:53.0,70-78,Milwaukee,0,0.0
+22584,49,B. Portis makes 3-pt jump shot from 26 ft (assist by J. Holiday),5:36.0,70-81,Milwaukee,0,0.0
+22585,49,H. Barnes misses 2-pt jump shot from 5 ft,5:17.0,70-81,Sacramento,0,1.0
+22586,49,Offensive rebound by M. Bagley,5:17.0,70-81,Sacramento,0,0.0
+22587,49,M. Bagley makes 2-pt layup from 2 ft,5:13.0,72-81,Sacramento,0,0.0
+22588,49,D. DiVincenzo makes 3-pt jump shot from 29 ft,5:04.0,72-84,Milwaukee,0,0.0
+22589,49,Turnover by M. Bagley (lost ball; steal by W. Matthews),4:49.0,72-84,Sacramento,0,0.0
+22590,49,B. Hield enters the game for M. Bagley,4:49.0,72-84,Sacramento,0,0.0
+22591,49,J. Nwora enters the game for K. Middleton,4:49.0,72-84,Milwaukee,1,0.0
+22592,49,D. DiVincenzo makes 3-pt jump shot from 25 ft (assist by J. Holiday),4:32.0,72-87,Milwaukee,0,1.0
+22593,49,Shooting foul by J. Nwora (drawn by H. Barnes),4:22.0,72-87,Sacramento,0,0.0
+22594,49,H. Barnes makes free throw 1 of 2,4:22.0,73-87,Sacramento,0,0.0
+22595,49,G. Hill enters the game for J. Holiday,4:22.0,73-87,Milwaukee,1,0.0
+22596,49,H. Barnes makes free throw 2 of 2,4:22.0,74-87,Sacramento,0,0.0
+22597,49,Personal foul by D. Jones (drawn by B. Portis),4:07.0,74-87,Milwaukee,0,0.0
+22598,49,B. Portis misses 2-pt hook shot from 8 ft,3:56.0,74-87,Milwaukee,0,0.0
+22599,49,Offensive rebound by G. Hill,3:55.0,74-87,Milwaukee,0,0.0
+22600,49,Shooting foul by T. Davis (drawn by G. Hill),3:55.0,74-87,Milwaukee,0,1.0
+22601,49,G. Hill makes free throw 1 of 2,3:55.0,74-88,Milwaukee,0,0.0
+22602,49,S. Mamukelashvili enters the game for B. Portis,3:55.0,74-88,Milwaukee,1,0.0
+22603,49,G. Hill makes free throw 2 of 2,3:55.0,74-89,Milwaukee,0,0.0
+22604,49,T. Davis makes 3-pt jump shot from 23 ft (assist by T. Haliburton),3:42.0,77-89,Sacramento,0,0.0
+22605,49,D. DiVincenzo misses 3-pt jump shot from 28 ft,3:32.0,77-89,Milwaukee,0,0.0
+22606,49,Defensive rebound by H. Barnes,3:29.0,77-89,Sacramento,0,0.0
+22607,49,T. Davis makes 2-pt layup from 2 ft (assist by B. Hield),3:17.0,79-89,Sacramento,0,0.0
+22608,49,Shooting foul by D. DiVincenzo (drawn by T. Davis),3:17.0,79-89,Sacramento,0,0.0
+22609,49,D. Mitchell enters the game for T. Haliburton,3:17.0,79-89,Sacramento,0,0.0
+22610,49,R. Hood enters the game for S. Mamukelashvili,3:17.0,79-89,Milwaukee,1,0.0
+22611,49,T. Davis makes free throw 1 of 1,3:17.0,80-89,Sacramento,0,0.0
+22612,49,J. Nwora misses 3-pt jump shot from 28 ft,2:59.0,80-89,Milwaukee,0,1.0
+22613,49,Defensive rebound by B. Hield,2:56.0,80-89,Sacramento,0,0.0
+22614,49,T. Davis misses 3-pt jump shot from 23 ft,2:48.0,80-89,Sacramento,0,0.0
+22615,49,Defensive rebound by D. DiVincenzo,2:44.0,80-89,Milwaukee,0,0.0
+22616,49,D. DiVincenzo makes 3-pt jump shot from 27 ft,2:34.0,80-92,Milwaukee,0,0.0
+22617,49,T. Davis makes 2-pt layup from 3 ft (assist by D. Mitchell),2:28.0,82-92,Sacramento,0,0.0
+22618,49,D. DiVincenzo misses 3-pt jump shot from 27 ft,2:15.0,82-92,Milwaukee,0,0.0
+22619,49,Defensive rebound by Team,2:15.0,82-92,Sacramento,0,0.0
+22620,49,Sacramento full timeout,2:15.0,82-92,Sacramento,0,0.0
+22621,49,C. Metu enters the game for H. Barnes,2:15.0,82-92,Sacramento,0,0.0
+22622,49,K. Middleton enters the game for J. Nwora,2:15.0,82-92,Milwaukee,1,0.0
+22623,49,C. Metu misses 2-pt layup from 2 ft,1:59.0,82-92,Sacramento,0,0.0
+22624,49,Offensive rebound by C. Metu,1:56.0,82-92,Sacramento,0,0.0
+22625,49,Personal foul by W. Matthews (drawn by C. Metu),1:56.0,82-92,Sacramento,0,1.0
+22626,49,D. Mitchell makes 2-pt layup from 2 ft,1:48.0,84-92,Sacramento,0,0.0
+22627,49,R. Hood makes 2-pt jump shot from 9 ft (assist by K. Middleton),1:26.0,84-94,Milwaukee,0,0.0
+22628,49,B. Hield misses 3-pt jump shot from 27 ft,1:12.0,84-94,Sacramento,0,0.0
+22629,49,Offensive rebound by D. Jones,1:10.0,84-94,Sacramento,0,0.0
+22630,49,Turnover by D. Jones (bad pass; steal by D. DiVincenzo),1:07.0,84-94,Sacramento,0,0.0
+22631,49,D. DiVincenzo misses 2-pt hook shot from 7 ft,0:45.0,84-94,Milwaukee,0,0.0
+22632,49,Defensive rebound by D. Mitchell,0:42.0,84-94,Sacramento,0,0.0
+22633,49,D. Mitchell makes 2-pt layup from 1 ft,0:33.0,86-94,Sacramento,0,0.0
+22634,49,Milwaukee full timeout,0:29.0,86-94,Milwaukee,0,0.0
+22635,49,P. Connaughton enters the game for W. Matthews,0:29.0,86-94,Milwaukee,1,0.0
+22636,49,G. Hill misses 3-pt jump shot from 23 ft,0:25.0,86-94,Milwaukee,0,0.0
+22637,49,Defensive rebound by C. Metu,0:24.0,86-94,Sacramento,0,0.0
+22638,49,D. Mitchell misses 2-pt layup from 3 ft,0:02.0,86-94,Sacramento,0,0.0
+22639,49,Defensive rebound by G. Hill,0:02.0,86-94,Milwaukee,0,0.0
+22640,49,G. Hill misses 3-pt jump shot from 65 ft,0:00.0,86-94,Milwaukee,0,0.0
+22641,49,Offensive rebound by Team,0:00.0,86-94,Milwaukee,0,0.0
+22642,49,B. Hield makes 3-pt jump shot from 25 ft,11:35.0,89-94,Sacramento,0,0.0
+22643,49,K. Middleton makes 2-pt jump shot from 14 ft (assist by P. Connaughton),11:20.0,89-96,Milwaukee,0,0.0
+22644,49,Shooting foul by D. Mitchell (drawn by K. Middleton),11:20.0,89-96,Milwaukee,0,0.0
+22645,49,K. Middleton makes free throw 1 of 1,11:20.0,89-97,Milwaukee,0,0.0
+22646,49,B. Hield misses 3-pt jump shot from 30 ft,10:59.0,89-97,Sacramento,0,0.0
+22647,49,Defensive rebound by P. Connaughton,10:56.0,89-97,Milwaukee,0,0.0
+22648,49,K. Middleton misses 2-pt jump shot from 6 ft,10:51.0,89-97,Milwaukee,0,0.0
+22649,49,Offensive rebound by G. Hill,10:51.0,89-97,Milwaukee,0,0.0
+22650,49,R. Hood misses 3-pt jump shot from 32 ft,10:46.0,89-97,Milwaukee,0,0.0
+22651,49,Offensive rebound by K. Middleton,10:44.0,89-97,Milwaukee,0,0.0
+22652,49,K. Middleton makes 2-pt jump shot from 12 ft,10:38.0,89-99,Milwaukee,0,0.0
+22653,49,C. Metu misses 3-pt jump shot from 26 ft,10:24.0,89-99,Sacramento,0,0.0
+22654,49,Defensive rebound by K. Middleton,10:20.0,89-99,Milwaukee,0,0.0
+22655,49,G. Hill makes 2-pt layup from 2 ft (assist by K. Middleton),10:15.0,89-101,Milwaukee,0,1.0
+22656,49,D. Mitchell misses 2-pt jump shot from 15 ft,10:05.0,89-101,Sacramento,0,1.0
+22657,49,Offensive rebound by D. Jones,10:02.0,89-101,Sacramento,0,0.0
+22658,49,D. Mitchell makes 3-pt jump shot from 27 ft (assist by D. Jones),9:59.0,92-101,Sacramento,0,0.0
+22659,49,Turnover by K. Middleton (bad pass; steal by T. Haliburton),9:45.0,92-101,Milwaukee,0,0.0
+22660,49,T. Haliburton misses 2-pt layup from 3 ft,9:38.0,92-101,Sacramento,0,0.0
+22661,49,Defensive rebound by B. Portis,9:36.0,92-101,Milwaukee,0,0.0
+22662,49,Personal take foul by B. Hield (drawn by B. Portis),9:36.0,92-101,Milwaukee,0,0.0
+22663,49,Shooting foul by C. Metu (drawn by G. Hill),9:29.0,92-101,Milwaukee,0,0.0
+22664,49,G. Hill makes free throw 1 of 2,9:29.0,92-102,Milwaukee,0,0.0
+22665,49,J. Holiday enters the game for R. Hood,9:29.0,92-102,Milwaukee,1,0.0
+22666,49,J. Nwora enters the game for K. Middleton,9:29.0,92-102,Milwaukee,1,0.0
+22667,49,G. Hill makes free throw 2 of 2,9:29.0,92-103,Milwaukee,0,0.0
+22668,49,T. Haliburton makes 2-pt jump shot from 16 ft,9:12.0,94-103,Sacramento,0,0.0
+22669,49,Personal foul by B. Hield (drawn by G. Hill),9:06.0,94-103,Milwaukee,0,0.0
+22670,49,H. Barnes enters the game for C. Metu,9:06.0,94-103,Sacramento,0,0.0
+22671,49,Shooting foul by D. Mitchell (drawn by J. Holiday),8:57.0,94-103,Milwaukee,0,0.0
+22672,49,J. Holiday makes free throw 1 of 2,8:57.0,94-104,Milwaukee,0,0.0
+22673,49,J. Holiday makes free throw 2 of 2,8:57.0,94-105,Milwaukee,0,0.0
+22674,49,Turnover by T. Haliburton (bad pass; steal by P. Connaughton),8:32.0,94-105,Sacramento,0,0.0
+22675,49,P. Connaughton misses 3-pt jump shot from 26 ft,8:23.0,94-105,Milwaukee,0,0.0
+22676,49,Defensive rebound by T. Haliburton,8:21.0,94-105,Sacramento,0,0.0
+22677,49,T. Haliburton makes 3-pt jump shot from 26 ft (assist by D. Mitchell),8:13.0,97-105,Sacramento,0,0.0
+22678,49,J. Holiday makes 2-pt layup from 1 ft,7:55.0,97-107,Milwaukee,0,0.0
+22679,49,H. Barnes misses 2-pt layup from 3 ft,7:42.0,97-107,Sacramento,0,0.0
+22680,49,Defensive rebound by P. Connaughton,7:39.0,97-107,Milwaukee,0,0.0
+22681,49,J. Nwora misses 2-pt jump shot from 6 ft,7:32.0,97-107,Milwaukee,0,0.0
+22682,49,Defensive rebound by T. Haliburton,7:30.0,97-107,Sacramento,0,1.0
+22683,49,H. Barnes makes 3-pt jump shot from 23 ft (assist by D. Jones),7:15.0,100-107,Sacramento,0,1.0
+22684,49,B. Portis misses 2-pt hook shot from 5 ft,6:49.0,100-107,Milwaukee,0,0.0
+22685,49,Offensive rebound by G. Hill,6:47.0,100-107,Milwaukee,0,0.0
+22686,49,J. Holiday makes 2-pt hook shot from 4 ft,6:36.0,100-109,Milwaukee,0,0.0
+22687,49,B. Hield misses 3-pt jump shot from 27 ft,6:12.0,100-109,Sacramento,0,0.0
+22688,49,Defensive rebound by J. Nwora,6:08.0,100-109,Milwaukee,0,0.0
+22689,49,Milwaukee full timeout,6:04.0,100-109,Milwaukee,0,0.0
+22690,49,T. Davis enters the game for B. Hield,6:04.0,100-109,Sacramento,0,0.0
+22691,49,R. Holmes enters the game for D. Jones,6:04.0,100-109,Sacramento,0,0.0
+22692,49,D. DiVincenzo enters the game for P. Connaughton,6:04.0,100-109,Milwaukee,1,0.0
+22693,49,K. Middleton enters the game for G. Hill,6:04.0,100-109,Milwaukee,1,0.0
+22694,49,J. Holiday misses 2-pt jump shot from 6 ft (block by D. Mitchell),5:55.0,100-109,Milwaukee,0,0.0
+22695,49,Offensive rebound by D. DiVincenzo,5:54.0,100-109,Milwaukee,0,1.0
+22696,49,D. DiVincenzo makes 2-pt layup from 1 ft,5:53.0,100-111,Milwaukee,0,0.0
+22697,49,R. Holmes makes 2-pt jump shot from 15 ft (assist by T. Haliburton),5:30.0,102-111,Sacramento,0,0.0
+22698,49,M. Bagley enters the game for D. Mitchell,5:30.0,102-111,Sacramento,0,0.0
+22699,49,D. DiVincenzo makes 2-pt layup from 1 ft (assist by K. Middleton),5:14.0,102-113,Milwaukee,0,0.0
+22700,49,H. Barnes makes 3-pt jump shot from 27 ft (assist by T. Haliburton),5:01.0,105-113,Sacramento,0,0.0
+22701,49,Turnover by J. Holiday (bad pass; steal by R. Holmes),4:51.0,105-113,Milwaukee,0,0.0
+22702,49,T. Davis makes 2-pt layup from 1 ft,4:46.0,107-113,Sacramento,0,1.0
+22703,49,K. Middleton makes 2-pt jump shot from 18 ft (assist by J. Holiday),4:31.0,107-115,Milwaukee,0,0.0
+22704,49,Personal foul by K. Middleton (drawn by H. Barnes),4:20.0,107-115,Sacramento,0,0.0
+22705,49,P. Connaughton enters the game for B. Portis,4:20.0,107-115,Milwaukee,1,0.0
+22706,49,T. Haliburton makes 3-pt jump shot from 28 ft,4:05.0,110-115,Sacramento,0,0.0
+22707,49,P. Connaughton makes 3-pt jump shot from 26 ft (assist by D. DiVincenzo),3:43.0,110-118,Milwaukee,0,0.0
+22708,49,T. Davis misses 3-pt jump shot from 28 ft,3:27.0,110-118,Sacramento,0,0.0
+22709,49,Defensive rebound by J. Nwora,3:24.0,110-118,Milwaukee,0,0.0
+22710,49,Milwaukee full timeout,3:18.0,110-118,Milwaukee,0,0.0
+22711,49,B. Hield enters the game for M. Bagley,3:18.0,110-118,Sacramento,0,0.0
+22712,49,B. Portis enters the game for J. Nwora,3:18.0,110-118,Milwaukee,1,0.0
+22713,49,K. Middleton misses 3-pt jump shot from 26 ft,3:06.0,110-118,Milwaukee,0,0.0
+22714,49,Defensive rebound by R. Holmes,3:06.0,110-118,Sacramento,0,0.0
+22715,49,Sacramento full timeout,3:06.0,110-118,Sacramento,0,0.0
+22716,49,Shooting foul by K. Middleton (drawn by H. Barnes),2:58.0,110-118,Sacramento,0,0.0
+22717,49,H. Barnes misses free throw 1 of 2,2:58.0,110-118,Sacramento,0,0.0
+22718,49,Offensive rebound by Team,2:58.0,110-118,Sacramento,0,0.0
+22719,49,H. Barnes makes free throw 2 of 2,2:58.0,111-118,Sacramento,0,0.0
+22720,49,J. Holiday misses 2-pt layup from 2 ft,2:41.0,111-118,Milwaukee,0,0.0
+22721,49,Defensive rebound by B. Hield,2:39.0,111-118,Sacramento,0,0.0
+22722,49,T. Haliburton makes 3-pt jump shot from 28 ft,2:32.0,114-118,Sacramento,0,0.0
+22723,49,P. Connaughton makes 3-pt jump shot from 23 ft (assist by B. Portis),2:09.0,114-121,Milwaukee,0,0.0
+22724,49,R. Holmes makes 2-pt dunk from 2 ft (assist by T. Haliburton),1:57.0,116-121,Sacramento,0,0.0
+22725,49,K. Middleton misses 2-pt jump shot from 10 ft,1:42.0,116-121,Milwaukee,0,0.0
+22726,49,Defensive rebound by T. Davis,1:40.0,116-121,Sacramento,0,0.0
+22727,49,Shooting foul by J. Holiday (drawn by T. Haliburton),1:29.0,116-121,Sacramento,0,0.0
+22728,49,T. Haliburton makes free throw 1 of 2,1:29.0,117-121,Sacramento,0,1.0
+22729,49,T. Haliburton makes free throw 2 of 2,1:29.0,118-121,Sacramento,0,0.0
+22730,49,K. Middleton makes 3-pt jump shot from 29 ft,1:09.0,118-124,Milwaukee,0,0.0
+22731,49,H. Barnes makes 2-pt jump shot from 10 ft (assist by B. Hield),0:56.0,120-124,Sacramento,0,0.0
+22732,49,J. Holiday makes 2-pt dunk from 1 ft,0:47.0,120-126,Milwaukee,0,0.0
+22733,49,T. Haliburton misses 3-pt jump shot from 29 ft,0:38.0,120-126,Sacramento,0,0.0
+22734,49,Defensive rebound by J. Holiday,0:34.0,120-126,Milwaukee,0,0.0
+22735,49,D. Mitchell enters the game for B. Hield,0:34.0,120-126,Sacramento,0,0.0
+22736,49,Personal take foul by T. Davis (drawn by D. DiVincenzo),0:26.0,120-126,Milwaukee,0,0.0
+22737,49,D. DiVincenzo makes free throw 1 of 2,0:26.0,120-127,Milwaukee,0,0.0
+22738,49,G. Hill enters the game for B. Portis,0:26.0,120-127,Milwaukee,1,0.0
+22739,49,D. DiVincenzo makes free throw 2 of 2,0:26.0,120-128,Milwaukee,0,0.0
+22740,49,Sacramento full timeout,0:26.0,120-128,Sacramento,0,0.0
+22741,49,B. Hield enters the game for D. Mitchell,0:26.0,120-128,Sacramento,0,0.0
+22742,49,Turnover by T. Haliburton (bad pass; steal by K. Middleton),0:24.0,120-128,Sacramento,0,0.0
+22743,49,Personal take foul by H. Barnes (drawn by K. Middleton),0:23.0,120-128,Milwaukee,0,0.0
+22744,49,K. Middleton makes free throw 1 of 2,0:23.0,120-129,Milwaukee,0,0.0
+22745,49,K. Middleton makes free throw 2 of 2,0:23.0,120-130,Milwaukee,0,0.0
+22746,49,T. Haliburton makes 3-pt jump shot from 29 ft,0:17.0,123-130,Sacramento,0,0.0
+22747,49,Personal take foul by T. Haliburton (drawn by D. DiVincenzo),0:13.0,123-130,Milwaukee,0,0.0
+22748,49,D. DiVincenzo makes free throw 1 of 2,0:13.0,123-131,Milwaukee,0,0.0
+22749,49,D. DiVincenzo misses free throw 2 of 2,0:13.0,123-131,Milwaukee,0,
+22750,49,Defensive rebound by R. Holmes,0:11.0,123-131,Sacramento,0,
+22751,49,H. Barnes makes 2-pt layup from 4 ft (assist by T. Haliburton),0:09.0,125-131,Sacramento,0,
+22752,49,Personal take foul by T. Haliburton (drawn by K. Middleton),0:06.0,125-131,Milwaukee,0,
+22753,49,K. Middleton makes free throw 1 of 2,0:06.0,125-132,Milwaukee,0,
+22754,49,K. Middleton makes free throw 2 of 2,0:06.0,125-133,Milwaukee,0,
+22755,49,Sacramento full timeout,0:06.0,125-133,Sacramento,0,
+22756,49,T. Haliburton misses 3-pt jump shot from 30 ft,0:03.0,125-133,Sacramento,0,
+22757,49,Offensive rebound by R. Holmes,0:03.0,125-133,Sacramento,0,
+22758,49,R. Holmes makes 2-pt dunk at rim,0:00.0,127-133,Sacramento,0,

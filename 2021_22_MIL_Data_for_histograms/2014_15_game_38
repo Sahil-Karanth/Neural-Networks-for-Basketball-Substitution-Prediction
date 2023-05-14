@@ -1,0 +1,488 @@
+,game number,play,time,score,team,current_sub_status,future_sub_status
+17090,38,G. Temple misses 3-pt jump shot from 23 ft,11:43.0,0-0,New Orleans,0,0.0
+17091,38,Defensive rebound by G. Antetokounmpo,11:40.0,0-0,Milwaukee,0,0.0
+17092,38,P. Connaughton misses 3-pt jump shot from 23 ft,11:37.0,0-0,Milwaukee,0,0.0
+17093,38,Defensive rebound by D. Graham,11:31.0,0-0,New Orleans,0,0.0
+17094,38,D. Graham misses 3-pt jump shot from 27 ft,11:28.0,0-0,New Orleans,0,0.0
+17095,38,Defensive rebound by G. Antetokounmpo,11:25.0,0-0,Milwaukee,0,0.0
+17096,38,G. Antetokounmpo misses 2-pt jump shot from 6 ft,11:20.0,0-0,Milwaukee,0,0.0
+17097,38,Defensive rebound by J. Hart,11:18.0,0-0,New Orleans,0,0.0
+17098,38,H. Jones misses 2-pt layup from 3 ft,11:15.0,0-0,New Orleans,0,0.0
+17099,38,Offensive rebound by W. Hernangómez,11:14.0,0-0,New Orleans,0,0.0
+17100,38,W. Hernangómez misses 2-pt layup from 3 ft,11:12.0,0-0,New Orleans,0,0.0
+17101,38,Defensive rebound by G. Allen,11:11.0,0-0,Milwaukee,0,0.0
+17102,38,G. Allen misses 3-pt jump shot from 26 ft,10:52.0,0-0,Milwaukee,0,0.0
+17103,38,Defensive rebound by J. Hart,10:50.0,0-0,New Orleans,0,0.0
+17104,38,Turnover by J. Hart (bad pass; steal by J. Holiday),10:48.0,0-0,New Orleans,0,0.0
+17105,38,G. Allen makes 3-pt jump shot from 25 ft (assist by P. Connaughton),10:41.0,0-3,Milwaukee,0,0.0
+17106,38,J. Hart misses 3-pt jump shot from 25 ft,10:19.0,0-3,New Orleans,0,0.0
+17107,38,Defensive rebound by B. Portis,10:16.0,0-3,Milwaukee,0,0.0
+17108,38,Turnover by P. Connaughton (bad pass; steal by H. Jones),10:11.0,0-3,Milwaukee,0,0.0
+17109,38,G. Temple misses 3-pt jump shot from 25 ft,10:05.0,0-3,New Orleans,0,0.0
+17110,38,Offensive rebound by W. Hernangómez,10:00.0,0-3,New Orleans,0,0.0
+17111,38,W. Hernangómez makes 2-pt layup at rim,10:00.0,2-3,New Orleans,0,0.0
+17112,38,Turnover by J. Holiday (bad pass; steal by H. Jones),9:50.0,2-3,Milwaukee,0,0.0
+17113,38,G. Temple makes 3-pt jump shot from 25 ft (assist by D. Graham),9:42.0,5-3,New Orleans,0,0.0
+17114,38,B. Portis misses 2-pt jump shot from 13 ft,9:23.0,5-3,Milwaukee,0,0.0
+17115,38,Defensive rebound by D. Graham,9:20.0,5-3,New Orleans,0,0.0
+17116,38,J. Hart misses 2-pt layup from 4 ft (block by J. Holiday),9:17.0,5-3,New Orleans,0,0.0
+17117,38,Offensive rebound by Team,9:17.0,5-3,New Orleans,0,0.0
+17118,38,G. Temple misses 2-pt jump shot from 18 ft,9:07.0,5-3,New Orleans,0,0.0
+17119,38,Defensive rebound by G. Antetokounmpo,9:04.0,5-3,Milwaukee,0,0.0
+17120,38,G. Antetokounmpo makes 2-pt layup from 3 ft,8:57.0,5-5,Milwaukee,0,0.0
+17121,38,W. Hernangómez misses 2-pt hook shot from 7 ft,8:41.0,5-5,New Orleans,0,0.0
+17122,38,Defensive rebound by B. Portis,8:38.0,5-5,Milwaukee,0,0.0
+17123,38,G. Allen makes 2-pt layup from 4 ft (assist by J. Holiday),8:30.0,5-7,Milwaukee,0,0.0
+17124,38,G. Temple misses 2-pt jump shot from 11 ft,8:02.0,5-7,New Orleans,0,0.0
+17125,38,Defensive rebound by J. Holiday,7:59.0,5-7,Milwaukee,0,0.0
+17126,38,Shooting foul by H. Jones (drawn by G. Antetokounmpo),7:58.0,5-7,Milwaukee,0,0.0
+17127,38,G. Antetokounmpo makes free throw 1 of 2,7:58.0,5-8,Milwaukee,0,0.0
+17128,38,J. Hayes enters the game for W. Hernangómez,7:58.0,5-8,New Orleans,0,0.0
+17129,38,G. Antetokounmpo makes free throw 2 of 2,7:58.0,5-9,Milwaukee,0,0.0
+17130,38,J. Hart misses 3-pt jump shot from 28 ft,7:43.0,5-9,New Orleans,0,0.0
+17131,38,Defensive rebound by G. Antetokounmpo,7:39.0,5-9,Milwaukee,0,0.0
+17132,38,G. Allen misses 3-pt jump shot from 25 ft,7:27.0,5-9,Milwaukee,0,0.0
+17133,38,Defensive rebound by H. Jones,7:25.0,5-9,New Orleans,0,0.0
+17134,38,Personal take foul by G. Antetokounmpo (drawn by J. Hart),7:25.0,5-9,New Orleans,0,0.0
+17135,38,H. Jones misses 3-pt jump shot from 27 ft,7:12.0,5-9,New Orleans,0,1.0
+17136,38,Defensive rebound by G. Antetokounmpo,7:09.0,5-9,Milwaukee,0,1.0
+17137,38,Turnover by G. Antetokounmpo (bad pass),7:04.0,5-9,Milwaukee,0,0.0
+17138,38,G. Temple makes 3-pt jump shot from 24 ft (assist by J. Hart),6:45.0,8-9,New Orleans,0,0.0
+17139,38,B. Portis misses 3-pt jump shot from 23 ft,6:29.0,8-9,Milwaukee,0,0.0
+17140,38,Defensive rebound by J. Hart,6:27.0,8-9,New Orleans,0,0.0
+17141,38,J. Hart misses 2-pt jump shot from 7 ft (block by G. Allen),6:23.0,8-9,New Orleans,0,0.0
+17142,38,Defensive rebound by G. Antetokounmpo,6:20.0,8-9,Milwaukee,0,0.0
+17143,38,Shooting foul by D. Graham (drawn by G. Antetokounmpo),6:20.0,8-9,Milwaukee,0,0.0
+17144,38,Milwaukee full timeout,6:20.0,8-9,Milwaukee,0,1.0
+17145,38,D. Cousins enters the game for P. Connaughton,6:20.0,8-9,Milwaukee,1,0.0
+17146,38,W. Matthews enters the game for B. Portis,6:20.0,8-9,Milwaukee,1,0.0
+17147,38,G. Antetokounmpo makes free throw 1 of 2,6:20.0,8-10,Milwaukee,0,0.0
+17148,38,G. Antetokounmpo misses free throw 2 of 2,6:20.0,8-10,Milwaukee,0,0.0
+17149,38,Defensive rebound by G. Temple,6:18.0,8-10,New Orleans,0,0.0
+17150,38,J. Hart misses 3-pt jump shot from 24 ft,6:07.0,8-10,New Orleans,0,0.0
+17151,38,Defensive rebound by D. Cousins,6:04.0,8-10,Milwaukee,0,0.0
+17152,38,Turnover by D. Cousins (bad pass; steal by H. Jones),6:01.0,8-10,Milwaukee,0,0.0
+17153,38,J. Hayes makes 2-pt layup from 6 ft,5:53.0,10-10,New Orleans,0,0.0
+17154,38,P. Connaughton enters the game for G. Antetokounmpo,5:53.0,10-10,Milwaukee,1,0.0
+17155,38,W. Matthews misses 3-pt jump shot from 26 ft,5:33.0,10-10,Milwaukee,0,0.0
+17156,38,Defensive rebound by G. Temple,5:28.0,10-10,New Orleans,0,1.0
+17157,38,Turnover by D. Graham (bad pass),5:11.0,10-10,New Orleans,0,1.0
+17158,38,N. Alexander-Walker enters the game for J. Hart,5:11.0,10-10,New Orleans,0,0.0
+17159,38,D. Cousins misses 3-pt jump shot from 27 ft,5:01.0,10-10,Milwaukee,0,0.0
+17160,38,Defensive rebound by G. Temple,4:58.0,10-10,New Orleans,0,0.0
+17161,38,J. Hayes makes 2-pt hook shot from 8 ft (assist by G. Temple),4:53.0,12-10,New Orleans,0,0.0
+17162,38,Turnover by W. Matthews (bad pass; steal by G. Temple),4:31.0,12-10,Milwaukee,0,0.0
+17163,38,H. Jones makes 2-pt layup from 3 ft (assist by G. Temple),4:25.0,14-10,New Orleans,0,0.0
+17164,38,Milwaukee full timeout,4:25.0,14-10,Milwaukee,0,0.0
+17165,38,T. Satoranský enters the game for D. Graham,4:25.0,14-10,New Orleans,0,0.0
+17166,38,G. Hill enters the game for G. Allen,4:25.0,14-10,Milwaukee,1,0.0
+17167,38,R. Hood enters the game for P. Connaughton,4:25.0,14-10,Milwaukee,1,0.0
+17168,38,G. Hill makes 3-pt jump shot from 24 ft (assist by J. Holiday),4:03.0,14-13,Milwaukee,0,0.0
+17169,38,Turnover by N. Alexander-Walker (bad pass; steal by G. Hill),3:48.0,14-13,New Orleans,0,0.0
+17170,38,Shooting foul by N. Alexander-Walker (drawn by J. Holiday),3:31.0,14-13,Milwaukee,0,0.0
+17171,38,J. Holiday makes free throw 1 of 2,3:31.0,14-14,Milwaukee,0,0.0
+17172,38,G. Clark enters the game for G. Temple,3:31.0,14-14,New Orleans,0,0.0
+17173,38,J. Holiday makes free throw 2 of 2,3:31.0,14-15,Milwaukee,0,0.0
+17174,38,N. Alexander-Walker misses 3-pt jump shot from 23 ft,3:13.0,14-15,New Orleans,0,0.0
+17175,38,Defensive rebound by D. Cousins,3:10.0,14-15,Milwaukee,0,0.0
+17176,38,D. Cousins misses 2-pt layup from 3 ft (block by H. Jones),2:57.0,14-15,Milwaukee,0,0.0
+17177,38,Defensive rebound by T. Satoranský,2:53.0,14-15,New Orleans,0,0.0
+17178,38,Turnover by N. Alexander-Walker (bad pass; steal by R. Hood),2:41.0,14-15,New Orleans,0,0.0
+17179,38,J. Holiday makes 2-pt layup from 2 ft,2:32.0,14-17,Milwaukee,0,0.0
+17180,38,N. Alexander-Walker misses 3-pt jump shot from 27 ft,2:19.0,14-17,New Orleans,0,0.0
+17181,38,Defensive rebound by D. Cousins,2:16.0,14-17,Milwaukee,0,1.0
+17182,38,J. Holiday makes 2-pt layup from 1 ft,1:59.0,14-19,Milwaukee,0,0.0
+17183,38,Turnover by N. Alexander-Walker (bad pass; steal by J. Holiday),1:55.0,14-19,New Orleans,0,0.0
+17184,38,G. Hill misses 2-pt layup from 2 ft (block by J. Hayes),1:48.0,14-19,Milwaukee,0,0.0
+17185,38,Defensive rebound by T. Satoranský,1:47.0,14-19,New Orleans,0,0.0
+17186,38,Shooting foul by D. Cousins (drawn by T. Satoranský),1:47.0,14-19,New Orleans,0,0.0
+17187,38,T. Satoranský misses free throw 1 of 2,1:47.0,14-19,New Orleans,0,0.0
+17188,38,Offensive rebound by Team,1:47.0,14-19,New Orleans,0,0.0
+17189,38,J. Hart enters the game for J. Hayes,1:47.0,14-19,New Orleans,0,1.0
+17190,38,W. Hernangómez enters the game for H. Jones,1:47.0,14-19,New Orleans,0,0.0
+17191,38,G. Antetokounmpo enters the game for J. Holiday,1:47.0,14-19,Milwaukee,1,0.0
+17192,38,T. Satoranský makes free throw 2 of 2,1:47.0,15-19,New Orleans,0,0.0
+17193,38,D. Cousins misses 2-pt jump shot from 5 ft,1:26.0,15-19,Milwaukee,0,0.0
+17194,38,Defensive rebound by W. Hernangómez,1:26.0,15-19,New Orleans,0,0.0
+17195,38,Shooting foul by R. Hood (drawn by N. Alexander-Walker),1:19.0,15-19,New Orleans,0,0.0
+17196,38,N. Alexander-Walker misses free throw 1 of 2,1:19.0,15-19,New Orleans,0,0.0
+17197,38,Offensive rebound by Team,1:19.0,15-19,New Orleans,0,0.0
+17198,38,D. Graham enters the game for T. Satoranský,1:19.0,15-19,New Orleans,0,0.0
+17199,38,B. Portis enters the game for D. Cousins,1:19.0,15-19,Milwaukee,1,0.0
+17200,38,N. Alexander-Walker makes free throw 2 of 2,1:19.0,16-19,New Orleans,0,0.0
+17201,38,Shooting foul by J. Hart (drawn by G. Antetokounmpo),1:09.0,16-19,Milwaukee,0,0.0
+17202,38,G. Antetokounmpo misses free throw 1 of 2,1:09.0,16-19,Milwaukee,0,0.0
+17203,38,Offensive rebound by Team,1:09.0,16-19,Milwaukee,0,0.0
+17204,38,G. Antetokounmpo makes free throw 2 of 2,1:09.0,16-20,Milwaukee,0,0.0
+17205,38,N. Alexander-Walker makes 3-pt jump shot from 26 ft (assist by J. Hart),0:59.0,19-20,New Orleans,0,0.0
+17206,38,G. Hill makes 3-pt jump shot from 27 ft (assist by G. Antetokounmpo),0:45.0,19-23,Milwaukee,0,0.0
+17207,38,W. Hernangómez misses 2-pt layup from 4 ft,0:32.0,19-23,New Orleans,0,0.0
+17208,38,Offensive rebound by W. Hernangómez,0:32.0,19-23,New Orleans,0,0.0
+17209,38,W. Hernangómez makes 2-pt dunk from 1 ft,0:32.0,21-23,New Orleans,0,0.0
+17210,38,G. Antetokounmpo makes 2-pt layup from 1 ft,0:19.0,21-25,Milwaukee,0,0.0
+17211,38,N. Alexander-Walker makes 3-pt jump shot from 23 ft (assist by J. Hart),0:04.0,24-25,New Orleans,0,0.0
+17212,38,Personal foul by J. Hart (drawn by G. Hill),0:00.0,24-25,Milwaukee,0,0.0
+17213,38,G. Hill makes free throw 1 of 2,0:00.0,24-26,Milwaukee,0,0.0
+17214,38,G. Hill makes free throw 2 of 2,0:00.0,24-27,Milwaukee,0,0.0
+17215,38,R. Hood misses 3-pt jump shot from 26 ft,11:46.0,24-27,Milwaukee,0,0.0
+17216,38,Defensive rebound by W. Hernangómez,11:43.0,24-27,New Orleans,0,0.0
+17217,38,J. Hart makes 2-pt layup from 3 ft (assist by D. Graham),11:42.0,26-27,New Orleans,0,0.0
+17218,38,Shooting foul by G. Allen (drawn by J. Hart),11:42.0,26-27,New Orleans,0,0.0
+17219,38,J. Hart makes free throw 1 of 1,11:42.0,27-27,New Orleans,0,1.0
+17220,38,B. Portis makes 3-pt jump shot from 26 ft (assist by G. Antetokounmpo),11:30.0,27-30,Milwaukee,0,0.0
+17221,38,G. Clark makes 3-pt jump shot from 23 ft (assist by W. Hernangómez),11:14.0,30-30,New Orleans,0,0.0
+17222,38,Turnover by G. Antetokounmpo (lost ball; steal by G. Clark),11:06.0,30-30,Milwaukee,0,0.0
+17223,38,Turnover by J. Hart (back court),11:02.0,30-30,New Orleans,0,0.0
+17224,38,B. Portis misses 2-pt jump shot from 16 ft,10:50.0,30-30,Milwaukee,0,0.0
+17225,38,Defensive rebound by N. Alexander-Walker,10:47.0,30-30,New Orleans,0,0.0
+17226,38,Personal foul by B. Portis (drawn by W. Hernangómez),10:38.0,30-30,New Orleans,0,0.0
+17227,38,Technical foul by B. Portis,10:38.0,30-30,Milwaukee,0,0.0
+17228,38,D. Graham makes technical free throw,10:38.0,31-30,New Orleans,0,0.0
+17229,38,J. Nwora enters the game for R. Hood,10:38.0,31-30,Milwaukee,1,0.0
+17230,38,D. Graham misses 3-pt jump shot from 26 ft,10:24.0,31-30,New Orleans,0,0.0
+17231,38,Defensive rebound by J. Nwora,10:21.0,31-30,Milwaukee,0,0.0
+17232,38,B. Portis misses 2-pt jump shot from 15 ft,10:10.0,31-30,Milwaukee,0,0.0
+17233,38,Defensive rebound by J. Hart,10:07.0,31-30,New Orleans,0,0.0
+17234,38,D. Graham makes 3-pt jump shot from 23 ft (assist by J. Hart),10:03.0,34-30,New Orleans,0,0.0
+17235,38,G. Antetokounmpo misses 2-pt layup from 5 ft,9:47.0,34-30,Milwaukee,0,0.0
+17236,38,Defensive rebound by J. Hart,9:47.0,34-30,New Orleans,0,0.0
+17237,38,N. Alexander-Walker misses 2-pt layup from 4 ft,9:40.0,34-30,New Orleans,0,0.0
+17238,38,Offensive rebound by J. Hart,9:38.0,34-30,New Orleans,0,0.0
+17239,38,N. Alexander-Walker misses 3-pt jump shot from 27 ft,9:36.0,34-30,New Orleans,0,0.0
+17240,38,Offensive rebound by G. Clark,9:36.0,34-30,New Orleans,0,0.0
+17241,38,D. Graham makes 3-pt jump shot from 27 ft (assist by G. Clark),9:32.0,37-30,New Orleans,0,0.0
+17242,38,Milwaukee full timeout,9:32.0,37-30,Milwaukee,0,0.0
+17243,38,J. Nwora makes 3-pt jump shot from 28 ft (assist by G. Antetokounmpo),9:13.0,37-33,Milwaukee,0,0.0
+17244,38,D. Graham misses 3-pt jump shot from 27 ft,8:52.0,37-33,New Orleans,0,0.0
+17245,38,Defensive rebound by G. Antetokounmpo,8:49.0,37-33,Milwaukee,0,0.0
+17246,38,B. Portis makes 3-pt jump shot from 26 ft (assist by G. Antetokounmpo),8:41.0,37-36,Milwaukee,0,0.0
+17247,38,Shooting foul by B. Portis (drawn by W. Hernangómez),8:20.0,37-36,New Orleans,0,0.0
+17248,38,W. Hernangómez misses free throw 1 of 2,8:20.0,37-36,New Orleans,0,0.0
+17249,38,Offensive rebound by Team,8:20.0,37-36,New Orleans,0,0.0
+17250,38,G. Temple enters the game for D. Graham,8:20.0,37-36,New Orleans,0,0.0
+17251,38,W. Hernangómez makes free throw 2 of 2,8:20.0,38-36,New Orleans,0,0.0
+17252,38,G. Antetokounmpo makes 2-pt dunk from 1 ft,8:09.0,38-38,Milwaukee,0,0.0
+17253,38,W. Hernangómez makes 2-pt hook shot from 10 ft (assist by J. Hart),7:57.0,40-38,New Orleans,0,0.0
+17254,38,G. Antetokounmpo makes 3-pt jump shot from 26 ft,7:39.0,40-41,Milwaukee,0,1.0
+17255,38,N. Alexander-Walker misses 2-pt layup from 5 ft,7:25.0,40-41,New Orleans,0,1.0
+17256,38,Offensive rebound by W. Hernangómez,7:24.0,40-41,New Orleans,0,0.0
+17257,38,W. Hernangómez misses 2-pt layup from 3 ft,7:23.0,40-41,New Orleans,0,0.0
+17258,38,Defensive rebound by G. Allen,7:21.0,40-41,Milwaukee,0,0.0
+17259,38,J. Nwora makes 3-pt jump shot from 23 ft (assist by G. Hill),7:16.0,40-44,Milwaukee,0,0.0
+17260,38,New Orleans full timeout,7:16.0,40-44,New Orleans,0,0.0
+17261,38,J. Hayes enters the game for G. Clark,7:16.0,40-44,New Orleans,0,0.0
+17262,38,H. Jones enters the game for J. Hart,7:16.0,40-44,New Orleans,0,0.0
+17263,38,T. Satoranský enters the game for W. Hernangómez,7:16.0,40-44,New Orleans,0,0.0
+17264,38,D. Cousins enters the game for G. Hill,7:16.0,40-44,Milwaukee,1,0.0
+17265,38,J. Holiday enters the game for B. Portis,7:16.0,40-44,Milwaukee,1,0.0
+17266,38,H. Jones makes 2-pt layup from 1 ft (assist by T. Satoranský),7:04.0,42-44,New Orleans,0,0.0
+17267,38,D. Cousins makes 2-pt dunk from 1 ft (assist by G. Allen),6:51.0,42-46,Milwaukee,0,0.0
+17268,38,J. Hayes makes 2-pt hook shot from 14 ft (assist by G. Temple),6:27.0,44-46,New Orleans,0,0.0
+17269,38,G. Antetokounmpo misses 3-pt jump shot from 26 ft,6:13.0,44-46,Milwaukee,0,0.0
+17270,38,Offensive rebound by Team,6:13.0,44-46,Milwaukee,0,0.0
+17271,38,Personal foul by H. Jones (drawn by G. Antetokounmpo),6:09.0,44-46,Milwaukee,0,0.0
+17272,38,G. Allen misses 3-pt jump shot from 26 ft,6:01.0,44-46,Milwaukee,0,0.0
+17273,38,Defensive rebound by T. Satoranský,5:59.0,44-46,New Orleans,0,0.0
+17274,38,N. Alexander-Walker misses 3-pt jump shot from 29 ft,5:52.0,44-46,New Orleans,0,0.0
+17275,38,Defensive rebound by D. Cousins,5:49.0,44-46,Milwaukee,0,0.0
+17276,38,G. Antetokounmpo makes 2-pt dunk from 2 ft,5:41.0,44-48,Milwaukee,0,0.0
+17277,38,H. Jones misses 3-pt jump shot from 28 ft,5:26.0,44-48,New Orleans,0,0.0
+17278,38,Defensive rebound by J. Nwora,5:23.0,44-48,Milwaukee,0,1.0
+17279,38,J. Holiday misses 2-pt layup from 9 ft (block by H. Jones),5:16.0,44-48,Milwaukee,0,1.0
+17280,38,Offensive rebound by J. Holiday,5:15.0,44-48,Milwaukee,0,0.0
+17281,38,J. Holiday makes 2-pt layup from 3 ft,5:12.0,44-50,Milwaukee,0,0.0
+17282,38,J. Hayes makes 2-pt dunk from 2 ft (assist by T. Satoranský),4:55.0,46-50,New Orleans,0,0.0
+17283,38,Shooting foul by G. Antetokounmpo (drawn by J. Hayes),4:55.0,46-50,New Orleans,0,0.0
+17284,38,Technical foul by G. Antetokounmpo,4:55.0,46-50,Milwaukee,0,0.0
+17285,38,N. Alexander-Walker misses technical free throw,4:55.0,46-50,New Orleans,0,0.0
+17286,38,Offensive rebound by Team,4:55.0,46-50,New Orleans,0,0.0
+17287,38,J. Hart enters the game for N. Alexander-Walker,4:55.0,46-50,New Orleans,0,0.0
+17288,38,P. Connaughton enters the game for G. Allen,4:55.0,46-50,Milwaukee,1,0.0
+17289,38,W. Matthews enters the game for G. Antetokounmpo,4:55.0,46-50,Milwaukee,1,0.0
+17290,38,J. Hayes makes free throw 1 of 1,4:55.0,47-50,New Orleans,0,0.0
+17291,38,Shooting foul by T. Satoranský (drawn by J. Holiday),4:42.0,47-50,Milwaukee,0,0.0
+17292,38,J. Holiday makes free throw 1 of 2,4:42.0,47-51,Milwaukee,0,0.0
+17293,38,J. Holiday makes free throw 2 of 2,4:42.0,47-52,Milwaukee,0,0.0
+17294,38,H. Jones misses 2-pt layup from 4 ft,4:28.0,47-52,New Orleans,0,0.0
+17295,38,Defensive rebound by Team,4:27.0,47-52,Milwaukee,0,0.0
+17296,38,Loose ball foul by J. Hayes (drawn by D. Cousins),4:27.0,47-52,New Orleans,0,0.0
+17297,38,Turnover by J. Holiday (lost ball; steal by J. Hart),4:16.0,47-52,Milwaukee,0,0.0
+17298,38,Shooting foul by J. Nwora (drawn by J. Hart),4:15.0,47-52,New Orleans,0,0.0
+17299,38,J. Hart misses free throw 1 of 2,4:15.0,47-52,New Orleans,0,0.0
+17300,38,Offensive rebound by Team,4:15.0,47-52,New Orleans,0,0.0
+17301,38,J. Hart misses free throw 2 of 2,4:15.0,47-52,New Orleans,0,0.0
+17302,38,Defensive rebound by J. Nwora,4:10.0,47-52,Milwaukee,0,0.0
+17303,38,J. Nwora misses 3-pt jump shot from 27 ft,4:00.0,47-52,Milwaukee,0,0.0
+17304,38,Defensive rebound by J. Hayes,3:57.0,47-52,New Orleans,0,0.0
+17305,38,J. Hayes makes 2-pt jump shot from 4 ft (assist by T. Satoranský),3:52.0,49-52,New Orleans,0,0.0
+17306,38,D. Cousins makes 3-pt jump shot from 28 ft (assist by J. Holiday),3:40.0,49-55,Milwaukee,0,1.0
+17307,38,H. Jones makes 3-pt jump shot from 24 ft (assist by T. Satoranský),3:25.0,52-55,New Orleans,0,1.0
+17308,38,J. Holiday misses 3-pt jump shot from 26 ft,3:02.0,52-55,Milwaukee,0,0.0
+17309,38,Offensive rebound by D. Cousins,2:59.0,52-55,Milwaukee,0,0.0
+17310,38,J. Nwora makes 2-pt layup from 2 ft,2:52.0,52-57,Milwaukee,0,0.0
+17311,38,J. Hayes makes 2-pt dunk from 2 ft (assist by J. Hart),2:42.0,54-57,New Orleans,0,0.0
+17312,38,J. Holiday misses 2-pt jump shot from 13 ft,2:21.0,54-57,Milwaukee,0,0.0
+17313,38,Defensive rebound by J. Hart,2:18.0,54-57,New Orleans,0,0.0
+17314,38,Shooting foul by D. Cousins (drawn by T. Satoranský),2:17.0,54-57,New Orleans,0,0.0
+17315,38,T. Satoranský makes free throw 1 of 2,2:17.0,55-57,New Orleans,0,0.0
+17316,38,G. Antetokounmpo enters the game for D. Cousins,2:17.0,55-57,Milwaukee,1,0.0
+17317,38,G. Hill enters the game for J. Nwora,2:17.0,55-57,Milwaukee,1,0.0
+17318,38,T. Satoranský makes free throw 2 of 2,2:17.0,56-57,New Orleans,0,0.0
+17319,38,Turnover by J. Holiday (bad pass; steal by T. Satoranský),2:08.0,56-57,Milwaukee,0,0.0
+17320,38,J. Hart misses 3-pt jump shot from 28 ft,2:01.0,56-57,New Orleans,0,0.0
+17321,38,Offensive rebound by J. Hayes,1:58.0,56-57,New Orleans,0,0.0
+17322,38,J. Hayes misses 2-pt layup at rim,1:58.0,56-57,New Orleans,0,1.0
+17323,38,Defensive rebound by J. Holiday,1:58.0,56-57,Milwaukee,0,0.0
+17324,38,Personal foul by T. Satoranský (drawn by J. Holiday),1:58.0,56-57,Milwaukee,0,0.0
+17325,38,D. Graham enters the game for T. Satoranský,1:58.0,56-57,New Orleans,0,0.0
+17326,38,W. Matthews misses 3-pt jump shot from 26 ft,1:36.0,56-57,Milwaukee,0,0.0
+17327,38,Defensive rebound by J. Hayes,1:34.0,56-57,New Orleans,0,0.0
+17328,38,H. Jones misses 3-pt jump shot from 27 ft,1:27.0,56-57,New Orleans,0,0.0
+17329,38,Defensive rebound by P. Connaughton,1:23.0,56-57,Milwaukee,0,0.0
+17330,38,Shooting foul by J. Hayes (drawn by G. Antetokounmpo),1:18.0,56-57,Milwaukee,0,0.0
+17331,38,G. Antetokounmpo makes free throw 1 of 2,1:18.0,56-58,Milwaukee,0,0.0
+17332,38,B. Portis enters the game for W. Matthews,1:18.0,56-58,Milwaukee,1,0.0
+17333,38,G. Antetokounmpo makes free throw 2 of 2,1:18.0,56-59,Milwaukee,0,0.0
+17334,38,Turnover by H. Jones (traveling),1:07.0,56-59,New Orleans,0,0.0
+17335,38,B. Portis misses 2-pt jump shot from 13 ft,0:47.0,56-59,Milwaukee,0,0.0
+17336,38,Defensive rebound by D. Graham,0:45.0,56-59,New Orleans,0,0.0
+17337,38,J. Hayes misses 2-pt dunk from 4 ft,0:39.0,56-59,New Orleans,0,0.0
+17338,38,Defensive rebound by B. Portis,0:35.0,56-59,Milwaukee,0,0.0
+17339,38,P. Connaughton makes 3-pt jump shot from 27 ft (assist by G. Antetokounmpo),0:31.0,56-62,Milwaukee,0,0.0
+17340,38,D. Graham misses 2-pt jump shot from 20 ft (block by J. Holiday),0:08.0,56-62,New Orleans,0,0.0
+17341,38,Defensive rebound by P. Connaughton,0:04.0,56-62,Milwaukee,0,0.0
+17342,38,B. Portis makes 2-pt dunk from 2 ft (assist by P. Connaughton),0:04.0,56-64,Milwaukee,0,0.0
+17343,38,Shooting foul by G. Antetokounmpo (drawn by J. Hart),0:01.0,56-64,New Orleans,0,0.0
+17344,38,J. Hart misses free throw 1 of 2,0:01.0,56-64,New Orleans,0,0.0
+17345,38,Offensive rebound by Team,0:01.0,56-64,New Orleans,0,0.0
+17346,38,J. Hart misses free throw 2 of 2,0:01.0,56-64,New Orleans,0,0.0
+17347,38,Defensive rebound by P. Connaughton,0:01.0,56-64,Milwaukee,0,0.0
+17348,38,G. Allen misses 3-pt jump shot from 23 ft,11:46.0,56-64,Milwaukee,0,0.0
+17349,38,Defensive rebound by H. Jones,11:42.0,56-64,New Orleans,0,0.0
+17350,38,D. Graham misses 3-pt jump shot from 26 ft,11:28.0,56-64,New Orleans,0,0.0
+17351,38,Offensive rebound by H. Jones,11:26.0,56-64,New Orleans,0,0.0
+17352,38,D. Graham makes 3-pt jump shot from 23 ft (assist by H. Jones),11:22.0,59-64,New Orleans,0,0.0
+17353,38,B. Portis makes 3-pt jump shot from 27 ft (assist by G. Antetokounmpo),11:10.0,59-67,Milwaukee,0,0.0
+17354,38,W. Hernangómez misses 2-pt hook shot from 7 ft,10:58.0,59-67,New Orleans,0,0.0
+17355,38,Defensive rebound by J. Holiday,10:56.0,59-67,Milwaukee,0,0.0
+17356,38,P. Connaughton misses 3-pt jump shot from 23 ft,10:51.0,59-67,Milwaukee,0,0.0
+17357,38,Defensive rebound by J. Hart,10:51.0,59-67,New Orleans,0,0.0
+17358,38,D. Graham misses 3-pt jump shot from 26 ft,10:44.0,59-67,New Orleans,0,0.0
+17359,38,Defensive rebound by P. Connaughton,10:39.0,59-67,Milwaukee,0,0.0
+17360,38,G. Antetokounmpo misses 2-pt jump shot from 16 ft,10:27.0,59-67,Milwaukee,0,0.0
+17361,38,Defensive rebound by W. Hernangómez,10:24.0,59-67,New Orleans,0,0.0
+17362,38,Violation by Team (kicked ball),10:10.0,59-67,Milwaukee,0,0.0
+17363,38,G. Temple misses 3-pt jump shot from 26 ft,10:05.0,59-67,New Orleans,0,0.0
+17364,38,Defensive rebound by G. Antetokounmpo,10:01.0,59-67,Milwaukee,0,0.0
+17365,38,G. Antetokounmpo misses 2-pt jump shot from 13 ft,9:50.0,59-67,Milwaukee,0,0.0
+17366,38,Defensive rebound by J. Hart,9:47.0,59-67,New Orleans,0,0.0
+17367,38,G. Temple makes 2-pt layup from 1 ft (assist by J. Hart),9:45.0,61-67,New Orleans,0,0.0
+17368,38,G. Allen makes 3-pt jump shot from 24 ft (assist by J. Holiday),9:34.0,61-70,Milwaukee,0,0.0
+17369,38,D. Graham misses 2-pt jump shot from 8 ft,9:21.0,61-70,New Orleans,0,0.0
+17370,38,Defensive rebound by G. Antetokounmpo,9:18.0,61-70,Milwaukee,0,0.0
+17371,38,Shooting foul by W. Hernangómez (drawn by G. Antetokounmpo),9:14.0,61-70,Milwaukee,0,0.0
+17372,38,G. Antetokounmpo makes free throw 1 of 2,9:14.0,61-71,Milwaukee,0,0.0
+17373,38,G. Antetokounmpo misses free throw 2 of 2,9:14.0,61-71,Milwaukee,0,0.0
+17374,38,Defensive rebound by W. Hernangómez,9:10.0,61-71,New Orleans,0,0.0
+17375,38,G. Temple misses 3-pt jump shot from 27 ft,9:04.0,61-71,New Orleans,0,0.0
+17376,38,Defensive rebound by B. Portis,9:01.0,61-71,Milwaukee,0,0.0
+17377,38,J. Holiday makes 3-pt jump shot from 25 ft (assist by P. Connaughton),8:54.0,61-74,Milwaukee,0,0.0
+17378,38,New Orleans full timeout,8:46.0,61-74,New Orleans,0,0.0
+17379,38,J. Hart misses 3-pt jump shot from 23 ft,8:35.0,61-74,New Orleans,0,0.0
+17380,38,Defensive rebound by G. Allen,8:31.0,61-74,Milwaukee,0,0.0
+17381,38,Turnover by B. Portis (bad pass),8:17.0,61-74,Milwaukee,0,0.0
+17382,38,W. Hernangómez makes 2-pt layup from 2 ft (assist by G. Temple),8:00.0,63-74,New Orleans,0,0.0
+17383,38,Shooting foul by B. Portis (drawn by W. Hernangómez),8:00.0,63-74,New Orleans,0,0.0
+17384,38,W. Hernangómez misses free throw 1 of 1,8:00.0,63-74,New Orleans,0,0.0
+17385,38,Defensive rebound by G. Antetokounmpo,7:57.0,63-74,Milwaukee,0,0.0
+17386,38,G. Antetokounmpo makes 2-pt dunk from 3 ft,7:44.0,63-76,Milwaukee,0,0.0
+17387,38,H. Jones makes 2-pt layup from 2 ft,7:34.0,65-76,New Orleans,0,0.0
+17388,38,G. Allen misses 3-pt jump shot from 26 ft,7:29.0,65-76,Milwaukee,0,0.0
+17389,38,Offensive rebound by B. Portis,7:29.0,65-76,Milwaukee,0,0.0
+17390,38,G. Allen makes 3-pt jump shot from 26 ft (assist by B. Portis),7:23.0,65-79,Milwaukee,0,0.0
+17391,38,D. Graham misses 3-pt jump shot from 26 ft,7:03.0,65-79,New Orleans,0,0.0
+17392,38,Offensive rebound by J. Hart,7:00.0,65-79,New Orleans,0,1.0
+17393,38,G. Temple makes 3-pt jump shot from 27 ft (assist by J. Hart),6:57.0,68-79,New Orleans,0,1.0
+17394,38,G. Antetokounmpo makes 2-pt jump shot from 17 ft,6:43.0,68-81,Milwaukee,0,0.0
+17395,38,H. Jones misses 2-pt layup from 1 ft,6:30.0,68-81,New Orleans,0,0.0
+17396,38,Offensive rebound by J. Hart,6:26.0,68-81,New Orleans,0,0.0
+17397,38,J. Hart makes 2-pt layup at rim,6:26.0,70-81,New Orleans,0,0.0
+17398,38,B. Portis makes 3-pt jump shot from 27 ft (assist by G. Antetokounmpo),6:14.0,70-84,Milwaukee,0,0.0
+17399,38,Turnover by W. Hernangómez (bad pass; steal by G. Antetokounmpo),5:58.0,70-84,New Orleans,0,0.0
+17400,38,Personal foul by J. Hart (drawn by G. Antetokounmpo),5:56.0,70-84,Milwaukee,0,0.0
+17401,38,J. Hayes enters the game for W. Hernangómez,5:56.0,70-84,New Orleans,0,0.0
+17402,38,D. Cousins enters the game for G. Antetokounmpo,5:56.0,70-84,Milwaukee,1,0.0
+17403,38,W. Matthews enters the game for B. Portis,5:56.0,70-84,Milwaukee,1,0.0
+17404,38,J. Holiday makes 2-pt layup from 2 ft,5:44.0,70-86,Milwaukee,0,0.0
+17405,38,G. Temple misses 3-pt jump shot from 29 ft,5:28.0,70-86,New Orleans,0,0.0
+17406,38,Turnover by H. Jones (bad pass; steal by P. Connaughton),5:27.0,70-86,New Orleans,0,0.0
+17407,38,Offensive rebound by H. Jones,5:27.0,70-86,New Orleans,0,0.0
+17408,38,G. Allen makes 2-pt layup from 1 ft (assist by J. Holiday),5:20.0,70-88,Milwaukee,0,0.0
+17409,38,New Orleans full timeout,5:20.0,70-88,New Orleans,0,0.0
+17410,38,N. Alexander-Walker enters the game for D. Graham,5:20.0,70-88,New Orleans,0,0.0
+17411,38,T. Satoranský enters the game for J. Hart,5:20.0,70-88,New Orleans,0,0.0
+17412,38,Violation by Team (kicked ball),5:05.0,70-88,Milwaukee,0,0.0
+17413,38,N. Alexander-Walker makes 3-pt jump shot from 27 ft (assist by H. Jones),4:51.0,73-88,New Orleans,0,1.0
+17414,38,Personal foul by N. Alexander-Walker (drawn by W. Matthews),4:46.0,73-88,Milwaukee,0,1.0
+17415,38,J. Holiday makes 2-pt layup from 2 ft,4:32.0,73-90,Milwaukee,0,0.0
+17416,38,N. Alexander-Walker misses 3-pt jump shot from 26 ft,4:17.0,73-90,New Orleans,0,0.0
+17417,38,Defensive rebound by P. Connaughton,4:15.0,73-90,Milwaukee,0,0.0
+17418,38,W. Matthews makes 2-pt layup from 1 ft (assist by J. Holiday),4:10.0,73-92,Milwaukee,0,0.0
+17419,38,G. Temple makes 3-pt jump shot from 23 ft (assist by T. Satoranský),3:52.0,76-92,New Orleans,0,0.0
+17420,38,J. Holiday misses 2-pt layup from 5 ft (block by H. Jones),3:37.0,76-92,Milwaukee,0,0.0
+17421,38,Offensive rebound by Team,3:37.0,76-92,Milwaukee,0,0.0
+17422,38,G. Clark enters the game for G. Temple,3:37.0,76-92,New Orleans,0,0.0
+17423,38,G. Hill enters the game for G. Allen,3:37.0,76-92,Milwaukee,1,0.0
+17424,38,R. Hood enters the game for P. Connaughton,3:37.0,76-92,Milwaukee,1,0.0
+17425,38,Turnover by W. Matthews (out of bounds lost ball),3:36.0,76-92,Milwaukee,0,0.0
+17426,38,Violation by Team (kicked ball),3:26.0,76-92,Milwaukee,0,0.0
+17427,38,J. Hayes makes 2-pt dunk from 3 ft (assist by T. Satoranský),3:20.0,78-92,New Orleans,0,0.0
+17428,38,J. Holiday misses 2-pt jump shot from 10 ft,3:04.0,78-92,Milwaukee,0,0.0
+17429,38,Defensive rebound by G. Clark,3:00.0,78-92,New Orleans,0,0.0
+17430,38,Personal foul by W. Matthews (drawn by J. Hayes),2:56.0,78-92,New Orleans,0,0.0
+17431,38,N. Alexander-Walker misses 2-pt jump shot from 14 ft,2:49.0,78-92,New Orleans,0,0.0
+17432,38,Defensive rebound by G. Hill,2:47.0,78-92,Milwaukee,0,1.0
+17433,38,D. Cousins misses 3-pt jump shot from 26 ft,2:38.0,78-92,Milwaukee,0,0.0
+17434,38,Defensive rebound by N. Alexander-Walker,2:34.0,78-92,New Orleans,0,0.0
+17435,38,G. Clark misses 3-pt jump shot from 24 ft,2:25.0,78-92,New Orleans,0,0.0
+17436,38,Defensive rebound by D. Cousins,2:22.0,78-92,Milwaukee,0,0.0
+17437,38,Turnover by J. Holiday (bad pass; steal by T. Satoranský),2:16.0,78-92,Milwaukee,0,0.0
+17438,38,T. Satoranský makes 2-pt layup from 1 ft (assist by J. Hayes),2:11.0,80-92,New Orleans,0,0.0
+17439,38,J. Holiday makes 2-pt jump shot from 13 ft,1:51.0,80-94,Milwaukee,0,0.0
+17440,38,Turnover by H. Jones (step out of bounds),1:35.0,80-94,New Orleans,0,0.0
+17441,38,J. Hart enters the game for H. Jones,1:35.0,80-94,New Orleans,0,0.0
+17442,38,G. Antetokounmpo enters the game for J. Holiday,1:35.0,80-94,Milwaukee,1,0.0
+17443,38,W. Matthews misses 3-pt jump shot from 26 ft (block by J. Hart),1:12.0,80-94,Milwaukee,0,0.0
+17444,38,Offensive rebound by Team,1:11.0,80-94,Milwaukee,0,0.0
+17445,38,Turnover by Team (shot clock),1:11.0,80-94,Milwaukee,0,0.0
+17446,38,Personal foul by D. Cousins (drawn by T. Satoranský),1:05.0,80-94,New Orleans,0,0.0
+17447,38,T. Satoranský misses 3-pt jump shot from 27 ft,0:59.0,80-94,New Orleans,0,0.0
+17448,38,Defensive rebound by G. Antetokounmpo,0:52.0,80-94,Milwaukee,0,0.0
+17449,38,Personal foul by N. Alexander-Walker (drawn by W. Matthews),0:50.0,80-94,Milwaukee,0,0.0
+17450,38,Turnover by G. Antetokounmpo (bad pass; steal by T. Satoranský),0:38.0,80-94,Milwaukee,0,0.0
+17451,38,Offensive foul by J. Hayes (drawn by W. Matthews),0:32.0,80-94,New Orleans,0,0.0
+17452,38,Turnover by J. Hayes (offensive foul),0:32.0,80-94,New Orleans,0,0.0
+17453,38,Shooting foul by J. Hart (drawn by G. Antetokounmpo),0:27.0,80-94,Milwaukee,0,0.0
+17454,38,G. Antetokounmpo makes free throw 1 of 2,0:27.0,80-95,Milwaukee,0,0.0
+17455,38,G. Antetokounmpo makes free throw 2 of 2,0:27.0,80-96,Milwaukee,0,0.0
+17456,38,J. Hart makes 2-pt layup from 2 ft,0:05.0,82-96,New Orleans,0,1.0
+17457,38,R. Hood misses 2-pt jump shot from 18 ft,0:00.0,82-96,Milwaukee,0,0.0
+17458,38,Offensive rebound by Team,0:00.0,82-96,Milwaukee,0,0.0
+17459,38,N. Alexander-Walker misses 3-pt jump shot from 27 ft,11:41.0,82-96,New Orleans,0,0.0
+17460,38,Defensive rebound by B. Portis,11:38.0,82-96,Milwaukee,0,0.0
+17461,38,B. Portis misses 3-pt jump shot from 27 ft,11:30.0,82-96,Milwaukee,0,0.0
+17462,38,Defensive rebound by N. Alexander-Walker,11:28.0,82-96,New Orleans,0,0.0
+17463,38,Shooting foul by B. Portis (drawn by J. Hayes),11:24.0,82-96,New Orleans,0,0.0
+17464,38,J. Hayes makes free throw 1 of 2,11:24.0,83-96,New Orleans,0,0.0
+17465,38,J. Hayes makes free throw 2 of 2,11:24.0,84-96,New Orleans,0,0.0
+17466,38,P. Connaughton enters the game for B. Portis,11:24.0,84-96,Milwaukee,1,0.0
+17467,38,G. Antetokounmpo makes 2-pt layup from 1 ft,11:05.0,84-98,Milwaukee,0,0.0
+17468,38,N. Alexander-Walker misses 3-pt jump shot from 27 ft,10:47.0,84-98,New Orleans,0,0.0
+17469,38,Defensive rebound by G. Antetokounmpo,10:43.0,84-98,Milwaukee,0,0.0
+17470,38,G. Antetokounmpo misses 3-pt jump shot from 28 ft,10:37.0,84-98,Milwaukee,0,0.0
+17471,38,Offensive rebound by Team,10:35.0,84-98,Milwaukee,0,0.0
+17472,38,G. Antetokounmpo makes 2-pt jump shot from 18 ft,10:27.0,84-100,Milwaukee,0,0.0
+17473,38,Shooting foul by G. Antetokounmpo (drawn by J. Hart),10:20.0,84-100,New Orleans,0,0.0
+17474,38,J. Hart makes free throw 1 of 2,10:20.0,85-100,New Orleans,0,0.0
+17475,38,H. Jones enters the game for J. Hayes,10:20.0,85-100,New Orleans,0,0.0
+17476,38,J. Hart misses free throw 2 of 2,10:20.0,85-100,New Orleans,0,0.0
+17477,38,Defensive rebound by G. Antetokounmpo,10:17.0,85-100,Milwaukee,0,0.0
+17478,38,G. Antetokounmpo makes 2-pt dunk from 1 ft,10:00.0,85-102,Milwaukee,0,0.0
+17479,38,J. Hart misses 2-pt layup from 3 ft,9:40.0,85-102,New Orleans,0,0.0
+17480,38,Defensive rebound by G. Allen,9:38.0,85-102,Milwaukee,0,0.0
+17481,38,J. Nwora makes 3-pt jump shot from 23 ft (assist by G. Hill),9:31.0,85-105,Milwaukee,0,0.0
+17482,38,New Orleans full timeout,9:31.0,85-105,New Orleans,0,0.0
+17483,38,W. Hernangómez enters the game for G. Clark,9:31.0,85-105,New Orleans,0,1.0
+17484,38,N. Alexander-Walker makes 3-pt jump shot from 26 ft (assist by J. Hart),9:14.0,88-105,New Orleans,0,0.0
+17485,38,G. Allen misses 3-pt jump shot from 27 ft,9:03.0,88-105,Milwaukee,0,0.0
+17486,38,Defensive rebound by H. Jones,9:00.0,88-105,New Orleans,0,0.0
+17487,38,D. Graham makes 3-pt jump shot from 27 ft (assist by H. Jones),8:55.0,91-105,New Orleans,0,0.0
+17488,38,P. Connaughton makes 3-pt jump shot from 24 ft (assist by G. Allen),8:39.0,91-108,Milwaukee,0,0.0
+17489,38,Personal foul by J. Nwora (drawn by N. Alexander-Walker),8:27.0,91-108,New Orleans,0,0.0
+17490,38,Shooting foul by J. Nwora (drawn by W. Hernangómez),8:22.0,91-108,New Orleans,0,0.0
+17491,38,Milwaukee full timeout,8:22.0,91-108,Milwaukee,0,0.0
+17492,38,Instant Replay (Challenge: Ruling Stands),8:22.0,91-108,Milwaukee,0,0.0
+17493,38,J. Holiday enters the game for G. Hill,8:22.0,91-108,Milwaukee,1,0.0
+17494,38,W. Hernangómez makes free throw 1 of 2,8:22.0,92-108,New Orleans,0,0.0
+17495,38,W. Hernangómez makes free throw 2 of 2,8:22.0,93-108,New Orleans,0,0.0
+17496,38,P. Connaughton makes 3-pt jump shot from 27 ft (assist by G. Antetokounmpo),8:00.0,93-111,Milwaukee,0,0.0
+17497,38,H. Jones makes 3-pt jump shot from 24 ft (assist by D. Graham),7:42.0,96-111,New Orleans,0,0.0
+17498,38,J. Nwora makes 3-pt jump shot from 28 ft (assist by G. Antetokounmpo),7:25.0,96-114,Milwaukee,0,1.0
+17499,38,Def 3 sec tech foul by Team,7:12.0,96-114,New Orleans,0,0.0
+17500,38,D. Graham makes technical free throw,7:12.0,97-114,New Orleans,0,0.0
+17501,38,Turnover by W. Hernangómez (lost ball; steal by G. Antetokounmpo),7:01.0,97-114,New Orleans,0,0.0
+17502,38,G. Allen makes 3-pt jump shot from 24 ft (assist by G. Antetokounmpo),6:55.0,97-117,Milwaukee,0,0.0
+17503,38,N. Alexander-Walker misses 3-pt jump shot from 27 ft,6:39.0,97-117,New Orleans,0,0.0
+17504,38,Defensive rebound by J. Nwora,6:36.0,97-117,Milwaukee,0,0.0
+17505,38,G. Antetokounmpo makes 3-pt jump shot from 28 ft,6:29.0,97-120,Milwaukee,0,0.0
+17506,38,New Orleans full timeout,6:29.0,97-120,New Orleans,0,0.0
+17507,38,J. Hayes enters the game for W. Hernangómez,6:29.0,97-120,New Orleans,0,0.0
+17508,38,D. Cousins enters the game for G. Antetokounmpo,6:29.0,97-120,Milwaukee,1,0.0
+17509,38,D. Graham misses 3-pt jump shot from 26 ft,6:11.0,97-120,New Orleans,0,0.0
+17510,38,Defensive rebound by P. Connaughton,6:09.0,97-120,Milwaukee,0,0.0
+17511,38,J. Nwora misses 3-pt jump shot from 27 ft,6:06.0,97-120,Milwaukee,0,0.0
+17512,38,Defensive rebound by N. Alexander-Walker,6:03.0,97-120,New Orleans,0,0.0
+17513,38,Shooting foul by P. Connaughton (drawn by J. Hart),6:02.0,97-120,New Orleans,0,0.0
+17514,38,J. Hart misses free throw 1 of 2,6:02.0,97-120,New Orleans,0,0.0
+17515,38,Offensive rebound by Team,6:02.0,97-120,New Orleans,0,0.0
+17516,38,J. Hart makes free throw 2 of 2,6:02.0,98-120,New Orleans,0,0.0
+17517,38,P. Connaughton misses 3-pt jump shot from 26 ft,5:46.0,98-120,Milwaukee,0,0.0
+17518,38,Defensive rebound by J. Hayes,5:41.0,98-120,New Orleans,0,0.0
+17519,38,J. Hart makes 2-pt jump shot from 18 ft,5:17.0,100-120,New Orleans,0,0.0
+17520,38,J. Holiday misses 3-pt jump shot from 25 ft,5:06.0,100-120,Milwaukee,0,1.0
+17521,38,Defensive rebound by H. Jones,5:03.0,100-120,New Orleans,0,1.0
+17522,38,Turnover by J. Hart (bad pass; steal by D. Cousins),5:00.0,100-120,New Orleans,0,1.0
+17523,38,G. Allen misses 3-pt jump shot from 26 ft,4:50.0,100-120,Milwaukee,0,0.0
+17524,38,Defensive rebound by J. Hayes,4:48.0,100-120,New Orleans,0,0.0
+17525,38,H. Jones makes 2-pt layup from 3 ft,4:38.0,102-120,New Orleans,0,0.0
+17526,38,G. Allen misses 3-pt jump shot from 27 ft,4:31.0,102-120,Milwaukee,0,0.0
+17527,38,Defensive rebound by N. Alexander-Walker,4:27.0,102-120,New Orleans,0,0.0
+17528,38,J. Hart makes 3-pt jump shot from 28 ft,4:17.0,105-120,New Orleans,0,0.0
+17529,38,Milwaukee full timeout,4:17.0,105-120,Milwaukee,0,0.0
+17530,38,G. Antetokounmpo enters the game for G. Allen,4:17.0,105-120,Milwaukee,1,0.0
+17531,38,G. Hill enters the game for D. Cousins,4:17.0,105-120,Milwaukee,1,0.0
+17532,38,B. Portis enters the game for J. Nwora,4:17.0,105-120,Milwaukee,1,1.0
+17533,38,G. Hill misses 2-pt jump shot from 12 ft,3:55.0,105-120,Milwaukee,0,1.0
+17534,38,Offensive rebound by G. Antetokounmpo,3:51.0,105-120,Milwaukee,0,0.0
+17535,38,G. Antetokounmpo makes 2-pt layup at rim,3:51.0,105-122,Milwaukee,0,0.0
+17536,38,N. Alexander-Walker misses 3-pt jump shot from 24 ft (block by P. Connaughton),3:37.0,105-122,New Orleans,0,0.0
+17537,38,Defensive rebound by G. Antetokounmpo,3:33.0,105-122,Milwaukee,0,0.0
+17538,38,Turnover by G. Antetokounmpo (lost ball; steal by D. Graham),3:30.0,105-122,Milwaukee,0,0.0
+17539,38,H. Jones misses 3-pt jump shot from 27 ft,3:19.0,105-122,New Orleans,0,1.0
+17540,38,Defensive rebound by G. Antetokounmpo,3:16.0,105-122,Milwaukee,0,1.0
+17541,38,J. Holiday makes 2-pt jump shot from 11 ft,3:04.0,105-124,Milwaukee,0,1.0
+17542,38,S. Mamukelashvili enters the game for G. Antetokounmpo,3:04.0,105-124,Milwaukee,1,0.0
+17543,38,J. Smart enters the game for J. Holiday,3:04.0,105-124,Milwaukee,1,0.0
+17544,38,New Orleans full timeout,2:48.0,105-124,New Orleans,0,0.0
+17545,38,J. Alvarado enters the game for N. Alexander-Walker,2:48.0,105-124,New Orleans,0,0.0
+17546,38,G. Clark enters the game for D. Graham,2:48.0,105-124,New Orleans,0,0.0
+17547,38,N. Marshall enters the game for J. Hart,2:48.0,105-124,New Orleans,0,0.0
+17548,38,T. Murphy enters the game for H. Jones,2:48.0,105-124,New Orleans,0,0.0
+17549,38,J. DeLaurier enters the game for P. Connaughton,2:48.0,105-124,Milwaukee,1,0.0
+17550,38,R. Hood enters the game for G. Hill,2:48.0,105-124,Milwaukee,1,0.0
+17551,38,J. Nwora enters the game for B. Portis,2:48.0,105-124,Milwaukee,1,0.0
+17552,38,N. Marshall misses 3-pt jump shot from 28 ft,2:38.0,105-124,New Orleans,0,0.0
+17553,38,Defensive rebound by J. DeLaurier,2:35.0,105-124,Milwaukee,0,0.0
+17554,38,J. Nwora makes 2-pt jump shot from 16 ft (assist by J. Smart),2:27.0,105-126,Milwaukee,0,0.0
+17555,38,Shooting foul by J. Smart (drawn by J. Hayes),2:14.0,105-126,New Orleans,0,0.0
+17556,38,J. Hayes makes free throw 1 of 2,2:14.0,106-126,New Orleans,0,0.0
+17557,38,J. Hayes makes free throw 2 of 2,2:14.0,107-126,New Orleans,0,0.0
+17558,38,J. Nwora makes 2-pt jump shot from 19 ft,2:00.0,107-128,Milwaukee,0,0.0
+17559,38,Turnover by T. Murphy (lost ball; steal by J. Smart),1:46.0,107-128,New Orleans,0,0.0
+17560,38,J. Smart misses 2-pt layup from 2 ft,1:41.0,107-128,Milwaukee,0,0.0
+17561,38,Defensive rebound by N. Marshall,1:37.0,107-128,New Orleans,0,0.0
+17562,38,J. Alvarado misses 3-pt jump shot from 25 ft,1:33.0,107-128,New Orleans,0,0.0
+17563,38,Offensive rebound by J. Hayes,1:32.0,107-128,New Orleans,0,0.0
+17564,38,J. Hayes makes 2-pt layup at rim,1:32.0,109-128,New Orleans,0,0.0
+17565,38,J. Nwora makes 3-pt jump shot from 28 ft,1:20.0,109-131,Milwaukee,0,0.0
+17566,38,N. Marshall misses 3-pt jump shot from 29 ft,1:10.0,109-131,New Orleans,0,0.0
+17567,38,Offensive rebound by J. Hayes,1:08.0,109-131,New Orleans,0,
+17568,38,J. Hayes makes 2-pt dunk from 2 ft,1:08.0,111-131,New Orleans,0,
+17569,38,S. Mamukelashvili makes 3-pt jump shot from 27 ft (assist by J. Smart),0:51.0,111-134,Milwaukee,0,
+17570,38,J. Hayes misses 2-pt jump shot from 15 ft,0:39.0,111-134,New Orleans,0,
+17571,38,Offensive rebound by G. Clark,0:36.0,111-134,New Orleans,0,
+17572,38,Turnover by J. Alvarado (bad pass; steal by J. DeLaurier),0:33.0,111-134,New Orleans,0,
+17573,38,J. Nwora makes 2-pt layup from 1 ft (assist by J. Smart),0:30.0,111-136,Milwaukee,0,
+17574,38,Shooting foul by J. DeLaurier (drawn by T. Murphy),0:17.0,111-136,New Orleans,0,
+17575,38,T. Murphy makes free throw 1 of 2,0:17.0,112-136,New Orleans,0,
+17576,38,T. Murphy makes free throw 2 of 2,0:17.0,113-136,New Orleans,0,

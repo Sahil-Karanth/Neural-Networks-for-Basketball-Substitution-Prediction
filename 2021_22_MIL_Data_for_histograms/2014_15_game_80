@@ -1,0 +1,454 @@
+,game number,play,time,score,team,current_sub_status,future_sub_status
+36663,80,G. Antetokounmpo makes 2-pt hook shot from 2 ft (assist by J. Holiday),11:41.0,0-2,Milwaukee,0,0.0
+36664,80,J. Brown makes 3-pt jump shot from 26 ft (assist by D. Theis),11:22.0,3-2,Boston,0,0.0
+36665,80,W. Matthews makes 2-pt layup from 2 ft (assist by K. Middleton),11:09.0,3-4,Milwaukee,0,0.0
+36666,80,D. Theis misses 2-pt layup from 4 ft,10:49.0,3-4,Boston,0,0.0
+36667,80,Defensive rebound by B. Lopez,10:45.0,3-4,Milwaukee,0,0.0
+36668,80,Personal foul by J. Brown (drawn by B. Lopez),10:38.0,3-4,Milwaukee,0,0.0
+36669,80,G. Antetokounmpo misses 2-pt jump shot from 17 ft (block by G. Williams),10:26.0,3-4,Milwaukee,0,0.0
+36670,80,Defensive rebound by G. Williams,10:22.0,3-4,Boston,0,0.0
+36671,80,G. Williams makes 2-pt layup from 1 ft,10:21.0,5-4,Boston,0,0.0
+36672,80,K. Middleton makes 2-pt layup from 3 ft,10:12.0,5-6,Milwaukee,0,0.0
+36673,80,Shooting foul by W. Matthews (drawn by J. Brown),9:58.0,5-6,Boston,0,0.0
+36674,80,J. Brown misses free throw 1 of 2,9:58.0,5-6,Boston,0,0.0
+36675,80,Offensive rebound by Team,9:58.0,5-6,Boston,0,0.0
+36676,80,J. Brown makes free throw 2 of 2,9:58.0,6-6,Boston,0,0.0
+36677,80,G. Antetokounmpo misses 3-pt jump shot from 26 ft,9:48.0,6-6,Milwaukee,0,0.0
+36678,80,Defensive rebound by D. White,9:45.0,6-6,Boston,0,0.0
+36679,80,M. Smart misses 2-pt jump shot from 13 ft,9:33.0,6-6,Boston,0,0.0
+36680,80,Defensive rebound by G. Antetokounmpo,9:31.0,6-6,Milwaukee,0,0.0
+36681,80,B. Lopez misses 3-pt jump shot from 26 ft,9:21.0,6-6,Milwaukee,0,0.0
+36682,80,Defensive rebound by G. Williams,9:19.0,6-6,Boston,0,0.0
+36683,80,J. Brown misses 3-pt jump shot from 26 ft,9:14.0,6-6,Boston,0,0.0
+36684,80,Defensive rebound by J. Holiday,9:12.0,6-6,Milwaukee,0,0.0
+36685,80,J. Holiday misses 3-pt jump shot from 26 ft,9:02.0,6-6,Milwaukee,0,0.0
+36686,80,Defensive rebound by J. Brown,8:59.0,6-6,Boston,0,0.0
+36687,80,M. Smart makes 3-pt jump shot from 28 ft (assist by J. Brown),8:55.0,9-6,Boston,0,0.0
+36688,80,B. Lopez makes 3-pt jump shot from 27 ft (assist by J. Holiday),8:41.0,9-9,Milwaukee,0,0.0
+36689,80,J. Brown misses 3-pt jump shot from 27 ft,8:30.0,9-9,Boston,0,0.0
+36690,80,Defensive rebound by B. Lopez,8:27.0,9-9,Milwaukee,0,0.0
+36691,80,B. Lopez misses 2-pt layup from 7 ft,8:19.0,9-9,Milwaukee,0,0.0
+36692,80,Offensive rebound by B. Lopez,8:18.0,9-9,Milwaukee,0,1.0
+36693,80,B. Lopez makes 2-pt layup from 2 ft,8:17.0,9-11,Milwaukee,0,0.0
+36694,80,D. Theis makes 3-pt jump shot from 27 ft (assist by J. Brown),8:07.0,12-11,Boston,0,0.0
+36695,80,K. Middleton misses 2-pt jump shot from 15 ft,7:54.0,12-11,Milwaukee,0,0.0
+36696,80,Defensive rebound by G. Williams,7:51.0,12-11,Boston,0,0.0
+36697,80,Shooting foul by J. Holiday (drawn by J. Brown),7:50.0,12-11,Boston,0,0.0
+36698,80,J. Brown makes free throw 1 of 2,7:50.0,13-11,Boston,0,0.0
+36699,80,J. Brown makes free throw 2 of 2,7:50.0,14-11,Boston,0,0.0
+36700,80,Shooting foul by D. White (drawn by W. Matthews),7:33.0,14-11,Milwaukee,0,0.0
+36701,80,W. Matthews makes free throw 1 of 2,7:33.0,14-12,Milwaukee,0,0.0
+36702,80,B. Portis enters the game for G. Antetokounmpo,7:33.0,14-12,Milwaukee,1,0.0
+36703,80,W. Matthews makes free throw 2 of 2,7:33.0,14-13,Milwaukee,0,0.0
+36704,80,D. White makes 3-pt jump shot from 27 ft (assist by J. Brown),7:13.0,17-13,Boston,0,0.0
+36705,80,J. Holiday makes 2-pt jump shot from 9 ft,7:02.0,17-15,Milwaukee,0,0.0
+36706,80,J. Brown misses 2-pt layup from 4 ft (block by B. Lopez),6:53.0,17-15,Boston,0,0.0
+36707,80,Offensive rebound by J. Brown,6:50.0,17-15,Boston,0,0.0
+36708,80,G. Williams misses 3-pt jump shot from 23 ft,6:49.0,17-15,Boston,0,0.0
+36709,80,Offensive rebound by D. Theis,6:45.0,17-15,Boston,0,0.0
+36710,80,Turnover by D. Theis (lost ball; steal by W. Matthews),6:43.0,17-15,Boston,0,0.0
+36711,80,W. Matthews misses 3-pt jump shot from 28 ft,6:39.0,17-15,Milwaukee,0,0.0
+36712,80,Defensive rebound by G. Williams,6:36.0,17-15,Boston,0,0.0
+36713,80,Turnover by M. Smart (traveling),6:33.0,17-15,Boston,0,0.0
+36714,80,Milwaukee full timeout,6:33.0,17-15,Milwaukee,0,0.0
+36715,80,A. Nesmith enters the game for G. Williams,6:33.0,17-15,Boston,0,0.0
+36716,80,B. Portis makes 2-pt jump shot from 14 ft (assist by K. Middleton),6:22.0,17-17,Milwaukee,0,1.0
+36717,80,Turnover by D. White (bad pass; steal by B. Portis),6:05.0,17-17,Boston,0,1.0
+36718,80,B. Portis makes 2-pt dunk at rim,6:01.0,17-19,Milwaukee,0,0.0
+36719,80,J. Brown misses 3-pt jump shot from 27 ft,5:43.0,17-19,Boston,0,0.0
+36720,80,Defensive rebound by K. Middleton,5:43.0,17-19,Milwaukee,0,0.0
+36721,80,B. Portis misses 2-pt jump shot from 18 ft,5:30.0,17-19,Milwaukee,0,0.0
+36722,80,Defensive rebound by D. White,5:28.0,17-19,Boston,0,0.0
+36723,80,J. Brown misses 2-pt layup from 1 ft (block by K. Middleton),5:17.0,17-19,Boston,0,0.0
+36724,80,Defensive rebound by Team,5:17.0,17-19,Milwaukee,0,0.0
+36725,80,S. Hauser enters the game for J. Brown,5:17.0,17-19,Boston,0,0.0
+36726,80,G. Antetokounmpo enters the game for J. Holiday,5:17.0,17-19,Milwaukee,1,0.0
+36727,80,G. Hill enters the game for B. Lopez,5:17.0,17-19,Milwaukee,1,0.0
+36728,80,K. Middleton makes 2-pt jump shot from 11 ft (assist by G. Hill),5:03.0,17-21,Milwaukee,0,0.0
+36729,80,Turnover by D. White (lost ball; steal by G. Antetokounmpo),4:49.0,17-21,Boston,0,1.0
+36730,80,G. Antetokounmpo makes 2-pt layup from 3 ft,4:45.0,17-23,Milwaukee,0,0.0
+36731,80,S. Hauser makes 3-pt jump shot from 24 ft (assist by M. Smart),4:29.0,20-23,Boston,0,0.0
+36732,80,B. Portis misses 3-pt jump shot from 30 ft,4:13.0,20-23,Milwaukee,0,0.0
+36733,80,Offensive rebound by G. Antetokounmpo,4:11.0,20-23,Milwaukee,0,0.0
+36734,80,B. Portis makes 2-pt layup from 3 ft (assist by G. Antetokounmpo),4:09.0,20-25,Milwaukee,0,0.0
+36735,80,Turnover by A. Nesmith (bad pass; steal by K. Middleton),4:07.0,20-25,Boston,0,0.0
+36736,80,K. Middleton makes 2-pt layup from 1 ft,4:05.0,20-27,Milwaukee,0,0.0
+36737,80,Boston full timeout,4:04.0,20-27,Boston,0,0.0
+36738,80,G. Williams enters the game for M. Smart,4:04.0,20-27,Boston,0,0.0
+36739,80,P. Connaughton enters the game for W. Matthews,4:04.0,20-27,Milwaukee,1,0.0
+36740,80,D. Theis makes 2-pt jump shot from 16 ft (assist by D. White),3:49.0,22-27,Boston,0,0.0
+36741,80,G. Antetokounmpo makes 2-pt layup from 2 ft (assist by B. Portis),3:31.0,22-29,Milwaukee,0,0.0
+36742,80,Personal foul by G. Hill (drawn by D. White),3:22.0,22-29,Boston,0,0.0
+36743,80,J. Brown enters the game for A. Nesmith,3:22.0,22-29,Boston,0,0.0
+36744,80,P. Pritchard enters the game for D. White,3:22.0,22-29,Boston,0,1.0
+36745,80,J. Brown misses 2-pt layup from 5 ft,3:16.0,22-29,Boston,0,0.0
+36746,80,Defensive rebound by B. Portis,3:13.0,22-29,Milwaukee,0,0.0
+36747,80,K. Middleton misses 3-pt jump shot from 27 ft,3:06.0,22-29,Milwaukee,0,0.0
+36748,80,Defensive rebound by J. Brown,3:03.0,22-29,Boston,0,0.0
+36749,80,P. Pritchard makes 2-pt jump shot from 18 ft (assist by J. Brown),2:58.0,24-29,Boston,0,0.0
+36750,80,G. Antetokounmpo misses 3-pt jump shot from 26 ft,2:42.0,24-29,Milwaukee,0,0.0
+36751,80,Defensive rebound by J. Brown,2:39.0,24-29,Boston,0,0.0
+36752,80,G. Williams misses 3-pt jump shot from 24 ft,2:34.0,24-29,Boston,0,0.0
+36753,80,L. Kornet enters the game for D. Theis,2:34.0,24-29,Boston,0,0.0
+36754,80,J. Holiday enters the game for K. Middleton,2:34.0,24-29,Milwaukee,1,0.0
+36755,80,Defensive rebound by Team,2:34.0,24-29,Milwaukee,0,0.0
+36756,80,G. Antetokounmpo makes 2-pt jump shot from 16 ft (assist by J. Holiday),2:20.0,24-31,Milwaukee,0,0.0
+36757,80,J. Brown makes 2-pt layup from 5 ft (assist by S. Hauser),2:05.0,26-31,Boston,0,0.0
+36758,80,J. Holiday misses 3-pt jump shot from 27 ft,1:52.0,26-31,Milwaukee,0,1.0
+36759,80,Defensive rebound by P. Pritchard,1:52.0,26-31,Boston,0,0.0
+36760,80,G. Williams misses 2-pt jump shot from 14 ft,1:41.0,26-31,Boston,0,0.0
+36761,80,Defensive rebound by B. Portis,1:39.0,26-31,Milwaukee,0,0.0
+36762,80,B. Portis makes 2-pt jump shot from 13 ft (assist by P. Connaughton),1:27.0,26-33,Milwaukee,0,0.0
+36763,80,P. Pritchard misses 3-pt jump shot from 26 ft,1:08.0,26-33,Boston,0,0.0
+36764,80,Defensive rebound by G. Antetokounmpo,1:05.0,26-33,Milwaukee,0,0.0
+36765,80,Turnover by G. Antetokounmpo (lost ball; steal by J. Brown),1:04.0,26-33,Milwaukee,0,0.0
+36766,80,Personal take foul by B. Portis (drawn by J. Brown),1:03.0,26-33,Boston,0,0.0
+36767,80,Instant Replay (Request: Ruling Stands),1:03.0,26-33,Boston,0,0.0
+36768,80,B. Lopez enters the game for B. Portis,1:03.0,26-33,Milwaukee,1,0.0
+36769,80,P. Pritchard makes 3-pt jump shot from 28 ft (assist by J. Brown),0:50.0,29-33,Boston,0,0.0
+36770,80,J. Holiday misses 2-pt jump shot from 13 ft (block by P. Pritchard),0:29.0,29-33,Milwaukee,0,0.0
+36771,80,Defensive rebound by J. Brown,0:25.0,29-33,Boston,0,0.0
+36772,80,Turnover by P. Pritchard (lost ball; steal by G. Hill),0:23.0,29-33,Boston,0,0.0
+36773,80,J. Holiday makes 3-pt jump shot from 27 ft (assist by G. Hill),0:19.0,29-36,Milwaukee,0,0.0
+36774,80,J. Brown misses 2-pt layup from 3 ft,0:02.0,29-36,Boston,0,0.0
+36775,80,Defensive rebound by P. Connaughton,0:02.0,29-36,Milwaukee,0,0.0
+36776,80,P. Pritchard misses 3-pt jump shot from 30 ft,11:38.0,29-36,Boston,0,0.0
+36777,80,Defensive rebound by G. Antetokounmpo,11:34.0,29-36,Milwaukee,0,1.0
+36778,80,B. Lopez misses 2-pt layup from 6 ft,11:22.0,29-36,Milwaukee,0,1.0
+36779,80,Defensive rebound by J. Brown,11:20.0,29-36,Boston,0,0.0
+36780,80,S. Hauser makes 3-pt jump shot from 24 ft (assist by P. Pritchard),11:11.0,32-36,Boston,0,0.0
+36781,80,B. Lopez makes 2-pt layup from 1 ft (assist by J. Holiday),10:53.0,32-38,Milwaukee,0,0.0
+36782,80,S. Hauser makes 3-pt jump shot from 27 ft (assist by L. Kornet),10:37.0,35-38,Boston,0,0.0
+36783,80,G. Antetokounmpo misses 2-pt jump shot from 11 ft,10:18.0,35-38,Milwaukee,0,0.0
+36784,80,Defensive rebound by S. Hauser,10:15.0,35-38,Boston,0,0.0
+36785,80,Shooting foul by J. Holiday (drawn by L. Kornet),10:08.0,35-38,Boston,0,0.0
+36786,80,L. Kornet makes free throw 1 of 2,10:08.0,36-38,Boston,0,0.0
+36787,80,K. Middleton enters the game for G. Antetokounmpo,10:08.0,36-38,Milwaukee,1,0.0
+36788,80,B. Portis enters the game for P. Connaughton,10:08.0,36-38,Milwaukee,1,0.0
+36789,80,L. Kornet makes free throw 2 of 2,10:08.0,37-38,Boston,0,0.0
+36790,80,Shooting foul by P. Pritchard (drawn by J. Holiday),9:56.0,37-38,Milwaukee,0,0.0
+36791,80,J. Holiday makes free throw 1 of 2,9:56.0,37-39,Milwaukee,0,0.0
+36792,80,J. Holiday makes free throw 2 of 2,9:56.0,37-40,Milwaukee,0,0.0
+36793,80,L. Kornet misses 3-pt jump shot from 28 ft,9:39.0,37-40,Boston,0,0.0
+36794,80,Defensive rebound by B. Portis,9:35.0,37-40,Milwaukee,0,0.0
+36795,80,J. Holiday misses 2-pt layup from 6 ft,9:29.0,37-40,Milwaukee,0,0.0
+36796,80,Offensive rebound by B. Lopez,9:28.0,37-40,Milwaukee,0,0.0
+36797,80,B. Lopez misses 2-pt layup at rim,9:27.0,37-40,Milwaukee,0,0.0
+36798,80,Defensive rebound by J. Brown,9:26.0,37-40,Boston,0,0.0
+36799,80,P. Pritchard misses 3-pt jump shot from 23 ft,9:18.0,37-40,Boston,0,0.0
+36800,80,Defensive rebound by J. Carter,9:15.0,37-40,Milwaukee,0,0.0
+36801,80,K. Middleton makes 2-pt jump shot from 16 ft,9:08.0,37-42,Milwaukee,0,0.0
+36802,80,Boston full timeout,9:06.0,37-42,Boston,0,0.0
+36803,80,A. Nesmith enters the game for J. Brown,9:06.0,37-42,Boston,0,0.0
+36804,80,D. White enters the game for G. Williams,9:06.0,37-42,Boston,0,0.0
+36805,80,D. White makes 3-pt jump shot from 28 ft (assist by P. Pritchard),8:50.0,40-42,Boston,0,0.0
+36806,80,K. Middleton misses 2-pt jump shot from 15 ft,8:38.0,40-42,Milwaukee,0,0.0
+36807,80,Defensive rebound by L. Kornet,8:36.0,40-42,Boston,0,0.0
+36808,80,S. Hauser misses 3-pt jump shot from 27 ft,8:28.0,40-42,Boston,0,0.0
+36809,80,Offensive rebound by L. Kornet,8:25.0,40-42,Boston,0,0.0
+36810,80,A. Nesmith misses 3-pt jump shot from 24 ft,8:23.0,40-42,Boston,0,0.0
+36811,80,Defensive rebound by K. Middleton,8:19.0,40-42,Milwaukee,0,0.0
+36812,80,J. Holiday makes 3-pt jump shot from 26 ft (assist by K. Middleton),8:14.0,40-45,Milwaukee,0,0.0
+36813,80,D. White misses 3-pt jump shot from 26 ft,7:59.0,40-45,Boston,0,0.0
+36814,80,Defensive rebound by B. Portis,7:55.0,40-45,Milwaukee,0,0.0
+36815,80,B. Portis misses 2-pt jump shot from 15 ft,7:39.0,40-45,Milwaukee,0,0.0
+36816,80,Defensive rebound by S. Hauser,7:36.0,40-45,Boston,0,0.0
+36817,80,D. White misses 3-pt jump shot from 26 ft,7:21.0,40-45,Boston,0,0.0
+36818,80,Defensive rebound by B. Lopez,7:18.0,40-45,Milwaukee,0,0.0
+36819,80,K. Middleton misses 2-pt jump shot from 18 ft,7:12.0,40-45,Milwaukee,0,0.0
+36820,80,Offensive rebound by J. Holiday,7:09.0,40-45,Milwaukee,0,0.0
+36821,80,Turnover by J. Holiday (bad pass; steal by A. Nesmith),6:59.0,40-45,Milwaukee,0,0.0
+36822,80,A. Nesmith misses 3-pt jump shot from 26 ft,6:50.0,40-45,Boston,0,0.0
+36823,80,Defensive rebound by K. Middleton,6:46.0,40-45,Milwaukee,0,0.0
+36824,80,B. Lopez makes 2-pt jump shot from 11 ft (assist by K. Middleton),6:32.0,40-47,Milwaukee,0,0.0
+36825,80,Violation by Team (delay of game),6:32.0,40-47,Milwaukee,0,0.0
+36826,80,Turnover by A. Nesmith (bad pass; steal by J. Holiday),6:17.0,40-47,Boston,0,0.0
+36827,80,B. Lopez misses 3-pt jump shot from 26 ft,6:07.0,40-47,Milwaukee,0,1.0
+36828,80,Defensive rebound by D. White,6:04.0,40-47,Boston,0,1.0
+36829,80,D. White misses 2-pt jump shot from 16 ft,5:48.0,40-47,Boston,0,1.0
+36830,80,Defensive rebound by K. Middleton,5:45.0,40-47,Milwaukee,0,0.0
+36831,80,J. Holiday makes 2-pt jump shot from 12 ft,5:38.0,40-49,Milwaukee,0,0.0
+36832,80,Boston full timeout,5:38.0,40-49,Boston,0,0.0
+36833,80,J. Brown enters the game for S. Hauser,5:38.0,40-49,Boston,0,0.0
+36834,80,M. Smart enters the game for L. Kornet,5:38.0,40-49,Boston,0,0.0
+36835,80,D. Theis enters the game for A. Nesmith,5:38.0,40-49,Boston,0,0.0
+36836,80,G. Williams enters the game for P. Pritchard,5:38.0,40-49,Boston,0,0.0
+36837,80,G. Antetokounmpo enters the game for J. Carter,5:38.0,40-49,Milwaukee,1,0.0
+36838,80,G. Hill enters the game for J. Holiday,5:38.0,40-49,Milwaukee,1,0.0
+36839,80,W. Matthews enters the game for B. Lopez,5:38.0,40-49,Milwaukee,1,0.0
+36840,80,Personal foul by K. Middleton (drawn by G. Williams),5:30.0,40-49,Boston,0,0.0
+36841,80,J. Brown misses 2-pt layup from 4 ft (block by W. Matthews),5:19.0,40-49,Boston,0,1.0
+36842,80,Defensive rebound by B. Portis,5:15.0,40-49,Milwaukee,0,0.0
+36843,80,K. Middleton makes 2-pt jump shot from 20 ft,5:03.0,40-51,Milwaukee,0,0.0
+36844,80,D. Theis makes 2-pt jump shot from 15 ft (assist by M. Smart),4:50.0,42-51,Boston,0,0.0
+36845,80,K. Middleton makes 2-pt layup from 1 ft,4:42.0,42-53,Milwaukee,0,0.0
+36846,80,D. White makes 3-pt jump shot from 23 ft (assist by J. Brown),4:18.0,45-53,Boston,0,0.0
+36847,80,B. Portis makes 3-pt jump shot from 24 ft (assist by W. Matthews),4:04.0,45-56,Milwaukee,0,0.0
+36848,80,Shooting foul by B. Portis (drawn by D. White),3:53.0,45-56,Boston,0,0.0
+36849,80,D. White makes free throw 1 of 2,3:53.0,46-56,Boston,0,0.0
+36850,80,D. White makes free throw 2 of 2,3:53.0,47-56,Boston,0,0.0
+36851,80,P. Connaughton enters the game for B. Portis,3:53.0,47-56,Milwaukee,1,0.0
+36852,80,P. Connaughton misses 2-pt jump shot from 17 ft,3:40.0,47-56,Milwaukee,0,0.0
+36853,80,Offensive rebound by W. Matthews,3:37.0,47-56,Milwaukee,0,0.0
+36854,80,G. Hill misses 3-pt jump shot from 29 ft,3:34.0,47-56,Milwaukee,0,0.0
+36855,80,Turnover by D. White (lost ball; steal by P. Connaughton),3:30.0,47-56,Boston,0,0.0
+36856,80,Defensive rebound by D. White,3:31.0,47-56,Boston,0,0.0
+36857,80,Turnover by P. Connaughton (bad pass; steal by G. Williams),3:26.0,47-56,Milwaukee,0,0.0
+36858,80,Shooting foul by G. Hill (drawn by M. Smart),3:14.0,47-56,Boston,0,0.0
+36859,80,Boston full timeout,3:14.0,47-56,Boston,0,1.0
+36860,80,M. Smart makes free throw 1 of 2,3:14.0,48-56,Boston,0,0.0
+36861,80,M. Smart makes free throw 2 of 2,3:14.0,49-56,Boston,0,0.0
+36862,80,Instant Replay (Challenge: Ruling Stands),3:14.0,49-56,Boston,0,0.0
+36863,80,G. Antetokounmpo makes 2-pt layup from 2 ft (assist by K. Middleton),3:01.0,49-58,Milwaukee,0,0.0
+36864,80,M. Smart makes 3-pt jump shot from 27 ft,2:42.0,52-58,Boston,0,0.0
+36865,80,K. Middleton makes 3-pt jump shot from 23 ft (assist by G. Antetokounmpo),2:20.0,52-61,Milwaukee,0,0.0
+36866,80,M. Smart makes 2-pt jump shot from 11 ft,2:02.0,54-61,Boston,0,1.0
+36867,80,Offensive foul by G. Antetokounmpo (drawn by J. Brown),1:49.0,54-61,Milwaukee,0,0.0
+36868,80,Turnover by G. Antetokounmpo (offensive foul),1:49.0,54-61,Milwaukee,0,0.0
+36869,80,J. Holiday enters the game for G. Hill,1:49.0,54-61,Milwaukee,1,0.0
+36870,80,M. Smart misses 3-pt jump shot from 29 ft,1:42.0,54-61,Boston,0,0.0
+36871,80,Defensive rebound by G. Antetokounmpo,1:42.0,54-61,Milwaukee,0,0.0
+36872,80,G. Antetokounmpo makes 2-pt layup from 3 ft,1:35.0,54-63,Milwaukee,0,0.0
+36873,80,Shooting foul by G. Williams (drawn by G. Antetokounmpo),1:35.0,54-63,Milwaukee,0,0.0
+36874,80,Technical foul by D. Theis,1:35.0,54-63,Boston,0,0.0
+36875,80,K. Middleton makes technical free throw,1:35.0,54-64,Milwaukee,0,0.0
+36876,80,B. Lopez enters the game for K. Middleton,1:35.0,54-64,Milwaukee,1,0.0
+36877,80,G. Antetokounmpo misses free throw 1 of 1,1:35.0,54-64,Milwaukee,0,0.0
+36878,80,Defensive rebound by J. Brown,1:32.0,54-64,Boston,0,0.0
+36879,80,D. White misses 3-pt jump shot from 28 ft,1:22.0,54-64,Boston,0,0.0
+36880,80,Defensive rebound by G. Antetokounmpo,1:18.0,54-64,Milwaukee,0,0.0
+36881,80,P. Connaughton makes 3-pt jump shot from 30 ft (assist by G. Antetokounmpo),1:08.0,54-67,Milwaukee,0,0.0
+36882,80,J. Brown makes 2-pt hook shot from 6 ft,0:50.0,56-67,Boston,0,0.0
+36883,80,Shooting foul by B. Lopez (drawn by J. Brown),0:50.0,56-67,Boston,0,0.0
+36884,80,J. Brown makes free throw 1 of 1,0:50.0,57-67,Boston,0,0.0
+36885,80,B. Lopez misses 3-pt jump shot from 28 ft,0:30.0,57-67,Milwaukee,0,0.0
+36886,80,Defensive rebound by M. Smart,0:27.0,57-67,Boston,0,0.0
+36887,80,J. Brown makes 2-pt layup from 2 ft (assist by M. Smart),0:12.0,59-67,Boston,0,0.0
+36888,80,B. Lopez makes 2-pt dunk from 3 ft (assist by J. Holiday),0:04.0,59-69,Milwaukee,0,0.0
+36889,80,Instant Replay (Request: Ruling Stands),0:00.0,59-69,Milwaukee,0,0.0
+36890,80,D. White misses 2-pt jump shot from 12 ft,11:42.0,59-69,Boston,0,0.0
+36891,80,Defensive rebound by G. Antetokounmpo,11:39.0,59-69,Milwaukee,0,0.0
+36892,80,G. Antetokounmpo makes 2-pt layup from 1 ft,11:34.0,59-71,Milwaukee,0,0.0
+36893,80,D. Theis makes 2-pt dunk at rim (assist by M. Smart),11:21.0,61-71,Boston,0,0.0
+36894,80,J. Holiday misses 3-pt jump shot from 26 ft,11:09.0,61-71,Milwaukee,0,0.0
+36895,80,Defensive rebound by G. Williams,11:06.0,61-71,Boston,0,0.0
+36896,80,J. Brown makes 2-pt layup at rim,10:58.0,63-71,Boston,0,0.0
+36897,80,Personal foul by J. Brown (drawn by B. Lopez),10:49.0,63-71,Milwaukee,0,0.0
+36898,80,Turnover by G. Antetokounmpo (traveling),10:44.0,63-71,Milwaukee,0,0.0
+36899,80,D. Theis makes 3-pt jump shot from 27 ft (assist by J. Brown),10:30.0,66-71,Boston,0,0.0
+36900,80,Turnover by G. Antetokounmpo (bad pass; steal by M. Smart),10:26.0,66-71,Milwaukee,0,0.0
+36901,80,M. Smart misses 3-pt jump shot from 25 ft,10:25.0,66-71,Boston,0,0.0
+36902,80,Defensive rebound by G. Antetokounmpo,10:23.0,66-71,Milwaukee,0,0.0
+36903,80,J. Holiday misses 2-pt hook shot from 11 ft,10:14.0,66-71,Milwaukee,0,0.0
+36904,80,Offensive rebound by J. Holiday,10:11.0,66-71,Milwaukee,0,0.0
+36905,80,B. Lopez makes 2-pt dunk from 1 ft (assist by K. Middleton),10:00.0,66-73,Milwaukee,0,0.0
+36906,80,M. Smart misses 3-pt jump shot from 27 ft,9:43.0,66-73,Boston,0,0.0
+36907,80,Defensive rebound by B. Lopez,9:40.0,66-73,Milwaukee,0,0.0
+36908,80,Turnover by K. Middleton (lost ball; steal by M. Smart),9:22.0,66-73,Milwaukee,0,0.0
+36909,80,Personal foul by W. Matthews (drawn by J. Brown),9:11.0,66-73,Boston,0,0.0
+36910,80,J. Brown makes 3-pt jump shot from 27 ft (assist by G. Williams),9:08.0,69-73,Boston,0,0.0
+36911,80,Shooting foul by D. White (drawn by J. Holiday),8:58.0,69-73,Milwaukee,0,0.0
+36912,80,J. Holiday misses free throw 1 of 2,8:58.0,69-73,Milwaukee,0,0.0
+36913,80,Offensive rebound by Team,8:58.0,69-73,Milwaukee,0,0.0
+36914,80,J. Holiday misses free throw 2 of 2,8:58.0,69-73,Milwaukee,0,0.0
+36915,80,Defensive rebound by D. Theis,8:55.0,69-73,Boston,0,0.0
+36916,80,M. Smart makes 3-pt jump shot from 25 ft (assist by J. Brown),8:45.0,72-73,Boston,0,0.0
+36917,80,Milwaukee full timeout,8:38.0,72-73,Milwaukee,0,0.0
+36918,80,Shooting foul by J. Brown (drawn by G. Antetokounmpo),8:31.0,72-73,Milwaukee,0,1.0
+36919,80,G. Antetokounmpo makes free throw 1 of 2,8:31.0,72-74,Milwaukee,0,0.0
+36920,80,G. Antetokounmpo makes free throw 2 of 2,8:31.0,72-75,Milwaukee,0,0.0
+36921,80,M. Smart makes 3-pt jump shot from 26 ft (assist by J. Brown),8:15.0,75-75,Boston,0,0.0
+36922,80,Turnover by K. Middleton (lost ball; steal by G. Williams),8:05.0,75-75,Milwaukee,0,0.0
+36923,80,Turnover by G. Williams (lost ball; steal by K. Middleton),8:00.0,75-75,Boston,0,0.0
+36924,80,G. Antetokounmpo makes 2-pt dunk from 3 ft (assist by J. Holiday),7:54.0,75-77,Milwaukee,0,0.0
+36925,80,D. Theis makes 3-pt jump shot from 27 ft (assist by J. Brown),7:40.0,78-77,Boston,0,0.0
+36926,80,K. Middleton makes 3-pt jump shot from 26 ft,7:30.0,78-80,Milwaukee,0,0.0
+36927,80,Personal foul by W. Matthews (drawn by J. Brown),7:19.0,78-80,Boston,0,0.0
+36928,80,B. Portis enters the game for B. Lopez,7:19.0,78-80,Milwaukee,1,0.0
+36929,80,G. Williams misses 3-pt jump shot from 26 ft,7:14.0,78-80,Boston,0,0.0
+36930,80,Defensive rebound by J. Holiday,7:12.0,78-80,Milwaukee,0,1.0
+36931,80,K. Middleton makes 3-pt jump shot from 27 ft,6:59.0,78-83,Milwaukee,0,0.0
+36932,80,J. Brown makes 2-pt layup from 3 ft (assist by D. Theis),6:46.0,80-83,Boston,0,0.0
+36933,80,K. Middleton misses 3-pt jump shot from 23 ft (block by G. Williams),6:35.0,80-83,Milwaukee,0,0.0
+36934,80,Defensive rebound by D. White,6:32.0,80-83,Boston,0,0.0
+36935,80,D. Theis misses 2-pt jump shot from 5 ft,6:17.0,80-83,Boston,0,0.0
+36936,80,Offensive rebound by D. Theis,6:16.0,80-83,Boston,0,0.0
+36937,80,Shooting foul by B. Portis (drawn by D. Theis),6:15.0,80-83,Boston,0,0.0
+36938,80,D. Theis misses free throw 1 of 2,6:15.0,80-83,Boston,0,0.0
+36939,80,Offensive rebound by Team,6:15.0,80-83,Boston,0,0.0
+36940,80,P. Connaughton enters the game for W. Matthews,6:15.0,80-83,Milwaukee,1,0.0
+36941,80,D. Theis makes free throw 2 of 2,6:15.0,81-83,Boston,0,0.0
+36942,80,G. Antetokounmpo misses 3-pt jump shot from 26 ft,5:51.0,81-83,Milwaukee,0,0.0
+36943,80,Offensive rebound by J. Holiday,5:47.0,81-83,Milwaukee,0,0.0
+36944,80,K. Middleton misses 3-pt jump shot from 26 ft,5:45.0,81-83,Milwaukee,0,0.0
+36945,80,Offensive rebound by P. Connaughton,5:41.0,81-83,Milwaukee,0,0.0
+36946,80,J. Holiday misses 3-pt jump shot from 25 ft,5:40.0,81-83,Milwaukee,0,0.0
+36947,80,Offensive rebound by B. Portis,5:38.0,81-83,Milwaukee,0,0.0
+36948,80,G. Antetokounmpo makes 2-pt jump shot from 2 ft (assist by K. Middleton),5:31.0,81-85,Milwaukee,0,0.0
+36949,80,Offensive foul by J. Brown (drawn by J. Holiday),5:25.0,81-85,Boston,0,0.0
+36950,80,Turnover by J. Brown (offensive foul),5:25.0,81-85,Boston,0,0.0
+36951,80,Shooting foul by G. Williams (drawn by J. Holiday),5:09.0,81-85,Milwaukee,0,0.0
+36952,80,A. Nesmith enters the game for J. Brown,5:09.0,81-85,Boston,0,1.0
+36953,80,J. Holiday makes free throw 1 of 2,5:09.0,81-86,Milwaukee,0,0.0
+36954,80,J. Holiday misses free throw 2 of 2,5:09.0,81-86,Milwaukee,0,0.0
+36955,80,Offensive rebound by B. Portis,5:09.0,81-86,Milwaukee,0,0.0
+36956,80,B. Portis misses 2-pt layup at rim,5:08.0,81-86,Milwaukee,0,1.0
+36957,80,Defensive rebound by G. Williams,5:07.0,81-86,Boston,0,0.0
+36958,80,D. Theis makes 2-pt layup from 1 ft (assist by M. Smart),4:49.0,83-86,Boston,0,0.0
+36959,80,Shooting foul by D. Theis (drawn by J. Holiday),4:42.0,83-86,Milwaukee,0,0.0
+36960,80,J. Holiday makes free throw 1 of 2,4:42.0,83-87,Milwaukee,0,0.0
+36961,80,S. Hauser enters the game for D. White,4:42.0,83-87,Boston,0,0.0
+36962,80,G. Hill enters the game for K. Middleton,4:42.0,83-87,Milwaukee,1,0.0
+36963,80,J. Holiday makes free throw 2 of 2,4:42.0,83-88,Milwaukee,0,0.0
+36964,80,D. Theis makes 2-pt layup from 3 ft (assist by M. Smart),4:31.0,85-88,Boston,0,0.0
+36965,80,Shooting foul by G. Hill (drawn by D. Theis),4:31.0,85-88,Boston,0,0.0
+36966,80,K. Middleton enters the game for J. Holiday,4:31.0,85-88,Milwaukee,1,0.0
+36967,80,D. Theis makes free throw 1 of 1,4:31.0,86-88,Boston,0,0.0
+36968,80,K. Middleton misses 2-pt jump shot from 16 ft,4:14.0,86-88,Milwaukee,0,0.0
+36969,80,Defensive rebound by G. Williams,4:11.0,86-88,Boston,0,0.0
+36970,80,S. Hauser makes 2-pt layup from 1 ft (assist by M. Smart),4:00.0,88-88,Boston,0,0.0
+36971,80,G. Antetokounmpo makes 2-pt dunk from 2 ft (assist by K. Middleton),3:47.0,88-90,Milwaukee,0,0.0
+36972,80,M. Smart makes 3-pt jump shot from 26 ft (assist by D. Theis),3:28.0,91-90,Boston,0,0.0
+36973,80,P. Connaughton misses 3-pt jump shot from 26 ft,3:15.0,91-90,Milwaukee,0,1.0
+36974,80,Defensive rebound by S. Hauser,3:12.0,91-90,Boston,0,0.0
+36975,80,G. Williams misses 3-pt jump shot from 24 ft,3:08.0,91-90,Boston,0,0.0
+36976,80,Defensive rebound by K. Middleton,3:05.0,91-90,Milwaukee,0,0.0
+36977,80,P. Connaughton makes 3-pt jump shot from 24 ft (assist by G. Antetokounmpo),2:57.0,91-93,Milwaukee,0,0.0
+36978,80,M. Smart makes 2-pt layup from 1 ft (assist by G. Williams),2:39.0,93-93,Boston,0,0.0
+36979,80,G. Antetokounmpo misses 3-pt jump shot from 27 ft,2:31.0,93-93,Milwaukee,0,0.0
+36980,80,Offensive rebound by G. Hill,2:29.0,93-93,Milwaukee,0,0.0
+36981,80,Shooting foul by A. Nesmith (drawn by G. Antetokounmpo),2:28.0,93-93,Milwaukee,0,0.0
+36982,80,Boston full timeout,2:28.0,93-93,Boston,0,1.0
+36983,80,J. Holiday enters the game for K. Middleton,2:28.0,93-93,Milwaukee,1,0.0
+36984,80,G. Antetokounmpo makes free throw 1 of 2,2:28.0,93-94,Milwaukee,0,0.0
+36985,80,G. Antetokounmpo makes free throw 2 of 2,2:28.0,93-95,Milwaukee,0,0.0
+36986,80,M. Smart makes 3-pt jump shot from 26 ft,2:12.0,96-95,Boston,0,0.0
+36987,80,J. Holiday makes 3-pt jump shot from 26 ft,1:56.0,96-98,Milwaukee,0,0.0
+36988,80,A. Nesmith misses 3-pt jump shot from 28 ft,1:45.0,96-98,Boston,0,0.0
+36989,80,Defensive rebound by G. Hill,1:44.0,96-98,Milwaukee,0,0.0
+36990,80,Turnover by J. Holiday (bad pass),1:34.0,96-98,Milwaukee,0,0.0
+36991,80,D. White enters the game for G. Williams,1:34.0,96-98,Boston,0,0.0
+36992,80,B. Lopez enters the game for G. Antetokounmpo,1:34.0,96-98,Milwaukee,1,0.0
+36993,80,M. Smart misses 3-pt jump shot from 28 ft,1:22.0,96-98,Boston,0,0.0
+36994,80,Defensive rebound by J. Holiday,1:19.0,96-98,Milwaukee,0,0.0
+36995,80,B. Lopez misses 2-pt layup from 5 ft,1:09.0,96-98,Milwaukee,0,0.0
+36996,80,Offensive rebound by B. Lopez,1:08.0,96-98,Milwaukee,0,0.0
+36997,80,B. Lopez makes 2-pt layup at rim,1:08.0,96-100,Milwaukee,0,0.0
+36998,80,Shooting foul by J. Holiday (drawn by D. Theis),0:55.0,96-100,Boston,0,0.0
+36999,80,D. Theis misses free throw 1 of 2,0:55.0,96-100,Boston,0,0.0
+37000,80,Offensive rebound by Team,0:55.0,96-100,Boston,0,0.0
+37001,80,Milwaukee full timeout,0:55.0,96-100,Milwaukee,0,0.0
+37002,80,D. Theis makes free throw 2 of 2,0:55.0,97-100,Boston,0,0.0
+37003,80,J. Holiday makes 2-pt layup from 6 ft,0:34.0,97-102,Milwaukee,0,0.0
+37004,80,D. Theis misses 2-pt layup from 3 ft (block by J. Holiday),0:20.0,97-102,Boston,0,0.0
+37005,80,Offensive rebound by Team,0:20.0,97-102,Boston,0,0.0
+37006,80,Turnover by M. Smart (bad pass; steal by P. Connaughton),0:18.0,97-102,Boston,0,0.0
+37007,80,P. Connaughton misses 3-pt jump shot from 27 ft,0:00.0,97-102,Milwaukee,0,0.0
+37008,80,Offensive rebound by Team,0:00.0,97-102,Milwaukee,0,0.0
+37009,80,P. Connaughton misses 3-pt jump shot from 31 ft,11:41.0,97-102,Milwaukee,0,0.0
+37010,80,Defensive rebound by J. Brown,11:39.0,97-102,Boston,0,1.0
+37011,80,P. Pritchard makes 2-pt jump shot from 15 ft,11:16.0,99-102,Boston,0,0.0
+37012,80,B. Lopez misses 2-pt layup from 2 ft,11:04.0,99-102,Milwaukee,0,0.0
+37013,80,Defensive rebound by L. Kornet,11:01.0,99-102,Boston,0,0.0
+37014,80,P. Pritchard makes 3-pt jump shot from 28 ft (assist by D. White),10:54.0,102-102,Boston,0,0.0
+37015,80,B. Lopez misses 2-pt jump shot from 7 ft,10:31.0,102-102,Milwaukee,0,0.0
+37016,80,Defensive rebound by S. Hauser,10:29.0,102-102,Boston,0,0.0
+37017,80,D. White makes 2-pt jump shot from 14 ft,10:24.0,104-102,Boston,0,0.0
+37018,80,Milwaukee full timeout,10:24.0,104-102,Milwaukee,0,0.0
+37019,80,G. Williams enters the game for S. Hauser,10:24.0,104-102,Boston,0,0.0
+37020,80,G. Antetokounmpo enters the game for B. Lopez,10:24.0,104-102,Milwaukee,1,0.0
+37021,80,J. Holiday makes 2-pt jump shot from 7 ft (assist by K. Middleton),10:07.0,104-104,Milwaukee,0,0.0
+37022,80,P. Pritchard misses 3-pt jump shot from 27 ft,9:48.0,104-104,Boston,0,0.0
+37023,80,Offensive rebound by P. Pritchard,9:43.0,104-104,Boston,0,0.0
+37024,80,Personal foul by J. Carter (drawn by J. Brown),9:37.0,104-104,Boston,0,0.0
+37025,80,D. White makes 2-pt jump shot from 13 ft,9:25.0,106-104,Boston,0,0.0
+37026,80,Shooting foul by G. Antetokounmpo (drawn by D. White),9:25.0,106-104,Boston,0,0.0
+37027,80,D. White makes free throw 1 of 1,9:25.0,107-104,Boston,0,0.0
+37028,80,J. Holiday makes 2-pt layup from 1 ft,9:16.0,107-106,Milwaukee,0,1.0
+37029,80,Shooting foul by J. Holiday (drawn by J. Brown),9:02.0,107-106,Boston,0,0.0
+37030,80,J. Brown misses free throw 1 of 2,9:02.0,107-106,Boston,0,0.0
+37031,80,Offensive rebound by Team,9:02.0,107-106,Boston,0,0.0
+37032,80,J. Brown misses free throw 2 of 2,9:02.0,107-106,Boston,0,0.0
+37033,80,Defensive rebound by P. Connaughton,9:01.0,107-106,Milwaukee,0,0.0
+37034,80,J. Holiday makes 3-pt jump shot from 26 ft,8:49.0,107-109,Milwaukee,0,1.0
+37035,80,G. Williams makes 2-pt jump shot from 18 ft (assist by J. Brown),8:25.0,109-109,Boston,0,1.0
+37036,80,K. Middleton misses 3-pt jump shot from 26 ft,8:09.0,109-109,Milwaukee,0,0.0
+37037,80,Defensive rebound by P. Pritchard,8:07.0,109-109,Boston,0,0.0
+37038,80,W. Matthews enters the game for J. Holiday,8:07.0,109-109,Milwaukee,1,0.0
+37039,80,D. White makes 3-pt jump shot from 27 ft,7:50.0,112-109,Boston,0,0.0
+37040,80,G. Antetokounmpo misses 2-pt layup from 8 ft,7:36.0,112-109,Milwaukee,0,0.0
+37041,80,Defensive rebound by D. White,7:33.0,112-109,Boston,0,0.0
+37042,80,P. Pritchard makes 2-pt layup from 3 ft (assist by D. White),7:32.0,114-109,Boston,0,0.0
+37043,80,Milwaukee full timeout,7:26.0,114-109,Milwaukee,0,0.0
+37044,80,J. Holiday enters the game for J. Carter,7:26.0,114-109,Milwaukee,1,0.0
+37045,80,B. Portis enters the game for P. Connaughton,7:26.0,114-109,Milwaukee,1,0.0
+37046,80,Turnover by K. Middleton (bad pass; steal by P. Pritchard),7:15.0,114-109,Milwaukee,0,0.0
+37047,80,Turnover by G. Williams (lost ball; steal by J. Holiday),7:04.0,114-109,Boston,0,0.0
+37048,80,Personal take foul by G. Williams (drawn by G. Antetokounmpo),7:04.0,114-109,Milwaukee,0,0.0
+37049,80,W. Matthews makes 3-pt jump shot from 26 ft (assist by J. Holiday),6:50.0,114-112,Milwaukee,0,0.0
+37050,80,Turnover by J. Brown (bad pass; steal by G. Antetokounmpo),6:33.0,114-112,Boston,0,0.0
+37051,80,G. Antetokounmpo misses 2-pt layup from 6 ft (block by J. Brown),6:28.0,114-112,Milwaukee,0,0.0
+37052,80,Offensive rebound by Team,6:28.0,114-112,Milwaukee,0,0.0
+37053,80,K. Middleton misses 3-pt jump shot from 25 ft,6:22.0,114-112,Milwaukee,0,0.0
+37054,80,Defensive rebound by L. Kornet,6:19.0,114-112,Boston,0,0.0
+37055,80,J. Brown misses 3-pt jump shot from 27 ft,6:03.0,114-112,Boston,0,0.0
+37056,80,Offensive rebound by P. Pritchard,5:58.0,114-112,Boston,0,0.0
+37057,80,Turnover by J. Brown (lost ball; steal by J. Holiday),5:47.0,114-112,Boston,0,0.0
+37058,80,B. Portis makes 3-pt jump shot from 26 ft (assist by G. Antetokounmpo),5:39.0,114-115,Milwaukee,0,0.0
+37059,80,P. Pritchard misses 3-pt jump shot from 27 ft,5:16.0,114-115,Boston,0,0.0
+37060,80,Offensive rebound by L. Kornet,5:14.0,114-115,Boston,0,0.0
+37061,80,J. Brown makes 2-pt layup from 5 ft,5:09.0,116-115,Boston,0,0.0
+37062,80,G. Antetokounmpo makes 2-pt layup from 1 ft,4:47.0,116-117,Milwaukee,0,0.0
+37063,80,Shooting foul by L. Kornet (drawn by G. Antetokounmpo),4:47.0,116-117,Milwaukee,0,0.0
+37064,80,M. Smart enters the game for L. Kornet,4:47.0,116-117,Boston,0,0.0
+37065,80,D. Theis enters the game for G. Williams,4:47.0,116-117,Boston,0,0.0
+37066,80,G. Antetokounmpo makes free throw 1 of 1,4:47.0,116-118,Milwaukee,0,0.0
+37067,80,M. Smart makes 3-pt jump shot from 26 ft,4:25.0,119-118,Boston,0,0.0
+37068,80,G. Antetokounmpo misses 2-pt jump shot from 8 ft,4:12.0,119-118,Milwaukee,0,0.0
+37069,80,Defensive rebound by D. Theis,4:10.0,119-118,Boston,0,0.0
+37070,80,Turnover by M. Smart (traveling),3:51.0,119-118,Boston,0,0.0
+37071,80,W. Matthews misses 3-pt jump shot from 25 ft,3:33.0,119-118,Milwaukee,0,0.0
+37072,80,Offensive rebound by G. Antetokounmpo,3:31.0,119-118,Milwaukee,0,0.0
+37073,80,G. Antetokounmpo misses 2-pt layup at rim,3:30.0,119-118,Milwaukee,0,0.0
+37074,80,Defensive rebound by D. White,3:29.0,119-118,Boston,0,0.0
+37075,80,M. Smart misses 3-pt jump shot from 25 ft,3:13.0,119-118,Boston,0,0.0
+37076,80,Defensive rebound by J. Holiday,3:09.0,119-118,Milwaukee,0,0.0
+37077,80,Turnover by J. Holiday (lost ball; steal by P. Pritchard),3:05.0,119-118,Milwaukee,0,0.0
+37078,80,Boston full timeout,3:03.0,119-118,Boston,0,0.0
+37079,80,G. Williams enters the game for P. Pritchard,3:03.0,119-118,Boston,0,0.0
+37080,80,J. Brown misses 2-pt dunk from 6 ft (block by G. Antetokounmpo),2:49.0,119-118,Boston,0,0.0
+37081,80,Defensive rebound by K. Middleton,2:47.0,119-118,Milwaukee,0,0.0
+37082,80,J. Holiday misses 3-pt jump shot from 27 ft,2:37.0,119-118,Milwaukee,0,0.0
+37083,80,Defensive rebound by J. Brown,2:35.0,119-118,Boston,0,0.0
+37084,80,M. Smart makes 2-pt layup from 10 ft,2:27.0,121-118,Boston,0,0.0
+37085,80,B. Portis makes 3-pt jump shot from 27 ft (assist by J. Holiday),2:11.0,121-121,Milwaukee,0,0.0
+37086,80,Personal foul by W. Matthews (drawn by J. Brown),1:59.0,121-121,Boston,0,0.0
+37087,80,D. White misses 3-pt jump shot from 28 ft,1:43.0,121-121,Boston,0,0.0
+37088,80,Defensive rebound by G. Antetokounmpo,1:40.0,121-121,Milwaukee,0,0.0
+37089,80,Shooting foul by M. Smart (drawn by G. Antetokounmpo),1:31.0,121-121,Milwaukee,0,0.0
+37090,80,G. Antetokounmpo misses free throw 1 of 2,1:31.0,121-121,Milwaukee,0,0.0
+37091,80,Offensive rebound by Team,1:31.0,121-121,Milwaukee,0,0.0
+37092,80,G. Antetokounmpo makes free throw 2 of 2,1:31.0,121-122,Milwaukee,0,0.0
+37093,80,D. White misses 2-pt jump shot from 11 ft,1:17.0,121-122,Boston,0,0.0
+37094,80,Defensive rebound by K. Middleton,1:14.0,121-122,Milwaukee,0,0.0
+37095,80,J. Holiday misses 2-pt layup from 10 ft,1:00.0,121-122,Milwaukee,0,0.0
+37096,80,Offensive rebound by J. Holiday,1:00.0,121-122,Milwaukee,0,0.0
+37097,80,J. Holiday makes 2-pt layup at rim,1:00.0,121-124,Milwaukee,0,0.0
+37098,80,J. Brown misses 3-pt jump shot from 28 ft,0:48.0,121-124,Boston,0,0.0
+37099,80,Offensive rebound by G. Williams,0:45.0,121-124,Boston,0,1.0
+37100,80,Instant Replay,0:43.0,121-124,Boston,0,0.0
+37101,80,D. Theis misses 2-pt layup from 2 ft,0:40.0,121-124,Boston,0,0.0
+37102,80,Defensive rebound by G. Antetokounmpo,0:39.0,121-124,Milwaukee,0,0.0
+37103,80,Personal take foul by J. Brown (drawn by G. Antetokounmpo),0:39.0,121-124,Milwaukee,0,0.0
+37104,80,G. Antetokounmpo makes free throw 1 of 2,0:39.0,121-125,Milwaukee,0,0.0
+37105,80,G. Antetokounmpo misses free throw 2 of 2,0:39.0,121-125,Milwaukee,0,0.0
+37106,80,Defensive rebound by D. Theis,0:35.0,121-125,Boston,0,
+37107,80,Boston full timeout,0:35.0,121-125,Boston,0,
+37108,80,P. Pritchard enters the game for G. Williams,0:35.0,121-125,Boston,0,
+37109,80,G. Hill enters the game for B. Portis,0:35.0,121-125,Milwaukee,1,
+37110,80,Turnover by J. Brown (lost ball; steal by G. Hill),0:26.0,121-125,Boston,0,
+37111,80,G. Hill makes 2-pt layup from 2 ft,0:23.0,121-127,Milwaukee,0,
+37112,80,Violation by Team (def goaltending),0:23.0,121-127,Boston,0,
+37113,80,Instant Replay (Request: Ruling Stands),0:23.0,121-127,Boston,0,
+37114,80,J. Brown misses 3-pt jump shot from 28 ft,0:13.0,121-127,Boston,0,
+37115,80,Defensive rebound by K. Middleton,0:10.0,121-127,Milwaukee,0,

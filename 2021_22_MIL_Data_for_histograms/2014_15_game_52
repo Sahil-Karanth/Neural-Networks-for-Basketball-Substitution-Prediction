@@ -1,0 +1,394 @@
+,game number,play,time,score,team,current_sub_status,future_sub_status
+23681,52,B. Portis makes 2-pt jump shot from 10 ft (assist by K. Middleton),11:42.0,0-2,Milwaukee,0,0.0
+23682,52,N. Jokić misses 3-pt jump shot from 27 ft,11:26.0,0-2,Denver,0,0.0
+23683,52,Defensive rebound by K. Middleton,11:22.0,0-2,Milwaukee,0,0.0
+23684,52,K. Middleton misses 3-pt jump shot from 26 ft,11:17.0,0-2,Milwaukee,0,0.0
+23685,52,Defensive rebound by N. Jokić,11:14.0,0-2,Denver,0,0.0
+23686,52,A. Gordon misses 3-pt jump shot from 26 ft,11:05.0,0-2,Denver,0,0.0
+23687,52,Defensive rebound by G. Allen,11:02.0,0-2,Milwaukee,0,0.0
+23688,52,B. Portis misses 3-pt jump shot from 26 ft,10:55.0,0-2,Milwaukee,0,0.0
+23689,52,Defensive rebound by N. Jokić,10:52.0,0-2,Denver,0,0.0
+23690,52,J. Green misses 3-pt jump shot from 24 ft,10:45.0,0-2,Denver,0,0.0
+23691,52,Defensive rebound by B. Portis,10:41.0,0-2,Milwaukee,0,0.0
+23692,52,Turnover by J. Holiday (bad pass; steal by N. Jokić),10:33.0,0-2,Milwaukee,0,0.0
+23693,52,N. Jokić makes 2-pt layup from 1 ft (assist by W. Barton),10:24.0,2-2,Denver,0,0.0
+23694,52,Personal foul by A. Gordon (drawn by G. Antetokounmpo),10:16.0,2-2,Milwaukee,0,0.0
+23695,52,K. Middleton makes 2-pt layup from 3 ft (assist by J. Holiday),10:11.0,2-4,Milwaukee,0,0.0
+23696,52,Violation by Team (def goaltending),10:11.0,2-4,Denver,0,0.0
+23697,52,W. Barton makes 2-pt jump shot from 12 ft,9:52.0,4-4,Denver,0,0.0
+23698,52,G. Allen makes 3-pt jump shot from 26 ft (assist by K. Middleton),9:40.0,4-7,Milwaukee,0,0.0
+23699,52,Def 3 sec tech foul by Team,9:27.0,4-7,Denver,0,0.0
+23700,52,N. Jokić makes technical free throw,9:27.0,5-7,Denver,0,0.0
+23701,52,M. Morris makes 3-pt jump shot from 26 ft (assist by N. Jokić),9:16.0,8-7,Denver,0,0.0
+23702,52,Turnover by G. Antetokounmpo (bad pass; steal by N. Jokić),9:00.0,8-7,Milwaukee,0,0.0
+23703,52,A. Gordon makes 2-pt layup from 20 ft (assist by N. Jokić),8:53.0,10-7,Denver,0,0.0
+23704,52,Turnover by K. Middleton (bad pass; steal by N. Jokić),8:39.0,10-7,Milwaukee,0,0.0
+23705,52,A. Gordon misses 3-pt jump shot from 27 ft,8:33.0,10-7,Denver,0,0.0
+23706,52,Defensive rebound by B. Portis,8:30.0,10-7,Milwaukee,0,0.0
+23707,52,G. Antetokounmpo misses 2-pt layup from 5 ft,8:18.0,10-7,Milwaukee,0,0.0
+23708,52,Defensive rebound by N. Jokić,8:16.0,10-7,Denver,0,0.0
+23709,52,Turnover by N. Jokić (out of bounds lost ball),8:12.0,10-7,Denver,0,1.0
+23710,52,G. Allen makes 3-pt jump shot from 27 ft (assist by J. Holiday),7:59.0,10-10,Milwaukee,0,0.0
+23711,52,J. Green misses 3-pt jump shot from 23 ft,7:42.0,10-10,Denver,0,0.0
+23712,52,Defensive rebound by B. Portis,7:39.0,10-10,Milwaukee,0,0.0
+23713,52,G. Antetokounmpo makes 2-pt dunk from 1 ft,7:30.0,10-12,Milwaukee,0,0.0
+23714,52,J. Green makes 2-pt layup from 1 ft (assist by N. Jokić),7:13.0,12-12,Denver,0,0.0
+23715,52,J. Holiday misses 3-pt jump shot from 27 ft,7:05.0,12-12,Milwaukee,0,0.0
+23716,52,Defensive rebound by N. Jokić,7:01.0,12-12,Denver,0,0.0
+23717,52,M. Morris makes 2-pt jump shot from 15 ft (assist by N. Jokić),6:51.0,14-12,Denver,0,0.0
+23718,52,Milwaukee full timeout,6:42.0,14-12,Milwaukee,0,0.0
+23719,52,W. Matthews enters the game for B. Portis,6:42.0,14-12,Milwaukee,1,0.0
+23720,52,J. Holiday makes 2-pt hook shot from 9 ft,6:31.0,14-14,Milwaukee,0,1.0
+23721,52,Turnover by M. Morris (bad pass; steal by G. Antetokounmpo),6:07.0,14-14,Denver,0,0.0
+23722,52,G. Antetokounmpo makes 2-pt dunk from 3 ft,6:06.0,14-16,Milwaukee,0,0.0
+23723,52,Shooting foul by W. Barton (drawn by G. Antetokounmpo),6:06.0,14-16,Milwaukee,0,0.0
+23724,52,G. Antetokounmpo makes free throw 1 of 1,6:06.0,14-17,Milwaukee,0,0.0
+23725,52,A. Gordon makes 3-pt jump shot from 25 ft (assist by N. Jokić),5:57.0,17-17,Denver,0,0.0
+23726,52,G. Allen misses 3-pt jump shot from 27 ft,5:44.0,17-17,Milwaukee,0,0.0
+23727,52,Defensive rebound by W. Barton,5:41.0,17-17,Denver,0,0.0
+23728,52,W. Barton misses 3-pt jump shot from 28 ft,5:38.0,17-17,Denver,0,0.0
+23729,52,Defensive rebound by Team,5:36.0,17-17,Milwaukee,0,1.0
+23730,52,B. Portis enters the game for G. Antetokounmpo,5:36.0,17-17,Milwaukee,1,0.0
+23731,52,K. Middleton misses 2-pt jump shot from 19 ft,5:25.0,17-17,Milwaukee,0,0.0
+23732,52,Defensive rebound by M. Morris,5:22.0,17-17,Denver,0,0.0
+23733,52,Turnover by N. Jokić (bad pass; steal by K. Middleton),5:03.0,17-17,Denver,0,0.0
+23734,52,K. Middleton misses 2-pt layup from 4 ft (block by A. Gordon),4:59.0,17-17,Milwaukee,0,0.0
+23735,52,Offensive rebound by G. Allen,4:49.0,17-17,Milwaukee,0,0.0
+23736,52,G. Allen makes 2-pt layup at rim,4:49.0,17-19,Milwaukee,0,0.0
+23737,52,Denver full timeout,4:49.0,17-19,Denver,0,0.0
+23738,52,A. Rivers enters the game for J. Green,4:49.0,17-19,Denver,0,0.0
+23739,52,P. Connaughton enters the game for K. Middleton,4:49.0,17-19,Milwaukee,1,1.0
+23740,52,N. Jokić misses 3-pt jump shot from 24 ft,4:31.0,17-19,Denver,0,0.0
+23741,52,Defensive rebound by W. Matthews,4:27.0,17-19,Milwaukee,0,0.0
+23742,52,P. Connaughton makes 2-pt layup from 2 ft (assist by J. Holiday),4:23.0,17-21,Milwaukee,0,0.0
+23743,52,M. Morris makes 3-pt jump shot from 27 ft (assist by N. Jokić),4:06.0,20-21,Denver,0,0.0
+23744,52,B. Portis makes 2-pt layup from 2 ft (assist by J. Holiday),3:54.0,20-23,Milwaukee,0,0.0
+23745,52,N. Jokić makes 3-pt jump shot from 26 ft (assist by M. Morris),3:42.0,23-23,Denver,0,0.0
+23746,52,Turnover by J. Holiday (bad pass),3:26.0,23-23,Milwaukee,0,0.0
+23747,52,B. Forbes enters the game for W. Barton,3:26.0,23-23,Denver,0,0.0
+23748,52,B. Hyland enters the game for M. Morris,3:26.0,23-23,Denver,0,0.0
+23749,52,D. DiVincenzo enters the game for G. Allen,3:26.0,23-23,Milwaukee,1,0.0
+23750,52,B. Hyland makes 3-pt jump shot from 24 ft (assist by N. Jokić),3:13.0,26-23,Denver,0,0.0
+23751,52,B. Portis misses 2-pt jump shot from 13 ft,2:48.0,26-23,Milwaukee,0,1.0
+23752,52,Defensive rebound by B. Hyland,2:46.0,26-23,Denver,0,1.0
+23753,52,B. Hyland makes 3-pt jump shot from 27 ft (assist by N. Jokić),2:43.0,29-23,Denver,0,1.0
+23754,52,Turnover by J. Holiday (bad pass),2:24.0,29-23,Milwaukee,0,0.0
+23755,52,J. Green enters the game for A. Gordon,2:24.0,29-23,Denver,0,0.0
+23756,52,Z. Nnaji enters the game for N. Jokić,2:24.0,29-23,Denver,0,0.0
+23757,52,A. Rivers misses 2-pt jump shot from 8 ft,2:06.0,29-23,Denver,0,0.0
+23758,52,Defensive rebound by D. DiVincenzo,2:03.0,29-23,Milwaukee,0,0.0
+23759,52,D. DiVincenzo makes 2-pt hook shot from 2 ft (assist by J. Holiday),1:51.0,29-25,Milwaukee,0,0.0
+23760,52,Turnover by J. Green (bad pass),1:38.0,29-25,Denver,0,0.0
+23761,52,G. Antetokounmpo enters the game for J. Holiday,1:38.0,29-25,Milwaukee,1,0.0
+23762,52,K. Middleton enters the game for W. Matthews,1:38.0,29-25,Milwaukee,1,0.0
+23763,52,J. Nwora enters the game for B. Portis,1:38.0,29-25,Milwaukee,1,0.0
+23764,52,G. Antetokounmpo misses 2-pt jump shot from 12 ft,1:25.0,29-25,Milwaukee,0,0.0
+23765,52,Defensive rebound by J. Green,1:22.0,29-25,Denver,0,0.0
+23766,52,B. Hyland misses 2-pt jump shot from 17 ft,1:16.0,29-25,Denver,0,0.0
+23767,52,Defensive rebound by K. Middleton,1:13.0,29-25,Milwaukee,0,0.0
+23768,52,D. DiVincenzo makes 3-pt jump shot from 25 ft (assist by K. Middleton),1:00.0,29-28,Milwaukee,0,0.0
+23769,52,B. Forbes makes 2-pt layup from 3 ft (assist by A. Rivers),0:45.0,31-28,Denver,0,0.0
+23770,52,Shooting foul by J. Green (drawn by G. Antetokounmpo),0:32.0,31-28,Milwaukee,0,0.0
+23771,52,G. Antetokounmpo misses free throw 1 of 2,0:32.0,31-28,Milwaukee,0,0.0
+23772,52,Offensive rebound by Team,0:32.0,31-28,Milwaukee,0,0.0
+23773,52,G. Antetokounmpo makes free throw 2 of 2,0:32.0,31-29,Milwaukee,0,0.0
+23774,52,B. Hyland misses 3-pt jump shot from 28 ft,0:20.0,31-29,Denver,0,0.0
+23775,52,Offensive rebound by J. Green,0:16.0,31-29,Denver,0,0.0
+23776,52,J. Green makes 2-pt layup at rim,0:16.0,33-29,Denver,0,0.0
+23777,52,Shooting foul by A. Rivers (drawn by G. Antetokounmpo),0:01.0,33-29,Milwaukee,0,0.0
+23778,52,G. Antetokounmpo misses free throw 1 of 2,0:01.0,33-29,Milwaukee,0,0.0
+23779,52,Offensive rebound by Team,0:01.0,33-29,Milwaukee,0,1.0
+23780,52,G. Antetokounmpo makes free throw 2 of 2,0:01.0,33-30,Milwaukee,0,0.0
+23781,52,J. Green makes 2-pt dunk from 1 ft (assist by B. Hyland),11:47.0,35-30,Denver,0,0.0
+23782,52,J. Nwora misses 2-pt jump shot from 16 ft,11:30.0,35-30,Milwaukee,0,0.0
+23783,52,Defensive rebound by Z. Nnaji,11:26.0,35-30,Denver,0,0.0
+23784,52,B. Forbes misses 2-pt jump shot from 19 ft,11:11.0,35-30,Denver,0,0.0
+23785,52,Defensive rebound by G. Antetokounmpo,11:09.0,35-30,Milwaukee,0,0.0
+23786,52,G. Antetokounmpo makes 2-pt layup from 1 ft,11:00.0,35-32,Milwaukee,0,0.0
+23787,52,B. Hyland makes 3-pt jump shot from 26 ft (assist by B. Forbes),10:46.0,38-32,Denver,0,0.0
+23788,52,Personal foul by J. Green (drawn by G. Antetokounmpo),10:31.0,38-32,Milwaukee,0,0.0
+23789,52,G. Allen enters the game for P. Connaughton,10:31.0,38-32,Milwaukee,1,0.0
+23790,52,G. Antetokounmpo misses 2-pt layup from 1 ft,10:21.0,38-32,Milwaukee,0,0.0
+23791,52,Defensive rebound by Z. Nnaji,10:19.0,38-32,Denver,0,0.0
+23792,52,Shooting foul by D. DiVincenzo (drawn by B. Hyland),10:17.0,38-32,Denver,0,0.0
+23793,52,B. Hyland makes free throw 1 of 2,10:17.0,39-32,Denver,0,0.0
+23794,52,J. Green enters the game for J. Green,10:17.0,39-32,Denver,0,0.0
+23795,52,B. Hyland makes free throw 2 of 2,10:17.0,40-32,Denver,0,0.0
+23796,52,Turnover by D. DiVincenzo (bad pass; steal by B. Hyland),10:08.0,40-32,Milwaukee,0,0.0
+23797,52,Shooting foul by D. DiVincenzo (drawn by Z. Nnaji),10:05.0,40-32,Denver,0,1.0
+23798,52,Z. Nnaji misses free throw 1 of 2,10:05.0,40-32,Denver,0,0.0
+23799,52,Offensive rebound by Team,10:05.0,40-32,Denver,0,0.0
+23800,52,Z. Nnaji makes free throw 2 of 2,10:05.0,41-32,Denver,0,0.0
+23801,52,J. Nwora makes 2-pt layup from 2 ft (assist by G. Allen),9:47.0,41-34,Milwaukee,0,0.0
+23802,52,B. Hyland misses 2-pt layup from 2 ft,9:37.0,41-34,Denver,0,0.0
+23803,52,Defensive rebound by G. Antetokounmpo,9:35.0,41-34,Milwaukee,0,0.0
+23804,52,Milwaukee full timeout,9:32.0,41-34,Milwaukee,0,0.0
+23805,52,Instant Replay (Challenge: Ruling Stands),9:32.0,41-34,Milwaukee,0,0.0
+23806,52,G. Antetokounmpo makes 2-pt jump shot from 6 ft,9:32.0,41-36,Milwaukee,0,0.0
+23807,52,J. Holiday enters the game for D. DiVincenzo,9:32.0,41-36,Milwaukee,1,0.0
+23808,52,B. Forbes misses 2-pt jump shot from 18 ft,9:14.0,41-36,Denver,0,0.0
+23809,52,Defensive rebound by Team,9:13.0,41-36,Milwaukee,0,0.0
+23810,52,Shooting foul by J. Green (drawn by G. Antetokounmpo),9:04.0,41-36,Milwaukee,0,0.0
+23811,52,G. Antetokounmpo misses free throw 1 of 2,9:04.0,41-36,Milwaukee,0,0.0
+23812,52,Offensive rebound by Team,9:04.0,41-36,Milwaukee,0,0.0
+23813,52,G. Antetokounmpo makes free throw 2 of 2,9:04.0,41-37,Milwaukee,0,0.0
+23814,52,B. Forbes makes 3-pt jump shot from 23 ft (assist by B. Hyland),8:41.0,44-37,Denver,0,0.0
+23815,52,Def 3 sec tech foul by Team,8:26.0,44-37,Milwaukee,0,0.0
+23816,52,K. Middleton misses technical free throw,8:26.0,44-37,Milwaukee,0,0.0
+23817,52,Offensive rebound by Team,8:26.0,44-37,Milwaukee,0,0.0
+23818,52,Turnover by K. Middleton (bad pass; steal by A. Rivers),8:16.0,44-37,Milwaukee,0,0.0
+23819,52,Turnover by B. Hyland (lost ball; steal by J. Holiday),8:04.0,44-37,Denver,0,0.0
+23820,52,J. Nwora misses 2-pt layup from 2 ft,7:57.0,44-37,Milwaukee,0,0.0
+23821,52,Defensive rebound by A. Rivers,7:54.0,44-37,Denver,0,0.0
+23822,52,A. Rivers misses 3-pt jump shot from 29 ft,7:48.0,44-37,Denver,0,0.0
+23823,52,Defensive rebound by G. Allen,7:44.0,44-37,Milwaukee,0,0.0
+23824,52,J. Holiday makes 3-pt jump shot from 25 ft,7:32.0,44-40,Milwaukee,0,1.0
+23825,52,B. Hyland misses 3-pt jump shot from 32 ft,7:11.0,44-40,Denver,0,1.0
+23826,52,Defensive rebound by J. Holiday,7:08.0,44-40,Milwaukee,0,0.0
+23827,52,Turnover by G. Allen (bad pass; steal by Z. Nnaji),7:00.0,44-40,Milwaukee,0,0.0
+23828,52,Z. Nnaji makes 2-pt layup from 1 ft,6:57.0,46-40,Denver,0,0.0
+23829,52,G. Antetokounmpo makes 2-pt dunk from 1 ft (assist by G. Allen),6:52.0,46-42,Milwaukee,0,0.0
+23830,52,Denver full timeout,6:42.0,46-42,Denver,0,0.0
+23831,52,W. Barton enters the game for B. Forbes,6:42.0,46-42,Denver,0,0.0
+23832,52,N. Jokić enters the game for Z. Nnaji,6:42.0,46-42,Denver,0,0.0
+23833,52,M. Morris enters the game for A. Rivers,6:42.0,46-42,Denver,0,0.0
+23834,52,W. Matthews enters the game for G. Antetokounmpo,6:42.0,46-42,Milwaukee,1,0.0
+23835,52,B. Portis enters the game for J. Nwora,6:42.0,46-42,Milwaukee,1,0.0
+23836,52,Personal foul by W. Matthews (drawn by N. Jokić),6:32.0,46-42,Denver,0,0.0
+23837,52,A. Gordon enters the game for B. Hyland,6:32.0,46-42,Denver,0,0.0
+23838,52,J. Green misses 2-pt jump shot from 12 ft,6:20.0,46-42,Denver,0,0.0
+23839,52,Defensive rebound by K. Middleton,6:18.0,46-42,Milwaukee,0,1.0
+23840,52,B. Portis misses 2-pt jump shot from 17 ft,6:10.0,46-42,Milwaukee,0,0.0
+23841,52,Defensive rebound by J. Green,6:07.0,46-42,Denver,0,0.0
+23842,52,A. Gordon makes 3-pt jump shot from 26 ft (assist by W. Barton),6:04.0,49-42,Denver,0,0.0
+23843,52,Turnover by B. Portis (bad pass),5:46.0,49-42,Milwaukee,0,0.0
+23844,52,J. Green misses 3-pt jump shot from 26 ft,5:24.0,49-42,Denver,0,0.0
+23845,52,Offensive rebound by W. Barton,5:21.0,49-42,Denver,0,0.0
+23846,52,A. Gordon makes 3-pt jump shot from 27 ft (assist by M. Morris),5:17.0,52-42,Denver,0,0.0
+23847,52,J. Holiday makes 2-pt jump shot from 14 ft,5:08.0,52-44,Milwaukee,0,0.0
+23848,52,Shooting foul by A. Gordon (drawn by J. Holiday),5:08.0,52-44,Milwaukee,0,0.0
+23849,52,P. Connaughton enters the game for K. Middleton,5:08.0,52-44,Milwaukee,1,1.0
+23850,52,J. Holiday makes free throw 1 of 1,5:08.0,52-45,Milwaukee,0,1.0
+23851,52,W. Barton makes 2-pt layup from 4 ft (assist by M. Morris),4:48.0,54-45,Denver,0,0.0
+23852,52,J. Holiday makes 2-pt layup from 2 ft,4:26.0,54-47,Milwaukee,0,1.0
+23853,52,A. Gordon misses 3-pt jump shot from 27 ft,4:11.0,54-47,Denver,0,0.0
+23854,52,Defensive rebound by B. Portis,4:08.0,54-47,Milwaukee,0,0.0
+23855,52,B. Portis misses 2-pt jump shot from 21 ft,4:01.0,54-47,Milwaukee,0,0.0
+23856,52,Defensive rebound by N. Jokić,3:58.0,54-47,Denver,0,0.0
+23857,52,A. Gordon misses 2-pt layup from 2 ft,3:54.0,54-47,Denver,0,0.0
+23858,52,Offensive rebound by A. Gordon,3:52.0,54-47,Denver,0,0.0
+23859,52,G. Antetokounmpo enters the game for G. Allen,3:52.0,54-47,Milwaukee,1,0.0
+23860,52,D. DiVincenzo enters the game for W. Matthews,3:52.0,54-47,Milwaukee,1,0.0
+23861,52,Turnover by N. Jokić (out of bounds lost ball),3:47.0,54-47,Denver,0,0.0
+23862,52,W. Matthews enters the game for B. Portis,3:47.0,54-47,Milwaukee,1,0.0
+23863,52,W. Matthews misses 2-pt layup from 1 ft (block by N. Jokić),3:36.0,54-47,Milwaukee,0,0.0
+23864,52,Defensive rebound by N. Jokić,3:35.0,54-47,Denver,0,0.0
+23865,52,Turnover by N. Jokić (lost ball; steal by J. Holiday),3:34.0,54-47,Denver,0,0.0
+23866,52,Shooting foul by N. Jokić (drawn by G. Antetokounmpo),3:28.0,54-47,Milwaukee,0,0.0
+23867,52,G. Antetokounmpo makes free throw 1 of 2,3:28.0,54-48,Milwaukee,0,0.0
+23868,52,G. Antetokounmpo misses free throw 2 of 2,3:28.0,54-48,Milwaukee,0,0.0
+23869,52,Defensive rebound by A. Gordon,3:25.0,54-48,Denver,0,0.0
+23870,52,N. Jokić makes 2-pt jump shot from 9 ft (assist by W. Barton),3:13.0,56-48,Denver,0,0.0
+23871,52,Shooting foul by W. Matthews (drawn by N. Jokić),3:13.0,56-48,Denver,0,0.0
+23872,52,N. Jokić makes free throw 1 of 1,3:13.0,57-48,Denver,0,0.0
+23873,52,J. Holiday makes 2-pt layup from 1 ft,2:54.0,57-50,Milwaukee,0,0.0
+23874,52,A. Gordon misses 2-pt dunk from 2 ft (block by G. Antetokounmpo),2:32.0,57-50,Denver,0,0.0
+23875,52,Defensive rebound by J. Holiday,2:27.0,57-50,Milwaukee,0,0.0
+23876,52,W. Matthews misses 3-pt jump shot from 26 ft,2:24.0,57-50,Milwaukee,0,0.0
+23877,52,Defensive rebound by A. Gordon,2:21.0,57-50,Denver,0,0.0
+23878,52,A. Gordon misses 2-pt layup from 4 ft (block by J. Holiday),2:16.0,57-50,Denver,0,0.0
+23879,52,Offensive rebound by A. Gordon,2:15.0,57-50,Denver,0,0.0
+23880,52,A. Gordon makes 2-pt layup from 1 ft,2:15.0,59-50,Denver,0,0.0
+23881,52,D. DiVincenzo misses 3-pt jump shot from 28 ft,1:58.0,59-50,Milwaukee,0,1.0
+23882,52,Defensive rebound by A. Gordon,1:55.0,59-50,Denver,0,1.0
+23883,52,M. Morris makes 3-pt jump shot from 26 ft (assist by N. Jokić),1:38.0,62-50,Denver,0,0.0
+23884,52,G. Antetokounmpo makes 2-pt jump shot from 20 ft,1:22.0,62-52,Milwaukee,0,0.0
+23885,52,M. Morris misses 3-pt jump shot from 28 ft,1:03.0,62-52,Denver,0,0.0
+23886,52,Defensive rebound by G. Antetokounmpo,1:01.0,62-52,Milwaukee,0,0.0
+23887,52,G. Antetokounmpo makes 3-pt jump shot from 26 ft (assist by W. Matthews),0:50.0,62-55,Milwaukee,0,0.0
+23888,52,W. Barton makes 2-pt jump shot from 13 ft,0:25.0,64-55,Denver,0,0.0
+23889,52,Shooting foul by J. Green (drawn by G. Antetokounmpo),0:08.0,64-55,Milwaukee,0,1.0
+23890,52,G. Antetokounmpo makes free throw 1 of 2,0:08.0,64-56,Milwaukee,0,0.0
+23891,52,T. Antetokounmpo enters the game for J. Holiday,0:08.0,64-56,Milwaukee,1,0.0
+23892,52,B. Portis enters the game for W. Matthews,0:08.0,64-56,Milwaukee,1,0.0
+23893,52,G. Antetokounmpo makes free throw 2 of 2,0:08.0,64-57,Milwaukee,0,0.0
+23894,52,Shooting foul by B. Portis (drawn by W. Barton),0:02.0,64-57,Denver,0,0.0
+23895,52,W. Barton misses free throw 1 of 2,0:02.0,64-57,Denver,0,0.0
+23896,52,Offensive rebound by Team,0:02.0,64-57,Denver,0,0.0
+23897,52,Z. Nnaji enters the game for A. Gordon,0:02.0,64-57,Denver,0,0.0
+23898,52,A. Rivers enters the game for J. Green,0:02.0,64-57,Denver,0,0.0
+23899,52,G. Allen enters the game for T. Antetokounmpo,0:02.0,64-57,Milwaukee,1,0.0
+23900,52,W. Barton makes free throw 2 of 2,0:02.0,65-57,Denver,0,0.0
+23901,52,G. Antetokounmpo misses 3-pt jump shot from 34 ft,0:00.0,65-57,Milwaukee,0,0.0
+23902,52,Offensive rebound by Team,0:00.0,65-57,Milwaukee,0,0.0
+23903,52,N. Jokić makes 2-pt jump shot from 16 ft (assist by M. Morris),11:48.0,67-57,Denver,0,0.0
+23904,52,B. Portis misses 3-pt jump shot from 24 ft,11:35.0,67-57,Milwaukee,0,0.0
+23905,52,Defensive rebound by M. Morris,11:31.0,67-57,Denver,0,0.0
+23906,52,Turnover by J. Green (bad pass; steal by K. Middleton),11:14.0,67-57,Denver,0,0.0
+23907,52,J. Holiday misses 3-pt jump shot from 25 ft,11:07.0,67-57,Milwaukee,0,0.0
+23908,52,Defensive rebound by N. Jokić,11:03.0,67-57,Denver,0,0.0
+23909,52,A. Gordon makes 3-pt jump shot from 23 ft,10:50.0,70-57,Denver,0,0.0
+23910,52,K. Middleton makes 3-pt jump shot from 27 ft (assist by G. Antetokounmpo),10:35.0,70-60,Milwaukee,0,0.0
+23911,52,A. Gordon misses 3-pt jump shot from 27 ft,10:27.0,70-60,Denver,0,0.0
+23912,52,Defensive rebound by G. Antetokounmpo,10:25.0,70-60,Milwaukee,0,0.0
+23913,52,G. Antetokounmpo misses 2-pt jump shot from 12 ft,10:17.0,70-60,Milwaukee,0,0.0
+23914,52,Offensive rebound by G. Antetokounmpo,10:15.0,70-60,Milwaukee,0,0.0
+23915,52,K. Middleton misses 3-pt jump shot from 27 ft,10:12.0,70-60,Milwaukee,0,0.0
+23916,52,Defensive rebound by N. Jokić,10:09.0,70-60,Denver,0,1.0
+23917,52,W. Barton makes 2-pt jump shot from 10 ft (assist by N. Jokić),10:04.0,72-60,Denver,0,0.0
+23918,52,G. Allen makes 2-pt jump shot from 18 ft (assist by K. Middleton),9:50.0,72-62,Milwaukee,0,0.0
+23919,52,J. Green misses 2-pt jump shot from 19 ft,9:29.0,72-62,Denver,0,0.0
+23920,52,Defensive rebound by K. Middleton,9:25.0,72-62,Milwaukee,0,0.0
+23921,52,Turnover by K. Middleton (traveling),9:20.0,72-62,Milwaukee,0,0.0
+23922,52,M. Morris makes 3-pt jump shot from 27 ft (assist by N. Jokić),9:09.0,75-62,Denver,0,0.0
+23923,52,Turnover by J. Holiday (bad pass),8:51.0,75-62,Milwaukee,0,0.0
+23924,52,A. Gordon makes 2-pt dunk from 1 ft (assist by W. Barton),8:27.0,77-62,Denver,0,0.0
+23925,52,Milwaukee full timeout,8:27.0,77-62,Milwaukee,0,0.0
+23926,52,P. Connaughton enters the game for B. Portis,8:27.0,77-62,Milwaukee,1,0.0
+23927,52,G. Antetokounmpo makes 2-pt layup from 2 ft (assist by K. Middleton),8:13.0,77-64,Milwaukee,0,0.0
+23928,52,M. Morris makes 2-pt jump shot from 11 ft (assist by N. Jokić),7:56.0,79-64,Denver,0,0.0
+23929,52,G. Allen misses 2-pt layup from 12 ft (block by W. Barton),7:42.0,79-64,Milwaukee,0,0.0
+23930,52,Offensive rebound by J. Holiday,7:37.0,79-64,Milwaukee,0,0.0
+23931,52,G. Antetokounmpo misses 3-pt jump shot from 27 ft,7:36.0,79-64,Milwaukee,0,0.0
+23932,52,Defensive rebound by N. Jokić,7:32.0,79-64,Denver,0,0.0
+23933,52,J. Green misses 3-pt jump shot from 27 ft,7:18.0,79-64,Denver,0,0.0
+23934,52,Defensive rebound by K. Middleton,7:16.0,79-64,Milwaukee,0,0.0
+23935,52,G. Allen misses 2-pt hook shot from 16 ft,6:57.0,79-64,Milwaukee,0,0.0
+23936,52,Defensive rebound by W. Barton,6:54.0,79-64,Denver,0,0.0
+23937,52,Personal foul by P. Connaughton (drawn by N. Jokić),6:47.0,79-64,Denver,0,0.0
+23938,52,Personal foul by G. Antetokounmpo (drawn by N. Jokić),6:41.0,79-64,Denver,0,0.0
+23939,52,N. Jokić makes 3-pt jump shot from 29 ft (assist by M. Morris),6:34.0,82-64,Denver,0,0.0
+23940,52,G. Antetokounmpo misses 2-pt jump shot from 19 ft,6:13.0,82-64,Milwaukee,0,1.0
+23941,52,Defensive rebound by A. Gordon,6:10.0,82-64,Denver,0,0.0
+23942,52,N. Jokić makes 2-pt layup from 2 ft (assist by W. Barton),6:05.0,84-64,Denver,0,0.0
+23943,52,K. Middleton makes 2-pt jump shot from 14 ft (assist by J. Holiday),5:50.0,84-66,Milwaukee,0,0.0
+23944,52,A. Gordon makes 2-pt jump shot from 18 ft,5:28.0,86-66,Denver,0,0.0
+23945,52,G. Antetokounmpo misses 2-pt jump shot from 6 ft,5:12.0,86-66,Milwaukee,0,0.0
+23946,52,Offensive rebound by G. Antetokounmpo,5:12.0,86-66,Milwaukee,0,1.0
+23947,52,Denver full timeout,5:12.0,86-66,Denver,0,0.0
+23948,52,Instant Replay (Challenge: Ruling Stands),5:12.0,86-66,Denver,0,0.0
+23949,52,A. Rivers enters the game for J. Green,5:12.0,86-66,Denver,0,0.0
+23950,52,B. Portis enters the game for K. Middleton,5:12.0,86-66,Milwaukee,1,0.0
+23951,52,G. Allen misses 3-pt jump shot from 28 ft,4:53.0,86-66,Milwaukee,0,0.0
+23952,52,Defensive rebound by A. Gordon,4:50.0,86-66,Denver,0,0.0
+23953,52,A. Rivers misses 3-pt jump shot from 25 ft,4:37.0,86-66,Denver,0,0.0
+23954,52,Defensive rebound by J. Holiday,4:34.0,86-66,Milwaukee,0,0.0
+23955,52,Def 3 sec tech foul by Team,4:28.0,86-66,Milwaukee,0,0.0
+23956,52,K. Middleton enters the game for G. Antetokounmpo,4:28.0,86-66,Milwaukee,1,0.0
+23957,52,G. Allen makes technical free throw,4:28.0,86-67,Milwaukee,0,0.0
+23958,52,P. Connaughton makes 3-pt jump shot from 23 ft (assist by K. Middleton),4:17.0,86-70,Milwaukee,0,0.0
+23959,52,Turnover by N. Jokić (bad pass; steal by P. Connaughton),3:56.0,86-70,Denver,0,0.0
+23960,52,B. Portis makes 2-pt layup from 1 ft (assist by K. Middleton),3:51.0,86-72,Milwaukee,0,0.0
+23961,52,M. Morris makes 2-pt jump shot from 14 ft,3:25.0,88-72,Denver,0,0.0
+23962,52,J. Holiday makes 2-pt jump shot from 12 ft,3:15.0,88-74,Milwaukee,0,0.0
+23963,52,A. Gordon makes 2-pt dunk at rim (assist by N. Jokić),3:01.0,90-74,Denver,0,0.0
+23964,52,Turnover by J. Holiday (lost ball; steal by A. Gordon),2:50.0,90-74,Milwaukee,0,0.0
+23965,52,W. Barton makes 3-pt jump shot from 27 ft (assist by M. Morris),2:35.0,93-74,Denver,0,0.0
+23966,52,G. Allen misses 3-pt jump shot from 25 ft,2:22.0,93-74,Milwaukee,0,0.0
+23967,52,Defensive rebound by N. Jokić,2:19.0,93-74,Denver,0,0.0
+23968,52,A. Gordon makes 2-pt jump shot from 13 ft,2:11.0,95-74,Denver,0,0.0
+23969,52,K. Middleton makes 2-pt layup from 2 ft,1:58.0,95-76,Milwaukee,0,0.0
+23970,52,W. Barton makes 3-pt jump shot from 26 ft (assist by N. Jokić),1:44.0,98-76,Denver,0,0.0
+23971,52,B. Portis makes 2-pt jump shot from 12 ft (assist by J. Holiday),1:19.0,98-78,Milwaukee,0,0.0
+23972,52,N. Jokić makes 2-pt layup from 1 ft (assist by M. Morris),0:59.0,100-78,Denver,0,0.0
+23973,52,B. Portis makes 3-pt jump shot from 26 ft (assist by J. Holiday),0:42.0,100-81,Milwaukee,0,0.0
+23974,52,A. Rivers makes 3-pt jump shot from 23 ft (assist by N. Jokić),0:22.0,103-81,Denver,0,0.0
+23975,52,Personal foul by A. Rivers (drawn by K. Middleton),0:04.0,103-81,Milwaukee,0,0.0
+23976,52,B. Forbes enters the game for W. Barton,0:04.0,103-81,Denver,0,0.0
+23977,52,J. Green enters the game for N. Jokić,0:04.0,103-81,Denver,0,0.0
+23978,52,B. Hyland enters the game for M. Morris,0:04.0,103-81,Denver,0,0.0
+23979,52,J. Holiday misses 3-pt jump shot from 24 ft,0:03.0,103-81,Milwaukee,0,0.0
+23980,52,Offensive rebound by G. Allen,0:01.0,103-81,Milwaukee,0,0.0
+23981,52,G. Allen misses 2-pt layup at rim,0:00.0,103-81,Milwaukee,0,0.0
+23982,52,Defensive rebound by J. Green,0:00.0,103-81,Denver,0,0.0
+23983,52,Shooting foul by B. Hyland (drawn by D. DiVincenzo),11:40.0,103-81,Milwaukee,0,0.0
+23984,52,D. DiVincenzo makes free throw 1 of 2,11:40.0,103-82,Milwaukee,0,0.0
+23985,52,D. DiVincenzo makes free throw 2 of 2,11:40.0,103-83,Milwaukee,0,0.0
+23986,52,J. Green makes 3-pt jump shot from 23 ft (assist by B. Hyland),11:14.0,106-83,Denver,0,0.0
+23987,52,B. Portis misses 2-pt jump shot from 7 ft,10:49.0,106-83,Milwaukee,0,0.0
+23988,52,Defensive rebound by J. Green,10:46.0,106-83,Denver,0,0.0
+23989,52,A. Rivers makes 3-pt jump shot from 23 ft,10:40.0,109-83,Denver,0,0.0
+23990,52,Shooting foul by J. Green (drawn by G. Antetokounmpo),10:24.0,109-83,Milwaukee,0,0.0
+23991,52,G. Antetokounmpo makes free throw 1 of 2,10:24.0,109-84,Milwaukee,0,1.0
+23992,52,G. Antetokounmpo misses free throw 2 of 2,10:24.0,109-84,Milwaukee,0,0.0
+23993,52,Defensive rebound by B. Hyland,10:21.0,109-84,Denver,0,0.0
+23994,52,B. Forbes misses 3-pt jump shot from 26 ft,10:12.0,109-84,Denver,0,0.0
+23995,52,Defensive rebound by B. Portis,10:08.0,109-84,Milwaukee,0,0.0
+23996,52,G. Antetokounmpo misses 3-pt jump shot from 28 ft,10:03.0,109-84,Milwaukee,0,0.0
+23997,52,Defensive rebound by B. Hyland,9:59.0,109-84,Denver,0,0.0
+23998,52,A. Rivers misses 3-pt jump shot from 28 ft,9:46.0,109-84,Denver,0,0.0
+23999,52,Defensive rebound by D. DiVincenzo,9:43.0,109-84,Milwaukee,0,0.0
+24000,52,Personal foul by A. Rivers (drawn by D. DiVincenzo),9:40.0,109-84,Milwaukee,0,0.0
+24001,52,G. Allen enters the game for B. Portis,9:40.0,109-84,Milwaukee,1,0.0
+24002,52,G. Antetokounmpo makes 2-pt jump shot from 12 ft,9:27.0,109-86,Milwaukee,0,0.0
+24003,52,B. Forbes makes 2-pt jump shot from 4 ft (assist by B. Hyland),9:11.0,111-86,Denver,0,0.0
+24004,52,Shooting foul by Z. Nnaji (drawn by G. Antetokounmpo),8:55.0,111-86,Milwaukee,0,0.0
+24005,52,G. Antetokounmpo makes free throw 1 of 2,8:55.0,111-87,Milwaukee,0,0.0
+24006,52,G. Antetokounmpo makes free throw 2 of 2,8:55.0,111-88,Milwaukee,0,0.0
+24007,52,B. Forbes makes 3-pt jump shot from 27 ft (assist by B. Hyland),8:45.0,114-88,Denver,0,0.0
+24008,52,D. DiVincenzo misses 2-pt jump shot from 20 ft,8:24.0,114-88,Milwaukee,0,0.0
+24009,52,Defensive rebound by J. Green,8:21.0,114-88,Denver,0,0.0
+24010,52,Personal foul by D. DiVincenzo (drawn by Z. Nnaji),8:20.0,114-88,Denver,0,0.0
+24011,52,J. Green misses 3-pt jump shot from 27 ft,8:14.0,114-88,Denver,0,0.0
+24012,52,Defensive rebound by G. Antetokounmpo,8:10.0,114-88,Milwaukee,0,0.0
+24013,52,W. Matthews misses 3-pt jump shot from 23 ft,8:00.0,114-88,Milwaukee,0,0.0
+24014,52,Defensive rebound by B. Hyland,7:57.0,114-88,Denver,0,0.0
+24015,52,Personal foul by W. Matthews (drawn by J. Green),7:57.0,114-88,Denver,0,0.0
+24016,52,B. Hyland misses 2-pt jump shot from 15 ft,7:44.0,114-88,Denver,0,0.0
+24017,52,Defensive rebound by G. Antetokounmpo,7:39.0,114-88,Milwaukee,0,0.0
+24018,52,D. DiVincenzo misses 3-pt jump shot from 24 ft,7:36.0,114-88,Milwaukee,0,0.0
+24019,52,Offensive rebound by W. Matthews,7:34.0,114-88,Milwaukee,0,0.0
+24020,52,Personal foul by Z. Nnaji (drawn by W. Matthews),7:34.0,114-88,Milwaukee,0,0.0
+24021,52,W. Matthews makes free throw 1 of 2,7:34.0,114-89,Milwaukee,0,0.0
+24022,52,W. Matthews makes free throw 2 of 2,7:34.0,114-90,Milwaukee,0,0.0
+24023,52,B. Forbes makes 2-pt jump shot from 22 ft (assist by A. Rivers),7:17.0,116-90,Denver,0,1.0
+24024,52,J. Nwora makes 3-pt jump shot from 25 ft (assist by G. Antetokounmpo),7:03.0,116-93,Milwaukee,0,1.0
+24025,52,B. Forbes makes 2-pt layup from 2 ft,6:46.0,118-93,Denver,0,1.0
+24026,52,D. DiVincenzo misses 3-pt jump shot from 23 ft,6:33.0,118-93,Milwaukee,0,1.0
+24027,52,Defensive rebound by B. Hyland,6:30.0,118-93,Denver,0,0.0
+24028,52,A. Rivers misses 3-pt jump shot from 26 ft,6:05.0,118-93,Denver,0,0.0
+24029,52,Defensive rebound by G. Antetokounmpo,6:02.0,118-93,Milwaukee,0,0.0
+24030,52,G. Antetokounmpo misses 3-pt jump shot from 27 ft,5:56.0,118-93,Milwaukee,0,0.0
+24031,52,Defensive rebound by Team,5:55.0,118-93,Denver,0,0.0
+24032,52,Milwaukee full timeout,5:55.0,118-93,Milwaukee,0,0.0
+24033,52,T. Antetokounmpo enters the game for G. Allen,5:55.0,118-93,Milwaukee,1,0.0
+24034,52,R. Hood enters the game for G. Antetokounmpo,5:55.0,118-93,Milwaukee,1,0.0
+24035,52,S. Ojeleye enters the game for W. Matthews,5:55.0,118-93,Milwaukee,1,0.0
+24036,52,L. Wigginton enters the game for J. Nwora,5:55.0,118-93,Milwaukee,1,0.0
+24037,52,J. Green misses 2-pt jump shot from 12 ft,5:40.0,118-93,Denver,0,0.0
+24038,52,Defensive rebound by S. Ojeleye,5:36.0,118-93,Milwaukee,0,0.0
+24039,52,R. Hood misses 2-pt jump shot from 17 ft,5:18.0,118-93,Milwaukee,0,0.0
+24040,52,Defensive rebound by A. Rivers,5:15.0,118-93,Denver,0,0.0
+24041,52,A. Rivers makes 2-pt layup from 1 ft (assist by J. Green),4:57.0,120-93,Denver,0,1.0
+24042,52,Turnover by L. Wigginton (bad pass),4:39.0,120-93,Milwaukee,0,0.0
+24043,52,B. Hyland makes 2-pt layup from 2 ft,4:26.0,122-93,Denver,0,0.0
+24044,52,L. Wigginton makes 2-pt layup from 2 ft (assist by D. DiVincenzo),4:11.0,122-95,Milwaukee,0,0.0
+24045,52,J. Green makes 2-pt layup at rim (assist by B. Hyland),3:46.0,124-95,Denver,0,0.0
+24046,52,Turnover by D. DiVincenzo (bad pass),3:26.0,124-95,Milwaukee,0,0.0
+24047,52,Denver full timeout,3:26.0,124-95,Denver,0,0.0
+24048,52,F. Campazzo enters the game for J. Green,3:26.0,124-95,Denver,0,0.0
+24049,52,M. Howard enters the game for B. Hyland,3:26.0,124-95,Denver,0,0.0
+24050,52,D. Reed enters the game for A. Rivers,3:26.0,124-95,Denver,0,0.0
+24051,52,S. Mamukelashvili enters the game for D. DiVincenzo,3:26.0,124-95,Milwaukee,1,0.0
+24052,52,B. Forbes misses 2-pt jump shot from 20 ft,3:10.0,124-95,Denver,0,0.0
+24053,52,Offensive rebound by Z. Nnaji,3:08.0,124-95,Denver,0,0.0
+24054,52,Shooting foul by S. Mamukelashvili (drawn by Z. Nnaji),3:08.0,124-95,Denver,0,0.0
+24055,52,Z. Nnaji misses free throw 1 of 2,3:08.0,124-95,Denver,0,0.0
+24056,52,Offensive rebound by Team,3:08.0,124-95,Denver,0,0.0
+24057,52,Z. Nnaji makes free throw 2 of 2,3:08.0,125-95,Denver,0,0.0
+24058,52,L. Wigginton makes 3-pt jump shot from 27 ft (assist by R. Hood),2:50.0,125-98,Milwaukee,0,0.0
+24059,52,Z. Nnaji makes 2-pt layup from 2 ft,2:22.0,127-98,Denver,0,0.0
+24060,52,S. Mamukelashvili misses 3-pt jump shot from 23 ft,2:06.0,127-98,Milwaukee,0,0.0
+24061,52,Defensive rebound by D. Reed,2:03.0,127-98,Denver,0,0.0
+24062,52,D. Reed misses 2-pt jump shot from 7 ft,1:44.0,127-98,Denver,0,0.0
+24063,52,Offensive rebound by Z. Nnaji,1:43.0,127-98,Denver,0,0.0
+24064,52,Turnover by Team (shot clock),1:43.0,127-98,Denver,0,
+24065,52,R. Hood misses 2-pt jump shot from 19 ft,1:29.0,127-98,Milwaukee,0,
+24066,52,Defensive rebound by Z. Nnaji,1:27.0,127-98,Denver,0,
+24067,52,M. Howard makes 3-pt jump shot from 24 ft,1:15.0,130-98,Denver,0,
+24068,52,L. Wigginton makes 2-pt layup from 1 ft (assist by S. Mamukelashvili),0:54.0,130-100,Milwaukee,0,
+24069,52,M. Howard makes 3-pt jump shot from 28 ft (assist by F. Campazzo),0:45.0,133-100,Denver,0,
+24070,52,Turnover by T. Antetokounmpo (lost ball; steal by M. Howard),0:31.0,133-100,Milwaukee,0,
+24071,52,M. Howard misses 2-pt layup from 3 ft (block by T. Antetokounmpo),0:28.0,133-100,Denver,0,
+24072,52,Offensive rebound by Team,0:28.0,133-100,Denver,0,
+24073,52,M. Howard makes 3-pt jump shot from 25 ft (assist by D. Reed),0:22.0,136-100,Denver,0,

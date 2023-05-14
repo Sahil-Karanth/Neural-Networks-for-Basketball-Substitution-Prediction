@@ -1,0 +1,506 @@
+,game number,play,time,score,team,current_sub_status,future_sub_status
+21328,47,Z. Williams misses 3-pt jump shot from 24 ft,11:34.0,0-0,Memphis,0,0.0
+21329,47,Offensive rebound by Team,11:34.0,0-0,Memphis,0,0.0
+21330,47,Turnover by Team (shot clock),11:33.0,0-0,Memphis,0,0.0
+21331,47,G. Hill makes 2-pt layup from 2 ft (assist by G. Antetokounmpo),11:21.0,0-2,Milwaukee,0,0.0
+21332,47,Z. Williams makes 2-pt layup from 4 ft (assist by J. Morant),11:16.0,2-2,Memphis,0,0.0
+21333,47,Shooting foul by G. Allen (drawn by Z. Williams),11:16.0,2-2,Memphis,0,0.0
+21334,47,Z. Williams makes free throw 1 of 1,11:16.0,3-2,Memphis,0,0.0
+21335,47,B. Portis misses 3-pt jump shot from 27 ft,11:00.0,3-2,Milwaukee,0,0.0
+21336,47,Defensive rebound by J. Morant,10:57.0,3-2,Memphis,0,0.0
+21337,47,J. Morant makes 3-pt jump shot from 28 ft (assist by J. Konchar),10:46.0,6-2,Memphis,0,0.0
+21338,47,G. Antetokounmpo misses 2-pt layup from 4 ft (block by J. Jackson),10:30.0,6-2,Milwaukee,0,0.0
+21339,47,Defensive rebound by J. Konchar,10:27.0,6-2,Memphis,0,0.0
+21340,47,Z. Williams makes 2-pt dunk from 5 ft (assist by J. Morant),10:26.0,8-2,Memphis,0,0.0
+21341,47,K. Middleton misses 3-pt jump shot from 27 ft,10:07.0,8-2,Milwaukee,0,0.0
+21342,47,Defensive rebound by J. Konchar,10:04.0,8-2,Memphis,0,0.0
+21343,47,J. Konchar misses 3-pt jump shot from 27 ft,9:59.0,8-2,Memphis,0,0.0
+21344,47,Defensive rebound by G. Antetokounmpo,9:55.0,8-2,Milwaukee,0,0.0
+21345,47,Turnover by G. Antetokounmpo (bad pass),9:48.0,8-2,Milwaukee,0,0.0
+21346,47,J. Jackson misses 3-pt jump shot from 25 ft,9:39.0,8-2,Memphis,0,0.0
+21347,47,Offensive rebound by J. Konchar,9:34.0,8-2,Memphis,0,0.0
+21348,47,J. Konchar makes 2-pt layup at rim,9:34.0,10-2,Memphis,0,0.0
+21349,47,G. Antetokounmpo misses 2-pt jump shot from 16 ft,9:14.0,10-2,Milwaukee,0,0.0
+21350,47,Defensive rebound by J. Jackson,9:10.0,10-2,Memphis,0,0.0
+21351,47,Turnover by S. Adams (bad pass; steal by B. Portis),9:06.0,10-2,Memphis,0,0.0
+21352,47,G. Allen makes 2-pt dunk from 1 ft (assist by B. Portis),9:01.0,10-4,Milwaukee,0,0.0
+21353,47,J. Konchar misses 2-pt jump shot from 12 ft,8:54.0,10-4,Memphis,0,0.0
+21354,47,Defensive rebound by B. Portis,8:52.0,10-4,Milwaukee,0,0.0
+21355,47,Shooting foul by S. Adams (drawn by G. Antetokounmpo),8:48.0,10-4,Milwaukee,0,0.0
+21356,47,G. Antetokounmpo makes free throw 1 of 2,8:48.0,10-5,Milwaukee,0,0.0
+21357,47,G. Antetokounmpo makes free throw 2 of 2,8:48.0,10-6,Milwaukee,0,0.0
+21358,47,J. Morant misses 2-pt jump shot from 12 ft,8:30.0,10-6,Memphis,0,0.0
+21359,47,Defensive rebound by G. Antetokounmpo,8:28.0,10-6,Milwaukee,0,0.0
+21360,47,B. Portis makes 2-pt hook shot from 10 ft,8:17.0,10-8,Milwaukee,0,0.0
+21361,47,J. Morant misses 3-pt jump shot from 27 ft,8:01.0,10-8,Memphis,0,0.0
+21362,47,Defensive rebound by Team,7:58.0,10-8,Milwaukee,0,0.0
+21363,47,B. Portis makes 3-pt jump shot from 23 ft (assist by G. Antetokounmpo),7:41.0,10-11,Milwaukee,0,0.0
+21364,47,Memphis full timeout,7:41.0,10-11,Memphis,0,0.0
+21365,47,Shooting foul by K. Middleton (drawn by S. Adams),7:30.0,10-11,Memphis,0,0.0
+21366,47,S. Adams misses free throw 1 of 2,7:30.0,10-11,Memphis,0,0.0
+21367,47,Offensive rebound by Team,7:30.0,10-11,Memphis,0,0.0
+21368,47,S. Adams misses free throw 2 of 2,7:30.0,10-11,Memphis,0,0.0
+21369,47,Defensive rebound by Team,7:28.0,10-11,Milwaukee,0,0.0
+21370,47,G. Antetokounmpo misses 2-pt layup from 4 ft (block by J. Konchar),7:11.0,10-11,Milwaukee,0,1.0
+21371,47,Offensive rebound by Team,7:07.0,10-11,Milwaukee,0,0.0
+21372,47,Turnover by B. Portis (step out of bounds),7:07.0,10-11,Milwaukee,0,0.0
+21373,47,J. Jackson misses 2-pt jump shot from 11 ft,6:51.0,10-11,Memphis,0,0.0
+21374,47,Defensive rebound by B. Portis,6:48.0,10-11,Milwaukee,0,0.0
+21375,47,G. Antetokounmpo makes 3-pt jump shot from 28 ft (assist by K. Middleton),6:36.0,10-14,Milwaukee,0,1.0
+21376,47,J. Morant makes 3-pt jump shot from 27 ft,6:26.0,13-14,Memphis,0,1.0
+21377,47,G. Antetokounmpo makes 2-pt layup from 2 ft,6:15.0,13-16,Milwaukee,0,0.0
+21378,47,Shooting foul by J. Jackson (drawn by G. Antetokounmpo),6:15.0,13-16,Milwaukee,0,0.0
+21379,47,D. Melton enters the game for J. Konchar,6:15.0,13-16,Memphis,0,0.0
+21380,47,P. Connaughton enters the game for B. Portis,6:15.0,13-16,Milwaukee,1,0.0
+21381,47,G. Antetokounmpo makes free throw 1 of 1,6:15.0,13-17,Milwaukee,0,0.0
+21382,47,J. Jackson misses 2-pt hook shot from 9 ft,6:05.0,13-17,Memphis,0,0.0
+21383,47,Offensive rebound by S. Adams,6:03.0,13-17,Memphis,0,0.0
+21384,47,Z. Williams makes 2-pt dunk from 1 ft (assist by S. Adams),6:00.0,15-17,Memphis,0,0.0
+21385,47,D. DiVincenzo enters the game for G. Allen,6:00.0,15-17,Milwaukee,1,1.0
+21386,47,B. Portis enters the game for K. Middleton,6:00.0,15-17,Milwaukee,1,1.0
+21387,47,Turnover by G. Antetokounmpo (lost ball; steal by S. Adams),5:43.0,15-17,Milwaukee,0,0.0
+21388,47,D. Melton misses 3-pt jump shot from 27 ft,5:38.0,15-17,Memphis,0,0.0
+21389,47,Defensive rebound by G. Antetokounmpo,5:32.0,15-17,Milwaukee,0,0.0
+21390,47,G. Antetokounmpo makes 3-pt jump shot from 28 ft (assist by G. Hill),5:20.0,15-20,Milwaukee,0,0.0
+21391,47,Shooting foul by G. Hill (drawn by J. Morant),5:04.0,15-20,Memphis,0,0.0
+21392,47,J. Morant makes free throw 1 of 2,5:04.0,16-20,Memphis,0,0.0
+21393,47,S. Aldama enters the game for S. Adams,5:04.0,16-20,Memphis,0,0.0
+21394,47,B. Clarke enters the game for J. Jackson,5:04.0,16-20,Memphis,0,0.0
+21395,47,J. Holiday enters the game for G. Antetokounmpo,5:04.0,16-20,Milwaukee,1,0.0
+21396,47,K. Middleton enters the game for G. Hill,5:04.0,16-20,Milwaukee,1,0.0
+21397,47,J. Morant makes free throw 2 of 2,5:04.0,17-20,Memphis,0,0.0
+21398,47,B. Portis misses 2-pt layup from 13 ft (block by B. Clarke),4:44.0,17-20,Milwaukee,0,0.0
+21399,47,Defensive rebound by B. Clarke,4:40.0,17-20,Memphis,0,0.0
+21400,47,D. Melton makes 2-pt layup from 2 ft (assist by B. Clarke),4:38.0,19-20,Memphis,0,0.0
+21401,47,J. Holiday misses 2-pt layup from 2 ft,4:27.0,19-20,Milwaukee,0,0.0
+21402,47,Offensive rebound by B. Portis,4:22.0,19-20,Milwaukee,0,0.0
+21403,47,B. Portis makes 2-pt layup at rim,4:22.0,19-22,Milwaukee,0,0.0
+21404,47,D. Melton misses 3-pt jump shot from 27 ft,4:19.0,19-22,Memphis,0,0.0
+21405,47,Offensive rebound by S. Aldama,4:12.0,19-22,Memphis,0,0.0
+21406,47,S. Aldama makes 2-pt dunk at rim,4:12.0,21-22,Memphis,0,0.0
+21407,47,B. Portis misses 3-pt jump shot from 24 ft,4:06.0,21-22,Milwaukee,0,0.0
+21408,47,Defensive rebound by J. Morant,4:02.0,21-22,Memphis,0,0.0
+21409,47,B. Clarke misses 3-pt jump shot from 24 ft,3:55.0,21-22,Memphis,0,0.0
+21410,47,Defensive rebound by J. Holiday,3:53.0,21-22,Milwaukee,0,0.0
+21411,47,Turnover by J. Holiday (lost ball; steal by B. Clarke),3:49.0,21-22,Milwaukee,0,0.0
+21412,47,S. Aldama makes 2-pt layup from 3 ft,3:44.0,23-22,Memphis,0,1.0
+21413,47,Milwaukee full timeout,3:44.0,23-22,Milwaukee,0,1.0
+21414,47,J. Culver enters the game for Z. Williams,3:44.0,23-22,Memphis,0,0.0
+21415,47,D. DiVincenzo misses 3-pt jump shot from 27 ft,3:23.0,23-22,Milwaukee,0,0.0
+21416,47,Offensive rebound by B. Portis,3:15.0,23-22,Milwaukee,0,0.0
+21417,47,B. Portis makes 2-pt layup at rim,3:15.0,23-24,Milwaukee,0,0.0
+21418,47,B. Clarke makes 2-pt jump shot from 6 ft (assist by J. Culver),3:08.0,25-24,Memphis,0,0.0
+21419,47,Turnover by J. Holiday (lost ball; steal by D. Melton),2:57.0,25-24,Milwaukee,0,0.0
+21420,47,J. Morant makes 3-pt jump shot from 26 ft (assist by J. Culver),2:51.0,28-24,Memphis,0,0.0
+21421,47,P. Connaughton makes 3-pt jump shot from 23 ft (assist by K. Middleton),2:27.0,28-27,Milwaukee,0,0.0
+21422,47,G. Antetokounmpo enters the game for K. Middleton,2:27.0,28-27,Milwaukee,1,0.0
+21423,47,W. Matthews enters the game for B. Portis,2:27.0,28-27,Milwaukee,1,0.0
+21424,47,B. Clarke makes 2-pt jump shot from 10 ft (assist by J. Morant),2:04.0,30-27,Memphis,0,0.0
+21425,47,J. Holiday misses 2-pt jump shot from 9 ft (block by B. Clarke),1:49.0,30-27,Milwaukee,0,0.0
+21426,47,Defensive rebound by Team,1:49.0,30-27,Memphis,0,0.0
+21427,47,D. Melton misses 3-pt jump shot from 26 ft,1:36.0,30-27,Memphis,0,0.0
+21428,47,Defensive rebound by G. Antetokounmpo,1:30.0,30-27,Milwaukee,0,0.0
+21429,47,J. Holiday makes 3-pt jump shot from 26 ft (assist by G. Antetokounmpo),1:27.0,30-30,Milwaukee,0,0.0
+21430,47,J. Morant misses 3-pt jump shot from 26 ft,1:14.0,30-30,Memphis,0,0.0
+21431,47,Defensive rebound by G. Antetokounmpo,1:11.0,30-30,Milwaukee,0,0.0
+21432,47,G. Antetokounmpo makes 2-pt layup from 5 ft,1:03.0,30-32,Milwaukee,0,0.0
+21433,47,S. Aldama misses 3-pt jump shot from 28 ft,0:50.0,30-32,Memphis,0,0.0
+21434,47,Defensive rebound by D. DiVincenzo,0:47.0,30-32,Milwaukee,0,0.0
+21435,47,Personal foul by D. Melton (drawn by D. DiVincenzo),0:41.0,30-32,Milwaukee,0,0.0
+21436,47,J. Jackson enters the game for D. Melton,0:41.0,30-32,Memphis,0,0.0
+21437,47,J. Konchar enters the game for J. Morant,0:41.0,30-32,Memphis,0,0.0
+21438,47,G. Antetokounmpo misses 3-pt jump shot from 27 ft,0:36.0,30-32,Milwaukee,0,0.0
+21439,47,Offensive rebound by D. DiVincenzo,0:34.0,30-32,Milwaukee,0,0.0
+21440,47,P. Connaughton makes 2-pt layup from 3 ft (assist by W. Matthews),0:30.0,30-34,Milwaukee,0,0.0
+21441,47,J. Jackson misses 2-pt hook shot from 3 ft,0:15.0,30-34,Memphis,0,0.0
+21442,47,Defensive rebound by G. Antetokounmpo,0:12.0,30-34,Milwaukee,0,0.0
+21443,47,G. Antetokounmpo makes 2-pt layup from 2 ft,0:03.0,30-36,Milwaukee,0,0.0
+21444,47,J. Konchar misses 3-pt jump shot from 38 ft,0:00.0,30-36,Memphis,0,0.0
+21445,47,Offensive rebound by Team,0:00.0,30-36,Memphis,0,0.0
+21446,47,Turnover by D. DiVincenzo (bad pass; steal by J. Culver),11:49.0,30-36,Milwaukee,0,0.0
+21447,47,J. Jackson makes 2-pt layup from 3 ft (assist by X. Tillman),11:38.0,32-36,Memphis,0,0.0
+21448,47,G. Hill makes 3-pt jump shot from 27 ft (assist by G. Antetokounmpo),11:20.0,32-39,Milwaukee,0,0.0
+21449,47,J. Culver makes 2-pt jump shot from 3 ft,11:08.0,34-39,Memphis,0,0.0
+21450,47,P. Connaughton misses 2-pt jump shot from 2 ft,10:45.0,34-39,Milwaukee,0,0.0
+21451,47,Defensive rebound by S. Aldama,10:42.0,34-39,Memphis,0,0.0
+21452,47,Personal foul by G. Antetokounmpo (drawn by J. Jackson),10:42.0,34-39,Memphis,0,0.0
+21453,47,J. Culver misses 3-pt jump shot from 26 ft,10:38.0,34-39,Memphis,0,0.0
+21454,47,Offensive rebound by J. Jackson,10:35.0,34-39,Memphis,0,0.0
+21455,47,Offensive foul by J. Jackson (drawn by P. Connaughton),10:33.0,34-39,Memphis,0,1.0
+21456,47,Turnover by J. Jackson (offensive foul),10:33.0,34-39,Memphis,0,1.0
+21457,47,Turnover by P. Connaughton (lost ball; steal by J. Culver),10:18.0,34-39,Milwaukee,0,0.0
+21458,47,Violation by Team (kicked ball),10:18.0,34-39,Milwaukee,0,0.0
+21459,47,J. Jackson misses 2-pt layup from 5 ft,10:06.0,34-39,Memphis,0,0.0
+21460,47,Offensive rebound by J. Konchar,10:04.0,34-39,Memphis,0,0.0
+21461,47,S. Aldama misses 2-pt layup from 4 ft,10:02.0,34-39,Memphis,0,0.0
+21462,47,Defensive rebound by D. DiVincenzo,9:59.0,34-39,Milwaukee,0,0.0
+21463,47,G. Hill makes 3-pt jump shot from 25 ft (assist by D. DiVincenzo),9:55.0,34-42,Milwaukee,0,0.0
+21464,47,Memphis full timeout,9:55.0,34-42,Memphis,0,0.0
+21465,47,G. Allen enters the game for P. Connaughton,9:55.0,34-42,Milwaukee,1,0.0
+21466,47,K. Middleton enters the game for D. DiVincenzo,9:55.0,34-42,Milwaukee,1,0.0
+21467,47,J. Culver misses 3-pt jump shot from 26 ft,9:33.0,34-42,Memphis,0,0.0
+21468,47,Defensive rebound by G. Hill,9:31.0,34-42,Milwaukee,0,0.0
+21469,47,K. Middleton makes 2-pt layup from 2 ft (assist by G. Hill),9:30.0,34-44,Milwaukee,0,0.0
+21470,47,Shooting foul by J. Culver (drawn by K. Middleton),9:30.0,34-44,Milwaukee,0,0.0
+21471,47,Z. Williams enters the game for S. Aldama,9:30.0,34-44,Memphis,0,0.0
+21472,47,K. Middleton makes free throw 1 of 1,9:30.0,34-45,Milwaukee,0,1.0
+21473,47,Turnover by J. Jackson (lost ball; steal by G. Antetokounmpo),9:11.0,34-45,Memphis,0,0.0
+21474,47,G. Allen misses 2-pt layup from 1 ft,8:54.0,34-45,Milwaukee,0,0.0
+21475,47,Offensive rebound by G. Antetokounmpo,8:50.0,34-45,Milwaukee,0,0.0
+21476,47,G. Antetokounmpo misses 2-pt layup at rim,8:50.0,34-45,Milwaukee,0,0.0
+21477,47,Defensive rebound by X. Tillman,8:49.0,34-45,Memphis,0,0.0
+21478,47,J. Culver misses 2-pt jump shot from 6 ft,8:33.0,34-45,Memphis,0,0.0
+21479,47,Defensive rebound by G. Antetokounmpo,8:30.0,34-45,Milwaukee,0,0.0
+21480,47,Turnover by G. Antetokounmpo (lost ball; steal by J. Konchar),8:29.0,34-45,Milwaukee,0,0.0
+21481,47,Personal foul by G. Antetokounmpo (drawn by Z. Williams),8:27.0,34-45,Memphis,0,0.0
+21482,47,B. Portis enters the game for G. Antetokounmpo,8:27.0,34-45,Milwaukee,1,0.0
+21483,47,J. Konchar misses 3-pt jump shot from 24 ft,8:18.0,34-45,Memphis,0,0.0
+21484,47,Defensive rebound by K. Middleton,8:14.0,34-45,Milwaukee,0,0.0
+21485,47,K. Middleton makes 2-pt jump shot from 8 ft,8:04.0,34-47,Milwaukee,0,0.0
+21486,47,J. Jackson misses 3-pt jump shot from 26 ft,7:50.0,34-47,Memphis,0,0.0
+21487,47,Defensive rebound by G. Hill,7:47.0,34-47,Milwaukee,0,0.0
+21488,47,Personal foul by J. Culver (drawn by W. Matthews),7:42.0,34-47,Milwaukee,0,0.0
+21489,47,J. Morant enters the game for J. Culver,7:42.0,34-47,Memphis,0,0.0
+21490,47,G. Hill misses 3-pt jump shot from 28 ft,7:34.0,34-47,Milwaukee,0,0.0
+21491,47,Defensive rebound by J. Jackson,7:31.0,34-47,Memphis,0,0.0
+21492,47,X. Tillman makes 2-pt jump shot from 4 ft (assist by J. Morant),7:22.0,36-47,Memphis,0,0.0
+21493,47,K. Middleton misses 2-pt jump shot from 17 ft,7:09.0,36-47,Milwaukee,0,0.0
+21494,47,Offensive rebound by Team,7:09.0,36-47,Milwaukee,0,0.0
+21495,47,W. Matthews makes 3-pt jump shot from 26 ft (assist by K. Middleton),6:56.0,36-50,Milwaukee,0,0.0
+21496,47,Offensive foul by J. Jackson (drawn by W. Matthews),6:52.0,36-50,Memphis,0,0.0
+21497,47,Turnover by J. Jackson (offensive foul),6:52.0,36-50,Memphis,0,0.0
+21498,47,B. Clarke enters the game for J. Jackson,6:52.0,36-50,Memphis,0,0.0
+21499,47,B. Portis misses 2-pt jump shot from 20 ft,6:32.0,36-50,Milwaukee,0,0.0
+21500,47,Defensive rebound by J. Konchar,6:30.0,36-50,Memphis,0,0.0
+21501,47,Z. Williams misses 3-pt jump shot from 28 ft,6:24.0,36-50,Memphis,0,0.0
+21502,47,Defensive rebound by G. Hill,6:21.0,36-50,Milwaukee,0,0.0
+21503,47,G. Allen makes 3-pt jump shot from 27 ft (assist by G. Hill),6:15.0,36-53,Milwaukee,0,0.0
+21504,47,Memphis full timeout,6:15.0,36-53,Memphis,0,1.0
+21505,47,S. Adams enters the game for J. Konchar,6:15.0,36-53,Memphis,0,1.0
+21506,47,D. Melton enters the game for X. Tillman,6:15.0,36-53,Memphis,0,0.0
+21507,47,B. Clarke misses 2-pt jump shot from 8 ft (block by B. Portis),6:04.0,36-53,Memphis,0,0.0
+21508,47,Defensive rebound by Team,6:04.0,36-53,Milwaukee,0,0.0
+21509,47,G. Allen misses 3-pt jump shot from 27 ft,5:49.0,36-53,Milwaukee,0,0.0
+21510,47,Defensive rebound by Team,5:48.0,36-53,Memphis,0,0.0
+21511,47,B. Clarke makes 2-pt dunk from 1 ft (assist by J. Morant),5:40.0,38-53,Memphis,0,0.0
+21512,47,Personal take foul by D. Melton (drawn by G. Hill),5:37.0,38-53,Milwaukee,0,0.0
+21513,47,Memphis full timeout,5:37.0,38-53,Memphis,0,0.0
+21514,47,P. Connaughton enters the game for G. Hill,5:37.0,38-53,Milwaukee,1,0.0
+21515,47,J. Holiday enters the game for W. Matthews,5:37.0,38-53,Milwaukee,1,0.0
+21516,47,K. Middleton misses 2-pt jump shot from 18 ft,5:26.0,38-53,Milwaukee,0,0.0
+21517,47,Defensive rebound by S. Adams,5:21.0,38-53,Memphis,0,0.0
+21518,47,B. Clarke makes 2-pt jump shot from 3 ft (assist by J. Morant),5:08.0,40-53,Memphis,0,0.0
+21519,47,J. Holiday misses 3-pt jump shot from 27 ft,4:59.0,40-53,Milwaukee,0,0.0
+21520,47,Offensive rebound by P. Connaughton,4:57.0,40-53,Milwaukee,0,0.0
+21521,47,Personal foul by D. Melton (drawn by P. Connaughton),4:57.0,40-53,Milwaukee,0,0.0
+21522,47,J. Holiday misses 2-pt jump shot from 12 ft,4:42.0,40-53,Milwaukee,0,0.0
+21523,47,Defensive rebound by S. Adams,4:39.0,40-53,Memphis,0,0.0
+21524,47,J. Morant misses 3-pt jump shot from 27 ft,4:33.0,40-53,Memphis,0,0.0
+21525,47,Offensive rebound by S. Adams,4:29.0,40-53,Memphis,0,0.0
+21526,47,Shooting foul by P. Connaughton (drawn by S. Adams),4:29.0,40-53,Memphis,0,0.0
+21527,47,S. Adams misses free throw 1 of 2,4:29.0,40-53,Memphis,0,0.0
+21528,47,Offensive rebound by Team,4:29.0,40-53,Memphis,0,0.0
+21529,47,S. Adams misses free throw 2 of 2,4:29.0,40-53,Memphis,0,0.0
+21530,47,Defensive rebound by P. Connaughton,4:25.0,40-53,Milwaukee,0,0.0
+21531,47,K. Middleton misses 3-pt jump shot from 23 ft,4:11.0,40-53,Milwaukee,0,1.0
+21532,47,Defensive rebound by J. Morant,4:08.0,40-53,Memphis,0,1.0
+21533,47,Turnover by D. Melton (lost ball; steal by G. Allen),4:03.0,40-53,Memphis,0,1.0
+21534,47,Turnover by K. Middleton (bad pass; steal by Z. Williams),3:58.0,40-53,Milwaukee,0,0.0
+21535,47,D. Melton misses 3-pt jump shot from 23 ft,3:54.0,40-53,Memphis,0,0.0
+21536,47,Defensive rebound by P. Connaughton,3:51.0,40-53,Milwaukee,0,0.0
+21537,47,G. Allen misses 3-pt jump shot from 26 ft,3:31.0,40-53,Milwaukee,0,0.0
+21538,47,Defensive rebound by B. Clarke,3:27.0,40-53,Memphis,0,0.0
+21539,47,B. Clarke misses 2-pt jump shot from 9 ft,3:12.0,40-53,Memphis,0,0.0
+21540,47,Defensive rebound by G. Allen,3:09.0,40-53,Milwaukee,0,0.0
+21541,47,G. Antetokounmpo enters the game for G. Allen,3:09.0,40-53,Milwaukee,1,0.0
+21542,47,D. DiVincenzo enters the game for K. Middleton,3:09.0,40-53,Milwaukee,1,0.0
+21543,47,W. Matthews enters the game for B. Portis,3:09.0,40-53,Milwaukee,1,0.0
+21544,47,G. Antetokounmpo misses 2-pt jump shot from 19 ft,2:58.0,40-53,Milwaukee,0,0.0
+21545,47,Defensive rebound by J. Morant,2:55.0,40-53,Memphis,0,0.0
+21546,47,J. Morant misses 2-pt jump shot from 5 ft,2:51.0,40-53,Memphis,0,0.0
+21547,47,Offensive rebound by J. Morant,2:47.0,40-53,Memphis,0,0.0
+21548,47,J. Morant misses 2-pt layup from 3 ft (block by D. DiVincenzo),2:46.0,40-53,Memphis,0,0.0
+21549,47,Offensive rebound by S. Adams,2:43.0,40-53,Memphis,0,0.0
+21550,47,S. Aldama enters the game for D. Melton,2:43.0,40-53,Memphis,0,0.0
+21551,47,J. Konchar enters the game for Z. Williams,2:43.0,40-53,Memphis,0,0.0
+21552,47,J. Morant misses 2-pt jump shot from 17 ft,2:37.0,40-53,Memphis,0,0.0
+21553,47,Defensive rebound by J. Holiday,2:34.0,40-53,Milwaukee,0,0.0
+21554,47,W. Matthews makes 2-pt layup from 2 ft (assist by J. Holiday),2:19.0,40-55,Milwaukee,0,0.0
+21555,47,J. Morant misses 2-pt jump shot from 9 ft,1:57.0,40-55,Memphis,0,0.0
+21556,47,Offensive rebound by Team,1:54.0,40-55,Memphis,0,0.0
+21557,47,Shooting foul by J. Holiday (drawn by J. Morant),1:48.0,40-55,Memphis,0,0.0
+21558,47,J. Morant makes free throw 1 of 2,1:48.0,41-55,Memphis,0,1.0
+21559,47,J. Morant makes free throw 2 of 2,1:48.0,42-55,Memphis,0,0.0
+21560,47,Turnover by W. Matthews (bad pass; steal by S. Adams),1:28.0,42-55,Milwaukee,0,0.0
+21561,47,Turnover by J. Konchar (bad pass; steal by P. Connaughton),1:26.0,42-55,Memphis,0,0.0
+21562,47,J. Holiday makes 2-pt dunk at rim (assist by G. Antetokounmpo),1:20.0,42-57,Milwaukee,0,0.0
+21563,47,B. Clarke makes 2-pt dunk from 2 ft (assist by J. Morant),1:12.0,44-57,Memphis,0,0.0
+21564,47,G. Antetokounmpo makes 2-pt dunk at rim,0:59.0,44-59,Milwaukee,0,0.0
+21565,47,J. Morant makes 3-pt jump shot from 36 ft (assist by J. Konchar),0:37.0,47-59,Memphis,0,0.0
+21566,47,Offensive foul by G. Antetokounmpo (drawn by S. Adams),0:34.0,47-59,Milwaukee,0,0.0
+21567,47,Turnover by G. Antetokounmpo (offensive foul),0:34.0,47-59,Milwaukee,0,0.0
+21568,47,B. Portis enters the game for G. Antetokounmpo,0:34.0,47-59,Milwaukee,1,0.0
+21569,47,S. Aldama misses 3-pt jump shot from 25 ft,0:15.0,47-59,Memphis,0,0.0
+21570,47,Defensive rebound by J. Holiday,0:11.0,47-59,Milwaukee,0,0.0
+21571,47,Personal foul by J. Morant (drawn by J. Holiday),0:02.0,47-59,Milwaukee,0,0.0
+21572,47,J. Holiday makes free throw 1 of 2,0:02.0,47-60,Milwaukee,0,0.0
+21573,47,J. Holiday makes free throw 2 of 2,0:02.0,47-61,Milwaukee,0,0.0
+21574,47,G. Allen makes 2-pt layup at rim (assist by G. Antetokounmpo),11:46.0,47-63,Milwaukee,0,0.0
+21575,47,J. Jackson makes 2-pt layup from 3 ft (assist by J. Morant),11:23.0,49-63,Memphis,0,0.0
+21576,47,G. Antetokounmpo misses 3-pt jump shot from 27 ft,11:15.0,49-63,Milwaukee,0,0.0
+21577,47,Defensive rebound by Team,11:15.0,49-63,Memphis,0,0.0
+21578,47,Turnover by J. Morant (bad pass; steal by G. Antetokounmpo),11:06.0,49-63,Memphis,0,0.0
+21579,47,G. Antetokounmpo makes 2-pt layup from 2 ft,11:00.0,49-65,Milwaukee,0,0.0
+21580,47,S. Adams misses 2-pt layup from 2 ft,10:46.0,49-65,Memphis,0,0.0
+21581,47,Offensive rebound by S. Adams,10:44.0,49-65,Memphis,0,0.0
+21582,47,S. Adams makes 2-pt layup at rim,10:44.0,51-65,Memphis,0,0.0
+21583,47,Violation by Team (kicked ball),10:37.0,51-65,Memphis,0,0.0
+21584,47,G. Allen misses 3-pt jump shot from 26 ft,10:27.0,51-65,Milwaukee,0,0.0
+21585,47,Defensive rebound by Z. Williams,10:24.0,51-65,Memphis,0,0.0
+21586,47,J. Morant makes 2-pt jump shot from 9 ft,10:14.0,53-65,Memphis,0,0.0
+21587,47,Shooting foul by S. Adams (drawn by G. Allen),10:05.0,53-65,Milwaukee,0,0.0
+21588,47,G. Allen makes free throw 1 of 2,10:05.0,53-66,Milwaukee,0,0.0
+21589,47,G. Allen makes free throw 2 of 2,10:05.0,53-67,Milwaukee,0,0.0
+21590,47,J. Morant makes 2-pt jump shot from 15 ft,9:49.0,55-67,Memphis,0,1.0
+21591,47,K. Middleton makes 2-pt jump shot from 14 ft,9:41.0,55-69,Milwaukee,0,0.0
+21592,47,J. Jackson misses 3-pt jump shot from 26 ft,9:26.0,55-69,Memphis,0,0.0
+21593,47,Defensive rebound by G. Antetokounmpo,9:23.0,55-69,Milwaukee,0,0.0
+21594,47,G. Hill makes 2-pt layup from 2 ft (assist by G. Antetokounmpo),9:20.0,55-71,Milwaukee,0,0.0
+21595,47,Violation by Team (def goaltending),9:20.0,55-71,Memphis,0,0.0
+21596,47,S. Adams makes 2-pt jump shot from 3 ft,9:06.0,57-71,Memphis,0,0.0
+21597,47,G. Antetokounmpo makes 2-pt layup from 1 ft (assist by K. Middleton),8:46.0,57-73,Milwaukee,0,0.0
+21598,47,J. Jackson makes 2-pt layup from 2 ft (assist by J. Morant),8:30.0,59-73,Memphis,0,0.0
+21599,47,Shooting foul by G. Antetokounmpo (drawn by J. Jackson),8:30.0,59-73,Memphis,0,0.0
+21600,47,P. Connaughton enters the game for G. Antetokounmpo,8:30.0,59-73,Milwaukee,1,0.0
+21601,47,J. Jackson makes free throw 1 of 1,8:30.0,60-73,Memphis,0,0.0
+21602,47,K. Middleton misses 3-pt jump shot from 28 ft,8:15.0,60-73,Milwaukee,0,0.0
+21603,47,Defensive rebound by J. Morant,8:12.0,60-73,Memphis,0,0.0
+21604,47,J. Morant makes 2-pt layup from 2 ft,8:06.0,62-73,Memphis,0,0.0
+21605,47,B. Portis makes 3-pt jump shot from 23 ft (assist by P. Connaughton),7:50.0,62-76,Milwaukee,0,0.0
+21606,47,J. Jackson makes 2-pt layup from 1 ft (assist by S. Adams),7:28.0,64-76,Memphis,0,0.0
+21607,47,K. Middleton makes 2-pt layup from 2 ft (assist by G. Hill),7:02.0,64-78,Milwaukee,0,0.0
+21608,47,Personal foul by P. Connaughton (drawn by J. Jackson),6:51.0,64-78,Memphis,0,0.0
+21609,47,Milwaukee full timeout,6:51.0,64-78,Milwaukee,0,0.0
+21610,47,D. Melton enters the game for J. Konchar,6:51.0,64-78,Memphis,0,0.0
+21611,47,J. Jackson makes 2-pt jump shot from 11 ft (assist by J. Morant),6:41.0,66-78,Memphis,0,0.0
+21612,47,K. Middleton makes 2-pt jump shot from 14 ft,6:25.0,66-80,Milwaukee,0,0.0
+21613,47,Shooting foul by J. Morant (drawn by K. Middleton),6:25.0,66-80,Milwaukee,0,0.0
+21614,47,K. Middleton makes free throw 1 of 1,6:25.0,66-81,Milwaukee,0,0.0
+21615,47,S. Adams misses 2-pt jump shot from 13 ft,6:11.0,66-81,Memphis,0,0.0
+21616,47,Defensive rebound by K. Middleton,6:08.0,66-81,Milwaukee,0,0.0
+21617,47,P. Connaughton misses 3-pt jump shot from 23 ft (block by J. Jackson),6:02.0,66-81,Milwaukee,0,0.0
+21618,47,Defensive rebound by D. Melton,5:57.0,66-81,Memphis,0,0.0
+21619,47,Z. Williams misses 3-pt jump shot from 23 ft,5:54.0,66-81,Memphis,0,0.0
+21620,47,Defensive rebound by G. Allen,5:51.0,66-81,Milwaukee,0,0.0
+21621,47,P. Connaughton makes 3-pt jump shot from 26 ft (assist by K. Middleton),5:42.0,66-84,Milwaukee,0,1.0
+21622,47,J. Jackson makes 2-pt hook shot from 10 ft,5:25.0,68-84,Memphis,0,1.0
+21623,47,K. Middleton makes 2-pt jump shot from 14 ft,5:13.0,68-86,Milwaukee,0,0.0
+21624,47,D. Melton makes 3-pt jump shot from 27 ft (assist by J. Morant),4:58.0,71-86,Memphis,0,0.0
+21625,47,G. Allen misses 3-pt jump shot from 26 ft,4:50.0,71-86,Milwaukee,0,0.0
+21626,47,Defensive rebound by J. Jackson,4:47.0,71-86,Memphis,0,0.0
+21627,47,Shooting foul by B. Portis (drawn by J. Jackson),4:35.0,71-86,Memphis,0,0.0
+21628,47,J. Jackson makes free throw 1 of 2,4:35.0,72-86,Memphis,0,0.0
+21629,47,B. Clarke enters the game for S. Adams,4:35.0,72-86,Memphis,0,0.0
+21630,47,J. Culver enters the game for Z. Williams,4:35.0,72-86,Memphis,0,0.0
+21631,47,D. DiVincenzo enters the game for G. Allen,4:35.0,72-86,Milwaukee,1,0.0
+21632,47,J. Holiday enters the game for G. Hill,4:35.0,72-86,Milwaukee,1,0.0
+21633,47,J. Jackson makes free throw 2 of 2,4:35.0,73-86,Memphis,0,0.0
+21634,47,Shooting foul by D. Melton (drawn by J. Holiday),4:28.0,73-86,Milwaukee,0,0.0
+21635,47,J. Holiday makes free throw 1 of 2,4:28.0,73-87,Milwaukee,0,0.0
+21636,47,J. Holiday makes free throw 2 of 2,4:28.0,73-88,Milwaukee,0,0.0
+21637,47,D. Melton misses 3-pt jump shot from 26 ft,4:16.0,73-88,Memphis,0,0.0
+21638,47,Offensive rebound by J. Culver,4:08.0,73-88,Memphis,0,0.0
+21639,47,J. Culver misses 2-pt layup at rim,4:08.0,73-88,Memphis,0,0.0
+21640,47,Offensive rebound by J. Culver,4:07.0,73-88,Memphis,0,0.0
+21641,47,J. Culver misses 2-pt layup from 2 ft (block by K. Middleton),4:06.0,73-88,Memphis,0,1.0
+21642,47,Defensive rebound by K. Middleton,4:06.0,73-88,Milwaukee,0,1.0
+21643,47,J. Holiday misses 2-pt layup from 1 ft,4:02.0,73-88,Milwaukee,0,0.0
+21644,47,Defensive rebound by J. Jackson,3:59.0,73-88,Memphis,0,0.0
+21645,47,J. Morant misses 2-pt layup from 5 ft (block by D. DiVincenzo),3:56.0,73-88,Memphis,0,0.0
+21646,47,Defensive rebound by D. DiVincenzo,3:53.0,73-88,Milwaukee,0,0.0
+21647,47,J. Holiday misses 3-pt jump shot from 25 ft,3:41.0,73-88,Milwaukee,0,0.0
+21648,47,Defensive rebound by J. Jackson,3:38.0,73-88,Memphis,0,0.0
+21649,47,J. Jackson makes 2-pt layup from 2 ft,3:34.0,75-88,Memphis,0,0.0
+21650,47,Shooting foul by J. Holiday (drawn by J. Jackson),3:34.0,75-88,Memphis,0,0.0
+21651,47,G. Antetokounmpo enters the game for K. Middleton,3:34.0,75-88,Milwaukee,1,0.0
+21652,47,W. Matthews enters the game for B. Portis,3:34.0,75-88,Milwaukee,1,0.0
+21653,47,J. Jackson misses free throw 1 of 1,3:34.0,75-88,Memphis,0,0.0
+21654,47,Defensive rebound by G. Antetokounmpo,3:30.0,75-88,Milwaukee,0,0.0
+21655,47,P. Connaughton makes 3-pt jump shot from 27 ft (assist by J. Holiday),3:17.0,75-91,Milwaukee,0,0.0
+21656,47,Personal foul by W. Matthews (drawn by J. Jackson),3:05.0,75-91,Memphis,0,0.0
+21657,47,J. Jackson makes free throw 1 of 2,3:05.0,76-91,Memphis,0,0.0
+21658,47,J. Jackson makes free throw 2 of 2,3:05.0,77-91,Memphis,0,0.0
+21659,47,W. Matthews misses 3-pt jump shot from 24 ft,2:46.0,77-91,Milwaukee,0,0.0
+21660,47,Defensive rebound by J. Jackson,2:43.0,77-91,Memphis,0,0.0
+21661,47,J. Morant makes 2-pt layup from 2 ft (assist by J. Jackson),2:41.0,79-91,Memphis,0,0.0
+21662,47,G. Antetokounmpo makes 2-pt layup from 1 ft (assist by D. DiVincenzo),2:33.0,79-93,Milwaukee,0,0.0
+21663,47,Shooting foul by J. Jackson (drawn by G. Antetokounmpo),2:33.0,79-93,Milwaukee,0,0.0
+21664,47,Memphis full timeout,2:33.0,79-93,Memphis,0,0.0
+21665,47,S. Adams enters the game for J. Jackson,2:33.0,79-93,Memphis,0,0.0
+21666,47,G. Antetokounmpo makes free throw 1 of 1,2:33.0,79-94,Milwaukee,0,0.0
+21667,47,J. Culver makes 3-pt jump shot from 27 ft,2:21.0,82-94,Memphis,0,0.0
+21668,47,G. Antetokounmpo misses 2-pt layup from 3 ft,1:57.0,82-94,Milwaukee,0,0.0
+21669,47,Defensive rebound by Team,1:57.0,82-94,Memphis,0,0.0
+21670,47,J. Morant makes 2-pt jump shot from 13 ft,1:46.0,84-94,Memphis,0,0.0
+21671,47,P. Connaughton misses 3-pt jump shot from 25 ft,1:29.0,84-94,Milwaukee,0,0.0
+21672,47,Offensive rebound by J. Holiday,1:26.0,84-94,Milwaukee,0,0.0
+21673,47,Turnover by J. Holiday (bad pass; steal by D. Melton),1:24.0,84-94,Milwaukee,0,0.0
+21674,47,J. Morant misses 3-pt jump shot from 26 ft,1:18.0,84-94,Memphis,0,0.0
+21675,47,Defensive rebound by W. Matthews,1:15.0,84-94,Milwaukee,0,0.0
+21676,47,G. Antetokounmpo misses 2-pt layup from 6 ft,1:08.0,84-94,Milwaukee,0,0.0
+21677,47,Offensive rebound by G. Antetokounmpo,1:08.0,84-94,Milwaukee,0,0.0
+21678,47,W. Matthews misses 3-pt jump shot from 26 ft,0:57.0,84-94,Milwaukee,0,0.0
+21679,47,Offensive rebound by J. Holiday,0:55.0,84-94,Milwaukee,0,0.0
+21680,47,D. DiVincenzo misses 3-pt jump shot from 27 ft,0:51.0,84-94,Milwaukee,0,0.0
+21681,47,Offensive rebound by P. Connaughton,0:51.0,84-94,Milwaukee,0,0.0
+21682,47,P. Connaughton makes 2-pt layup at rim,0:48.0,84-96,Milwaukee,0,0.0
+21683,47,J. Morant makes 2-pt jump shot from 9 ft,0:32.0,86-96,Memphis,0,0.0
+21684,47,Shooting foul by J. Holiday (drawn by J. Morant),0:32.0,86-96,Memphis,0,0.0
+21685,47,Milwaukee full timeout,0:32.0,86-96,Milwaukee,0,0.0
+21686,47,J. Morant makes free throw 1 of 1,0:32.0,87-96,Memphis,0,0.0
+21687,47,D. DiVincenzo misses 2-pt layup from 2 ft,0:26.0,87-96,Milwaukee,0,0.0
+21688,47,Defensive rebound by J. Morant,0:23.0,87-96,Memphis,0,0.0
+21689,47,J. Morant misses 2-pt jump shot from 16 ft,0:07.0,87-96,Memphis,0,0.0
+21690,47,Offensive rebound by S. Adams,0:04.0,87-96,Memphis,0,0.0
+21691,47,S. Adams misses 2-pt layup from 3 ft (block by G. Antetokounmpo),0:03.0,87-96,Memphis,0,0.0
+21692,47,Defensive rebound by D. DiVincenzo,0:00.0,87-96,Milwaukee,0,0.0
+21693,47,S. Aldama makes 2-pt jump shot from 12 ft (assist by D. Melton),11:40.0,89-96,Memphis,0,0.0
+21694,47,Personal foul by J. Culver (drawn by G. Antetokounmpo),11:30.0,89-96,Milwaukee,0,0.0
+21695,47,D. DiVincenzo misses 2-pt layup from 6 ft (block by J. Konchar),11:23.0,89-96,Milwaukee,0,0.0
+21696,47,Defensive rebound by Team,11:23.0,89-96,Memphis,0,0.0
+21697,47,Shooting foul by D. DiVincenzo (drawn by D. Melton),11:08.0,89-96,Memphis,0,0.0
+21698,47,D. Melton misses free throw 1 of 2,11:08.0,89-96,Memphis,0,0.0
+21699,47,Offensive rebound by Team,11:08.0,89-96,Memphis,0,0.0
+21700,47,D. Melton misses free throw 2 of 2,11:08.0,89-96,Memphis,0,0.0
+21701,47,Offensive rebound by S. Adams,11:07.0,89-96,Memphis,0,0.0
+21702,47,S. Adams misses 2-pt layup at rim,11:07.0,89-96,Memphis,0,0.0
+21703,47,Defensive rebound by G. Hill,11:05.0,89-96,Milwaukee,0,0.0
+21704,47,W. Matthews makes 2-pt layup from 3 ft (assist by G. Hill),10:53.0,89-98,Milwaukee,0,0.0
+21705,47,Turnover by J. Culver (bad pass; steal by D. DiVincenzo),10:43.0,89-98,Memphis,0,0.0
+21706,47,G. Hill makes 2-pt layup from 2 ft (assist by K. Middleton),10:39.0,89-100,Milwaukee,0,0.0
+21707,47,Memphis full timeout,10:39.0,89-100,Memphis,0,0.0
+21708,47,Z. Williams enters the game for D. Melton,10:39.0,89-100,Memphis,0,0.0
+21709,47,S. Aldama misses 3-pt jump shot from 27 ft,10:20.0,89-100,Memphis,0,0.0
+21710,47,Defensive rebound by Team,10:20.0,89-100,Milwaukee,0,0.0
+21711,47,D. DiVincenzo misses 3-pt jump shot from 26 ft,10:04.0,89-100,Milwaukee,0,0.0
+21712,47,Defensive rebound by S. Adams,10:01.0,89-100,Memphis,0,0.0
+21713,47,J. Konchar makes 2-pt layup from 3 ft (assist by Z. Williams),9:55.0,91-100,Memphis,0,0.0
+21714,47,K. Middleton makes 2-pt jump shot from 10 ft,9:41.0,91-102,Milwaukee,0,0.0
+21715,47,Z. Williams misses 3-pt jump shot from 27 ft,9:31.0,91-102,Memphis,0,0.0
+21716,47,Defensive rebound by G. Antetokounmpo,9:26.0,91-102,Milwaukee,0,0.0
+21717,47,G. Antetokounmpo misses 2-pt jump shot from 15 ft,9:20.0,91-102,Milwaukee,0,0.0
+21718,47,Defensive rebound by S. Aldama,9:18.0,91-102,Memphis,0,1.0
+21719,47,J. Culver misses 2-pt jump shot from 17 ft,9:06.0,91-102,Memphis,0,0.0
+21720,47,Offensive rebound by S. Adams,9:05.0,91-102,Memphis,0,0.0
+21721,47,S. Adams misses 2-pt layup at rim,9:03.0,91-102,Memphis,0,0.0
+21722,47,Offensive rebound by S. Adams,9:02.0,91-102,Memphis,0,0.0
+21723,47,S. Adams misses 2-pt layup at rim,9:01.0,91-102,Memphis,0,0.0
+21724,47,Offensive rebound by Team,9:01.0,91-102,Memphis,0,0.0
+21725,47,Loose ball foul by W. Matthews (drawn by S. Aldama),9:01.0,91-102,Milwaukee,0,1.0
+21726,47,B. Clarke enters the game for S. Adams,9:01.0,91-102,Memphis,0,0.0
+21727,47,J. Jackson enters the game for S. Aldama,9:01.0,91-102,Memphis,0,0.0
+21728,47,G. Allen enters the game for D. DiVincenzo,9:01.0,91-102,Milwaukee,1,0.0
+21729,47,J. Jackson misses 2-pt hook shot at rim,8:59.0,91-102,Memphis,0,0.0
+21730,47,Defensive rebound by G. Antetokounmpo,8:58.0,91-102,Milwaukee,0,0.0
+21731,47,G. Antetokounmpo misses 2-pt layup from 3 ft,8:50.0,91-102,Milwaukee,0,0.0
+21732,47,Defensive rebound by J. Konchar,8:49.0,91-102,Memphis,0,0.0
+21733,47,J. Konchar makes 2-pt layup from 2 ft,8:41.0,93-102,Memphis,0,0.0
+21734,47,Milwaukee full timeout,8:35.0,93-102,Milwaukee,0,0.0
+21735,47,B. Portis enters the game for W. Matthews,8:35.0,93-102,Milwaukee,1,0.0
+21736,47,G. Hill misses 3-pt jump shot from 24 ft,8:20.0,93-102,Milwaukee,0,0.0
+21737,47,Offensive rebound by G. Allen,8:20.0,93-102,Milwaukee,0,1.0
+21738,47,Shooting foul by J. Culver (drawn by G. Antetokounmpo),8:20.0,93-102,Milwaukee,0,0.0
+21739,47,G. Antetokounmpo makes free throw 1 of 2,8:20.0,93-103,Milwaukee,0,0.0
+21740,47,J. Morant enters the game for J. Culver,8:20.0,93-103,Memphis,0,0.0
+21741,47,G. Antetokounmpo misses free throw 2 of 2,8:20.0,93-103,Milwaukee,0,0.0
+21742,47,Defensive rebound by J. Konchar,8:17.0,93-103,Memphis,0,0.0
+21743,47,J. Jackson misses 2-pt layup from 7 ft,8:04.0,93-103,Memphis,0,0.0
+21744,47,Defensive rebound by G. Hill,8:01.0,93-103,Milwaukee,0,0.0
+21745,47,G. Antetokounmpo misses 2-pt jump shot from 16 ft,7:50.0,93-103,Milwaukee,0,0.0
+21746,47,Defensive rebound by Team,7:47.0,93-103,Memphis,0,0.0
+21747,47,P. Connaughton enters the game for G. Antetokounmpo,7:47.0,93-103,Milwaukee,1,0.0
+21748,47,Z. Williams misses 2-pt jump shot from 6 ft,7:38.0,93-103,Memphis,0,0.0
+21749,47,Defensive rebound by K. Middleton,7:36.0,93-103,Milwaukee,0,0.0
+21750,47,Shooting foul by J. Konchar (drawn by K. Middleton),7:32.0,93-103,Milwaukee,0,0.0
+21751,47,K. Middleton makes free throw 1 of 2,7:32.0,93-104,Milwaukee,0,1.0
+21752,47,K. Middleton makes free throw 2 of 2,7:32.0,93-105,Milwaukee,0,0.0
+21753,47,J. Jackson misses 3-pt jump shot from 23 ft,7:18.0,93-105,Memphis,0,0.0
+21754,47,Defensive rebound by B. Portis,7:18.0,93-105,Milwaukee,0,0.0
+21755,47,K. Middleton makes 3-pt jump shot from 23 ft (assist by G. Hill),6:58.0,93-108,Milwaukee,0,0.0
+21756,47,J. Jackson misses 2-pt jump shot from 9 ft,6:40.0,93-108,Memphis,0,0.0
+21757,47,Defensive rebound by B. Portis,6:38.0,93-108,Milwaukee,0,0.0
+21758,47,Turnover by B. Portis (lost ball; steal by B. Clarke),6:37.0,93-108,Milwaukee,0,0.0
+21759,47,Shooting foul by B. Portis (drawn by J. Jackson),6:36.0,93-108,Memphis,0,0.0
+21760,47,J. Jackson makes free throw 1 of 2,6:36.0,94-108,Memphis,0,0.0
+21761,47,J. Holiday enters the game for G. Hill,6:36.0,94-108,Milwaukee,1,0.0
+21762,47,J. Jackson makes free throw 2 of 2,6:36.0,95-108,Memphis,0,0.0
+21763,47,K. Middleton makes 2-pt jump shot from 15 ft (assist by J. Holiday),6:15.0,95-110,Milwaukee,0,0.0
+21764,47,J. Konchar misses 3-pt jump shot from 24 ft,6:05.0,95-110,Memphis,0,0.0
+21765,47,Defensive rebound by K. Middleton,6:02.0,95-110,Milwaukee,0,0.0
+21766,47,K. Middleton misses 3-pt jump shot from 27 ft,5:57.0,95-110,Milwaukee,0,0.0
+21767,47,Defensive rebound by J. Jackson,5:57.0,95-110,Memphis,0,0.0
+21768,47,J. Jackson makes 3-pt jump shot from 29 ft (assist by J. Morant),5:48.0,98-110,Memphis,0,0.0
+21769,47,P. Connaughton misses 2-pt layup from 6 ft (block by J. Jackson),5:21.0,98-110,Milwaukee,0,0.0
+21770,47,Defensive rebound by J. Jackson,5:17.0,98-110,Memphis,0,1.0
+21771,47,J. Morant misses 3-pt jump shot from 27 ft,5:08.0,98-110,Memphis,0,0.0
+21772,47,Defensive rebound by K. Middleton,5:04.0,98-110,Milwaukee,0,0.0
+21773,47,B. Portis misses 2-pt layup from 5 ft,5:02.0,98-110,Milwaukee,0,0.0
+21774,47,Offensive rebound by B. Portis,5:00.0,98-110,Milwaukee,0,0.0
+21775,47,B. Portis misses 2-pt tip-in from 2 ft,5:00.0,98-110,Milwaukee,0,0.0
+21776,47,Offensive rebound by B. Portis,4:59.0,98-110,Milwaukee,0,0.0
+21777,47,B. Portis makes 2-pt layup at rim,4:58.0,98-112,Milwaukee,0,0.0
+21778,47,Shooting foul by K. Middleton (drawn by J. Jackson),4:40.0,98-112,Memphis,0,1.0
+21779,47,J. Jackson makes free throw 1 of 2,4:40.0,99-112,Memphis,0,0.0
+21780,47,G. Antetokounmpo enters the game for P. Connaughton,4:40.0,99-112,Milwaukee,1,0.0
+21781,47,J. Jackson makes free throw 2 of 2,4:40.0,100-112,Memphis,0,0.0
+21782,47,Turnover by G. Allen (bad pass),4:28.0,100-112,Milwaukee,0,1.0
+21783,47,J. Jackson makes 3-pt jump shot from 27 ft (assist by J. Morant),4:17.0,103-112,Memphis,0,0.0
+21784,47,G. Antetokounmpo misses 2-pt layup from 3 ft (block by J. Jackson),4:02.0,103-112,Milwaukee,0,0.0
+21785,47,Offensive rebound by G. Antetokounmpo,4:01.0,103-112,Milwaukee,0,0.0
+21786,47,Shooting foul by J. Morant (drawn by G. Antetokounmpo),4:00.0,103-112,Milwaukee,0,0.0
+21787,47,G. Antetokounmpo makes free throw 1 of 2,4:00.0,103-113,Milwaukee,0,0.0
+21788,47,G. Hill enters the game for K. Middleton,4:00.0,103-113,Milwaukee,1,0.0
+21789,47,G. Antetokounmpo makes free throw 2 of 2,4:00.0,103-114,Milwaukee,0,0.0
+21790,47,Turnover by J. Jackson (bad pass; steal by G. Hill),3:37.0,103-114,Memphis,0,0.0
+21791,47,Milwaukee full timeout,3:34.0,103-114,Milwaukee,0,0.0
+21792,47,K. Middleton enters the game for G. Allen,3:34.0,103-114,Milwaukee,1,0.0
+21793,47,K. Middleton misses 3-pt jump shot from 26 ft,3:23.0,103-114,Milwaukee,0,0.0
+21794,47,Defensive rebound by B. Clarke,3:20.0,103-114,Memphis,0,0.0
+21795,47,Z. Williams makes 3-pt jump shot from 23 ft (assist by J. Konchar),3:15.0,106-114,Memphis,0,0.0
+21796,47,Offensive foul by G. Antetokounmpo (drawn by Z. Williams),3:02.0,106-114,Milwaukee,0,0.0
+21797,47,Turnover by G. Antetokounmpo (offensive foul),3:02.0,106-114,Milwaukee,0,0.0
+21798,47,B. Clarke makes 2-pt layup from 3 ft (assist by J. Morant),2:54.0,108-114,Memphis,0,0.0
+21799,47,Shooting foul by K. Middleton (drawn by B. Clarke),2:54.0,108-114,Memphis,0,0.0
+21800,47,B. Clarke makes free throw 1 of 1,2:54.0,109-114,Memphis,0,0.0
+21801,47,K. Middleton misses 2-pt layup from 6 ft,2:38.0,109-114,Milwaukee,0,0.0
+21802,47,Defensive rebound by J. Morant,2:36.0,109-114,Memphis,0,0.0
+21803,47,J. Morant makes 2-pt layup from 9 ft,2:32.0,111-114,Memphis,0,0.0
+21804,47,Personal foul by Z. Williams (drawn by G. Hill),2:20.0,111-114,Milwaukee,0,0.0
+21805,47,G. Hill makes free throw 1 of 2,2:20.0,111-115,Milwaukee,0,0.0
+21806,47,G. Hill makes free throw 2 of 2,2:20.0,111-116,Milwaukee,0,0.0
+21807,47,Z. Williams misses 3-pt jump shot from 24 ft,2:08.0,111-116,Memphis,0,0.0
+21808,47,Defensive rebound by K. Middleton,2:03.0,111-116,Milwaukee,0,0.0
+21809,47,G. Antetokounmpo makes 2-pt dunk at rim (assist by J. Holiday),1:55.0,111-118,Milwaukee,0,0.0
+21810,47,Memphis full timeout,1:55.0,111-118,Memphis,0,0.0
+21811,47,J. Morant misses 2-pt layup from 7 ft,1:40.0,111-118,Memphis,0,0.0
+21812,47,Defensive rebound by G. Antetokounmpo,1:38.0,111-118,Milwaukee,0,0.0
+21813,47,G. Antetokounmpo makes 2-pt hook shot from 11 ft (assist by K. Middleton),1:24.0,111-120,Milwaukee,0,0.0
+21814,47,Z. Williams misses 3-pt jump shot from 29 ft,1:17.0,111-120,Memphis,0,0.0
+21815,47,Defensive rebound by B. Portis,1:12.0,111-120,Milwaukee,0,0.0
+21816,47,G. Antetokounmpo makes 2-pt jump shot from 14 ft,0:48.0,111-122,Milwaukee,0,0.0
+21817,47,J. Morant misses 3-pt jump shot from 27 ft,0:39.0,111-122,Memphis,0,0.0
+21818,47,Offensive rebound by B. Clarke,0:39.0,111-122,Memphis,0,0.0
+21819,47,Shooting foul by G. Antetokounmpo (drawn by B. Clarke),0:39.0,111-122,Memphis,0,1.0
+21820,47,Milwaukee full timeout,0:39.0,111-122,Milwaukee,0,0.0
+21821,47,Instant Replay (Challenge: Ruling Stands),0:39.0,111-122,Milwaukee,0,0.0
+21822,47,B. Clarke makes free throw 1 of 2,0:39.0,112-122,Memphis,0,0.0
+21823,47,B. Clarke misses free throw 2 of 2,0:39.0,112-122,Memphis,0,
+21824,47,Defensive rebound by B. Portis,0:39.0,112-122,Milwaukee,0,
+21825,47,K. Middleton makes 2-pt jump shot from 2 ft,0:21.0,112-124,Milwaukee,0,
+21826,47,J. Morant makes 2-pt layup from 4 ft,0:14.0,114-124,Memphis,0,
+21827,47,Personal take foul by J. Jackson (drawn by K. Middleton),0:10.0,114-124,Milwaukee,0,
+21828,47,K. Middleton makes free throw 1 of 2,0:10.0,114-125,Milwaukee,0,
+21829,47,P. Connaughton enters the game for J. Holiday,0:10.0,114-125,Milwaukee,1,
+21830,47,K. Middleton makes free throw 2 of 2,0:10.0,114-126,Milwaukee,0,
+21831,47,J. Morant misses 2-pt layup from 2 ft (block by B. Portis),0:03.0,114-126,Memphis,0,
+21832,47,Defensive rebound by G. Hill,0:03.0,114-126,Milwaukee,0,

@@ -1,0 +1,434 @@
+,game number,play,time,score,team,current_sub_status,future_sub_status
+2892,7,G. Hill misses 2-pt jump shot from 15 ft,11:32.0,0-0,Milwaukee,0,0.0
+2893,7,Defensive rebound by R. Gobert,11:29.0,0-0,Utah,0,0.0
+2894,7,D. Mitchell makes 3-pt jump shot from 28 ft,11:14.0,3-0,Utah,0,0.0
+2895,7,T. Antetokounmpo misses 2-pt layup from 5 ft (block by R. Gobert),10:59.0,3-0,Milwaukee,0,0.0
+2896,7,Defensive rebound by D. Mitchell,10:59.0,3-0,Utah,0,0.0
+2897,7,R. O'Neale makes 3-pt jump shot from 24 ft (assist by B. Bogdanović),10:47.0,6-0,Utah,0,0.0
+2898,7,G. Allen makes 3-pt jump shot from 27 ft,10:30.0,6-3,Milwaukee,0,0.0
+2899,7,Turnover by D. Mitchell (bad pass; steal by G. Antetokounmpo),10:02.0,6-3,Utah,0,0.0
+2900,7,Personal take foul by B. Bogdanović (drawn by G. Antetokounmpo),10:02.0,6-3,Milwaukee,0,0.0
+2901,7,G. Allen makes 3-pt jump shot from 27 ft (assist by G. Hill),9:55.0,6-6,Milwaukee,0,0.0
+2902,7,M. Conley makes 3-pt jump shot from 27 ft,9:41.0,9-6,Utah,0,0.0
+2903,7,G. Antetokounmpo misses 3-pt jump shot from 26 ft,9:20.0,9-6,Milwaukee,0,0.0
+2904,7,Offensive rebound by T. Antetokounmpo,9:16.0,9-6,Milwaukee,0,0.0
+2905,7,G. Antetokounmpo makes 2-pt jump shot from 14 ft,9:08.0,9-8,Milwaukee,0,0.0
+2906,7,M. Conley makes 3-pt jump shot from 27 ft,8:44.0,12-8,Utah,0,0.0
+2907,7,G. Antetokounmpo makes 2-pt jump shot from 19 ft,8:28.0,12-10,Milwaukee,0,0.0
+2908,7,Violation by Team (delay of game),8:28.0,12-10,Milwaukee,0,1.0
+2909,7,R. Gobert misses 2-pt dunk from 6 ft (block by G. Antetokounmpo),8:12.0,12-10,Utah,0,0.0
+2910,7,Defensive rebound by G. Hill,8:09.0,12-10,Milwaukee,0,0.0
+2911,7,T. Antetokounmpo makes 2-pt layup from 2 ft (assist by G. Hill),8:06.0,12-12,Milwaukee,0,0.0
+2912,7,D. Mitchell makes 3-pt jump shot from 28 ft,7:54.0,15-12,Utah,0,0.0
+2913,7,T. Antetokounmpo misses 2-pt layup from 2 ft,7:39.0,15-12,Milwaukee,0,0.0
+2914,7,Offensive rebound by T. Antetokounmpo,7:32.0,15-12,Milwaukee,0,0.0
+2915,7,T. Antetokounmpo makes 2-pt layup at rim,7:32.0,15-14,Milwaukee,0,0.0
+2916,7,B. Bogdanović makes 2-pt layup from 2 ft (assist by R. O'Neale),7:12.0,17-14,Utah,0,0.0
+2917,7,Shooting foul by T. Antetokounmpo (drawn by B. Bogdanović),7:12.0,17-14,Utah,0,0.0
+2918,7,B. Portis enters the game for T. Antetokounmpo,7:12.0,17-14,Milwaukee,1,0.0
+2919,7,B. Bogdanović makes free throw 1 of 1,7:12.0,18-14,Utah,0,0.0
+2920,7,Milwaukee full timeout,7:08.0,18-14,Milwaukee,0,0.0
+2921,7,B. Portis misses 3-pt jump shot from 23 ft,6:51.0,18-14,Milwaukee,0,0.0
+2922,7,Defensive rebound by M. Conley,6:47.0,18-14,Utah,0,0.0
+2923,7,B. Bogdanović misses 3-pt jump shot from 24 ft,6:40.0,18-14,Utah,0,0.0
+2924,7,Defensive rebound by G. Antetokounmpo,6:35.0,18-14,Milwaukee,0,0.0
+2925,7,G. Allen misses 3-pt jump shot from 26 ft,6:23.0,18-14,Milwaukee,0,0.0
+2926,7,Offensive rebound by B. Portis,6:20.0,18-14,Milwaukee,0,0.0
+2927,7,G. Hill makes 3-pt jump shot from 24 ft (assist by B. Portis),6:17.0,18-17,Milwaukee,0,0.0
+2928,7,R. Gobert makes 2-pt dunk from 2 ft (assist by M. Conley),5:51.0,20-17,Utah,0,0.0
+2929,7,P. Connaughton misses 3-pt jump shot from 26 ft,5:35.0,20-17,Milwaukee,0,0.0
+2930,7,Defensive rebound by R. Gobert,5:32.0,20-17,Utah,0,0.0
+2931,7,D. Mitchell makes 3-pt jump shot from 27 ft (assist by R. O'Neale),5:25.0,23-17,Utah,0,1.0
+2932,7,B. Portis makes 2-pt jump shot from 13 ft (assist by G. Antetokounmpo),5:06.0,23-19,Milwaukee,0,1.0
+2933,7,M. Conley misses 2-pt layup from 1 ft,4:53.0,23-19,Utah,0,1.0
+2934,7,Defensive rebound by G. Hill,4:52.0,23-19,Milwaukee,0,1.0
+2935,7,G. Antetokounmpo misses 3-pt jump shot from 26 ft,4:36.0,23-19,Milwaukee,0,0.0
+2936,7,Offensive rebound by P. Connaughton,4:35.0,23-19,Milwaukee,0,0.0
+2937,7,G. Antetokounmpo makes 2-pt dunk from 2 ft (assist by P. Connaughton),4:35.0,23-21,Milwaukee,0,0.0
+2938,7,Utah full timeout,4:35.0,23-21,Utah,0,0.0
+2939,7,J. Ingles enters the game for M. Conley,4:35.0,23-21,Utah,0,0.0
+2940,7,H. Whiteside enters the game for R. Gobert,4:35.0,23-21,Utah,0,0.0
+2941,7,T. Antetokounmpo enters the game for G. Allen,4:35.0,23-21,Milwaukee,1,0.0
+2942,7,R. Hood enters the game for G. Antetokounmpo,4:35.0,23-21,Milwaukee,1,0.0
+2943,7,J. Nwora enters the game for P. Connaughton,4:35.0,23-21,Milwaukee,1,0.0
+2944,7,J. Robinson enters the game for G. Hill,4:35.0,23-21,Milwaukee,1,0.0
+2945,7,B. Bogdanović misses 2-pt jump shot from 11 ft,4:14.0,23-21,Utah,0,0.0
+2946,7,Offensive rebound by H. Whiteside,4:10.0,23-21,Utah,0,0.0
+2947,7,H. Whiteside makes 2-pt layup at rim,4:10.0,25-21,Utah,0,0.0
+2948,7,Turnover by J. Robinson (bad pass; steal by R. O'Neale),3:58.0,25-21,Milwaukee,0,0.0
+2949,7,Turnover by B. Bogdanović (lost ball; steal by J. Robinson),3:52.0,25-21,Utah,0,0.0
+2950,7,J. Clarkson enters the game for B. Bogdanović,3:52.0,25-21,Utah,0,0.0
+2951,7,Turnover by J. Nwora (bad pass; steal by D. Mitchell),3:37.0,25-21,Milwaukee,0,0.0
+2952,7,Personal foul by J. Robinson (drawn by D. Mitchell),3:29.0,25-21,Utah,0,0.0
+2953,7,Shooting foul by J. Robinson (drawn by D. Mitchell),3:21.0,25-21,Utah,0,1.0
+2954,7,D. Mitchell makes free throw 1 of 2,3:21.0,26-21,Utah,0,0.0
+2955,7,E. Paschall enters the game for R. O'Neale,3:21.0,26-21,Utah,0,0.0
+2956,7,D. Mitchell misses free throw 2 of 2,3:21.0,26-21,Utah,0,0.0
+2957,7,Defensive rebound by T. Antetokounmpo,3:18.0,26-21,Milwaukee,0,0.0
+2958,7,R. Hood misses 2-pt jump shot from 20 ft,3:03.0,26-21,Milwaukee,0,0.0
+2959,7,Defensive rebound by H. Whiteside,3:00.0,26-21,Utah,0,0.0
+2960,7,J. Clarkson misses 3-pt jump shot from 29 ft,2:57.0,26-21,Utah,0,0.0
+2961,7,Defensive rebound by Team,2:56.0,26-21,Milwaukee,0,0.0
+2962,7,Loose ball foul by H. Whiteside (drawn by B. Portis),2:56.0,26-21,Utah,0,0.0
+2963,7,S. Mamukelashvili enters the game for B. Portis,2:56.0,26-21,Milwaukee,1,0.0
+2964,7,J. Nwora misses 2-pt jump shot from 17 ft,2:38.0,26-21,Milwaukee,0,0.0
+2965,7,Defensive rebound by E. Paschall,2:35.0,26-21,Utah,0,0.0
+2966,7,J. Clarkson makes 2-pt layup from 1 ft,2:29.0,28-21,Utah,0,0.0
+2967,7,R. Hood misses 3-pt jump shot from 28 ft,2:18.0,28-21,Milwaukee,0,0.0
+2968,7,Defensive rebound by H. Whiteside,2:15.0,28-21,Utah,0,1.0
+2969,7,Turnover by H. Whiteside (3 sec),2:04.0,28-21,Utah,0,0.0
+2970,7,M. Conley enters the game for D. Mitchell,2:04.0,28-21,Utah,0,0.0
+2971,7,J. Nwora misses 2-pt jump shot from 14 ft (block by J. Ingles),1:49.0,28-21,Milwaukee,0,0.0
+2972,7,Defensive rebound by J. Clarkson,1:46.0,28-21,Utah,0,0.0
+2973,7,J. Clarkson misses 2-pt layup from 6 ft,1:36.0,28-21,Utah,0,0.0
+2974,7,Defensive rebound by S. Mamukelashvili,1:33.0,28-21,Milwaukee,0,0.0
+2975,7,Turnover by J. Nwora (step out of bounds),1:25.0,28-21,Milwaukee,0,0.0
+2976,7,J. Clarkson misses 3-pt jump shot from 30 ft,1:00.0,28-21,Utah,0,0.0
+2977,7,Offensive rebound by Team,0:58.0,28-21,Utah,0,0.0
+2978,7,G. Antetokounmpo enters the game for S. Mamukelashvili,0:58.0,28-21,Milwaukee,1,0.0
+2979,7,H. Whiteside makes 2-pt hook shot from 10 ft (assist by M. Conley),0:48.0,30-21,Utah,0,0.0
+2980,7,G. Antetokounmpo makes 2-pt layup from 1 ft,0:30.0,30-23,Milwaukee,0,0.0
+2981,7,J. Clarkson misses 2-pt jump shot from 14 ft,0:09.0,30-23,Utah,0,0.0
+2982,7,Offensive rebound by E. Paschall,0:06.0,30-23,Utah,0,0.0
+2983,7,M. Conley misses 3-pt jump shot from 26 ft,0:00.0,30-23,Utah,0,0.0
+2984,7,Offensive rebound by Team,0:00.0,30-23,Utah,0,0.0
+2985,7,M. Conley makes 3-pt jump shot from 24 ft (assist by R. Gobert),11:44.0,33-23,Utah,0,0.0
+2986,7,J. Robinson misses 3-pt jump shot from 23 ft,11:21.0,33-23,Milwaukee,0,0.0
+2987,7,Defensive rebound by R. Gobert,11:18.0,33-23,Utah,0,0.0
+2988,7,M. Conley misses 3-pt jump shot from 29 ft,11:07.0,33-23,Utah,0,0.0
+2989,7,Defensive rebound by G. Antetokounmpo,11:03.0,33-23,Milwaukee,0,0.0
+2990,7,G. Antetokounmpo makes 3-pt jump shot from 26 ft,10:59.0,33-26,Milwaukee,0,0.0
+2991,7,E. Paschall misses 3-pt jump shot from 27 ft,10:32.0,33-26,Utah,0,0.0
+2992,7,Offensive rebound by R. Gobert,10:28.0,33-26,Utah,0,1.0
+2993,7,R. Gobert makes 2-pt dunk from 2 ft,10:26.0,35-26,Utah,0,1.0
+2994,7,G. Antetokounmpo misses 3-pt jump shot from 27 ft,10:08.0,35-26,Milwaukee,0,1.0
+2995,7,Defensive rebound by J. Clarkson,10:06.0,35-26,Utah,0,0.0
+2996,7,M. Conley makes 2-pt layup from 3 ft (assist by J. Clarkson),9:56.0,37-26,Utah,0,0.0
+2997,7,T. Antetokounmpo misses 2-pt hook shot from 4 ft,9:38.0,37-26,Milwaukee,0,0.0
+2998,7,Offensive rebound by T. Antetokounmpo,9:36.0,37-26,Milwaukee,0,0.0
+2999,7,P. Connaughton makes 3-pt jump shot from 28 ft (assist by T. Antetokounmpo),9:35.0,37-29,Milwaukee,0,0.0
+3000,7,Turnover by R. Gobert (bad pass),9:16.0,37-29,Utah,0,0.0
+3001,7,J. Butler enters the game for M. Conley,9:16.0,37-29,Utah,0,0.0
+3002,7,G. Hill enters the game for T. Antetokounmpo,9:16.0,37-29,Milwaukee,1,0.0
+3003,7,J. Nwora enters the game for R. Hood,9:16.0,37-29,Milwaukee,1,0.0
+3004,7,B. Portis enters the game for J. Robinson,9:16.0,37-29,Milwaukee,1,0.0
+3005,7,B. Portis misses 3-pt jump shot from 23 ft,8:55.0,37-29,Milwaukee,0,0.0
+3006,7,Offensive rebound by G. Hill,8:52.0,37-29,Milwaukee,0,0.0
+3007,7,Turnover by G. Hill (bad pass; steal by R. Gobert),8:52.0,37-29,Milwaukee,0,0.0
+3008,7,J. Clarkson misses 3-pt jump shot from 27 ft,8:40.0,37-29,Utah,0,0.0
+3009,7,Defensive rebound by G. Hill,8:34.0,37-29,Milwaukee,0,0.0
+3010,7,G. Hill misses 3-pt jump shot from 31 ft,8:28.0,37-29,Milwaukee,0,0.0
+3011,7,Defensive rebound by E. Paschall,8:25.0,37-29,Utah,0,0.0
+3012,7,E. Paschall makes 3-pt jump shot from 26 ft (assist by J. Butler),8:17.0,40-29,Utah,0,0.0
+3013,7,B. Portis makes 2-pt jump shot from 19 ft,7:51.0,40-31,Milwaukee,0,0.0
+3014,7,Shooting foul by P. Connaughton (drawn by J. Clarkson),7:36.0,40-31,Utah,0,0.0
+3015,7,J. Clarkson makes free throw 1 of 3,7:36.0,41-31,Utah,0,0.0
+3016,7,J. Clarkson makes free throw 2 of 3,7:36.0,42-31,Utah,0,0.0
+3017,7,B. Bogdanović enters the game for R. Gobert,7:36.0,42-31,Utah,0,0.0
+3018,7,H. Whiteside enters the game for E. Paschall,7:36.0,42-31,Utah,0,0.0
+3019,7,J. Clarkson makes free throw 3 of 3,7:36.0,43-31,Utah,0,0.0
+3020,7,B. Portis makes 2-pt jump shot from 14 ft,7:16.0,43-33,Milwaukee,0,1.0
+3021,7,B. Bogdanović makes 3-pt jump shot from 24 ft (assist by H. Whiteside),7:02.0,46-33,Utah,0,0.0
+3022,7,G. Antetokounmpo makes 2-pt layup from 3 ft,6:49.0,46-35,Milwaukee,0,0.0
+3023,7,B. Bogdanović misses 3-pt jump shot from 24 ft,6:23.0,46-35,Utah,0,0.0
+3024,7,Defensive rebound by G. Hill,6:20.0,46-35,Milwaukee,0,0.0
+3025,7,B. Portis misses 2-pt jump shot from 3 ft (block by J. Butler),6:13.0,46-35,Milwaukee,0,0.0
+3026,7,Offensive rebound by Team,6:13.0,46-35,Milwaukee,0,0.0
+3027,7,Milwaukee full timeout,6:13.0,46-35,Milwaukee,0,0.0
+3028,7,D. Mitchell enters the game for J. Butler,6:13.0,46-35,Utah,0,0.0
+3029,7,R. O'Neale enters the game for J. Ingles,6:13.0,46-35,Utah,0,0.0
+3030,7,G. Allen enters the game for G. Antetokounmpo,6:13.0,46-35,Milwaukee,1,0.0
+3031,7,B. Portis misses 3-pt jump shot from 26 ft,6:07.0,46-35,Milwaukee,0,0.0
+3032,7,Defensive rebound by D. Mitchell,6:05.0,46-35,Utah,0,0.0
+3033,7,D. Mitchell misses 2-pt layup from 10 ft,5:58.0,46-35,Utah,0,0.0
+3034,7,Offensive rebound by H. Whiteside,5:57.0,46-35,Utah,0,0.0
+3035,7,H. Whiteside misses 2-pt layup from 1 ft,5:57.0,46-35,Utah,0,0.0
+3036,7,Defensive rebound by P. Connaughton,5:55.0,46-35,Milwaukee,0,0.0
+3037,7,G. Hill misses 2-pt layup from 12 ft,5:45.0,46-35,Milwaukee,0,0.0
+3038,7,Defensive rebound by B. Bogdanović,5:45.0,46-35,Utah,0,0.0
+3039,7,H. Whiteside misses 2-pt jump shot from 6 ft (block by B. Portis),5:35.0,46-35,Utah,0,0.0
+3040,7,Defensive rebound by P. Connaughton,5:34.0,46-35,Milwaukee,0,1.0
+3041,7,Personal take foul by D. Mitchell (drawn by P. Connaughton),5:34.0,46-35,Milwaukee,0,0.0
+3042,7,B. Portis misses 2-pt jump shot from 19 ft (block by H. Whiteside),5:26.0,46-35,Milwaukee,0,0.0
+3043,7,Defensive rebound by R. O'Neale,5:21.0,46-35,Utah,0,0.0
+3044,7,D. Mitchell misses 3-pt jump shot from 28 ft,5:15.0,46-35,Utah,0,0.0
+3045,7,Defensive rebound by G. Allen,5:12.0,46-35,Milwaukee,0,0.0
+3046,7,G. Allen misses 3-pt jump shot from 27 ft,5:00.0,46-35,Milwaukee,0,0.0
+3047,7,Offensive rebound by B. Portis,4:58.0,46-35,Milwaukee,0,1.0
+3048,7,Shooting foul by R. O'Neale (drawn by B. Portis),4:58.0,46-35,Milwaukee,0,0.0
+3049,7,B. Portis makes free throw 1 of 2,4:58.0,46-36,Milwaukee,0,0.0
+3050,7,T. Antetokounmpo enters the game for P. Connaughton,4:58.0,46-36,Milwaukee,1,0.0
+3051,7,B. Portis makes free throw 2 of 2,4:58.0,46-37,Milwaukee,0,0.0
+3052,7,J. Clarkson misses 3-pt jump shot from 29 ft,4:43.0,46-37,Utah,0,0.0
+3053,7,Defensive rebound by B. Portis,4:41.0,46-37,Milwaukee,0,0.0
+3054,7,T. Antetokounmpo misses 2-pt hook shot from 7 ft,4:30.0,46-37,Milwaukee,0,0.0
+3055,7,Defensive rebound by H. Whiteside,4:27.0,46-37,Utah,0,0.0
+3056,7,Personal foul by T. Antetokounmpo (drawn by H. Whiteside),4:16.0,46-37,Utah,0,0.0
+3057,7,R. Hood enters the game for B. Portis,4:16.0,46-37,Milwaukee,1,0.0
+3058,7,Turnover by Team (shot clock),4:01.0,46-37,Utah,0,0.0
+3059,7,G. Hill makes 2-pt layup at rim,3:50.0,46-39,Milwaukee,0,0.0
+3060,7,Shooting foul by R. Hood (drawn by B. Bogdanović),3:42.0,46-39,Utah,0,0.0
+3061,7,B. Bogdanović makes free throw 1 of 2,3:42.0,47-39,Utah,0,0.0
+3062,7,R. Gobert enters the game for H. Whiteside,3:42.0,47-39,Utah,0,0.0
+3063,7,B. Bogdanović makes free throw 2 of 2,3:42.0,48-39,Utah,0,0.0
+3064,7,G. Allen misses 2-pt jump shot from 6 ft (block by R. Gobert),3:19.0,48-39,Milwaukee,0,0.0
+3065,7,Offensive rebound by G. Allen,3:14.0,48-39,Milwaukee,0,0.0
+3066,7,Turnover by G. Allen (bad pass; steal by D. Mitchell),3:14.0,48-39,Milwaukee,0,0.0
+3067,7,R. O'Neale makes 2-pt layup from 2 ft (assist by D. Mitchell),3:10.0,50-39,Utah,0,1.0
+3068,7,G. Hill misses 2-pt jump shot from 9 ft,2:51.0,50-39,Milwaukee,0,1.0
+3069,7,Defensive rebound by R. Gobert,2:49.0,50-39,Utah,0,0.0
+3070,7,D. Mitchell misses 3-pt jump shot from 27 ft,2:43.0,50-39,Utah,0,0.0
+3071,7,Offensive rebound by R. Gobert,2:39.0,50-39,Utah,0,0.0
+3072,7,D. Mitchell misses 3-pt jump shot from 27 ft,2:37.0,50-39,Utah,0,1.0
+3073,7,Defensive rebound by R. Hood,2:33.0,50-39,Milwaukee,0,0.0
+3074,7,J. Nwora makes 2-pt layup from 3 ft (assist by R. Hood),2:30.0,50-41,Milwaukee,0,0.0
+3075,7,Utah full timeout,2:30.0,50-41,Utah,0,0.0
+3076,7,M. Conley enters the game for J. Clarkson,2:30.0,50-41,Utah,0,0.0
+3077,7,G. Antetokounmpo enters the game for G. Hill,2:30.0,50-41,Milwaukee,1,0.0
+3078,7,J. Robinson enters the game for J. Nwora,2:30.0,50-41,Milwaukee,1,0.0
+3079,7,Personal foul by G. Allen (drawn by R. Gobert),2:19.0,50-41,Utah,0,0.0
+3080,7,Shooting foul by R. Hood (drawn by B. Bogdanović),2:10.0,50-41,Utah,0,0.0
+3081,7,B. Bogdanović makes free throw 1 of 2,2:10.0,51-41,Utah,0,0.0
+3082,7,B. Portis enters the game for T. Antetokounmpo,2:10.0,51-41,Milwaukee,1,0.0
+3083,7,B. Bogdanović makes free throw 2 of 2,2:10.0,52-41,Utah,0,1.0
+3084,7,R. Hood misses 2-pt jump shot from 14 ft,1:51.0,52-41,Milwaukee,0,0.0
+3085,7,Defensive rebound by B. Bogdanović,1:49.0,52-41,Utah,0,0.0
+3086,7,D. Mitchell misses 3-pt jump shot from 27 ft,1:44.0,52-41,Utah,0,0.0
+3087,7,Defensive rebound by B. Portis,1:40.0,52-41,Milwaukee,0,0.0
+3088,7,J. Robinson makes 2-pt layup from 2 ft,1:35.0,52-43,Milwaukee,0,0.0
+3089,7,M. Conley makes 3-pt jump shot from 26 ft (assist by R. Gobert),1:07.0,55-43,Utah,0,0.0
+3090,7,B. Portis makes 3-pt jump shot from 26 ft (assist by G. Antetokounmpo),0:55.0,55-46,Milwaukee,0,0.0
+3091,7,Shooting foul by G. Antetokounmpo (drawn by R. Gobert),0:36.0,55-46,Utah,0,0.0
+3092,7,R. Gobert makes free throw 1 of 2,0:36.0,56-46,Utah,0,0.0
+3093,7,J. Nwora enters the game for R. Hood,0:36.0,56-46,Milwaukee,1,0.0
+3094,7,R. Gobert makes free throw 2 of 2,0:36.0,57-46,Utah,0,0.0
+3095,7,B. Portis misses 2-pt jump shot from 13 ft,0:25.0,57-46,Milwaukee,0,0.0
+3096,7,Offensive rebound by G. Antetokounmpo,0:24.0,57-46,Milwaukee,0,0.0
+3097,7,Shooting foul by R. O'Neale (drawn by G. Antetokounmpo),0:24.0,57-46,Milwaukee,0,0.0
+3098,7,G. Antetokounmpo makes free throw 1 of 2,0:24.0,57-47,Milwaukee,0,0.0
+3099,7,G. Antetokounmpo makes free throw 2 of 2,0:24.0,57-48,Milwaukee,0,0.0
+3100,7,R. O'Neale misses 3-pt jump shot from 31 ft,0:02.0,57-48,Utah,0,0.0
+3101,7,Defensive rebound by G. Allen,0:02.0,57-48,Milwaukee,0,0.0
+3102,7,J. Robinson misses 3-pt jump shot from 52 ft,0:00.0,57-48,Milwaukee,0,0.0
+3103,7,Offensive rebound by Team,0:00.0,57-48,Milwaukee,0,0.0
+3104,7,Turnover by M. Conley (bad pass),11:46.0,57-48,Utah,0,0.0
+3105,7,T. Antetokounmpo misses 3-pt jump shot from 24 ft,11:28.0,57-48,Milwaukee,0,0.0
+3106,7,Defensive rebound by M. Conley,11:25.0,57-48,Utah,0,0.0
+3107,7,Personal foul by P. Connaughton (drawn by D. Mitchell),11:14.0,57-48,Utah,0,0.0
+3108,7,Shooting foul by G. Hill (drawn by M. Conley),11:10.0,57-48,Utah,0,0.0
+3109,7,M. Conley makes free throw 1 of 2,11:10.0,58-48,Utah,0,0.0
+3110,7,M. Conley makes free throw 2 of 2,11:10.0,59-48,Utah,0,0.0
+3111,7,G. Allen makes 3-pt jump shot from 26 ft (assist by G. Antetokounmpo),10:58.0,59-51,Milwaukee,0,0.0
+3112,7,M. Conley misses 3-pt jump shot from 26 ft,10:35.0,59-51,Utah,0,0.0
+3113,7,Defensive rebound by T. Antetokounmpo,10:32.0,59-51,Milwaukee,0,0.0
+3114,7,G. Antetokounmpo misses 2-pt jump shot from 15 ft,10:24.0,59-51,Milwaukee,0,0.0
+3115,7,Defensive rebound by R. Gobert,10:22.0,59-51,Utah,0,0.0
+3116,7,Turnover by D. Mitchell (bad pass; steal by G. Hill),10:17.0,59-51,Utah,0,0.0
+3117,7,G. Antetokounmpo misses 3-pt jump shot from 27 ft,10:01.0,59-51,Milwaukee,0,0.0
+3118,7,Defensive rebound by R. O'Neale,9:58.0,59-51,Utah,0,0.0
+3119,7,Shooting foul by G. Antetokounmpo (drawn by R. Gobert),9:51.0,59-51,Utah,0,0.0
+3120,7,R. Gobert makes free throw 1 of 2,9:51.0,60-51,Utah,0,0.0
+3121,7,R. Gobert misses free throw 2 of 2,9:51.0,60-51,Utah,0,0.0
+3122,7,Defensive rebound by G. Antetokounmpo,9:46.0,60-51,Milwaukee,0,0.0
+3123,7,G. Antetokounmpo misses 2-pt jump shot from 14 ft,9:39.0,60-51,Milwaukee,0,0.0
+3124,7,Defensive rebound by R. Gobert,9:37.0,60-51,Utah,0,0.0
+3125,7,M. Conley makes 2-pt layup from 2 ft,9:28.0,62-51,Utah,0,0.0
+3126,7,T. Antetokounmpo misses 2-pt dunk from 3 ft,9:16.0,62-51,Milwaukee,0,0.0
+3127,7,Offensive rebound by T. Antetokounmpo,9:14.0,62-51,Milwaukee,0,0.0
+3128,7,T. Antetokounmpo misses 2-pt hook shot from 5 ft,9:07.0,62-51,Milwaukee,0,0.0
+3129,7,Defensive rebound by Team,9:07.0,62-51,Utah,0,0.0
+3130,7,Loose ball foul by G. Antetokounmpo (drawn by R. O'Neale),9:07.0,62-51,Milwaukee,0,0.0
+3131,7,B. Bogdanović misses 2-pt layup from 2 ft (block by G. Antetokounmpo),8:56.0,62-51,Utah,0,0.0
+3132,7,Defensive rebound by P. Connaughton,8:52.0,62-51,Milwaukee,0,1.0
+3133,7,Def 3 sec tech foul by Team,8:40.0,62-51,Milwaukee,0,0.0
+3134,7,G. Allen misses technical free throw,8:40.0,62-51,Milwaukee,0,0.0
+3135,7,Offensive rebound by Team,8:40.0,62-51,Milwaukee,0,0.0
+3136,7,G. Allen makes 2-pt jump shot from 14 ft,8:29.0,62-53,Milwaukee,0,0.0
+3137,7,B. Bogdanović makes 2-pt hook shot from 4 ft (assist by D. Mitchell),8:17.0,64-53,Utah,0,1.0
+3138,7,G. Hill makes 2-pt jump shot from 13 ft (assist by G. Antetokounmpo),8:02.0,64-55,Milwaukee,0,0.0
+3139,7,D. Mitchell misses 2-pt jump shot from 4 ft,7:38.0,64-55,Utah,0,0.0
+3140,7,Defensive rebound by T. Antetokounmpo,7:36.0,64-55,Milwaukee,0,0.0
+3141,7,Personal take foul by B. Bogdanović (drawn by T. Antetokounmpo),7:36.0,64-55,Milwaukee,0,0.0
+3142,7,B. Portis enters the game for T. Antetokounmpo,7:36.0,64-55,Milwaukee,1,0.0
+3143,7,G. Antetokounmpo makes 3-pt jump shot from 28 ft,7:29.0,64-58,Milwaukee,0,0.0
+3144,7,Utah full timeout,7:21.0,64-58,Utah,0,0.0
+3145,7,J. Ingles enters the game for M. Conley,7:21.0,64-58,Utah,0,0.0
+3146,7,H. Whiteside enters the game for R. Gobert,7:21.0,64-58,Utah,0,0.0
+3147,7,J. Nwora enters the game for P. Connaughton,7:21.0,64-58,Milwaukee,1,0.0
+3148,7,Personal foul by G. Allen (drawn by B. Bogdanović),7:07.0,64-58,Utah,0,0.0
+3149,7,Utah full timeout,7:07.0,64-58,Utah,0,1.0
+3150,7,B. Bogdanović makes free throw 1 of 2,7:07.0,65-58,Utah,0,0.0
+3151,7,B. Bogdanović makes free throw 2 of 2,7:07.0,66-58,Utah,0,0.0
+3152,7,B. Portis misses 3-pt jump shot from 27 ft,6:53.0,66-58,Milwaukee,0,0.0
+3153,7,Defensive rebound by B. Bogdanović,6:51.0,66-58,Utah,0,0.0
+3154,7,R. O'Neale misses 3-pt jump shot from 30 ft,6:44.0,66-58,Utah,0,0.0
+3155,7,Defensive rebound by G. Allen,6:40.0,66-58,Milwaukee,0,0.0
+3156,7,B. Portis makes 2-pt layup from 2 ft (assist by J. Nwora),6:22.0,66-60,Milwaukee,0,0.0
+3157,7,Personal foul by G. Allen (drawn by J. Ingles),6:04.0,66-60,Utah,0,0.0
+3158,7,J. Ingles makes free throw 1 of 2,6:04.0,67-60,Utah,0,0.0
+3159,7,J. Robinson enters the game for G. Hill,6:04.0,67-60,Milwaukee,1,0.0
+3160,7,J. Ingles makes free throw 2 of 2,6:04.0,68-60,Utah,0,0.0
+3161,7,Turnover by G. Antetokounmpo (out of bounds lost ball),5:48.0,68-60,Milwaukee,0,0.0
+3162,7,D. Mitchell misses 2-pt jump shot from 15 ft,5:23.0,68-60,Utah,0,0.0
+3163,7,Defensive rebound by J. Robinson,5:21.0,68-60,Milwaukee,0,0.0
+3164,7,J. Robinson makes 3-pt jump shot from 29 ft,4:58.0,68-63,Milwaukee,0,0.0
+3165,7,D. Mitchell makes 2-pt jump shot from 6 ft,4:49.0,70-63,Utah,0,0.0
+3166,7,J. Nwora misses 3-pt jump shot from 27 ft,4:39.0,70-63,Milwaukee,0,0.0
+3167,7,Defensive rebound by D. Mitchell,4:35.0,70-63,Utah,0,1.0
+3168,7,D. Mitchell makes 2-pt jump shot from 23 ft,4:31.0,72-63,Utah,0,1.0
+3169,7,G. Antetokounmpo makes 2-pt layup from 3 ft,4:14.0,72-65,Milwaukee,0,0.0
+3170,7,H. Whiteside misses 2-pt layup from 2 ft,3:52.0,72-65,Utah,0,0.0
+3171,7,Defensive rebound by B. Portis,3:49.0,72-65,Milwaukee,0,0.0
+3172,7,G. Allen misses 3-pt jump shot from 27 ft,3:42.0,72-65,Milwaukee,0,0.0
+3173,7,Defensive rebound by H. Whiteside,3:39.0,72-65,Utah,0,0.0
+3174,7,D. Mitchell makes 2-pt jump shot from 2 ft,3:36.0,74-65,Utah,0,0.0
+3175,7,Shooting foul by B. Portis (drawn by D. Mitchell),3:36.0,74-65,Utah,0,0.0
+3176,7,J. Clarkson enters the game for B. Bogdanović,3:36.0,74-65,Utah,0,0.0
+3177,7,T. Antetokounmpo enters the game for G. Allen,3:36.0,74-65,Milwaukee,1,0.0
+3178,7,P. Connaughton enters the game for G. Antetokounmpo,3:36.0,74-65,Milwaukee,1,0.0
+3179,7,D. Mitchell makes free throw 1 of 1,3:36.0,75-65,Utah,0,0.0
+3180,7,P. Connaughton misses 2-pt layup from 2 ft,3:14.0,75-65,Milwaukee,0,0.0
+3181,7,Defensive rebound by H. Whiteside,3:11.0,75-65,Utah,0,1.0
+3182,7,J. Clarkson misses 3-pt jump shot from 23 ft,3:01.0,75-65,Utah,0,0.0
+3183,7,Defensive rebound by P. Connaughton,2:57.0,75-65,Milwaukee,0,0.0
+3184,7,B. Portis misses 2-pt jump shot from 12 ft (block by R. O'Neale),2:48.0,75-65,Milwaukee,0,0.0
+3185,7,Defensive rebound by R. O'Neale,2:44.0,75-65,Utah,0,0.0
+3186,7,R. O'Neale makes 2-pt layup from 1 ft,2:44.0,77-65,Utah,0,0.0
+3187,7,Milwaukee full timeout,2:43.0,77-65,Milwaukee,0,0.0
+3188,7,M. Conley enters the game for D. Mitchell,2:43.0,77-65,Utah,0,0.0
+3189,7,R. Gobert enters the game for R. O'Neale,2:43.0,77-65,Utah,0,1.0
+3190,7,E. Paschall enters the game for H. Whiteside,2:43.0,77-65,Utah,0,0.0
+3191,7,S. Mamukelashvili enters the game for B. Portis,2:43.0,77-65,Milwaukee,1,0.0
+3192,7,T. Antetokounmpo misses 2-pt hook shot from 3 ft (block by R. Gobert),2:20.0,77-65,Milwaukee,0,0.0
+3193,7,Defensive rebound by J. Ingles,2:16.0,77-65,Utah,0,0.0
+3194,7,J. Ingles makes 3-pt jump shot from 24 ft,2:13.0,80-65,Utah,0,0.0
+3195,7,J. Robinson misses 2-pt jump shot from 16 ft,1:56.0,80-65,Milwaukee,0,0.0
+3196,7,Defensive rebound by R. Gobert,1:53.0,80-65,Utah,0,0.0
+3197,7,Offensive foul by R. Gobert (drawn by J. Robinson),1:49.0,80-65,Utah,0,0.0
+3198,7,Turnover by R. Gobert (offensive foul),1:49.0,80-65,Utah,0,0.0
+3199,7,G. Hill enters the game for J. Nwora,1:49.0,80-65,Milwaukee,1,0.0
+3200,7,P. Connaughton makes 2-pt layup from 5 ft,1:25.0,80-67,Milwaukee,0,0.0
+3201,7,J. Clarkson makes 2-pt jump shot from 10 ft,1:05.0,82-67,Utah,0,0.0
+3202,7,P. Connaughton misses 3-pt jump shot from 26 ft,0:52.0,82-67,Milwaukee,0,0.0
+3203,7,Defensive rebound by R. Gobert,0:48.0,82-67,Utah,0,0.0
+3204,7,J. Clarkson makes 2-pt layup from 2 ft,0:36.0,84-67,Utah,0,0.0
+3205,7,J. Robinson makes 2-pt jump shot from 15 ft,0:22.0,84-69,Milwaukee,0,0.0
+3206,7,J. Clarkson misses 3-pt jump shot from 29 ft,0:00.0,84-69,Utah,0,0.0
+3207,7,Offensive rebound by Team,0:00.0,84-69,Utah,0,1.0
+3208,7,T. Antetokounmpo misses 2-pt jump shot from 11 ft,11:35.0,84-69,Milwaukee,0,0.0
+3209,7,Defensive rebound by R. Gobert,11:30.0,84-69,Utah,0,0.0
+3210,7,E. Paschall misses 3-pt jump shot from 23 ft,11:25.0,84-69,Utah,0,0.0
+3211,7,Defensive rebound by J. Nwora,11:25.0,84-69,Milwaukee,0,0.0
+3212,7,T. Antetokounmpo makes 2-pt layup from 3 ft (assist by J. Nwora),11:08.0,84-71,Milwaukee,0,0.0
+3213,7,Turnover by J. Clarkson (lost ball; steal by T. Antetokounmpo),10:48.0,84-71,Utah,0,0.0
+3214,7,T. Antetokounmpo makes 2-pt dunk from 2 ft,10:44.0,84-73,Milwaukee,0,0.0
+3215,7,Turnover by M. Conley (bad pass; steal by T. Antetokounmpo),10:25.0,84-73,Utah,0,0.0
+3216,7,Personal foul by M. Conley (drawn by J. Robinson),10:23.0,84-73,Milwaukee,0,0.0
+3217,7,G. Allen enters the game for J. Robinson,10:23.0,84-73,Milwaukee,1,0.0
+3218,7,G. Antetokounmpo makes 2-pt layup from 2 ft,10:15.0,84-75,Milwaukee,0,0.0
+3219,7,J. Clarkson makes 2-pt jump shot from 9 ft (assist by J. Ingles),9:53.0,86-75,Utah,0,0.0
+3220,7,G. Allen misses 3-pt jump shot from 27 ft,9:36.0,86-75,Milwaukee,0,0.0
+3221,7,Defensive rebound by M. Conley,9:34.0,86-75,Utah,0,0.0
+3222,7,Turnover by J. Clarkson (bad pass; steal by G. Antetokounmpo),9:26.0,86-75,Utah,0,0.0
+3223,7,G. Hill makes 2-pt layup from 2 ft (assist by G. Antetokounmpo),9:22.0,86-77,Milwaukee,0,0.0
+3224,7,Utah full timeout,9:17.0,86-77,Utah,0,1.0
+3225,7,E. Paschall misses 3-pt jump shot from 23 ft,8:51.0,86-77,Utah,0,1.0
+3226,7,Defensive rebound by T. Antetokounmpo,8:47.0,86-77,Milwaukee,0,0.0
+3227,7,G. Antetokounmpo misses 3-pt jump shot from 27 ft,8:26.0,86-77,Milwaukee,0,0.0
+3228,7,Offensive rebound by Team,8:26.0,86-77,Milwaukee,0,0.0
+3229,7,Turnover by Team (shot clock),8:26.0,86-77,Milwaukee,0,0.0
+3230,7,M. Conley misses 2-pt jump shot from 9 ft,8:16.0,86-77,Utah,0,0.0
+3231,7,Defensive rebound by G. Hill,8:13.0,86-77,Milwaukee,0,0.0
+3232,7,G. Hill makes 2-pt layup from 2 ft,8:09.0,86-79,Milwaukee,0,0.0
+3233,7,Personal foul by T. Antetokounmpo (drawn by R. Gobert),7:52.0,86-79,Utah,0,0.0
+3234,7,B. Portis enters the game for T. Antetokounmpo,7:52.0,86-79,Milwaukee,1,0.0
+3235,7,J. Robinson enters the game for G. Hill,7:52.0,86-79,Milwaukee,1,0.0
+3236,7,E. Paschall misses 3-pt jump shot from 23 ft,7:45.0,86-79,Utah,0,0.0
+3237,7,Offensive rebound by R. Gobert,7:43.0,86-79,Utah,0,0.0
+3238,7,J. Clarkson misses 2-pt jump shot from 8 ft,7:27.0,86-79,Utah,0,0.0
+3239,7,Offensive rebound by E. Paschall,7:20.0,86-79,Utah,0,0.0
+3240,7,E. Paschall makes 2-pt dunk at rim,7:20.0,88-79,Utah,0,0.0
+3241,7,J. Nwora misses 3-pt jump shot from 24 ft,7:13.0,88-79,Milwaukee,0,0.0
+3242,7,Offensive rebound by J. Robinson,7:11.0,88-79,Milwaukee,0,0.0
+3243,7,B. Bogdanović enters the game for M. Conley,7:11.0,88-79,Utah,0,0.0
+3244,7,D. Mitchell enters the game for R. Gobert,7:11.0,88-79,Utah,0,0.0
+3245,7,R. O'Neale enters the game for J. Ingles,7:11.0,88-79,Utah,0,0.0
+3246,7,H. Whiteside enters the game for E. Paschall,7:11.0,88-79,Utah,0,0.0
+3247,7,J. Robinson makes 2-pt layup from 2 ft (assist by G. Antetokounmpo),7:02.0,88-81,Milwaukee,0,0.0
+3248,7,J. Clarkson misses 3-pt jump shot from 23 ft,6:45.0,88-81,Utah,0,1.0
+3249,7,Defensive rebound by G. Antetokounmpo,6:43.0,88-81,Milwaukee,0,0.0
+3250,7,B. Portis makes 2-pt jump shot from 17 ft,6:34.0,88-83,Milwaukee,0,0.0
+3251,7,B. Bogdanović misses 3-pt jump shot from 27 ft,6:17.0,88-83,Utah,0,0.0
+3252,7,Defensive rebound by G. Allen,6:12.0,88-83,Milwaukee,0,0.0
+3253,7,G. Antetokounmpo misses 3-pt jump shot from 27 ft,6:07.0,88-83,Milwaukee,0,0.0
+3254,7,Defensive rebound by B. Bogdanović,6:04.0,88-83,Utah,0,0.0
+3255,7,J. Clarkson makes 2-pt layup from 4 ft,5:58.0,90-83,Utah,0,0.0
+3256,7,Technical foul by J. Clarkson,5:58.0,90-83,Utah,0,0.0
+3257,7,Milwaukee full timeout,5:58.0,90-83,Milwaukee,0,0.0
+3258,7,P. Connaughton enters the game for J. Nwora,5:58.0,90-83,Milwaukee,1,1.0
+3259,7,G. Allen makes technical free throw,5:58.0,90-84,Milwaukee,0,0.0
+3260,7,G. Allen misses 2-pt jump shot from 10 ft,5:42.0,90-84,Milwaukee,0,0.0
+3261,7,Defensive rebound by H. Whiteside,5:40.0,90-84,Utah,0,0.0
+3262,7,D. Mitchell makes 2-pt layup from 2 ft,5:35.0,92-84,Utah,0,0.0
+3263,7,B. Portis misses 2-pt jump shot from 15 ft (block by H. Whiteside),5:18.0,92-84,Milwaukee,0,0.0
+3264,7,Defensive rebound by H. Whiteside,5:15.0,92-84,Utah,0,1.0
+3265,7,D. Mitchell makes 3-pt jump shot from 27 ft,5:09.0,95-84,Utah,0,0.0
+3266,7,Offensive foul by B. Portis (drawn by R. O'Neale),5:01.0,95-84,Milwaukee,0,0.0
+3267,7,Turnover by B. Portis (offensive foul),5:01.0,95-84,Milwaukee,0,0.0
+3268,7,T. Antetokounmpo enters the game for B. Portis,5:01.0,95-84,Milwaukee,1,0.0
+3269,7,B. Bogdanović misses 3-pt jump shot from 28 ft,4:42.0,95-84,Utah,0,0.0
+3270,7,Defensive rebound by J. Robinson,4:38.0,95-84,Milwaukee,0,0.0
+3271,7,Turnover by J. Robinson (lost ball; steal by J. Clarkson),4:26.0,95-84,Milwaukee,0,0.0
+3272,7,J. Clarkson makes 2-pt layup from 1 ft,4:23.0,97-84,Utah,0,0.0
+3273,7,Milwaukee full timeout,4:23.0,97-84,Milwaukee,0,0.0
+3274,7,G. Hill enters the game for G. Allen,4:23.0,97-84,Milwaukee,1,0.0
+3275,7,G. Antetokounmpo misses 3-pt jump shot from 25 ft,4:09.0,97-84,Milwaukee,0,0.0
+3276,7,Offensive rebound by G. Antetokounmpo,4:04.0,97-84,Milwaukee,0,1.0
+3277,7,Personal foul by R. O'Neale (drawn by G. Antetokounmpo),4:00.0,97-84,Milwaukee,0,0.0
+3278,7,Turnover by G. Antetokounmpo (bad pass; steal by J. Clarkson),3:50.0,97-84,Milwaukee,0,0.0
+3279,7,J. Clarkson misses 2-pt jump shot from 5 ft,3:43.0,97-84,Utah,0,0.0
+3280,7,Defensive rebound by G. Antetokounmpo,3:40.0,97-84,Milwaukee,0,0.0
+3281,7,G. Antetokounmpo makes 3-pt jump shot from 29 ft,3:36.0,97-87,Milwaukee,0,0.0
+3282,7,Shooting foul by J. Robinson (drawn by D. Mitchell),3:14.0,97-87,Utah,0,0.0
+3283,7,D. Mitchell makes free throw 1 of 2,3:14.0,98-87,Utah,0,0.0
+3284,7,M. Conley enters the game for J. Clarkson,3:14.0,98-87,Utah,0,0.0
+3285,7,R. Gobert enters the game for H. Whiteside,3:14.0,98-87,Utah,0,0.0
+3286,7,G. Allen enters the game for G. Antetokounmpo,3:14.0,98-87,Milwaukee,1,0.0
+3287,7,D. Mitchell makes free throw 2 of 2,3:14.0,99-87,Utah,0,0.0
+3288,7,G. Allen makes 3-pt jump shot from 27 ft (assist by T. Antetokounmpo),2:54.0,99-90,Milwaukee,0,0.0
+3289,7,Turnover by D. Mitchell (lost ball; steal by T. Antetokounmpo),2:38.0,99-90,Utah,0,0.0
+3290,7,T. Antetokounmpo makes 2-pt dunk from 1 ft,2:33.0,99-92,Milwaukee,0,0.0
+3291,7,D. Mitchell misses 3-pt jump shot from 27 ft,2:07.0,99-92,Utah,0,0.0
+3292,7,Defensive rebound by T. Antetokounmpo,2:03.0,99-92,Milwaukee,0,1.0
+3293,7,P. Connaughton misses 3-pt jump shot from 24 ft,1:56.0,99-92,Milwaukee,0,0.0
+3294,7,Defensive rebound by D. Mitchell,1:53.0,99-92,Utah,0,0.0
+3295,7,Offensive foul by D. Mitchell (drawn by J. Robinson),1:50.0,99-92,Utah,0,0.0
+3296,7,Turnover by D. Mitchell (offensive foul),1:50.0,99-92,Utah,0,0.0
+3297,7,G. Allen makes 3-pt jump shot from 26 ft (assist by T. Antetokounmpo),1:39.0,99-95,Milwaukee,0,0.0
+3298,7,D. Mitchell makes 2-pt hook shot from 3 ft,1:16.0,101-95,Utah,0,0.0
+3299,7,G. Hill misses 2-pt layup from 6 ft (block by R. Gobert),1:05.0,101-95,Milwaukee,0,0.0
+3300,7,Offensive rebound by Team,1:05.0,101-95,Milwaukee,0,0.0
+3301,7,Milwaukee full timeout,1:05.0,101-95,Milwaukee,0,0.0
+3302,7,G. Antetokounmpo enters the game for J. Robinson,1:05.0,101-95,Milwaukee,1,0.0
+3303,7,Turnover by  (5 sec),1:04.0,101-95,Milwaukee,0,0.0
+3304,7,D. Mitchell makes 2-pt jump shot from 8 ft,0:45.0,103-95,Utah,0,0.0
+3305,7,G. Allen misses 3-pt jump shot from 27 ft (block by R. O'Neale),0:36.0,103-95,Milwaukee,0,0.0
+3306,7,Offensive rebound by Team,0:36.0,103-95,Milwaukee,0,0.0
+3307,7,T. Antetokounmpo misses 3-pt jump shot from 27 ft,0:32.0,103-95,Milwaukee,0,0.0
+3308,7,Defensive rebound by B. Bogdanović,0:29.0,103-95,Utah,0,0.0
+3309,7,Utah full timeout,0:24.0,103-95,Utah,0,0.0
+3310,7,Utah full timeout,0:24.0,103-95,Utah,0,0.0
+3311,7,Personal foul by G. Allen (drawn by M. Conley),0:19.0,103-95,Utah,0,0.0
+3312,7,Personal foul by P. Connaughton (drawn by M. Conley),0:17.0,103-95,Utah,0,0.0
+3313,7,M. Conley makes free throw 1 of 2,0:17.0,104-95,Utah,0,0.0
+3314,7,M. Conley makes free throw 2 of 2,0:17.0,105-95,Utah,0,0.0
+3315,7,P. Connaughton misses 3-pt jump shot from 29 ft,0:03.0,105-95,Milwaukee,0,
+3316,7,Offensive rebound by G. Allen,0:03.0,105-95,Milwaukee,0,
+3317,7,G. Allen misses 2-pt layup at rim,0:02.0,105-95,Milwaukee,0,
+3318,7,Defensive rebound by R. Gobert,0:01.0,105-95,Utah,0,
+3319,7,Personal foul by G. Allen (drawn by R. Gobert),0:01.0,105-95,Utah,0,
+3320,7,Instant Replay (Request: Ruling Stands),0:00.0,105-95,Utah,0,
+3321,7,R. Gobert makes free throw 1 of 2,0:01.0,106-95,Utah,0,
+3322,7,R. Gobert makes free throw 2 of 2,0:01.0,107-95,Utah,0,
+3323,7,G. Antetokounmpo misses 3-pt jump shot from 79 ft,0:00.0,107-95,Milwaukee,0,
+3324,7,Offensive rebound by Team,0:00.0,107-95,Milwaukee,0,

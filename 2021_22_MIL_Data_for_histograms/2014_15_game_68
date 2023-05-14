@@ -1,0 +1,451 @@
+,game number,play,time,score,team,current_sub_status,future_sub_status
+31142,68,B. Portis misses 3-pt jump shot from 24 ft,11:47.0,0-0,Milwaukee,0,0.0
+31143,68,Defensive rebound by K. Looney,11:45.0,0-0,Golden State,0,0.0
+31144,68,A. Wiggins misses 2-pt layup from 5 ft,11:29.0,0-0,Golden State,0,0.0
+31145,68,Defensive rebound by B. Portis,11:27.0,0-0,Milwaukee,0,0.0
+31146,68,K. Middleton misses 2-pt jump shot from 16 ft,11:15.0,0-0,Milwaukee,0,0.0
+31147,68,Offensive rebound by B. Portis,11:13.0,0-0,Milwaukee,0,0.0
+31148,68,B. Portis misses 2-pt layup at rim,11:11.0,0-0,Milwaukee,0,0.0
+31149,68,Defensive rebound by K. Looney,11:09.0,0-0,Golden State,0,0.0
+31150,68,K. Thompson misses 2-pt layup from 3 ft,11:01.0,0-0,Golden State,0,0.0
+31151,68,Defensive rebound by G. Allen,10:58.0,0-0,Milwaukee,0,0.0
+31152,68,G. Allen misses 2-pt layup from 5 ft,10:46.0,0-0,Milwaukee,0,0.0
+31153,68,Defensive rebound by Team,10:45.0,0-0,Golden State,0,0.0
+31154,68,Loose ball foul by G. Antetokounmpo (drawn by A. Wiggins),10:45.0,0-0,Milwaukee,0,0.0
+31155,68,K. Looney makes 2-pt layup from 4 ft (assist by A. Wiggins),10:31.0,0-2,Golden State,0,0.0
+31156,68,Shooting foul by S. Curry (drawn by J. Holiday),10:18.0,0-2,Milwaukee,0,0.0
+31157,68,J. Holiday makes free throw 1 of 2,10:18.0,1-2,Milwaukee,0,0.0
+31158,68,J. Holiday misses free throw 2 of 2,10:18.0,1-2,Milwaukee,0,0.0
+31159,68,Defensive rebound by K. Thompson,10:16.0,1-2,Golden State,0,0.0
+31160,68,S. Curry misses 3-pt jump shot from 27 ft,10:05.0,1-2,Golden State,0,0.0
+31161,68,Offensive rebound by A. Wiggins,10:03.0,1-2,Golden State,0,0.0
+31162,68,Shooting foul by B. Portis (drawn by J. Poole),9:57.0,1-2,Golden State,0,0.0
+31163,68,J. Poole makes free throw 1 of 2,9:57.0,1-3,Golden State,0,0.0
+31164,68,J. Poole makes free throw 2 of 2,9:57.0,1-4,Golden State,0,0.0
+31165,68,K. Middleton makes 2-pt jump shot from 11 ft,9:45.0,3-4,Milwaukee,0,0.0
+31166,68,Turnover by J. Poole (bad pass; steal by B. Portis),9:32.0,3-4,Golden State,0,0.0
+31167,68,G. Allen makes 3-pt jump shot from 26 ft (assist by J. Holiday),9:27.0,6-4,Milwaukee,0,0.0
+31168,68,K. Thompson misses 3-pt jump shot from 26 ft,9:13.0,6-4,Golden State,0,0.0
+31169,68,Defensive rebound by G. Allen,9:10.0,6-4,Milwaukee,0,0.0
+31170,68,B. Portis misses 2-pt jump shot from 16 ft,9:01.0,6-4,Milwaukee,0,0.0
+31171,68,Defensive rebound by S. Curry,8:59.0,6-4,Golden State,0,0.0
+31172,68,A. Wiggins makes 2-pt jump shot from 19 ft (assist by K. Looney),8:48.0,6-6,Golden State,0,0.0
+31173,68,K. Middleton misses 2-pt jump shot from 22 ft,8:38.0,6-6,Milwaukee,0,0.0
+31174,68,Defensive rebound by K. Thompson,8:36.0,6-6,Golden State,0,0.0
+31175,68,A. Wiggins misses 3-pt jump shot from 25 ft,8:26.0,6-6,Golden State,0,0.0
+31176,68,Defensive rebound by K. Middleton,8:23.0,6-6,Milwaukee,0,0.0
+31177,68,Turnover by G. Antetokounmpo (lost ball; steal by K. Thompson),8:17.0,6-6,Milwaukee,0,1.0
+31178,68,J. Poole makes 2-pt layup from 4 ft (assist by K. Thompson),8:12.0,6-8,Golden State,0,0.0
+31179,68,G. Allen misses 3-pt jump shot from 24 ft,7:58.0,6-8,Milwaukee,0,0.0
+31180,68,Defensive rebound by K. Looney,7:56.0,6-8,Golden State,0,0.0
+31181,68,J. Poole makes 3-pt jump shot from 27 ft (assist by K. Thompson),7:46.0,6-11,Golden State,0,0.0
+31182,68,G. Antetokounmpo misses 2-pt layup from 5 ft (block by K. Looney),7:26.0,6-11,Milwaukee,0,0.0
+31183,68,Defensive rebound by Team,7:24.0,6-11,Golden State,0,0.0
+31184,68,J. Poole misses 3-pt jump shot from 29 ft,7:16.0,6-11,Golden State,0,1.0
+31185,68,Defensive rebound by B. Portis,7:13.0,6-11,Milwaukee,0,0.0
+31186,68,Personal foul by K. Thompson (drawn by G. Antetokounmpo),7:08.0,6-11,Milwaukee,0,0.0
+31187,68,J. Carter enters the game for J. Holiday,7:08.0,6-11,Milwaukee,1,0.0
+31188,68,G. Allen misses 3-pt jump shot from 29 ft,7:02.0,6-11,Milwaukee,0,0.0
+31189,68,Offensive rebound by K. Middleton,7:00.0,6-11,Milwaukee,0,0.0
+31190,68,B. Portis misses 2-pt jump shot from 10 ft,6:57.0,6-11,Milwaukee,0,0.0
+31191,68,Defensive rebound by K. Looney,6:54.0,6-11,Golden State,0,1.0
+31192,68,S. Curry makes 2-pt layup from 2 ft (assist by K. Looney),6:44.0,6-13,Golden State,0,0.0
+31193,68,Milwaukee full timeout,6:44.0,6-13,Milwaukee,0,0.0
+31194,68,W. Matthews enters the game for B. Portis,6:44.0,6-13,Milwaukee,1,0.0
+31195,68,G. Antetokounmpo makes 2-pt layup from 3 ft (assist by G. Allen),6:29.0,8-13,Milwaukee,0,0.0
+31196,68,A. Wiggins misses 3-pt jump shot from 29 ft,6:09.0,8-13,Golden State,0,0.0
+31197,68,Defensive rebound by G. Antetokounmpo,6:06.0,8-13,Milwaukee,0,0.0
+31198,68,G. Antetokounmpo makes 3-pt jump shot from 27 ft,6:01.0,11-13,Milwaukee,0,0.0
+31199,68,Shooting foul by G. Antetokounmpo (drawn by A. Wiggins),5:49.0,11-13,Golden State,0,0.0
+31200,68,A. Wiggins makes free throw 1 of 2,5:49.0,11-14,Golden State,0,0.0
+31201,68,S. Ibaka enters the game for G. Antetokounmpo,5:49.0,11-14,Milwaukee,1,0.0
+31202,68,J. Kuminga enters the game for J. Poole,5:49.0,11-14,Golden State,0,0.0
+31203,68,M. Moody enters the game for K. Thompson,5:49.0,11-14,Golden State,0,0.0
+31204,68,A. Wiggins makes free throw 2 of 2,5:49.0,11-15,Golden State,0,0.0
+31205,68,K. Middleton makes 3-pt jump shot from 26 ft,5:37.0,14-15,Milwaukee,0,0.0
+31206,68,J. Kuminga misses 3-pt jump shot from 26 ft,5:16.0,14-15,Golden State,0,0.0
+31207,68,Defensive rebound by S. Ibaka,5:13.0,14-15,Milwaukee,0,0.0
+31208,68,K. Middleton misses 3-pt jump shot from 27 ft,4:59.0,14-15,Milwaukee,0,0.0
+31209,68,Defensive rebound by M. Moody,4:56.0,14-15,Golden State,0,0.0
+31210,68,M. Moody misses 3-pt jump shot from 26 ft,4:37.0,14-15,Golden State,0,1.0
+31211,68,Defensive rebound by Team,4:34.0,14-15,Milwaukee,0,0.0
+31212,68,W. Matthews misses 3-pt jump shot from 23 ft,4:22.0,14-15,Milwaukee,0,0.0
+31213,68,Defensive rebound by K. Looney,4:20.0,14-15,Golden State,0,0.0
+31214,68,A. Wiggins misses 3-pt jump shot from 26 ft,4:08.0,14-15,Golden State,0,0.0
+31215,68,Defensive rebound by S. Ibaka,4:05.0,14-15,Milwaukee,0,0.0
+31216,68,S. Ibaka misses 3-pt jump shot from 28 ft,3:59.0,14-15,Milwaukee,0,0.0
+31217,68,Defensive rebound by J. Kuminga,3:57.0,14-15,Golden State,0,0.0
+31218,68,Shooting foul by G. Allen (drawn by J. Kuminga),3:50.0,14-15,Golden State,0,0.0
+31219,68,J. Kuminga makes free throw 1 of 2,3:50.0,14-16,Golden State,0,0.0
+31220,68,J. Holiday enters the game for G. Allen,3:50.0,14-16,Milwaukee,1,0.0
+31221,68,N. Bjelica enters the game for K. Looney,3:50.0,14-16,Golden State,0,1.0
+31222,68,K. Thompson enters the game for A. Wiggins,3:50.0,14-16,Golden State,0,0.0
+31223,68,J. Kuminga makes free throw 2 of 2,3:50.0,14-17,Golden State,0,0.0
+31224,68,K. Middleton misses 2-pt jump shot from 12 ft,3:36.0,14-17,Milwaukee,0,0.0
+31225,68,Defensive rebound by Team,3:34.0,14-17,Golden State,0,0.0
+31226,68,Loose ball foul by S. Ibaka (drawn by N. Bjelica),3:34.0,14-17,Milwaukee,0,0.0
+31227,68,N. Bjelica makes free throw 1 of 2,3:34.0,14-18,Golden State,0,0.0
+31228,68,N. Bjelica makes free throw 2 of 2,3:34.0,14-19,Golden State,0,0.0
+31229,68,S. Ibaka makes 2-pt layup from 4 ft (assist by K. Middleton),3:23.0,16-19,Milwaukee,0,0.0
+31230,68,Shooting foul by J. Kuminga (drawn by S. Ibaka),3:23.0,16-19,Milwaukee,0,0.0
+31231,68,J. Nwora enters the game for J. Carter,3:23.0,16-19,Milwaukee,1,0.0
+31232,68,S. Ibaka makes free throw 1 of 1,3:23.0,17-19,Milwaukee,0,0.0
+31233,68,N. Bjelica misses 2-pt layup from 3 ft,3:09.0,17-19,Golden State,0,0.0
+31234,68,Defensive rebound by S. Ibaka,3:07.0,17-19,Milwaukee,0,0.0
+31235,68,J. Holiday makes 2-pt layup from 5 ft,2:56.0,19-19,Milwaukee,0,1.0
+31236,68,S. Curry makes 3-pt jump shot from 27 ft,2:43.0,19-22,Golden State,0,0.0
+31237,68,S. Ibaka makes 3-pt jump shot from 27 ft (assist by W. Matthews),2:30.0,22-22,Milwaukee,0,0.0
+31238,68,K. Thompson misses 3-pt jump shot from 23 ft,2:19.0,22-22,Golden State,0,0.0
+31239,68,Offensive rebound by M. Moody,2:16.0,22-22,Golden State,0,0.0
+31240,68,N. Bjelica misses 2-pt layup from 6 ft,2:07.0,22-22,Golden State,0,0.0
+31241,68,Offensive rebound by J. Kuminga,2:05.0,22-22,Golden State,0,0.0
+31242,68,J. Kuminga makes 2-pt layup at rim,2:04.0,22-24,Golden State,0,0.0
+31243,68,J. Holiday makes 3-pt jump shot from 26 ft (assist by K. Middleton),1:55.0,25-24,Milwaukee,0,0.0
+31244,68,Golden State full timeout,1:52.0,25-24,Golden State,0,0.0
+31245,68,B. Portis enters the game for K. Middleton,1:52.0,25-24,Milwaukee,1,0.0
+31246,68,J. Poole enters the game for S. Curry,1:52.0,25-24,Golden State,0,0.0
+31247,68,J. Kuminga misses 3-pt jump shot from 26 ft,1:37.0,25-24,Golden State,0,0.0
+31248,68,Defensive rebound by J. Nwora,1:34.0,25-24,Milwaukee,0,0.0
+31249,68,W. Matthews misses 3-pt jump shot from 26 ft,1:18.0,25-24,Milwaukee,0,0.0
+31250,68,Defensive rebound by J. Kuminga,1:16.0,25-24,Golden State,0,0.0
+31251,68,K. Thompson makes 2-pt jump shot from 17 ft (assist by J. Poole),1:08.0,25-26,Golden State,0,0.0
+31252,68,B. Portis misses 3-pt jump shot from 23 ft,0:53.0,25-26,Milwaukee,0,0.0
+31253,68,Defensive rebound by M. Moody,0:50.0,25-26,Golden State,0,0.0
+31254,68,K. Thompson makes 2-pt jump shot from 15 ft (assist by N. Bjelica),0:38.0,25-28,Golden State,0,0.0
+31255,68,S. Ibaka makes 3-pt jump shot from 28 ft (assist by J. Holiday),0:28.0,28-28,Milwaukee,0,0.0
+31256,68,J. Kuminga misses 2-pt layup from 4 ft,0:03.0,28-28,Golden State,0,0.0
+31257,68,Offensive rebound by J. Kuminga,0:02.0,28-28,Golden State,0,0.0
+31258,68,J. Kuminga misses 2-pt layup at rim,0:01.0,28-28,Golden State,0,0.0
+31259,68,Offensive rebound by J. Kuminga,0:00.0,28-28,Golden State,0,0.0
+31260,68,J. Kuminga misses 2-pt layup at rim,0:00.0,28-28,Golden State,0,0.0
+31261,68,Offensive rebound by Team,0:00.0,28-28,Golden State,0,0.0
+31262,68,J. Poole misses 2-pt jump shot from 15 ft,11:44.0,28-28,Golden State,0,0.0
+31263,68,Defensive rebound by G. Antetokounmpo,11:42.0,28-28,Milwaukee,0,0.0
+31264,68,G. Antetokounmpo makes 2-pt layup from 2 ft (assist by J. Nwora),11:31.0,30-28,Milwaukee,0,0.0
+31265,68,A. Wiggins makes 2-pt dunk from 4 ft (assist by J. Poole),11:19.0,30-30,Golden State,0,0.0
+31266,68,G. Allen makes 3-pt jump shot from 23 ft (assist by B. Portis),10:55.0,33-30,Milwaukee,0,0.0
+31267,68,J. Poole makes 2-pt jump shot from 7 ft (assist by J. Kuminga),10:36.0,33-32,Golden State,0,0.0
+31268,68,J. Holiday makes 3-pt jump shot from 26 ft (assist by B. Portis),10:24.0,36-32,Milwaukee,0,0.0
+31269,68,Turnover by K. Thompson (lost ball; steal by J. Holiday),10:11.0,36-32,Golden State,0,0.0
+31270,68,B. Portis makes 2-pt dunk from 2 ft (assist by G. Antetokounmpo),10:04.0,38-32,Milwaukee,0,0.0
+31271,68,Golden State full timeout,10:04.0,38-32,Golden State,0,0.0
+31272,68,K. Thompson makes 3-pt jump shot from 25 ft (assist by N. Bjelica),9:51.0,38-35,Golden State,0,0.0
+31273,68,J. Holiday misses 3-pt jump shot from 27 ft,9:33.0,38-35,Milwaukee,0,0.0
+31274,68,Defensive rebound by J. Poole,9:31.0,38-35,Golden State,0,1.0
+31275,68,K. Thompson makes 3-pt jump shot from 26 ft (assist by N. Bjelica),9:17.0,38-38,Golden State,0,1.0
+31276,68,G. Antetokounmpo makes 2-pt jump shot from 19 ft (assist by J. Holiday),8:57.0,40-38,Milwaukee,0,1.0
+31277,68,N. Bjelica misses 3-pt jump shot from 27 ft,8:44.0,40-38,Golden State,0,0.0
+31278,68,Offensive rebound by A. Wiggins,8:42.0,40-38,Golden State,0,0.0
+31279,68,A. Wiggins makes 2-pt dunk at rim,8:40.0,40-40,Golden State,0,0.0
+31280,68,J. Nwora misses 3-pt jump shot from 25 ft,8:28.0,40-40,Milwaukee,0,0.0
+31281,68,Defensive rebound by J. Poole,8:26.0,40-40,Golden State,0,0.0
+31282,68,K. Thompson makes 3-pt jump shot from 25 ft (assist by J. Poole),8:21.0,40-43,Golden State,0,0.0
+31283,68,Milwaukee full timeout,8:19.0,40-43,Milwaukee,0,0.0
+31284,68,J. Carter enters the game for J. Holiday,8:19.0,40-43,Milwaukee,1,0.0
+31285,68,W. Matthews enters the game for J. Nwora,8:19.0,40-43,Milwaukee,1,0.0
+31286,68,K. Middleton enters the game for B. Portis,8:19.0,40-43,Milwaukee,1,0.0
+31287,68,Shooting foul by A. Wiggins (drawn by G. Antetokounmpo),7:59.0,40-43,Milwaukee,0,0.0
+31288,68,G. Antetokounmpo misses free throw 1 of 2,7:59.0,40-43,Milwaukee,0,0.0
+31289,68,Offensive rebound by Team,7:59.0,40-43,Milwaukee,0,0.0
+31290,68,G. Antetokounmpo makes free throw 2 of 2,7:59.0,41-43,Milwaukee,0,0.0
+31291,68,J. Kuminga makes 2-pt layup from 3 ft (assist by K. Thompson),7:42.0,41-45,Golden State,0,0.0
+31292,68,G. Allen misses 2-pt layup from 4 ft (block by J. Kuminga),7:19.0,41-45,Milwaukee,0,1.0
+31293,68,Defensive rebound by N. Bjelica,7:17.0,41-45,Golden State,0,0.0
+31294,68,J. Kuminga misses 2-pt jump shot from 10 ft,7:01.0,41-45,Golden State,0,0.0
+31295,68,Offensive rebound by N. Bjelica,6:59.0,41-45,Golden State,0,0.0
+31296,68,K. Thompson makes 3-pt jump shot from 26 ft (assist by N. Bjelica),6:54.0,41-48,Golden State,0,0.0
+31297,68,G. Allen misses 3-pt jump shot from 23 ft,6:41.0,41-48,Milwaukee,0,0.0
+31298,68,Defensive rebound by K. Thompson,6:39.0,41-48,Golden State,0,0.0
+31299,68,J. Poole makes 2-pt layup from 4 ft,6:23.0,41-50,Golden State,0,0.0
+31300,68,Shooting foul by J. Kuminga (drawn by G. Antetokounmpo),6:08.0,41-50,Milwaukee,0,0.0
+31301,68,G. Antetokounmpo makes free throw 1 of 2,6:08.0,42-50,Milwaukee,0,0.0
+31302,68,D. Bembry enters the game for G. Allen,6:08.0,42-50,Milwaukee,1,0.0
+31303,68,S. Curry enters the game for N. Bjelica,6:08.0,42-50,Golden State,0,0.0
+31304,68,K. Looney enters the game for J. Poole,6:08.0,42-50,Golden State,0,0.0
+31305,68,M. Moody enters the game for A. Wiggins,6:08.0,42-50,Golden State,0,0.0
+31306,68,G. Antetokounmpo makes free throw 2 of 2,6:08.0,43-50,Milwaukee,0,0.0
+31307,68,K. Thompson makes 2-pt jump shot from 12 ft,5:49.0,43-52,Golden State,0,0.0
+31308,68,K. Middleton misses 3-pt jump shot from 25 ft,5:36.0,43-52,Milwaukee,0,0.0
+31309,68,Offensive rebound by W. Matthews,5:30.0,43-52,Milwaukee,0,0.0
+31310,68,W. Matthews misses 2-pt layup at rim,5:30.0,43-52,Milwaukee,0,0.0
+31311,68,Defensive rebound by S. Curry,5:29.0,43-52,Golden State,0,0.0
+31312,68,K. Thompson misses 3-pt jump shot from 27 ft,5:27.0,43-52,Golden State,0,0.0
+31313,68,Offensive rebound by Team,5:25.0,43-52,Golden State,0,0.0
+31314,68,A. Wiggins enters the game for K. Thompson,5:25.0,43-52,Golden State,0,1.0
+31315,68,Turnover by A. Wiggins (lost ball; steal by K. Middleton),5:20.0,43-52,Golden State,0,0.0
+31316,68,G. Antetokounmpo misses 2-pt layup from 4 ft,5:12.0,43-52,Milwaukee,0,0.0
+31317,68,Defensive rebound by J. Kuminga,5:11.0,43-52,Golden State,0,0.0
+31318,68,J. Kuminga misses 2-pt layup from 4 ft,5:00.0,43-52,Golden State,0,0.0
+31319,68,Offensive rebound by J. Kuminga,4:58.0,43-52,Golden State,0,0.0
+31320,68,J. Kuminga makes 2-pt layup at rim,4:55.0,43-54,Golden State,0,0.0
+31321,68,K. Middleton misses 2-pt jump shot from 6 ft,4:43.0,43-54,Milwaukee,0,0.0
+31322,68,Defensive rebound by K. Looney,4:41.0,43-54,Golden State,0,0.0
+31323,68,Turnover by J. Kuminga (bad pass),4:31.0,43-54,Golden State,0,0.0
+31324,68,J. Holiday enters the game for W. Matthews,4:31.0,43-54,Milwaukee,1,1.0
+31325,68,G. Antetokounmpo makes 2-pt layup from 5 ft,4:24.0,45-54,Milwaukee,0,0.0
+31326,68,Shooting foul by K. Looney (drawn by G. Antetokounmpo),4:24.0,45-54,Milwaukee,0,0.0
+31327,68,J. Poole enters the game for J. Kuminga,4:24.0,45-54,Golden State,0,0.0
+31328,68,G. Antetokounmpo misses free throw 1 of 1,4:24.0,45-54,Milwaukee,0,0.0
+31329,68,Defensive rebound by J. Poole,4:21.0,45-54,Golden State,0,0.0
+31330,68,A. Wiggins makes 2-pt jump shot from 11 ft,4:06.0,45-56,Golden State,0,0.0
+31331,68,J. Carter makes 3-pt jump shot from 23 ft (assist by K. Middleton),3:51.0,48-56,Milwaukee,0,0.0
+31332,68,Turnover by S. Curry (bad pass; steal by J. Holiday),3:27.0,48-56,Golden State,0,0.0
+31333,68,Personal take foul by J. Poole (drawn by G. Antetokounmpo),3:25.0,48-56,Milwaukee,0,0.0
+31334,68,S. Ibaka enters the game for D. Bembry,3:25.0,48-56,Milwaukee,1,0.0
+31335,68,K. Middleton misses 3-pt jump shot from 28 ft,3:20.0,48-56,Milwaukee,0,0.0
+31336,68,Defensive rebound by M. Moody,3:18.0,48-56,Golden State,0,0.0
+31337,68,Turnover by S. Curry (bad pass; steal by J. Carter),3:04.0,48-56,Golden State,0,0.0
+31338,68,G. Antetokounmpo makes 2-pt layup from 8 ft (assist by J. Carter),3:01.0,50-56,Milwaukee,0,0.0
+31339,68,Shooting foul by J. Poole (drawn by G. Antetokounmpo),3:01.0,50-56,Milwaukee,0,0.0
+31340,68,G. Antetokounmpo misses free throw 1 of 1,3:01.0,50-56,Milwaukee,0,0.0
+31341,68,Defensive rebound by M. Moody,2:59.0,50-56,Golden State,0,0.0
+31342,68,M. Moody misses 3-pt jump shot from 27 ft,2:46.0,50-56,Golden State,0,0.0
+31343,68,Defensive rebound by S. Ibaka,2:44.0,50-56,Milwaukee,0,0.0
+31344,68,G. Antetokounmpo misses 3-pt jump shot from 27 ft,2:30.0,50-56,Milwaukee,0,1.0
+31345,68,Defensive rebound by J. Poole,2:28.0,50-56,Golden State,0,0.0
+31346,68,J. Poole makes 3-pt jump shot from 27 ft,2:17.0,50-59,Golden State,0,0.0
+31347,68,S. Ibaka makes 2-pt jump shot from 14 ft (assist by K. Middleton),2:04.0,52-59,Milwaukee,0,0.0
+31348,68,A. Wiggins makes 3-pt jump shot from 25 ft (assist by S. Curry),1:52.0,52-62,Golden State,0,0.0
+31349,68,J. Holiday makes 2-pt jump shot from 17 ft,1:33.0,54-62,Milwaukee,0,0.0
+31350,68,J. Poole misses 3-pt jump shot from 27 ft,1:17.0,54-62,Golden State,0,0.0
+31351,68,Defensive rebound by G. Antetokounmpo,1:14.0,54-62,Milwaukee,0,0.0
+31352,68,Shooting foul by K. Looney (drawn by G. Antetokounmpo),1:04.0,54-62,Milwaukee,0,1.0
+31353,68,G. Antetokounmpo makes free throw 1 of 2,1:04.0,55-62,Milwaukee,0,1.0
+31354,68,W. Matthews enters the game for J. Carter,1:04.0,55-62,Milwaukee,1,0.0
+31355,68,K. Thompson enters the game for M. Moody,1:04.0,55-62,Golden State,0,0.0
+31356,68,G. Antetokounmpo misses free throw 2 of 2,1:04.0,55-62,Milwaukee,0,0.0
+31357,68,Defensive rebound by A. Wiggins,1:02.0,55-62,Golden State,0,0.0
+31358,68,K. Thompson makes 3-pt jump shot from 23 ft (assist by S. Curry),0:53.0,55-65,Golden State,0,0.0
+31359,68,K. Middleton makes 3-pt jump shot from 26 ft (assist by J. Holiday),0:42.0,58-65,Milwaukee,0,0.0
+31360,68,Shooting foul by S. Ibaka (drawn by J. Poole),0:34.0,58-65,Golden State,0,0.0
+31361,68,J. Poole makes free throw 1 of 2,0:34.0,58-66,Golden State,0,0.0
+31362,68,G. Allen enters the game for G. Antetokounmpo,0:34.0,58-66,Milwaukee,1,0.0
+31363,68,B. Portis enters the game for S. Ibaka,0:34.0,58-66,Milwaukee,1,0.0
+31364,68,J. Kuminga enters the game for K. Looney,0:34.0,58-66,Golden State,0,0.0
+31365,68,J. Poole makes free throw 2 of 2,0:34.0,58-67,Golden State,0,0.0
+31366,68,K. Middleton misses 2-pt layup from 9 ft (block by K. Thompson),0:25.0,58-67,Milwaukee,0,0.0
+31367,68,Defensive rebound by J. Poole,0:23.0,58-67,Golden State,0,0.0
+31368,68,A. Wiggins misses 3-pt jump shot from 27 ft,0:06.0,58-67,Golden State,0,0.0
+31369,68,Defensive rebound by W. Matthews,0:04.0,58-67,Milwaukee,0,0.0
+31370,68,B. Portis misses 3-pt jump shot from 28 ft,0:00.0,58-67,Milwaukee,0,0.0
+31371,68,Offensive rebound by Team,0:00.0,58-67,Milwaukee,0,0.0
+31372,68,J. Poole makes 3-pt jump shot from 27 ft (assist by K. Looney),11:49.0,58-70,Golden State,0,0.0
+31373,68,J. Holiday misses 3-pt jump shot from 26 ft,11:39.0,58-70,Milwaukee,0,0.0
+31374,68,Offensive rebound by B. Portis,11:37.0,58-70,Milwaukee,0,0.0
+31375,68,B. Portis misses 2-pt layup from 5 ft (block by A. Wiggins),11:32.0,58-70,Milwaukee,0,0.0
+31376,68,Defensive rebound by K. Looney,11:30.0,58-70,Golden State,0,0.0
+31377,68,J. Poole misses 3-pt jump shot from 26 ft,11:22.0,58-70,Golden State,0,0.0
+31378,68,Offensive rebound by A. Wiggins,11:19.0,58-70,Golden State,0,0.0
+31379,68,A. Wiggins makes 2-pt layup from 5 ft,11:18.0,58-72,Golden State,0,0.0
+31380,68,G. Allen misses 3-pt jump shot from 23 ft,11:07.0,58-72,Milwaukee,0,0.0
+31381,68,Defensive rebound by K. Thompson,11:05.0,58-72,Golden State,0,1.0
+31382,68,J. Poole misses 2-pt jump shot from 10 ft,10:48.0,58-72,Golden State,0,0.0
+31383,68,Offensive rebound by Team,10:48.0,58-72,Golden State,0,0.0
+31384,68,J. Poole makes 3-pt jump shot from 23 ft (assist by S. Curry),10:45.0,58-75,Golden State,0,0.0
+31385,68,G. Antetokounmpo misses 2-pt layup from 7 ft (block by K. Looney),10:29.0,58-75,Milwaukee,0,0.0
+31386,68,Offensive rebound by Team,10:29.0,58-75,Milwaukee,0,0.0
+31387,68,G. Antetokounmpo misses 3-pt jump shot from 27 ft,10:19.0,58-75,Milwaukee,0,0.0
+31388,68,Defensive rebound by K. Thompson,10:17.0,58-75,Golden State,0,0.0
+31389,68,J. Poole makes 3-pt jump shot from 29 ft (assist by K. Looney),10:04.0,58-78,Golden State,0,0.0
+31390,68,Milwaukee full timeout,10:03.0,58-78,Milwaukee,0,0.0
+31391,68,W. Matthews enters the game for G. Allen,10:03.0,58-78,Milwaukee,1,0.0
+31392,68,J. Holiday misses 2-pt jump shot from 10 ft (block by S. Curry),9:50.0,58-78,Milwaukee,0,0.0
+31393,68,Offensive rebound by Team,9:48.0,58-78,Milwaukee,0,0.0
+31394,68,G. Antetokounmpo makes 2-pt jump shot from 11 ft (assist by J. Holiday),9:43.0,60-78,Milwaukee,0,0.0
+31395,68,J. Poole makes 2-pt jump shot from 13 ft,9:24.0,60-80,Golden State,0,0.0
+31396,68,G. Antetokounmpo misses 3-pt jump shot from 25 ft,9:16.0,60-80,Milwaukee,0,0.0
+31397,68,Defensive rebound by K. Thompson,9:14.0,60-80,Golden State,0,0.0
+31398,68,Personal foul by B. Portis (drawn by J. Poole),9:04.0,60-80,Golden State,0,0.0
+31399,68,K. Looney misses 2-pt jump shot from 10 ft,8:51.0,60-80,Golden State,0,0.0
+31400,68,Defensive rebound by B. Portis,8:50.0,60-80,Milwaukee,0,0.0
+31401,68,B. Portis misses 3-pt jump shot from 27 ft,8:42.0,60-80,Milwaukee,0,0.0
+31402,68,Defensive rebound by A. Wiggins,8:39.0,60-80,Golden State,0,0.0
+31403,68,A. Wiggins misses 2-pt jump shot from 18 ft,8:19.0,60-80,Golden State,0,0.0
+31404,68,Defensive rebound by B. Portis,8:17.0,60-80,Milwaukee,0,0.0
+31405,68,B. Portis makes 2-pt layup from 4 ft (assist by K. Middleton),8:07.0,62-80,Milwaukee,0,0.0
+31406,68,K. Thompson makes 2-pt jump shot from 20 ft (assist by A. Wiggins),7:52.0,62-82,Golden State,0,0.0
+31407,68,Shooting foul by K. Thompson (drawn by K. Middleton),7:43.0,62-82,Milwaukee,0,0.0
+31408,68,K. Middleton makes free throw 1 of 2,7:43.0,63-82,Milwaukee,0,0.0
+31409,68,K. Middleton makes free throw 2 of 2,7:43.0,64-82,Milwaukee,0,0.0
+31410,68,Turnover by K. Thompson (bad pass; steal by K. Middleton),7:19.0,64-82,Golden State,0,0.0
+31411,68,Shooting foul by A. Wiggins (drawn by G. Antetokounmpo),7:15.0,64-82,Milwaukee,0,0.0
+31412,68,G. Antetokounmpo misses free throw 1 of 2,7:15.0,64-82,Milwaukee,0,0.0
+31413,68,Offensive rebound by Team,7:15.0,64-82,Milwaukee,0,0.0
+31414,68,G. Antetokounmpo makes free throw 2 of 2,7:15.0,65-82,Milwaukee,0,0.0
+31415,68,Personal foul by W. Matthews (drawn by S. Curry),7:10.0,65-82,Golden State,0,1.0
+31416,68,A. Wiggins makes 3-pt jump shot from 26 ft (assist by S. Curry),7:01.0,65-85,Golden State,0,0.0
+31417,68,G. Antetokounmpo makes 2-pt jump shot from 14 ft (assist by J. Holiday),6:48.0,67-85,Milwaukee,0,0.0
+31418,68,A. Wiggins makes 3-pt jump shot from 23 ft (assist by K. Thompson),6:31.0,67-88,Golden State,0,0.0
+31419,68,J. Holiday makes 2-pt layup from 4 ft (assist by K. Middleton),6:19.0,69-88,Milwaukee,0,0.0
+31420,68,K. Thompson misses 2-pt jump shot from 7 ft,5:55.0,69-88,Golden State,0,0.0
+31421,68,Defensive rebound by G. Antetokounmpo,5:52.0,69-88,Milwaukee,0,0.0
+31422,68,Shooting foul by K. Looney (drawn by G. Antetokounmpo),5:49.0,69-88,Milwaukee,0,0.0
+31423,68,G. Antetokounmpo makes free throw 1 of 2,5:49.0,70-88,Milwaukee,0,0.0
+31424,68,Golden State full timeout,5:49.0,70-88,Golden State,0,0.0
+31425,68,J. Carter enters the game for B. Portis,5:49.0,70-88,Milwaukee,1,0.0
+31426,68,J. Kuminga enters the game for J. Poole,5:49.0,70-88,Golden State,0,0.0
+31427,68,M. Moody enters the game for K. Thompson,5:49.0,70-88,Golden State,0,0.0
+31428,68,G. Antetokounmpo makes free throw 2 of 2,5:49.0,71-88,Milwaukee,0,0.0
+31429,68,Offensive foul by K. Looney (drawn by W. Matthews),5:39.0,71-88,Golden State,0,0.0
+31430,68,Turnover by K. Looney (offensive foul),5:39.0,71-88,Golden State,0,0.0
+31431,68,N. Bjelica enters the game for K. Looney,5:39.0,71-88,Golden State,0,0.0
+31432,68,J. Carter makes 3-pt jump shot from 25 ft (assist by J. Holiday),5:22.0,74-88,Milwaukee,0,0.0
+31433,68,S. Curry misses 3-pt jump shot from 29 ft,5:05.0,74-88,Golden State,0,0.0
+31434,68,Offensive rebound by A. Wiggins,5:04.0,74-88,Golden State,0,0.0
+31435,68,J. Kuminga misses 2-pt jump shot from 11 ft (block by G. Antetokounmpo),4:49.0,74-88,Golden State,0,0.0
+31436,68,Offensive rebound by J. Kuminga,4:48.0,74-88,Golden State,0,0.0
+31437,68,Turnover by Team (shot clock),4:48.0,74-88,Golden State,0,0.0
+31438,68,Shooting foul by N. Bjelica (drawn by G. Antetokounmpo),4:37.0,74-88,Milwaukee,0,1.0
+31439,68,G. Antetokounmpo makes free throw 1 of 2,4:37.0,75-88,Milwaukee,0,0.0
+31440,68,K. Thompson enters the game for A. Wiggins,4:37.0,75-88,Golden State,0,0.0
+31441,68,G. Antetokounmpo makes free throw 2 of 2,4:37.0,76-88,Milwaukee,0,0.0
+31442,68,K. Thompson makes 3-pt jump shot from 28 ft (assist by S. Curry),4:28.0,76-91,Golden State,0,0.0
+31443,68,K. Middleton misses 2-pt jump shot from 10 ft,4:15.0,76-91,Milwaukee,0,0.0
+31444,68,Defensive rebound by J. Kuminga,4:13.0,76-91,Golden State,0,0.0
+31445,68,J. Kuminga makes 2-pt jump shot from 17 ft (assist by K. Thompson),3:54.0,76-93,Golden State,0,0.0
+31446,68,Shooting foul by J. Kuminga (drawn by G. Antetokounmpo),3:43.0,76-93,Milwaukee,0,0.0
+31447,68,G. Antetokounmpo makes free throw 1 of 2,3:43.0,77-93,Milwaukee,0,0.0
+31448,68,D. Bembry enters the game for K. Middleton,3:43.0,77-93,Milwaukee,1,0.0
+31449,68,J. Poole enters the game for M. Moody,3:43.0,77-93,Golden State,0,0.0
+31450,68,G. Antetokounmpo misses free throw 2 of 2,3:43.0,77-93,Milwaukee,0,0.0
+31451,68,Defensive rebound by N. Bjelica,3:41.0,77-93,Golden State,0,1.0
+31452,68,J. Poole misses 3-pt jump shot from 27 ft,3:27.0,77-93,Golden State,0,0.0
+31453,68,Defensive rebound by J. Carter,3:24.0,77-93,Milwaukee,0,0.0
+31454,68,G. Antetokounmpo makes 2-pt dunk from 2 ft,3:10.0,79-93,Milwaukee,0,0.0
+31455,68,Turnover by S. Curry (lost ball; steal by D. Bembry),2:53.0,79-93,Golden State,0,0.0
+31456,68,Shooting foul by N. Bjelica (drawn by G. Antetokounmpo),2:50.0,79-93,Milwaukee,0,0.0
+31457,68,G. Antetokounmpo makes free throw 1 of 2,2:50.0,80-93,Milwaukee,0,0.0
+31458,68,G. Antetokounmpo makes free throw 2 of 2,2:50.0,81-93,Milwaukee,0,0.0
+31459,68,Shooting foul by D. Bembry (drawn by J. Poole),2:31.0,81-93,Golden State,0,0.0
+31460,68,Milwaukee full timeout,2:31.0,81-93,Milwaukee,0,0.0
+31461,68,G. Allen enters the game for D. Bembry,2:31.0,81-93,Milwaukee,1,0.0
+31462,68,J. Poole makes free throw 1 of 3,2:31.0,81-94,Golden State,0,0.0
+31463,68,J. Poole makes free throw 2 of 3,2:31.0,81-95,Golden State,0,0.0
+31464,68,J. Poole makes free throw 3 of 3,2:31.0,81-96,Golden State,0,0.0
+31465,68,J. Carter makes 3-pt jump shot from 24 ft (assist by G. Allen),2:15.0,84-96,Milwaukee,0,0.0
+31466,68,J. Poole misses 3-pt jump shot from 26 ft,1:49.0,84-96,Golden State,0,0.0
+31467,68,Offensive rebound by S. Curry,1:47.0,84-96,Golden State,0,0.0
+31468,68,N. Bjelica makes 2-pt layup from 2 ft (assist by S. Curry),1:42.0,84-98,Golden State,0,0.0
+31469,68,Turnover by J. Holiday (lost ball; steal by S. Curry),1:33.0,84-98,Milwaukee,0,0.0
+31470,68,K. Thompson makes 3-pt jump shot from 27 ft (assist by S. Curry),1:27.0,84-101,Golden State,0,0.0
+31471,68,W. Matthews misses 3-pt jump shot from 26 ft,1:03.0,84-101,Milwaukee,0,0.0
+31472,68,Defensive rebound by J. Kuminga,1:00.0,84-101,Golden State,0,0.0
+31473,68,K. Thompson misses 3-pt jump shot from 30 ft,0:56.0,84-101,Golden State,0,0.0
+31474,68,Offensive rebound by Team,0:54.0,84-101,Golden State,0,0.0
+31475,68,Loose ball foul by G. Allen (drawn by J. Kuminga),0:54.0,84-101,Milwaukee,0,0.0
+31476,68,N. Bjelica makes 2-pt layup from 4 ft (assist by J. Poole),0:46.0,84-103,Golden State,0,0.0
+31477,68,J. Holiday misses 2-pt jump shot from 18 ft,0:31.0,84-103,Milwaukee,0,0.0
+31478,68,Defensive rebound by J. Poole,0:29.0,84-103,Golden State,0,0.0
+31479,68,K. Thompson misses 3-pt jump shot from 28 ft,0:10.0,84-103,Golden State,0,0.0
+31480,68,Defensive rebound by J. Holiday,0:08.0,84-103,Milwaukee,0,0.0
+31481,68,J. Carter misses 3-pt jump shot from 26 ft,0:01.0,84-103,Milwaukee,0,0.0
+31482,68,Offensive rebound by Team,0:00.0,84-103,Milwaukee,0,0.0
+31483,68,K. Middleton misses 3-pt jump shot from 27 ft,11:48.0,84-103,Milwaukee,0,0.0
+31484,68,Defensive rebound by N. Bjelica,11:46.0,84-103,Golden State,0,0.0
+31485,68,K. Thompson makes 2-pt jump shot from 9 ft (assist by N. Bjelica),11:31.0,84-105,Golden State,0,0.0
+31486,68,Turnover by K. Middleton (lost ball; steal by J. Poole),11:19.0,84-105,Milwaukee,0,0.0
+31487,68,A. Wiggins misses 2-pt layup from 8 ft (block by J. Carter),11:15.0,84-105,Golden State,0,0.0
+31488,68,Defensive rebound by G. Allen,11:13.0,84-105,Milwaukee,0,0.0
+31489,68,K. Middleton makes 3-pt jump shot from 26 ft (assist by J. Carter),11:03.0,87-105,Milwaukee,0,0.0
+31490,68,K. Thompson makes 2-pt jump shot from 17 ft,10:38.0,87-107,Golden State,0,0.0
+31491,68,K. Middleton makes 3-pt jump shot from 27 ft,10:28.0,90-107,Milwaukee,0,0.0
+31492,68,K. Thompson makes 3-pt jump shot from 28 ft (assist by A. Wiggins),10:07.0,90-110,Golden State,0,0.0
+31493,68,Personal foul by N. Bjelica (drawn by K. Middleton),9:54.0,90-110,Milwaukee,0,0.0
+31494,68,K. Middleton misses 3-pt jump shot from 26 ft,9:49.0,90-110,Milwaukee,0,0.0
+31495,68,Offensive rebound by S. Ibaka,9:46.0,90-110,Milwaukee,0,0.0
+31496,68,S. Ibaka misses 2-pt hook shot from 8 ft,9:46.0,90-110,Milwaukee,0,0.0
+31497,68,Offensive rebound by K. Middleton,9:44.0,90-110,Milwaukee,0,0.0
+31498,68,K. Middleton misses 2-pt jump shot from 12 ft (block by A. Wiggins),9:31.0,90-110,Milwaukee,0,0.0
+31499,68,Defensive rebound by A. Wiggins,9:30.0,90-110,Golden State,0,0.0
+31500,68,Personal foul by K. Middleton (drawn by A. Wiggins),9:30.0,90-110,Golden State,0,0.0
+31501,68,J. Kuminga misses 3-pt jump shot from 23 ft,9:19.0,90-110,Golden State,0,1.0
+31502,68,Defensive rebound by K. Middleton,9:17.0,90-110,Milwaukee,0,1.0
+31503,68,G. Allen makes 3-pt jump shot from 26 ft (assist by B. Portis),9:00.0,93-110,Milwaukee,0,0.0
+31504,68,J. Kuminga makes 2-pt layup from 4 ft (assist by J. Poole),8:44.0,93-112,Golden State,0,0.0
+31505,68,K. Middleton makes 2-pt jump shot from 7 ft,8:34.0,95-112,Milwaukee,0,0.0
+31506,68,K. Thompson misses 3-pt jump shot from 28 ft,8:17.0,95-112,Golden State,0,0.0
+31507,68,Defensive rebound by S. Ibaka,8:15.0,95-112,Milwaukee,0,0.0
+31508,68,S. Ibaka misses 2-pt jump shot from 19 ft,7:59.0,95-112,Milwaukee,0,0.0
+31509,68,Defensive rebound by J. Kuminga,7:56.0,95-112,Golden State,0,0.0
+31510,68,Golden State full timeout,7:50.0,95-112,Golden State,0,0.0
+31511,68,G. Antetokounmpo enters the game for J. Carter,7:50.0,95-112,Milwaukee,1,0.0
+31512,68,J. Holiday enters the game for B. Portis,7:50.0,95-112,Milwaukee,1,0.0
+31513,68,S. Curry enters the game for J. Poole,7:50.0,95-112,Golden State,0,0.0
+31514,68,M. Moody enters the game for K. Thompson,7:50.0,95-112,Golden State,0,0.0
+31515,68,Turnover by S. Curry (bad pass; steal by K. Middleton),7:44.0,95-112,Golden State,0,0.0
+31516,68,Personal foul by N. Bjelica (drawn by K. Middleton),7:41.0,95-112,Milwaukee,0,0.0
+31517,68,G. Antetokounmpo misses 2-pt layup from 4 ft,7:39.0,95-112,Milwaukee,0,0.0
+31518,68,Defensive rebound by N. Bjelica,7:36.0,95-112,Golden State,0,0.0
+31519,68,J. Kuminga makes 2-pt dunk from 3 ft (assist by S. Curry),7:25.0,95-114,Golden State,0,0.0
+31520,68,G. Antetokounmpo misses 2-pt jump shot from 5 ft,7:15.0,95-114,Milwaukee,0,0.0
+31521,68,Defensive rebound by Team,7:13.0,95-114,Golden State,0,1.0
+31522,68,Loose ball foul by S. Ibaka (drawn by S. Curry),7:13.0,95-114,Milwaukee,0,0.0
+31523,68,A. Wiggins misses 3-pt jump shot from 24 ft,6:59.0,95-114,Golden State,0,0.0
+31524,68,Defensive rebound by G. Antetokounmpo,6:56.0,95-114,Milwaukee,0,0.0
+31525,68,J. Holiday misses 3-pt jump shot from 25 ft,6:49.0,95-114,Milwaukee,0,0.0
+31526,68,Offensive rebound by G. Antetokounmpo,6:47.0,95-114,Milwaukee,0,0.0
+31527,68,S. Ibaka makes 2-pt dunk from 2 ft (assist by G. Antetokounmpo),6:38.0,97-114,Milwaukee,0,0.0
+31528,68,J. Kuminga misses 2-pt hook shot from 5 ft,6:13.0,97-114,Golden State,0,0.0
+31529,68,Offensive rebound by Team,6:11.0,97-114,Golden State,0,0.0
+31530,68,Loose ball foul by K. Middleton (drawn by M. Moody),6:11.0,97-114,Milwaukee,0,0.0
+31531,68,W. Matthews enters the game for G. Allen,6:11.0,97-114,Milwaukee,1,0.0
+31532,68,M. Moody misses 3-pt jump shot from 23 ft,5:58.0,97-114,Golden State,0,0.0
+31533,68,Defensive rebound by G. Antetokounmpo,5:56.0,97-114,Milwaukee,0,0.0
+31534,68,S. Ibaka makes 2-pt dunk from 3 ft (assist by G. Antetokounmpo),5:48.0,99-114,Milwaukee,0,0.0
+31535,68,Golden State full timeout,5:47.0,99-114,Golden State,0,0.0
+31536,68,K. Looney enters the game for N. Bjelica,5:47.0,99-114,Golden State,0,1.0
+31537,68,J. Poole enters the game for M. Moody,5:47.0,99-114,Golden State,0,0.0
+31538,68,S. Curry misses 2-pt jump shot from 9 ft,5:27.0,99-114,Golden State,0,0.0
+31539,68,Defensive rebound by W. Matthews,5:24.0,99-114,Milwaukee,0,0.0
+31540,68,J. Holiday misses 2-pt jump shot from 8 ft,5:16.0,99-114,Milwaukee,0,0.0
+31541,68,Defensive rebound by K. Looney,5:14.0,99-114,Golden State,0,0.0
+31542,68,S. Curry makes 3-pt jump shot from 26 ft,5:03.0,99-117,Golden State,0,0.0
+31543,68,W. Matthews misses 3-pt jump shot from 22 ft,4:50.0,99-117,Milwaukee,0,0.0
+31544,68,Defensive rebound by S. Curry,4:48.0,99-117,Golden State,0,0.0
+31545,68,Personal foul by K. Middleton (drawn by J. Poole),4:38.0,99-117,Golden State,0,0.0
+31546,68,J. Carter enters the game for W. Matthews,4:38.0,99-117,Milwaukee,1,0.0
+31547,68,S. Curry misses 2-pt jump shot from 17 ft,4:27.0,99-117,Golden State,0,1.0
+31548,68,Defensive rebound by G. Antetokounmpo,4:24.0,99-117,Milwaukee,0,1.0
+31549,68,Offensive foul by J. Holiday (drawn by J. Poole),4:10.0,99-117,Milwaukee,0,1.0
+31550,68,Turnover by J. Holiday (offensive foul),4:10.0,99-117,Milwaukee,0,1.0
+31551,68,K. Thompson enters the game for J. Kuminga,4:10.0,99-117,Golden State,0,0.0
+31552,68,Turnover by  (8 sec),4:01.0,99-117,Golden State,0,0.0
+31553,68,K. Middleton misses 2-pt jump shot from 11 ft,3:50.0,99-117,Milwaukee,0,0.0
+31554,68,Defensive rebound by K. Looney,3:47.0,99-117,Golden State,0,0.0
+31555,68,K. Thompson makes 2-pt jump shot from 17 ft (assist by A. Wiggins),3:33.0,99-119,Golden State,0,0.0
+31556,68,Milwaukee full timeout,3:26.0,99-119,Milwaukee,0,0.0
+31557,68,G. Allen enters the game for G. Antetokounmpo,3:26.0,99-119,Milwaukee,1,0.0
+31558,68,T. Antetokounmpo enters the game for J. Holiday,3:26.0,99-119,Milwaukee,1,0.0
+31559,68,S. Mamukelashvili enters the game for S. Ibaka,3:26.0,99-119,Milwaukee,1,0.0
+31560,68,J. Nwora enters the game for K. Middleton,3:26.0,99-119,Milwaukee,1,0.0
+31561,68,G. Allen misses 3-pt jump shot from 25 ft,3:17.0,99-119,Milwaukee,0,0.0
+31562,68,Defensive rebound by S. Curry,3:15.0,99-119,Golden State,0,0.0
+31563,68,K. Thompson misses 2-pt jump shot from 16 ft,3:01.0,99-119,Golden State,0,0.0
+31564,68,Defensive rebound by S. Mamukelashvili,2:58.0,99-119,Milwaukee,0,0.0
+31565,68,Personal take foul by K. Looney (drawn by J. Nwora),2:57.0,99-119,Milwaukee,0,0.0
+31566,68,C. Chiozza enters the game for S. Curry,2:57.0,99-119,Golden State,0,0.0
+31567,68,J. Kuminga enters the game for K. Looney,2:57.0,99-119,Golden State,0,0.0
+31568,68,D. Lee enters the game for J. Poole,2:57.0,99-119,Golden State,0,0.0
+31569,68,M. Moody enters the game for K. Thompson,2:57.0,99-119,Golden State,0,0.0
+31570,68,J. Toscano-Anderson enters the game for A. Wiggins,2:57.0,99-119,Golden State,0,0.0
+31571,68,T. Antetokounmpo misses 2-pt layup from 3 ft,2:43.0,99-119,Milwaukee,0,0.0
+31572,68,Offensive rebound by T. Antetokounmpo,2:41.0,99-119,Milwaukee,0,0.0
+31573,68,T. Antetokounmpo makes 2-pt layup from 2 ft,2:40.0,101-119,Milwaukee,0,0.0
+31574,68,Q. Weatherspoon enters the game for J. Kuminga,2:40.0,101-119,Golden State,0,0.0
+31575,68,Q. Weatherspoon makes 2-pt layup from 3 ft (assist by D. Lee),2:14.0,101-121,Golden State,0,0.0
+31576,68,J. Nwora misses 2-pt jump shot from 11 ft,1:51.0,101-121,Milwaukee,0,0.0
+31577,68,Defensive rebound by Q. Weatherspoon,1:49.0,101-121,Golden State,0,0.0
+31578,68,D. Lee misses 2-pt jump shot from 17 ft,1:38.0,101-121,Golden State,0,0.0
+31579,68,Defensive rebound by J. Nwora,1:36.0,101-121,Milwaukee,0,0.0
+31580,68,G. Allen makes 3-pt jump shot from 23 ft (assist by J. Carter),1:29.0,104-121,Milwaukee,0,0.0
+31581,68,J. Toscano-Anderson misses 3-pt jump shot from 23 ft,1:06.0,104-121,Golden State,0,0.0
+31582,68,Defensive rebound by J. Nwora,1:03.0,104-121,Milwaukee,0,
+31583,68,S. Mamukelashvili makes 3-pt jump shot from 26 ft (assist by G. Allen),0:55.0,107-121,Milwaukee,0,
+31584,68,Q. Weatherspoon misses 3-pt jump shot from 26 ft,0:41.0,107-121,Golden State,0,
+31585,68,Defensive rebound by J. Carter,0:39.0,107-121,Milwaukee,0,
+31586,68,T. Antetokounmpo makes 2-pt layup from 2 ft,0:30.0,109-121,Milwaukee,0,
+31587,68,Personal foul by S. Mamukelashvili (drawn by J. Toscano-Anderson),0:27.0,109-121,Golden State,0,
+31588,68,J. Toscano-Anderson makes free throw 1 of 2,0:27.0,109-122,Golden State,0,
+31589,68,J. Toscano-Anderson misses free throw 2 of 2,0:27.0,109-122,Golden State,0,
+31590,68,Defensive rebound by T. Antetokounmpo,0:25.0,109-122,Milwaukee,0,
+31591,68,Turnover by Team (shot clock),0:03.0,109-122,Milwaukee,0,

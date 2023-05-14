@@ -1,0 +1,508 @@
+,game number,play,time,score,team,current_sub_status,future_sub_status
+34805,76,B. Brown misses 2-pt layup from 2 ft (block by B. Lopez),11:39.0,0-0,Brooklyn,0,0.0
+34806,76,Offensive rebound by S. Curry,11:38.0,0-0,Brooklyn,0,0.0
+34807,76,S. Curry misses 3-pt jump shot from 26 ft,11:34.0,0-0,Brooklyn,0,0.0
+34808,76,Defensive rebound by G. Antetokounmpo,11:32.0,0-0,Milwaukee,0,0.0
+34809,76,K. Middleton misses 3-pt jump shot from 24 ft,11:12.0,0-0,Milwaukee,0,0.0
+34810,76,Defensive rebound by B. Brown,11:09.0,0-0,Brooklyn,0,0.0
+34811,76,K. Irving misses 2-pt jump shot from 12 ft,11:02.0,0-0,Brooklyn,0,0.0
+34812,76,Defensive rebound by J. Holiday,10:59.0,0-0,Milwaukee,0,0.0
+34813,76,B. Lopez misses 3-pt jump shot from 28 ft,10:42.0,0-0,Milwaukee,0,0.0
+34814,76,Defensive rebound by B. Brown,10:39.0,0-0,Brooklyn,0,0.0
+34815,76,B. Brown misses 2-pt hook shot from 9 ft,10:34.0,0-0,Brooklyn,0,0.0
+34816,76,Defensive rebound by G. Antetokounmpo,10:30.0,0-0,Milwaukee,0,0.0
+34817,76,W. Matthews misses 3-pt jump shot from 23 ft,10:25.0,0-0,Milwaukee,0,0.0
+34818,76,Defensive rebound by A. Drummond,10:25.0,0-0,Brooklyn,0,0.0
+34819,76,K. Irving misses 3-pt jump shot from 25 ft,10:14.0,0-0,Brooklyn,0,0.0
+34820,76,Defensive rebound by B. Lopez,10:10.0,0-0,Milwaukee,0,0.0
+34821,76,G. Antetokounmpo misses 2-pt layup from 1 ft,10:02.0,0-0,Milwaukee,0,0.0
+34822,76,Defensive rebound by A. Drummond,10:00.0,0-0,Brooklyn,0,0.0
+34823,76,B. Brown makes 2-pt dunk from 1 ft (assist by K. Irving),9:57.0,0-2,Brooklyn,0,0.0
+34824,76,G. Antetokounmpo misses 2-pt jump shot from 16 ft,9:36.0,0-2,Milwaukee,0,0.0
+34825,76,Defensive rebound by K. Durant,9:33.0,0-2,Brooklyn,0,0.0
+34826,76,Personal foul by B. Lopez (drawn by B. Brown),9:28.0,0-2,Brooklyn,0,0.0
+34827,76,B. Brown makes 3-pt jump shot from 24 ft (assist by K. Durant),9:19.0,0-5,Brooklyn,0,0.0
+34828,76,Turnover by B. Lopez (traveling),9:00.0,0-5,Milwaukee,0,0.0
+34829,76,K. Irving misses 3-pt jump shot from 25 ft,8:47.0,0-5,Brooklyn,0,0.0
+34830,76,Defensive rebound by G. Antetokounmpo,8:44.0,0-5,Milwaukee,0,0.0
+34831,76,G. Antetokounmpo makes 2-pt dunk from 1 ft,8:37.0,2-5,Milwaukee,0,0.0
+34832,76,S. Curry makes 2-pt jump shot from 18 ft,8:24.0,2-7,Brooklyn,0,0.0
+34833,76,Shooting foul by B. Brown (drawn by K. Middleton),8:15.0,2-7,Milwaukee,0,1.0
+34834,76,K. Middleton makes free throw 1 of 2,8:15.0,3-7,Milwaukee,0,0.0
+34835,76,K. Middleton makes free throw 2 of 2,8:15.0,4-7,Milwaukee,0,0.0
+34836,76,Turnover by K. Durant (bad pass; steal by J. Holiday),8:02.0,4-7,Brooklyn,0,0.0
+34837,76,Turnover by J. Holiday (out of bounds lost ball),7:43.0,4-7,Milwaukee,0,0.0
+34838,76,S. Curry misses 2-pt jump shot from 17 ft,7:27.0,4-7,Brooklyn,0,0.0
+34839,76,Defensive rebound by K. Middleton,7:24.0,4-7,Milwaukee,0,0.0
+34840,76,Turnover by J. Holiday (bad pass; steal by K. Durant),7:15.0,4-7,Milwaukee,0,0.0
+34841,76,S. Curry makes 3-pt jump shot from 26 ft (assist by K. Irving),7:11.0,4-10,Brooklyn,0,0.0
+34842,76,Milwaukee full timeout,7:09.0,4-10,Milwaukee,0,0.0
+34843,76,P. Connaughton enters the game for K. Middleton,7:09.0,4-10,Milwaukee,1,0.0
+34844,76,P. Connaughton makes 3-pt jump shot from 26 ft,6:56.0,7-10,Milwaukee,0,0.0
+34845,76,Turnover by B. Brown (bad pass),6:44.0,7-10,Brooklyn,0,0.0
+34846,76,B. Lopez makes 2-pt jump shot from 9 ft (assist by G. Antetokounmpo),6:27.0,9-10,Milwaukee,0,0.0
+34847,76,K. Durant makes 3-pt jump shot from 24 ft (assist by B. Brown),6:11.0,9-13,Brooklyn,0,0.0
+34848,76,G. Antetokounmpo makes 2-pt layup at rim,6:01.0,11-13,Milwaukee,0,0.0
+34849,76,K. Durant misses 2-pt jump shot from 18 ft,5:48.0,11-13,Brooklyn,0,0.0
+34850,76,Defensive rebound by B. Lopez,5:45.0,11-13,Milwaukee,0,0.0
+34851,76,P. Connaughton misses 3-pt jump shot from 25 ft (block by B. Brown),5:27.0,11-13,Milwaukee,0,0.0
+34852,76,Offensive rebound by P. Connaughton,5:22.0,11-13,Milwaukee,0,0.0
+34853,76,P. Connaughton makes 2-pt layup from 2 ft,5:22.0,13-13,Milwaukee,0,1.0
+34854,76,A. Drummond misses 2-pt layup from 1 ft,5:13.0,13-13,Brooklyn,0,1.0
+34855,76,Defensive rebound by J. Holiday,5:10.0,13-13,Milwaukee,0,1.0
+34856,76,W. Matthews makes 3-pt jump shot from 25 ft (assist by J. Holiday),5:07.0,16-13,Milwaukee,0,0.0
+34857,76,B. Brown makes 2-pt jump shot from 12 ft (assist by K. Durant),4:44.0,16-15,Brooklyn,0,0.0
+34858,76,B. Lopez misses 3-pt jump shot from 25 ft,4:24.0,16-15,Milwaukee,0,0.0
+34859,76,Defensive rebound by B. Brown,4:21.0,16-15,Brooklyn,0,0.0
+34860,76,K. Irving misses 2-pt jump shot from 11 ft,4:14.0,16-15,Brooklyn,0,0.0
+34861,76,Defensive rebound by J. Holiday,4:11.0,16-15,Milwaukee,0,0.0
+34862,76,Personal take foul by S. Curry (drawn by J. Holiday),4:10.0,16-15,Milwaukee,0,0.0
+34863,76,G. Allen enters the game for G. Antetokounmpo,4:10.0,16-15,Milwaukee,1,0.0
+34864,76,K. Middleton enters the game for B. Lopez,4:10.0,16-15,Milwaukee,1,0.0
+34865,76,B. Portis enters the game for W. Matthews,4:10.0,16-15,Milwaukee,1,0.0
+34866,76,N. Claxton enters the game for S. Curry,4:10.0,16-15,Brooklyn,0,0.0
+34867,76,P. Mills enters the game for A. Drummond,4:10.0,16-15,Brooklyn,0,0.0
+34868,76,P. Connaughton makes 2-pt layup from 1 ft (assist by B. Portis),3:51.0,18-15,Milwaukee,0,1.0
+34869,76,N. Claxton makes 2-pt dunk from 1 ft (assist by K. Durant),3:35.0,18-17,Brooklyn,0,0.0
+34870,76,J. Holiday misses 3-pt jump shot from 25 ft,3:16.0,18-17,Milwaukee,0,0.0
+34871,76,Defensive rebound by K. Durant,3:13.0,18-17,Brooklyn,0,0.0
+34872,76,N. Claxton makes 2-pt dunk from 1 ft (assist by K. Durant),3:00.0,18-19,Brooklyn,0,0.0
+34873,76,J. Holiday misses 2-pt jump shot from 5 ft,2:46.0,18-19,Milwaukee,0,0.0
+34874,76,Defensive rebound by N. Claxton,2:44.0,18-19,Brooklyn,0,0.0
+34875,76,Turnover by K. Durant (bad pass; steal by J. Holiday),2:39.0,18-19,Brooklyn,0,0.0
+34876,76,K. Middleton makes 3-pt jump shot from 26 ft,2:31.0,21-19,Milwaukee,0,0.0
+34877,76,Brooklyn full timeout,2:29.0,21-19,Brooklyn,0,0.0
+34878,76,G. Hill enters the game for J. Holiday,2:29.0,21-19,Milwaukee,1,0.0
+34879,76,G. Dragić enters the game for K. Irving,2:29.0,21-19,Brooklyn,0,0.0
+34880,76,Personal foul by K. Middleton (drawn by K. Durant),2:21.0,21-19,Brooklyn,0,0.0
+34881,76,Offensive foul by N. Claxton (drawn by K. Middleton),2:20.0,21-19,Brooklyn,0,0.0
+34882,76,Turnover by N. Claxton (offensive foul),2:20.0,21-19,Brooklyn,0,0.0
+34883,76,K. Edwards enters the game for B. Brown,2:20.0,21-19,Brooklyn,0,0.0
+34884,76,P. Connaughton misses 3-pt jump shot from 23 ft,2:06.0,21-19,Milwaukee,0,0.0
+34885,76,Defensive rebound by K. Edwards,2:02.0,21-19,Brooklyn,0,0.0
+34886,76,K. Durant makes 2-pt jump shot from 16 ft,1:59.0,21-21,Brooklyn,0,0.0
+34887,76,Turnover by K. Middleton (out of bounds lost ball),1:56.0,21-21,Milwaukee,0,0.0
+34888,76,N. Claxton makes 2-pt jump shot from 10 ft,1:46.0,21-23,Brooklyn,0,0.0
+34889,76,K. Middleton misses 2-pt jump shot from 14 ft,1:28.0,21-23,Milwaukee,0,0.0
+34890,76,Defensive rebound by N. Claxton,1:23.0,21-23,Brooklyn,0,0.0
+34891,76,K. Edwards makes 3-pt jump shot from 23 ft (assist by P. Mills),1:15.0,21-26,Brooklyn,0,0.0
+34892,76,B. Portis misses 2-pt jump shot from 18 ft,0:59.0,21-26,Milwaukee,0,0.0
+34893,76,Defensive rebound by K. Durant,0:56.0,21-26,Brooklyn,0,0.0
+34894,76,Turnover by K. Durant (bad pass; steal by G. Allen),0:45.0,21-26,Brooklyn,0,0.0
+34895,76,G. Allen makes 2-pt dunk from 1 ft,0:41.0,23-26,Milwaukee,0,0.0
+34896,76,K. Durant makes 2-pt jump shot from 20 ft,0:31.0,23-28,Brooklyn,0,0.0
+34897,76,G. Allen misses 3-pt jump shot from 23 ft,0:09.0,23-28,Milwaukee,0,0.0
+34898,76,Offensive rebound by G. Allen,0:06.0,23-28,Milwaukee,0,0.0
+34899,76,G. Allen misses 3-pt jump shot from 23 ft (block by K. Durant),0:05.0,23-28,Milwaukee,0,0.0
+34900,76,Defensive rebound by P. Mills,0:01.0,23-28,Brooklyn,0,0.0
+34901,76,G. Dragić makes 2-pt layup from 2 ft (assist by K. Durant),0:00.0,23-30,Brooklyn,0,0.0
+34902,76,Instant Replay (Request: Ruling Stands),0:00.0,23-30,Brooklyn,0,0.0
+34903,76,Turnover by G. Antetokounmpo (bad pass; steal by G. Dragić),11:39.0,23-30,Milwaukee,0,1.0
+34904,76,K. Edwards misses 3-pt jump shot from 23 ft,11:35.0,23-30,Brooklyn,0,0.0
+34905,76,Defensive rebound by G. Allen,11:32.0,23-30,Milwaukee,0,0.0
+34906,76,B. Portis misses 3-pt jump shot from 23 ft,11:26.0,23-30,Milwaukee,0,0.0
+34907,76,Defensive rebound by G. Dragić,11:23.0,23-30,Brooklyn,0,0.0
+34908,76,K. Irving makes 2-pt jump shot from 22 ft (assist by G. Dragić),11:14.0,23-32,Brooklyn,0,0.0
+34909,76,G. Antetokounmpo makes 2-pt jump shot from 19 ft,10:49.0,25-32,Milwaukee,0,0.0
+34910,76,Shooting foul by G. Hill (drawn by K. Irving),10:34.0,25-32,Brooklyn,0,0.0
+34911,76,K. Irving makes free throw 1 of 3,10:34.0,25-33,Brooklyn,0,1.0
+34912,76,K. Irving makes free throw 2 of 3,10:34.0,25-34,Brooklyn,0,0.0
+34913,76,J. Holiday enters the game for B. Portis,10:34.0,25-34,Milwaukee,1,0.0
+34914,76,K. Irving makes free throw 3 of 3,10:34.0,25-35,Brooklyn,0,0.0
+34915,76,G. Antetokounmpo makes 2-pt dunk from 2 ft (assist by K. Middleton),10:14.0,27-35,Milwaukee,0,0.0
+34916,76,Shooting foul by K. Edwards (drawn by G. Antetokounmpo),10:14.0,27-35,Milwaukee,0,0.0
+34917,76,G. Antetokounmpo makes free throw 1 of 1,10:14.0,28-35,Milwaukee,0,0.0
+34918,76,K. Irving makes 2-pt jump shot from 13 ft,9:54.0,28-37,Brooklyn,0,0.0
+34919,76,Shooting foul by K. Irving (drawn by G. Antetokounmpo),9:40.0,28-37,Milwaukee,0,0.0
+34920,76,G. Antetokounmpo makes free throw 1 of 2,9:40.0,29-37,Milwaukee,0,0.0
+34921,76,P. Connaughton enters the game for K. Middleton,9:40.0,29-37,Milwaukee,1,0.0
+34922,76,G. Antetokounmpo makes free throw 2 of 2,9:40.0,30-37,Milwaukee,0,0.0
+34923,76,K. Edwards makes 3-pt jump shot from 23 ft (assist by J. Johnson),9:19.0,30-40,Brooklyn,0,0.0
+34924,76,G. Antetokounmpo makes 2-pt dunk from 1 ft,9:08.0,32-40,Milwaukee,0,1.0
+34925,76,K. Irving makes 2-pt jump shot from 14 ft,8:56.0,32-42,Brooklyn,0,0.0
+34926,76,P. Connaughton makes 3-pt jump shot from 25 ft (assist by G. Antetokounmpo),8:45.0,35-42,Milwaukee,0,0.0
+34927,76,Shooting foul by K. Edwards (drawn by P. Connaughton),8:45.0,35-42,Milwaukee,0,0.0
+34928,76,P. Mills enters the game for K. Edwards,8:45.0,35-42,Brooklyn,0,0.0
+34929,76,P. Connaughton makes free throw 1 of 1,8:45.0,36-42,Milwaukee,0,0.0
+34930,76,K. Irving misses 2-pt layup from 2 ft,8:32.0,36-42,Brooklyn,0,0.0
+34931,76,Defensive rebound by Team,8:32.0,36-42,Milwaukee,0,1.0
+34932,76,G. Antetokounmpo makes 2-pt dunk from 1 ft,8:12.0,38-42,Milwaukee,0,0.0
+34933,76,Shooting foul by J. Johnson (drawn by G. Antetokounmpo),8:12.0,38-42,Milwaukee,0,0.0
+34934,76,B. Lopez enters the game for G. Hill,8:12.0,38-42,Milwaukee,1,0.0
+34935,76,G. Antetokounmpo makes free throw 1 of 1,8:12.0,39-42,Milwaukee,0,0.0
+34936,76,G. Dragić makes 3-pt jump shot from 26 ft (assist by N. Claxton),7:54.0,39-45,Brooklyn,0,0.0
+34937,76,Turnover by B. Lopez (bad pass; steal by N. Claxton),7:37.0,39-45,Milwaukee,0,0.0
+34938,76,Shooting foul by J. Holiday (drawn by N. Claxton),7:35.0,39-45,Brooklyn,0,0.0
+34939,76,N. Claxton misses free throw 1 of 2,7:35.0,39-45,Brooklyn,0,0.0
+34940,76,Offensive rebound by Team,7:35.0,39-45,Brooklyn,0,0.0
+34941,76,W. Matthews enters the game for G. Allen,7:35.0,39-45,Milwaukee,1,0.0
+34942,76,K. Durant enters the game for J. Johnson,7:35.0,39-45,Brooklyn,0,0.0
+34943,76,N. Claxton misses free throw 2 of 2,7:35.0,39-45,Brooklyn,0,0.0
+34944,76,Defensive rebound by P. Connaughton,7:32.0,39-45,Milwaukee,0,1.0
+34945,76,P. Connaughton misses 3-pt jump shot from 26 ft,7:19.0,39-45,Milwaukee,0,0.0
+34946,76,Defensive rebound by N. Claxton,7:16.0,39-45,Brooklyn,0,0.0
+34947,76,K. Irving misses 2-pt jump shot from 8 ft,7:01.0,39-45,Brooklyn,0,0.0
+34948,76,Offensive rebound by N. Claxton,6:57.0,39-45,Brooklyn,0,0.0
+34949,76,N. Claxton makes 2-pt dunk at rim,6:57.0,39-47,Brooklyn,0,0.0
+34950,76,G. Antetokounmpo misses 3-pt jump shot from 25 ft,6:50.0,39-47,Milwaukee,0,0.0
+34951,76,Defensive rebound by K. Irving,6:47.0,39-47,Brooklyn,0,0.0
+34952,76,P. Mills makes 3-pt jump shot from 25 ft (assist by K. Durant),6:37.0,39-50,Brooklyn,0,0.0
+34953,76,Milwaukee full timeout,6:37.0,39-50,Milwaukee,0,0.0
+34954,76,K. Middleton enters the game for G. Antetokounmpo,6:37.0,39-50,Milwaukee,1,0.0
+34955,76,S. Curry enters the game for G. Dragić,6:37.0,39-50,Brooklyn,0,0.0
+34956,76,W. Matthews makes 3-pt jump shot from 24 ft (assist by P. Connaughton),6:15.0,42-50,Milwaukee,0,0.0
+34957,76,S. Curry misses 2-pt jump shot from 10 ft,5:56.0,42-50,Brooklyn,0,0.0
+34958,76,Defensive rebound by K. Middleton,5:54.0,42-50,Milwaukee,0,0.0
+34959,76,Shooting foul by S. Curry (drawn by K. Middleton),5:51.0,42-50,Milwaukee,0,0.0
+34960,76,K. Middleton makes free throw 1 of 2,5:51.0,43-50,Milwaukee,0,1.0
+34961,76,B. Brown enters the game for N. Claxton,5:51.0,43-50,Brooklyn,0,0.0
+34962,76,A. Drummond enters the game for P. Mills,5:51.0,43-50,Brooklyn,0,0.0
+34963,76,K. Middleton makes free throw 2 of 2,5:51.0,44-50,Milwaukee,0,0.0
+34964,76,B. Brown misses 2-pt jump shot from 16 ft,5:29.0,44-50,Brooklyn,0,0.0
+34965,76,Defensive rebound by K. Middleton,5:25.0,44-50,Milwaukee,0,0.0
+34966,76,Personal foul by A. Drummond (drawn by B. Lopez),5:13.0,44-50,Milwaukee,0,0.0
+34967,76,B. Lopez makes free throw 1 of 2,5:13.0,45-50,Milwaukee,0,0.0
+34968,76,B. Lopez misses free throw 2 of 2,5:13.0,45-50,Milwaukee,0,0.0
+34969,76,Defensive rebound by K. Durant,5:13.0,45-50,Brooklyn,0,0.0
+34970,76,B. Portis enters the game for P. Connaughton,5:13.0,45-50,Milwaukee,1,0.0
+34971,76,K. Irving misses 2-pt jump shot from 6 ft,4:52.0,45-50,Brooklyn,0,0.0
+34972,76,Defensive rebound by B. Portis,4:49.0,45-50,Milwaukee,0,0.0
+34973,76,K. Middleton misses 3-pt jump shot from 26 ft (block by B. Brown),4:46.0,45-50,Milwaukee,0,0.0
+34974,76,Defensive rebound by Team,4:44.0,45-50,Brooklyn,0,0.0
+34975,76,K. Durant misses 2-pt jump shot from 14 ft (block by W. Matthews),4:27.0,45-50,Brooklyn,0,0.0
+34976,76,Defensive rebound by B. Lopez,4:24.0,45-50,Milwaukee,0,0.0
+34977,76,K. Middleton misses 3-pt jump shot from 25 ft,4:21.0,45-50,Milwaukee,0,0.0
+34978,76,Defensive rebound by A. Drummond,4:16.0,45-50,Brooklyn,0,0.0
+34979,76,A. Drummond makes 2-pt layup from 2 ft (assist by K. Durant),4:11.0,45-52,Brooklyn,0,0.0
+34980,76,B. Lopez misses 2-pt jump shot from 18 ft,3:59.0,45-52,Milwaukee,0,0.0
+34981,76,Defensive rebound by S. Curry,3:56.0,45-52,Brooklyn,0,0.0
+34982,76,Turnover by K. Durant (bad pass; steal by K. Middleton),3:51.0,45-52,Brooklyn,0,0.0
+34983,76,J. Holiday makes 2-pt layup at rim (assist by K. Middleton),3:45.0,47-52,Milwaukee,0,0.0
+34984,76,A. Drummond makes 2-pt jump shot from 10 ft (assist by B. Brown),3:32.0,47-54,Brooklyn,0,1.0
+34985,76,B. Lopez misses 2-pt hook shot from 8 ft,3:19.0,47-54,Milwaukee,0,1.0
+34986,76,Defensive rebound by A. Drummond,3:16.0,47-54,Brooklyn,0,0.0
+34987,76,S. Curry misses 3-pt jump shot from 25 ft,3:10.0,47-54,Brooklyn,0,0.0
+34988,76,Defensive rebound by B. Portis,3:08.0,47-54,Milwaukee,0,0.0
+34989,76,K. Middleton misses 3-pt jump shot from 26 ft (block by A. Drummond),2:57.0,47-54,Milwaukee,0,0.0
+34990,76,Defensive rebound by K. Durant,2:55.0,47-54,Brooklyn,0,0.0
+34991,76,Personal foul by K. Middleton (drawn by K. Durant),2:55.0,47-54,Brooklyn,0,0.0
+34992,76,Brooklyn full timeout,2:55.0,47-54,Brooklyn,0,0.0
+34993,76,Instant Replay (Request: Ruling Stands),2:55.0,47-54,Brooklyn,0,0.0
+34994,76,G. Antetokounmpo enters the game for J. Holiday,2:55.0,47-54,Milwaukee,1,0.0
+34995,76,G. Hill enters the game for B. Lopez,2:55.0,47-54,Milwaukee,1,0.0
+34996,76,G. Dragić enters the game for K. Irving,2:55.0,47-54,Brooklyn,0,0.0
+34997,76,Personal foul by W. Matthews (drawn by K. Durant),2:42.0,47-54,Brooklyn,0,0.0
+34998,76,G. Dragić misses 3-pt jump shot from 25 ft,2:34.0,47-54,Brooklyn,0,0.0
+34999,76,Defensive rebound by G. Antetokounmpo,2:30.0,47-54,Milwaukee,0,0.0
+35000,76,G. Hill misses 2-pt layup from 2 ft,2:22.0,47-54,Milwaukee,0,0.0
+35001,76,Defensive rebound by G. Dragić,2:20.0,47-54,Brooklyn,0,0.0
+35002,76,K. Durant misses 3-pt jump shot from 26 ft,2:16.0,47-54,Brooklyn,0,0.0
+35003,76,Defensive rebound by K. Middleton,2:13.0,47-54,Milwaukee,0,0.0
+35004,76,G. Antetokounmpo makes 2-pt layup from 2 ft (assist by K. Middleton),2:09.0,49-54,Milwaukee,0,0.0
+35005,76,S. Curry makes 3-pt jump shot from 25 ft (assist by A. Drummond),1:57.0,49-57,Brooklyn,0,0.0
+35006,76,Turnover by G. Antetokounmpo (lost ball; steal by G. Dragić),1:49.0,49-57,Milwaukee,0,0.0
+35007,76,Turnover by G. Dragić (bad pass),1:46.0,49-57,Brooklyn,0,0.0
+35008,76,B. Portis misses 3-pt jump shot from 24 ft,1:31.0,49-57,Milwaukee,0,0.0
+35009,76,Offensive rebound by G. Antetokounmpo,1:25.0,49-57,Milwaukee,0,0.0
+35010,76,G. Antetokounmpo makes 2-pt dunk at rim,1:25.0,51-57,Milwaukee,0,0.0
+35011,76,Turnover by K. Durant (lost ball; steal by K. Middleton),1:12.0,51-57,Brooklyn,0,0.0
+35012,76,K. Middleton makes 2-pt layup from 5 ft,1:08.0,53-57,Milwaukee,0,0.0
+35013,76,B. Brown makes 3-pt jump shot from 23 ft (assist by A. Drummond),0:50.0,53-60,Brooklyn,0,0.0
+35014,76,K. Middleton makes 3-pt jump shot from 26 ft (assist by G. Antetokounmpo),0:24.0,56-60,Milwaukee,0,0.0
+35015,76,A. Drummond misses 2-pt layup from 2 ft,0:00.0,56-60,Brooklyn,0,0.0
+35016,76,Defensive rebound by G. Hill,0:00.0,56-60,Milwaukee,0,0.0
+35017,76,K. Middleton misses 2-pt jump shot from 21 ft,11:51.0,56-60,Milwaukee,0,0.0
+35018,76,Defensive rebound by K. Irving,11:45.0,56-60,Brooklyn,0,0.0
+35019,76,Turnover by K. Irving (bad pass; steal by J. Holiday),11:33.0,56-60,Brooklyn,0,0.0
+35020,76,B. Lopez misses 3-pt jump shot from 25 ft,11:25.0,56-60,Milwaukee,0,0.0
+35021,76,Offensive rebound by W. Matthews,11:20.0,56-60,Milwaukee,0,0.0
+35022,76,J. Holiday misses 2-pt hook shot from 2 ft,11:18.0,56-60,Milwaukee,0,0.0
+35023,76,Offensive rebound by G. Antetokounmpo,11:15.0,56-60,Milwaukee,0,0.0
+35024,76,G. Antetokounmpo makes 2-pt dunk at rim,11:15.0,58-60,Milwaukee,0,0.0
+35025,76,K. Durant makes 2-pt jump shot from 8 ft,11:07.0,58-62,Brooklyn,0,0.0
+35026,76,J. Holiday misses 2-pt layup from 3 ft,10:56.0,58-62,Milwaukee,0,0.0
+35027,76,Offensive rebound by Team,10:55.0,58-62,Milwaukee,0,0.0
+35028,76,Personal foul by K. Durant (drawn by G. Antetokounmpo),10:53.0,58-62,Milwaukee,0,0.0
+35029,76,Turnover by K. Middleton (lost ball; steal by A. Drummond),10:47.0,58-62,Milwaukee,0,0.0
+35030,76,B. Brown misses 2-pt layup from 7 ft,10:42.0,58-62,Brooklyn,0,0.0
+35031,76,Defensive rebound by K. Middleton,10:38.0,58-62,Milwaukee,0,0.0
+35032,76,Personal take foul by S. Curry (drawn by G. Antetokounmpo),10:38.0,58-62,Milwaukee,0,0.0
+35033,76,K. Middleton misses 2-pt jump shot from 16 ft (block by B. Brown),10:30.0,58-62,Milwaukee,0,0.0
+35034,76,Defensive rebound by A. Drummond,10:24.0,58-62,Brooklyn,0,0.0
+35035,76,K. Durant misses 2-pt jump shot from 18 ft,10:05.0,58-62,Brooklyn,0,0.0
+35036,76,Defensive rebound by K. Middleton,10:02.0,58-62,Milwaukee,0,0.0
+35037,76,W. Matthews misses 3-pt jump shot from 26 ft,9:53.0,58-62,Milwaukee,0,0.0
+35038,76,Defensive rebound by K. Irving,9:50.0,58-62,Brooklyn,0,0.0
+35039,76,B. Brown makes 2-pt layup from 2 ft,9:44.0,58-64,Brooklyn,0,0.0
+35040,76,J. Holiday misses 2-pt layup from 6 ft,9:30.0,58-64,Milwaukee,0,0.0
+35041,76,Offensive rebound by G. Antetokounmpo,9:29.0,58-64,Milwaukee,0,0.0
+35042,76,G. Antetokounmpo makes 2-pt layup from 3 ft,9:29.0,60-64,Milwaukee,0,0.0
+35043,76,Shooting foul by K. Irving (drawn by G. Antetokounmpo),9:29.0,60-64,Milwaukee,0,0.0
+35044,76,G. Antetokounmpo makes free throw 1 of 1,9:29.0,61-64,Milwaukee,0,0.0
+35045,76,K. Irving makes 3-pt jump shot from 26 ft (assist by A. Drummond),9:14.0,61-67,Brooklyn,0,0.0
+35046,76,G. Antetokounmpo misses 2-pt jump shot from 16 ft,9:01.0,61-67,Milwaukee,0,0.0
+35047,76,Defensive rebound by A. Drummond,8:55.0,61-67,Brooklyn,0,0.0
+35048,76,K. Durant misses 2-pt jump shot from 12 ft,8:49.0,61-67,Brooklyn,0,0.0
+35049,76,Defensive rebound by K. Middleton,8:47.0,61-67,Milwaukee,0,0.0
+35050,76,Shooting foul by S. Curry (drawn by K. Middleton),8:41.0,61-67,Milwaukee,0,0.0
+35051,76,K. Middleton makes free throw 1 of 2,8:41.0,62-67,Milwaukee,0,0.0
+35052,76,P. Mills enters the game for S. Curry,8:41.0,62-67,Brooklyn,0,0.0
+35053,76,K. Middleton makes free throw 2 of 2,8:41.0,63-67,Milwaukee,0,0.0
+35054,76,B. Brown misses 2-pt jump shot from 18 ft,8:17.0,63-67,Brooklyn,0,0.0
+35055,76,Defensive rebound by G. Antetokounmpo,8:11.0,63-67,Milwaukee,0,0.0
+35056,76,Turnover by G. Antetokounmpo (traveling),8:09.0,63-67,Milwaukee,0,0.0
+35057,76,K. Durant misses 2-pt jump shot from 21 ft,7:56.0,63-67,Brooklyn,0,0.0
+35058,76,Defensive rebound by K. Middleton,7:53.0,63-67,Milwaukee,0,1.0
+35059,76,Turnover by K. Middleton (lost ball; steal by P. Mills),7:52.0,63-67,Milwaukee,0,1.0
+35060,76,K. Irving makes 3-pt jump shot from 27 ft (assist by P. Mills),7:47.0,63-70,Brooklyn,0,0.0
+35061,76,B. Lopez makes 2-pt dunk from 1 ft (assist by G. Antetokounmpo),7:31.0,65-70,Milwaukee,0,0.0
+35062,76,B. Brown makes 3-pt jump shot from 23 ft (assist by K. Irving),7:16.0,65-73,Brooklyn,0,0.0
+35063,76,J. Holiday makes 3-pt jump shot from 25 ft,7:07.0,68-73,Milwaukee,0,0.0
+35064,76,B. Brown misses 3-pt jump shot from 26 ft,6:43.0,68-73,Brooklyn,0,0.0
+35065,76,Defensive rebound by K. Middleton,6:39.0,68-73,Milwaukee,0,0.0
+35066,76,Personal foul by A. Drummond (drawn by G. Antetokounmpo),6:35.0,68-73,Milwaukee,0,0.0
+35067,76,Brooklyn full timeout,6:35.0,68-73,Brooklyn,0,0.0
+35068,76,P. Connaughton enters the game for B. Lopez,6:35.0,68-73,Milwaukee,1,0.0
+35069,76,B. Portis enters the game for K. Middleton,6:35.0,68-73,Milwaukee,1,0.0
+35070,76,N. Claxton enters the game for A. Drummond,6:35.0,68-73,Brooklyn,0,0.0
+35071,76,G. Antetokounmpo makes free throw 1 of 2,6:35.0,69-73,Milwaukee,0,0.0
+35072,76,G. Antetokounmpo makes free throw 2 of 2,6:35.0,70-73,Milwaukee,0,0.0
+35073,76,B. Brown makes 2-pt layup from 2 ft (assist by K. Durant),6:17.0,70-75,Brooklyn,0,0.0
+35074,76,Shooting foul by K. Durant (drawn by G. Antetokounmpo),5:57.0,70-75,Milwaukee,0,0.0
+35075,76,G. Antetokounmpo makes free throw 1 of 2,5:57.0,71-75,Milwaukee,0,0.0
+35076,76,G. Antetokounmpo makes free throw 2 of 2,5:57.0,72-75,Milwaukee,0,0.0
+35077,76,P. Mills misses 2-pt jump shot from 16 ft,5:40.0,72-75,Brooklyn,0,1.0
+35078,76,Defensive rebound by B. Portis,5:35.0,72-75,Milwaukee,0,0.0
+35079,76,Turnover by B. Portis (out of bounds lost ball),5:29.0,72-75,Milwaukee,0,0.0
+35080,76,B. Brown misses 3-pt jump shot from 23 ft,5:18.0,72-75,Brooklyn,0,0.0
+35081,76,Defensive rebound by P. Connaughton,5:11.0,72-75,Milwaukee,0,0.0
+35082,76,G. Antetokounmpo makes 2-pt layup from 1 ft,5:07.0,74-75,Milwaukee,0,0.0
+35083,76,K. Durant misses 2-pt jump shot from 13 ft,4:56.0,74-75,Brooklyn,0,1.0
+35084,76,Defensive rebound by B. Portis,4:56.0,74-75,Milwaukee,0,0.0
+35085,76,Turnover by J. Holiday (lost ball; steal by K. Irving),4:50.0,74-75,Milwaukee,0,0.0
+35086,76,Personal foul by G. Antetokounmpo (drawn by K. Irving),4:49.0,74-75,Brooklyn,0,0.0
+35087,76,G. Allen enters the game for G. Antetokounmpo,4:49.0,74-75,Milwaukee,1,0.0
+35088,76,K. Irving makes 3-pt jump shot from 26 ft (assist by K. Durant),4:32.0,74-78,Brooklyn,0,0.0
+35089,76,W. Matthews misses 3-pt jump shot from 23 ft,4:16.0,74-78,Milwaukee,0,0.0
+35090,76,Offensive rebound by G. Allen,4:11.0,74-78,Milwaukee,0,0.0
+35091,76,W. Matthews misses 2-pt layup from 5 ft (block by N. Claxton),4:07.0,74-78,Milwaukee,0,0.0
+35092,76,Offensive rebound by Team,4:07.0,74-78,Milwaukee,0,0.0
+35093,76,K. Middleton enters the game for W. Matthews,4:07.0,74-78,Milwaukee,1,0.0
+35094,76,J. Holiday misses 3-pt jump shot from 25 ft,4:02.0,74-78,Milwaukee,0,0.0
+35095,76,Defensive rebound by N. Claxton,3:58.0,74-78,Brooklyn,0,0.0
+35096,76,P. Mills misses 3-pt jump shot from 26 ft,3:55.0,74-78,Brooklyn,0,0.0
+35097,76,Defensive rebound by B. Portis,3:52.0,74-78,Milwaukee,0,0.0
+35098,76,K. Middleton makes 2-pt layup from 4 ft,3:42.0,76-78,Milwaukee,0,0.0
+35099,76,K. Irving makes 2-pt jump shot from 11 ft,3:27.0,76-80,Brooklyn,0,0.0
+35100,76,Turnover by K. Middleton (bad pass),3:19.0,76-80,Milwaukee,0,1.0
+35101,76,G. Dragić enters the game for B. Brown,3:19.0,76-80,Brooklyn,0,0.0
+35102,76,K. Irving misses 3-pt jump shot from 27 ft,3:04.0,76-80,Brooklyn,0,0.0
+35103,76,Defensive rebound by B. Portis,3:00.0,76-80,Milwaukee,0,0.0
+35104,76,Milwaukee full timeout,2:56.0,76-80,Milwaukee,0,0.0
+35105,76,J. Johnson enters the game for K. Irving,2:56.0,76-80,Brooklyn,0,0.0
+35106,76,B. Portis makes 3-pt jump shot from 23 ft (assist by J. Holiday),2:48.0,79-80,Milwaukee,0,0.0
+35107,76,K. Durant makes 2-pt jump shot from 12 ft (assist by J. Johnson),2:35.0,79-82,Brooklyn,0,1.0
+35108,76,Turnover by J. Holiday (lost ball; steal by N. Claxton),2:09.0,79-82,Milwaukee,0,0.0
+35109,76,Turnover by N. Claxton (lost ball; steal by J. Holiday),2:08.0,79-82,Brooklyn,0,0.0
+35110,76,G. Hill enters the game for P. Connaughton,2:08.0,79-82,Milwaukee,1,0.0
+35111,76,J. Holiday makes 2-pt layup from 2 ft,1:56.0,81-82,Milwaukee,0,0.0
+35112,76,K. Durant makes 2-pt jump shot from 11 ft,1:41.0,81-84,Brooklyn,0,0.0
+35113,76,Turnover by J. Holiday (lost ball; steal by J. Johnson),1:30.0,81-84,Milwaukee,0,0.0
+35114,76,Turnover by G. Dragić (bad pass; steal by J. Holiday),1:22.0,81-84,Brooklyn,0,0.0
+35115,76,Personal take foul by J. Johnson (drawn by J. Holiday),1:19.0,81-84,Milwaukee,0,0.0
+35116,76,J. Holiday makes free throw 1 of 2,1:19.0,82-84,Milwaukee,0,0.0
+35117,76,G. Antetokounmpo enters the game for K. Middleton,1:19.0,82-84,Milwaukee,1,1.0
+35118,76,J. Holiday makes free throw 2 of 2,1:19.0,83-84,Milwaukee,0,0.0
+35119,76,N. Claxton makes 2-pt dunk from 1 ft (assist by K. Durant),1:05.0,83-86,Brooklyn,0,0.0
+35120,76,B. Portis makes 2-pt dunk from 1 ft (assist by J. Holiday),0:56.0,85-86,Milwaukee,0,0.0
+35121,76,Turnover by K. Durant (bad pass; steal by J. Holiday),0:41.0,85-86,Brooklyn,0,0.0
+35122,76,B. Portis misses 3-pt jump shot from 23 ft,0:35.0,85-86,Milwaukee,0,0.0
+35123,76,Defensive rebound by N. Claxton,0:32.0,85-86,Brooklyn,0,0.0
+35124,76,K. Durant misses 2-pt jump shot from 17 ft,0:26.0,85-86,Brooklyn,0,0.0
+35125,76,Defensive rebound by G. Allen,0:20.0,85-86,Milwaukee,0,0.0
+35126,76,G. Antetokounmpo makes 2-pt dunk from 1 ft (assist by J. Holiday),0:14.0,87-86,Milwaukee,0,0.0
+35127,76,J. Carter enters the game for G. Allen,0:14.0,87-86,Milwaukee,1,0.0
+35128,76,K. Irving enters the game for J. Johnson,0:14.0,87-86,Brooklyn,0,0.0
+35129,76,Turnover by K. Irving (lost ball; steal by G. Hill),0:01.0,87-86,Brooklyn,0,0.0
+35130,76,S. Curry makes 3-pt jump shot from 25 ft (assist by J. Johnson),11:41.0,87-89,Brooklyn,0,0.0
+35131,76,Turnover by G. Antetokounmpo (out of bounds lost ball),11:27.0,87-89,Milwaukee,0,0.0
+35132,76,Personal foul by K. Middleton (drawn by S. Curry),11:16.0,87-89,Brooklyn,0,0.0
+35133,76,S. Curry misses 2-pt layup from 3 ft,11:05.0,87-89,Brooklyn,0,0.0
+35134,76,Defensive rebound by B. Portis,11:03.0,87-89,Milwaukee,0,0.0
+35135,76,B. Portis misses 2-pt layup from 1 ft (block by J. Johnson),10:50.0,87-89,Milwaukee,0,0.0
+35136,76,Offensive rebound by G. Antetokounmpo,10:49.0,87-89,Milwaukee,0,0.0
+35137,76,Shooting foul by J. Johnson (drawn by G. Antetokounmpo),10:49.0,87-89,Milwaukee,0,0.0
+35138,76,G. Antetokounmpo makes free throw 1 of 2,10:49.0,88-89,Milwaukee,0,0.0
+35139,76,G. Antetokounmpo makes free throw 2 of 2,10:49.0,89-89,Milwaukee,0,0.0
+35140,76,K. Irving makes 3-pt jump shot from 26 ft (assist by G. Dragić),10:35.0,89-92,Brooklyn,0,0.0
+35141,76,K. Middleton misses 3-pt jump shot from 25 ft,10:25.0,89-92,Milwaukee,0,1.0
+35142,76,Defensive rebound by N. Claxton,10:20.0,89-92,Brooklyn,0,0.0
+35143,76,Turnover by S. Curry (bad pass; steal by B. Portis),10:15.0,89-92,Brooklyn,0,0.0
+35144,76,G. Allen makes 3-pt jump shot from 23 ft (assist by G. Hill),10:10.0,92-92,Milwaukee,0,0.0
+35145,76,K. Irving misses 2-pt jump shot from 11 ft (block by K. Middleton),9:52.0,92-92,Brooklyn,0,0.0
+35146,76,Defensive rebound by B. Portis,9:49.0,92-92,Milwaukee,0,0.0
+35147,76,G. Antetokounmpo makes 2-pt dunk from 1 ft (assist by K. Middleton),9:47.0,94-92,Milwaukee,0,0.0
+35148,76,K. Irving misses 3-pt jump shot from 26 ft,9:29.0,94-92,Brooklyn,0,1.0
+35149,76,Defensive rebound by G. Antetokounmpo,9:26.0,94-92,Milwaukee,0,0.0
+35150,76,Turnover by G. Antetokounmpo (out of bounds lost ball),9:22.0,94-92,Milwaukee,0,0.0
+35151,76,P. Connaughton enters the game for K. Middleton,9:22.0,94-92,Milwaukee,1,0.0
+35152,76,J. Johnson misses 2-pt jump shot from 20 ft,8:58.0,94-92,Brooklyn,0,0.0
+35153,76,Defensive rebound by P. Connaughton,8:56.0,94-92,Milwaukee,0,0.0
+35154,76,G. Antetokounmpo misses 3-pt jump shot from 25 ft,8:47.0,94-92,Milwaukee,0,0.0
+35155,76,Defensive rebound by J. Johnson,8:44.0,94-92,Brooklyn,0,0.0
+35156,76,J. Johnson misses 2-pt layup from 1 ft,8:38.0,94-92,Brooklyn,0,1.0
+35157,76,Offensive rebound by Team,8:38.0,94-92,Brooklyn,0,1.0
+35158,76,J. Holiday enters the game for B. Portis,8:38.0,94-92,Milwaukee,1,0.0
+35159,76,K. Durant enters the game for J. Johnson,8:38.0,94-92,Brooklyn,0,0.0
+35160,76,N. Claxton misses 2-pt layup from 5 ft,8:28.0,94-92,Brooklyn,0,0.0
+35161,76,Defensive rebound by J. Holiday,8:26.0,94-92,Milwaukee,0,0.0
+35162,76,J. Holiday makes 2-pt hook shot from 9 ft,8:12.0,96-92,Milwaukee,0,0.0
+35163,76,G. Dragić misses 2-pt jump shot from 12 ft,7:57.0,96-92,Brooklyn,0,0.0
+35164,76,Defensive rebound by P. Connaughton,7:54.0,96-92,Milwaukee,0,0.0
+35165,76,Turnover by G. Antetokounmpo (traveling),7:43.0,96-92,Milwaukee,0,0.0
+35166,76,B. Lopez enters the game for G. Antetokounmpo,7:43.0,96-92,Milwaukee,1,0.0
+35167,76,W. Matthews enters the game for G. Hill,7:43.0,96-92,Milwaukee,1,0.0
+35168,76,A. Drummond enters the game for N. Claxton,7:43.0,96-92,Brooklyn,0,0.0
+35169,76,S. Curry makes 3-pt jump shot from 23 ft (assist by A. Drummond),7:31.0,96-95,Brooklyn,0,0.0
+35170,76,P. Connaughton misses 3-pt jump shot from 24 ft,7:08.0,96-95,Milwaukee,0,0.0
+35171,76,Defensive rebound by K. Durant,7:04.0,96-95,Brooklyn,0,1.0
+35172,76,G. Dragić misses 3-pt jump shot from 24 ft,6:55.0,96-95,Brooklyn,0,0.0
+35173,76,Defensive rebound by J. Holiday,6:53.0,96-95,Milwaukee,0,0.0
+35174,76,Personal foul by G. Dragić (drawn by J. Holiday),6:46.0,96-95,Milwaukee,0,0.0
+35175,76,Brooklyn full timeout,6:46.0,96-95,Brooklyn,0,0.0
+35176,76,B. Brown enters the game for G. Dragić,6:46.0,96-95,Brooklyn,0,0.0
+35177,76,J. Holiday misses 3-pt jump shot from 60 ft,6:31.0,96-95,Milwaukee,0,1.0
+35178,76,Offensive rebound by Team,6:31.0,96-95,Milwaukee,0,0.0
+35179,76,Turnover by Team (shot clock),6:31.0,96-95,Milwaukee,0,0.0
+35180,76,Violation by Team (kicked ball),6:18.0,96-95,Milwaukee,0,0.0
+35181,76,K. Middleton enters the game for G. Allen,6:18.0,96-95,Milwaukee,1,0.0
+35182,76,S. Curry makes 2-pt jump shot from 6 ft (assist by B. Brown),6:09.0,96-97,Brooklyn,0,1.0
+35183,76,J. Holiday misses 3-pt jump shot from 25 ft,5:45.0,96-97,Milwaukee,0,1.0
+35184,76,Defensive rebound by A. Drummond,5:42.0,96-97,Brooklyn,0,0.0
+35185,76,B. Brown makes 2-pt layup from 2 ft (assist by K. Durant),5:29.0,96-99,Brooklyn,0,0.0
+35186,76,Milwaukee full timeout,5:24.0,96-99,Milwaukee,0,0.0
+35187,76,G. Antetokounmpo enters the game for B. Lopez,5:24.0,96-99,Milwaukee,1,0.0
+35188,76,Turnover by G. Antetokounmpo (bad pass; steal by B. Brown),5:06.0,96-99,Milwaukee,0,0.0
+35189,76,Flagrant foul type 2 by K. Middleton (drawn by B. Brown),5:05.0,96-99,Brooklyn,0,0.0
+35190,76,Instant Replay (Request: Ruling Stands),5:05.0,96-99,Brooklyn,0,0.0
+35191,76,K. Middleton ejected from game,5:05.0,96-99,Milwaukee,0,0.0
+35192,76,G. Allen enters the game for P. Connaughton,5:05.0,96-99,Milwaukee,1,0.0
+35193,76,B. Portis enters the game for K. Middleton,5:05.0,96-99,Milwaukee,1,0.0
+35194,76,B. Brown makes flagrant free throw 1 of 2,5:05.0,96-100,Brooklyn,0,0.0
+35195,76,B. Brown makes flagrant free throw 2 of 2,5:05.0,96-101,Brooklyn,0,0.0
+35196,76,K. Irving makes 2-pt jump shot from 10 ft,4:58.0,96-103,Brooklyn,0,0.0
+35197,76,J. Holiday makes 3-pt jump shot from 26 ft,4:49.0,99-103,Milwaukee,0,0.0
+35198,76,B. Brown misses 2-pt jump shot from 6 ft,4:24.0,99-103,Brooklyn,0,0.0
+35199,76,Offensive rebound by A. Drummond,4:21.0,99-103,Brooklyn,0,0.0
+35200,76,K. Durant makes 3-pt jump shot from 25 ft,4:10.0,99-106,Brooklyn,0,0.0
+35201,76,Turnover by J. Holiday (bad pass; steal by A. Drummond),3:53.0,99-106,Milwaukee,0,0.0
+35202,76,K. Durant makes 2-pt dunk at rim (assist by K. Irving),3:52.0,99-108,Brooklyn,0,0.0
+35203,76,Milwaukee full timeout,3:52.0,99-108,Milwaukee,0,0.0
+35204,76,J. Holiday misses 2-pt layup from 4 ft,3:43.0,99-108,Milwaukee,0,0.0
+35205,76,Offensive rebound by Team,3:43.0,99-108,Milwaukee,0,0.0
+35206,76,Brooklyn full timeout,3:43.0,99-108,Brooklyn,0,0.0
+35207,76,Instant Replay (Challenge: Ruling Stands),3:43.0,99-108,Brooklyn,0,0.0
+35208,76,Turnover by G. Antetokounmpo (lost ball; steal by K. Irving),3:27.0,99-108,Milwaukee,0,0.0
+35209,76,Turnover by K. Irving (lost ball; steal by G. Antetokounmpo),3:21.0,99-108,Brooklyn,0,0.0
+35210,76,Turnover by B. Portis (bad pass),3:21.0,99-108,Milwaukee,0,0.0
+35211,76,K. Irving misses 3-pt jump shot from 24 ft,3:08.0,99-108,Brooklyn,0,0.0
+35212,76,Defensive rebound by G. Antetokounmpo,3:04.0,99-108,Milwaukee,0,0.0
+35213,76,Shooting foul by K. Durant (drawn by G. Antetokounmpo),3:01.0,99-108,Milwaukee,0,0.0
+35214,76,G. Antetokounmpo misses free throw 1 of 2,3:01.0,99-108,Milwaukee,0,0.0
+35215,76,Offensive rebound by Team,3:01.0,99-108,Milwaukee,0,0.0
+35216,76,Brooklyn full timeout,3:01.0,99-108,Brooklyn,0,0.0
+35217,76,G. Antetokounmpo misses free throw 2 of 2,3:01.0,99-108,Milwaukee,0,0.0
+35218,76,Offensive rebound by W. Matthews,3:01.0,99-108,Milwaukee,0,0.0
+35219,76,W. Matthews makes 2-pt layup from 1 ft,3:01.0,101-108,Milwaukee,0,0.0
+35220,76,S. Curry misses 3-pt jump shot from 25 ft,2:35.0,101-108,Brooklyn,0,0.0
+35221,76,Defensive rebound by G. Antetokounmpo,2:32.0,101-108,Milwaukee,0,0.0
+35222,76,Shooting foul by A. Drummond (drawn by G. Antetokounmpo),2:27.0,101-108,Milwaukee,0,0.0
+35223,76,G. Antetokounmpo makes free throw 1 of 2,2:27.0,102-108,Milwaukee,0,0.0
+35224,76,G. Antetokounmpo makes free throw 2 of 2,2:27.0,103-108,Milwaukee,0,0.0
+35225,76,K. Durant makes 2-pt jump shot from 12 ft (assist by K. Irving),2:14.0,103-110,Brooklyn,0,0.0
+35226,76,J. Holiday misses 2-pt jump shot from 20 ft,2:01.0,103-110,Milwaukee,0,0.0
+35227,76,Offensive rebound by Team,2:00.0,103-110,Milwaukee,0,0.0
+35228,76,J. Holiday misses 3-pt jump shot from 23 ft,1:55.0,103-110,Milwaukee,0,0.0
+35229,76,Offensive rebound by B. Portis,1:51.0,103-110,Milwaukee,0,0.0
+35230,76,B. Portis makes 2-pt jump shot from 7 ft,1:51.0,105-110,Milwaukee,0,0.0
+35231,76,K. Irving misses 2-pt jump shot from 12 ft,1:30.0,105-110,Brooklyn,0,0.0
+35232,76,Offensive rebound by B. Brown,1:27.0,105-110,Brooklyn,0,0.0
+35233,76,B. Brown misses 2-pt dunk at rim,1:27.0,105-110,Brooklyn,0,0.0
+35234,76,Offensive rebound by A. Drummond,1:27.0,105-110,Brooklyn,0,0.0
+35235,76,Shooting foul by J. Holiday (drawn by A. Drummond),1:27.0,105-110,Brooklyn,0,0.0
+35236,76,A. Drummond misses free throw 1 of 2,1:27.0,105-110,Brooklyn,0,0.0
+35237,76,Offensive rebound by Team,1:27.0,105-110,Brooklyn,0,0.0
+35238,76,A. Drummond misses free throw 2 of 2,1:27.0,105-110,Brooklyn,0,0.0
+35239,76,Defensive rebound by G. Antetokounmpo,1:25.0,105-110,Milwaukee,0,0.0
+35240,76,Personal foul by S. Curry (drawn by J. Holiday),1:14.0,105-110,Milwaukee,0,1.0
+35241,76,J. Holiday makes free throw 1 of 2,1:14.0,106-110,Milwaukee,0,0.0
+35242,76,J. Holiday makes free throw 2 of 2,1:14.0,107-110,Milwaukee,0,0.0
+35243,76,S. Curry misses 3-pt jump shot from 23 ft,0:57.0,107-110,Brooklyn,0,1.0
+35244,76,Defensive rebound by G. Antetokounmpo,0:55.0,107-110,Milwaukee,0,1.0
+35245,76,G. Antetokounmpo misses 3-pt jump shot from 26 ft,0:47.0,107-110,Milwaukee,0,1.0
+35246,76,Defensive rebound by A. Drummond,0:44.0,107-110,Brooklyn,0,0.0
+35247,76,Offensive foul by B. Brown (drawn by G. Antetokounmpo),0:30.0,107-110,Brooklyn,0,0.0
+35248,76,Turnover by B. Brown (offensive foul),0:30.0,107-110,Brooklyn,0,0.0
+35249,76,Milwaukee full timeout,0:30.0,107-110,Milwaukee,0,0.0
+35250,76,P. Connaughton enters the game for W. Matthews,0:30.0,107-110,Milwaukee,1,0.0
+35251,76,G. Antetokounmpo makes 3-pt jump shot from 25 ft,0:18.0,110-110,Milwaukee,0,0.0
+35252,76,Brooklyn full timeout,0:18.0,110-110,Brooklyn,0,0.0
+35253,76,J. Carter enters the game for G. Allen,0:18.0,110-110,Milwaukee,1,0.0
+35254,76,G. Hill enters the game for P. Connaughton,0:18.0,110-110,Milwaukee,1,0.0
+35255,76,W. Matthews enters the game for B. Portis,0:18.0,110-110,Milwaukee,1,0.0
+35256,76,G. Dragić enters the game for B. Brown,0:18.0,110-110,Brooklyn,0,0.0
+35257,76,P. Mills enters the game for A. Drummond,0:18.0,110-110,Brooklyn,0,0.0
+35258,76,K. Durant misses 2-pt jump shot from 14 ft,0:00.0,110-110,Brooklyn,0,0.0
+35259,76,Defensive rebound by J. Carter,0:00.0,110-110,Milwaukee,0,0.0
+35260,76,W. Matthews misses 3-pt jump shot from 24 ft,4:39.0,110-110,Milwaukee,0,0.0
+35261,76,Offensive rebound by J. Holiday,4:36.0,110-110,Milwaukee,0,0.0
+35262,76,J. Holiday makes 2-pt layup from 1 ft,4:34.0,112-110,Milwaukee,0,0.0
+35263,76,K. Durant makes 3-pt jump shot from 30 ft,4:13.0,112-113,Brooklyn,0,0.0
+35264,76,W. Matthews makes 3-pt jump shot from 23 ft (assist by G. Antetokounmpo),3:44.0,115-113,Milwaukee,0,0.0
+35265,76,K. Durant misses 3-pt jump shot from 27 ft,3:23.0,115-113,Brooklyn,0,0.0
+35266,76,Defensive rebound by J. Holiday,3:19.0,115-113,Milwaukee,0,0.0
+35267,76,B. Portis makes 2-pt jump shot from 10 ft (assist by G. Antetokounmpo),3:10.0,117-113,Milwaukee,0,0.0
+35268,76,Personal foul by J. Holiday (drawn by K. Durant),2:51.0,117-113,Brooklyn,0,0.0
+35269,76,Shooting foul by G. Allen (drawn by B. Brown),2:40.0,117-113,Brooklyn,0,0.0
+35270,76,B. Brown makes free throw 1 of 2,2:40.0,117-114,Brooklyn,0,0.0
+35271,76,N. Claxton enters the game for A. Drummond,2:40.0,117-114,Brooklyn,0,0.0
+35272,76,B. Brown makes free throw 2 of 2,2:40.0,117-115,Brooklyn,0,0.0
+35273,76,Shooting foul by N. Claxton (drawn by J. Holiday),2:26.0,117-115,Milwaukee,0,0.0
+35274,76,J. Holiday makes free throw 1 of 2,2:26.0,118-115,Milwaukee,0,0.0
+35275,76,J. Holiday misses free throw 2 of 2,2:26.0,118-115,Milwaukee,0,0.0
+35276,76,Defensive rebound by B. Brown,2:23.0,118-115,Brooklyn,0,0.0
+35277,76,K. Irving misses 2-pt jump shot from 10 ft,2:02.0,118-115,Brooklyn,0,0.0
+35278,76,Defensive rebound by G. Allen,1:57.0,118-115,Milwaukee,0,0.0
+35279,76,Shooting foul by K. Durant (drawn by G. Antetokounmpo),1:39.0,118-115,Milwaukee,0,0.0
+35280,76,G. Antetokounmpo misses free throw 1 of 2,1:39.0,118-115,Milwaukee,0,0.0
+35281,76,Offensive rebound by Team,1:39.0,118-115,Milwaukee,0,0.0
+35282,76,G. Dragić enters the game for B. Brown,1:39.0,118-115,Brooklyn,0,0.0
+35283,76,G. Antetokounmpo misses free throw 2 of 2,1:39.0,118-115,Milwaukee,0,0.0
+35284,76,Defensive rebound by S. Curry,1:36.0,118-115,Brooklyn,0,0.0
+35285,76,G. Dragić misses 3-pt jump shot from 25 ft,1:15.0,118-115,Brooklyn,0,0.0
+35286,76,Defensive rebound by J. Holiday,1:10.0,118-115,Milwaukee,0,0.0
+35287,76,J. Holiday misses 2-pt jump shot from 9 ft,0:54.0,118-115,Milwaukee,0,0.0
+35288,76,Defensive rebound by N. Claxton,0:51.0,118-115,Brooklyn,0,0.0
+35289,76,Shooting foul by G. Allen (drawn by N. Claxton),0:41.0,118-115,Brooklyn,0,0.0
+35290,76,N. Claxton misses free throw 1 of 2,0:41.0,118-115,Brooklyn,0,0.0
+35291,76,Offensive rebound by Team,0:41.0,118-115,Brooklyn,0,0.0
+35292,76,N. Claxton makes free throw 2 of 2,0:41.0,118-116,Brooklyn,0,0.0
+35293,76,G. Antetokounmpo misses 2-pt jump shot from 21 ft,0:20.0,118-116,Milwaukee,0,0.0
+35294,76,Defensive rebound by K. Durant,0:16.0,118-116,Brooklyn,0,0.0
+35295,76,Shooting foul by W. Matthews (drawn by K. Durant),0:08.0,118-116,Brooklyn,0,0.0
+35296,76,Milwaukee full timeout,0:08.0,118-116,Milwaukee,0,1.0
+35297,76,Instant Replay (Challenge: Ruling Stands),0:08.0,118-116,Milwaukee,0,1.0
+35298,76,B. Brown enters the game for S. Curry,0:08.0,118-116,Brooklyn,0,0.0
+35299,76,K. Durant makes free throw 1 of 3,0:08.0,118-117,Brooklyn,0,0.0
+35300,76,K. Durant makes free throw 2 of 3,0:08.0,118-118,Brooklyn,0,0.0
+35301,76,K. Durant makes free throw 3 of 3,0:08.0,118-119,Brooklyn,0,0.0
+35302,76,Shooting foul by N. Claxton (drawn by G. Antetokounmpo),0:03.0,118-119,Milwaukee,0,
+35303,76,G. Antetokounmpo makes free throw 1 of 2,0:03.0,119-119,Milwaukee,0,
+35304,76,G. Antetokounmpo makes free throw 2 of 2,0:03.0,120-119,Milwaukee,0,
+35305,76,Brooklyn full timeout,0:03.0,120-119,Brooklyn,0,
+35306,76,J. Carter enters the game for G. Allen,0:03.0,120-119,Milwaukee,1,
+35307,76,G. Hill enters the game for B. Portis,0:03.0,120-119,Milwaukee,1,
+35308,76,S. Curry enters the game for B. Brown,0:03.0,120-119,Brooklyn,0,
+35309,76,P. Mills enters the game for N. Claxton,0:03.0,120-119,Brooklyn,0,
+35310,76,K. Durant misses 3-pt jump shot from 26 ft,0:01.0,120-119,Brooklyn,0,
+35311,76,Offensive rebound by Team,0:01.0,120-119,Brooklyn,0,

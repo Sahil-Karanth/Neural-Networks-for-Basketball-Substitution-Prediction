@@ -1,0 +1,465 @@
+,game number,play,time,score,team,current_sub_status,future_sub_status
+8432,19,J. Holiday makes 2-pt dunk from 2 ft (assist by G. Antetokounmpo),11:44.0,0-2,Milwaukee,0,0.0
+8433,19,S. Bey misses 2-pt jump shot from 13 ft,11:19.0,0-2,Detroit,0,0.0
+8434,19,Defensive rebound by K. Middleton,11:16.0,0-2,Milwaukee,0,0.0
+8435,19,Shooting foul by J. Grant (drawn by G. Antetokounmpo),11:11.0,0-2,Milwaukee,0,0.0
+8436,19,G. Antetokounmpo makes free throw 1 of 2,11:11.0,0-3,Milwaukee,0,0.0
+8437,19,G. Antetokounmpo misses free throw 2 of 2,11:11.0,0-3,Milwaukee,0,0.0
+8438,19,Defensive rebound by J. Grant,11:08.0,0-3,Detroit,0,0.0
+8439,19,S. Bey misses 3-pt jump shot from 28 ft,10:56.0,0-3,Detroit,0,0.0
+8440,19,Defensive rebound by G. Antetokounmpo,10:53.0,0-3,Milwaukee,0,0.0
+8441,19,G. Antetokounmpo misses 2-pt layup from 4 ft,10:47.0,0-3,Milwaukee,0,0.0
+8442,19,Offensive rebound by G. Antetokounmpo,10:40.0,0-3,Milwaukee,0,0.0
+8443,19,G. Antetokounmpo makes 2-pt layup at rim,10:40.0,0-5,Milwaukee,0,0.0
+8444,19,J. Grant misses 2-pt jump shot from 21 ft,10:23.0,0-5,Detroit,0,0.0
+8445,19,Defensive rebound by J. Holiday,10:21.0,0-5,Milwaukee,0,0.0
+8446,19,B. Portis makes 2-pt dunk from 3 ft (assist by J. Holiday),10:14.0,0-7,Milwaukee,0,0.0
+8447,19,C. Joseph misses 3-pt jump shot from 23 ft,9:55.0,0-7,Detroit,0,0.0
+8448,19,Defensive rebound by K. Middleton,9:52.0,0-7,Milwaukee,0,0.0
+8449,19,B. Portis makes 3-pt jump shot from 25 ft (assist by K. Middleton),9:43.0,0-10,Milwaukee,0,0.0
+8450,19,Detroit full timeout,9:37.0,0-10,Detroit,0,0.0
+8451,19,Turnover by C. Joseph (bad pass; steal by K. Middleton),9:20.0,0-10,Detroit,0,0.0
+8452,19,G. Antetokounmpo makes 2-pt dunk from 1 ft (assist by G. Allen),9:15.0,0-12,Milwaukee,0,0.0
+8453,19,S. Bey misses 3-pt jump shot from 23 ft,9:01.0,0-12,Detroit,0,0.0
+8454,19,Defensive rebound by G. Antetokounmpo,8:59.0,0-12,Milwaukee,0,0.0
+8455,19,Shooting foul by C. Cunningham (drawn by G. Antetokounmpo),8:54.0,0-12,Milwaukee,0,0.0
+8456,19,G. Antetokounmpo makes free throw 1 of 2,8:54.0,0-13,Milwaukee,0,0.0
+8457,19,G. Antetokounmpo makes free throw 2 of 2,8:54.0,0-14,Milwaukee,0,0.0
+8458,19,L. Garza makes 2-pt layup from 1 ft (assist by C. Cunningham),8:40.0,2-14,Detroit,0,0.0
+8459,19,G. Allen misses 2-pt layup from 3 ft,8:19.0,2-14,Milwaukee,0,1.0
+8460,19,Offensive rebound by B. Portis,8:14.0,2-14,Milwaukee,0,1.0
+8461,19,B. Portis makes 2-pt layup at rim,8:14.0,2-16,Milwaukee,0,0.0
+8462,19,C. Joseph misses 2-pt jump shot from 20 ft,7:59.0,2-16,Detroit,0,0.0
+8463,19,Defensive rebound by B. Portis,7:56.0,2-16,Milwaukee,0,0.0
+8464,19,G. Antetokounmpo makes 2-pt layup from 2 ft,7:50.0,2-18,Milwaukee,0,0.0
+8465,19,Shooting foul by G. Antetokounmpo (drawn by L. Garza),7:37.0,2-18,Detroit,0,0.0
+8466,19,L. Garza makes free throw 1 of 2,7:37.0,3-18,Detroit,0,0.0
+8467,19,H. Diallo enters the game for S. Bey,7:37.0,3-18,Detroit,0,0.0
+8468,19,F. Jackson enters the game for C. Joseph,7:37.0,3-18,Detroit,0,0.0
+8469,19,P. Connaughton enters the game for K. Middleton,7:37.0,3-18,Milwaukee,1,0.0
+8470,19,G. Hill enters the game for B. Portis,7:37.0,3-18,Milwaukee,1,0.0
+8471,19,L. Garza makes free throw 2 of 2,7:37.0,4-18,Detroit,0,0.0
+8472,19,G. Hill misses 3-pt jump shot from 23 ft,7:17.0,4-18,Milwaukee,0,0.0
+8473,19,Defensive rebound by C. Cunningham,7:14.0,4-18,Detroit,0,0.0
+8474,19,C. Cunningham misses 3-pt jump shot from 27 ft,7:11.0,4-18,Detroit,0,0.0
+8475,19,Defensive rebound by G. Antetokounmpo,7:09.0,4-18,Milwaukee,0,0.0
+8476,19,G. Hill misses 3-pt jump shot from 23 ft,7:03.0,4-18,Milwaukee,0,0.0
+8477,19,Defensive rebound by C. Cunningham,6:59.0,4-18,Detroit,0,0.0
+8478,19,L. Garza misses 2-pt layup from 2 ft (block by G. Antetokounmpo),6:43.0,4-18,Detroit,0,0.0
+8479,19,Defensive rebound by P. Connaughton,6:39.0,4-18,Milwaukee,0,0.0
+8480,19,P. Connaughton misses 3-pt jump shot from 25 ft,6:34.0,4-18,Milwaukee,0,0.0
+8481,19,Defensive rebound by F. Jackson,6:31.0,4-18,Detroit,0,0.0
+8482,19,H. Diallo makes 2-pt layup from 8 ft,6:24.0,6-18,Detroit,0,0.0
+8483,19,Shooting foul by H. Diallo (drawn by G. Antetokounmpo),6:09.0,6-18,Milwaukee,0,0.0
+8484,19,G. Antetokounmpo makes free throw 1 of 2,6:09.0,6-19,Milwaukee,0,0.0
+8485,19,G. Antetokounmpo misses free throw 2 of 2,6:09.0,6-19,Milwaukee,0,0.0
+8486,19,Defensive rebound by C. Cunningham,6:06.0,6-19,Detroit,0,0.0
+8487,19,J. Grant makes 3-pt jump shot from 26 ft (assist by C. Cunningham),5:56.0,9-19,Detroit,0,0.0
+8488,19,P. Connaughton makes 3-pt jump shot from 25 ft (assist by J. Holiday),5:36.0,9-22,Milwaukee,0,1.0
+8489,19,J. Grant misses 3-pt jump shot from 25 ft,5:21.0,9-22,Detroit,0,1.0
+8490,19,Defensive rebound by G. Allen,5:18.0,9-22,Milwaukee,0,0.0
+8491,19,G. Antetokounmpo misses 2-pt layup from 2 ft,5:12.0,9-22,Milwaukee,0,0.0
+8492,19,Offensive rebound by G. Antetokounmpo,5:09.0,9-22,Milwaukee,0,0.0
+8493,19,G. Antetokounmpo makes 2-pt layup at rim,5:09.0,9-24,Milwaukee,0,0.0
+8494,19,L. Garza misses 2-pt layup from 2 ft,4:58.0,9-24,Detroit,0,0.0
+8495,19,Defensive rebound by G. Hill,4:56.0,9-24,Milwaukee,0,0.0
+8496,19,Milwaukee full timeout,4:53.0,9-24,Milwaukee,0,0.0
+8497,19,T. Lyles enters the game for L. Garza,4:53.0,9-24,Detroit,0,0.0
+8498,19,R. Hood enters the game for G. Allen,4:53.0,9-24,Milwaukee,1,0.0
+8499,19,B. Portis enters the game for G. Antetokounmpo,4:53.0,9-24,Milwaukee,1,0.0
+8500,19,J. Holiday makes 2-pt jump shot from 14 ft,4:41.0,9-26,Milwaukee,0,1.0
+8501,19,J. Grant misses 2-pt layup from 7 ft,4:27.0,9-26,Detroit,0,0.0
+8502,19,Defensive rebound by J. Holiday,4:24.0,9-26,Milwaukee,0,0.0
+8503,19,J. Holiday misses 3-pt jump shot from 26 ft,4:21.0,9-26,Milwaukee,0,0.0
+8504,19,Offensive rebound by G. Hill,4:18.0,9-26,Milwaukee,0,0.0
+8505,19,P. Connaughton misses 2-pt layup from 2 ft (block by H. Diallo),4:13.0,9-26,Milwaukee,0,0.0
+8506,19,Defensive rebound by C. Cunningham,4:09.0,9-26,Detroit,0,0.0
+8507,19,F. Jackson makes 2-pt layup from 2 ft (assist by C. Cunningham),4:06.0,11-26,Detroit,0,0.0
+8508,19,Shooting foul by H. Diallo (drawn by J. Holiday),3:45.0,11-26,Milwaukee,0,0.0
+8509,19,J. Holiday makes free throw 1 of 2,3:45.0,11-27,Milwaukee,0,0.0
+8510,19,K. Middleton enters the game for G. Hill,3:45.0,11-27,Milwaukee,1,0.0
+8511,19,J. Holiday makes free throw 2 of 2,3:45.0,11-28,Milwaukee,0,0.0
+8512,19,J. Grant makes 2-pt jump shot from 17 ft,3:29.0,13-28,Detroit,0,0.0
+8513,19,P. Connaughton misses 3-pt jump shot from 26 ft,3:22.0,13-28,Milwaukee,0,0.0
+8514,19,Defensive rebound by C. Cunningham,3:18.0,13-28,Detroit,0,0.0
+8515,19,C. Cunningham misses 2-pt jump shot from 15 ft,3:06.0,13-28,Detroit,0,0.0
+8516,19,Offensive rebound by T. Lyles,3:01.0,13-28,Detroit,0,1.0
+8517,19,T. Lyles makes 2-pt layup at rim,3:01.0,15-28,Detroit,0,0.0
+8518,19,K. Middleton misses 2-pt jump shot from 21 ft,2:55.0,15-28,Milwaukee,0,0.0
+8519,19,Offensive rebound by B. Portis,2:52.0,15-28,Milwaukee,0,0.0
+8520,19,J. Holiday misses 2-pt layup from 3 ft,2:48.0,15-28,Milwaukee,0,0.0
+8521,19,Offensive rebound by Team,2:48.0,15-28,Milwaukee,0,0.0
+8522,19,Loose ball foul by H. Diallo (drawn by B. Portis),2:48.0,15-28,Detroit,0,0.0
+8523,19,B. Portis makes free throw 1 of 2,2:48.0,15-29,Milwaukee,0,0.0
+8524,19,J. Jackson enters the game for C. Cunningham,2:48.0,15-29,Detroit,0,0.0
+8525,19,S. Lee enters the game for H. Diallo,2:48.0,15-29,Detroit,0,0.0
+8526,19,G. Hill enters the game for J. Holiday,2:48.0,15-29,Milwaukee,1,0.0
+8527,19,B. Portis makes free throw 2 of 2,2:48.0,15-30,Milwaukee,0,0.0
+8528,19,Shooting foul by P. Connaughton (drawn by J. Grant),2:38.0,15-30,Detroit,0,0.0
+8529,19,J. Grant makes free throw 1 of 2,2:38.0,16-30,Detroit,0,0.0
+8530,19,J. Grant makes free throw 2 of 2,2:38.0,17-30,Detroit,0,0.0
+8531,19,B. Portis misses 2-pt jump shot from 6 ft,2:19.0,17-30,Milwaukee,0,1.0
+8532,19,Defensive rebound by T. Lyles,2:16.0,17-30,Detroit,0,0.0
+8533,19,T. Lyles misses 3-pt jump shot from 26 ft,2:07.0,17-30,Detroit,0,0.0
+8534,19,Defensive rebound by K. Middleton,2:04.0,17-30,Milwaukee,0,0.0
+8535,19,Turnover by K. Middleton (bad pass),2:04.0,17-30,Milwaukee,0,0.0
+8536,19,S. Lee makes 3-pt jump shot from 27 ft,1:56.0,20-30,Detroit,0,0.0
+8537,19,K. Middleton makes 2-pt jump shot from 14 ft,1:41.0,20-32,Milwaukee,0,0.0
+8538,19,T. Lyles makes 2-pt layup from 1 ft,1:17.0,22-32,Detroit,0,0.0
+8539,19,Shooting foul by B. Portis (drawn by T. Lyles),1:17.0,22-32,Detroit,0,0.0
+8540,19,S. Bey enters the game for J. Grant,1:17.0,22-32,Detroit,0,0.0
+8541,19,J. Nwora enters the game for P. Connaughton,1:17.0,22-32,Milwaukee,1,0.0
+8542,19,T. Lyles makes free throw 1 of 1,1:17.0,23-32,Detroit,0,0.0
+8543,19,K. Middleton misses 2-pt jump shot from 18 ft,0:59.0,23-32,Milwaukee,0,0.0
+8544,19,Offensive rebound by J. Nwora,0:57.0,23-32,Milwaukee,0,0.0
+8545,19,Turnover by J. Nwora (out of bounds lost ball),0:57.0,23-32,Milwaukee,0,0.0
+8546,19,F. Jackson misses 3-pt jump shot from 23 ft,0:41.0,23-32,Detroit,0,0.0
+8547,19,Defensive rebound by B. Portis,0:38.0,23-32,Milwaukee,0,0.0
+8548,19,K. Middleton misses 2-pt jump shot from 10 ft,0:28.0,23-32,Milwaukee,0,0.0
+8549,19,Offensive rebound by G. Hill,0:25.0,23-32,Milwaukee,0,0.0
+8550,19,K. Middleton misses 2-pt jump shot from 17 ft,0:13.0,23-32,Milwaukee,0,0.0
+8551,19,Offensive rebound by Team,0:13.0,23-32,Milwaukee,0,0.0
+8552,19,Turnover by Team (shot clock),0:12.0,23-32,Milwaukee,0,0.0
+8553,19,T. Lyles makes 3-pt jump shot from 23 ft (assist by S. Bey),0:01.0,26-32,Detroit,0,0.0
+8554,19,Instant Replay (Request: Ruling Stands),0:00.0,26-32,Detroit,0,1.0
+8555,19,T. Lyles misses 3-pt jump shot from 27 ft,11:46.0,26-32,Detroit,0,0.0
+8556,19,Defensive rebound by G. Antetokounmpo,11:42.0,26-32,Milwaukee,0,0.0
+8557,19,G. Antetokounmpo misses 3-pt jump shot from 25 ft,11:28.0,26-32,Milwaukee,0,0.0
+8558,19,Defensive rebound by J. Jackson,11:25.0,26-32,Detroit,0,0.0
+8559,19,F. Jackson misses 3-pt jump shot from 27 ft,11:09.0,26-32,Detroit,0,0.0
+8560,19,Defensive rebound by K. Middleton,11:06.0,26-32,Milwaukee,0,0.0
+8561,19,B. Portis makes 3-pt jump shot from 27 ft (assist by K. Middleton),10:55.0,26-35,Milwaukee,0,0.0
+8562,19,F. Jackson makes 2-pt layup from 1 ft (assist by J. Jackson),10:38.0,28-35,Detroit,0,0.0
+8563,19,Personal foul by T. Lyles (drawn by G. Antetokounmpo),10:29.0,28-35,Milwaukee,0,0.0
+8564,19,J. Holiday enters the game for G. Hill,10:29.0,28-35,Milwaukee,1,0.0
+8565,19,J. Holiday misses 2-pt jump shot from 19 ft,10:15.0,28-35,Milwaukee,0,0.0
+8566,19,Defensive rebound by S. Lee,10:12.0,28-35,Detroit,0,0.0
+8567,19,T. Lyles makes 3-pt jump shot from 27 ft (assist by S. Lee),10:09.0,31-35,Detroit,0,1.0
+8568,19,B. Portis makes 2-pt jump shot from 14 ft (assist by K. Middleton),9:58.0,31-37,Milwaukee,0,1.0
+8569,19,S. Bey makes 2-pt jump shot from 18 ft (assist by S. Lee),9:44.0,33-37,Detroit,0,0.0
+8570,19,B. Portis makes 3-pt jump shot from 27 ft (assist by G. Antetokounmpo),9:28.0,33-40,Milwaukee,0,0.0
+8571,19,S. Bey misses 3-pt jump shot from 26 ft,9:09.0,33-40,Detroit,0,0.0
+8572,19,Offensive rebound by T. Lyles,9:07.0,33-40,Detroit,0,0.0
+8573,19,T. Lyles misses 2-pt layup from 1 ft,9:06.0,33-40,Detroit,0,0.0
+8574,19,Offensive rebound by T. Lyles,9:06.0,33-40,Detroit,0,0.0
+8575,19,T. Lyles makes 2-pt layup from 1 ft,9:06.0,35-40,Detroit,0,0.0
+8576,19,Shooting foul by B. Portis (drawn by T. Lyles),9:06.0,35-40,Detroit,0,0.0
+8577,19,G. Allen enters the game for K. Middleton,9:06.0,35-40,Milwaukee,1,0.0
+8578,19,P. Connaughton enters the game for B. Portis,9:06.0,35-40,Milwaukee,1,0.0
+8579,19,T. Lyles makes free throw 1 of 1,9:06.0,36-40,Detroit,0,0.0
+8580,19,J. Holiday makes 2-pt jump shot from 4 ft,8:50.0,36-42,Milwaukee,0,0.0
+8581,19,T. Lyles misses 3-pt jump shot from 28 ft,8:37.0,36-42,Detroit,0,0.0
+8582,19,Defensive rebound by G. Allen,8:33.0,36-42,Milwaukee,0,0.0
+8583,19,Personal foul by J. Jackson (drawn by G. Allen),8:31.0,36-42,Milwaukee,0,0.0
+8584,19,J. Holiday misses 3-pt jump shot from 23 ft,8:27.0,36-42,Milwaukee,0,0.0
+8585,19,Defensive rebound by T. Lyles,8:23.0,36-42,Detroit,0,0.0
+8586,19,J. Jackson makes 2-pt jump shot from 11 ft,8:10.0,38-42,Detroit,0,0.0
+8587,19,G. Antetokounmpo makes 2-pt layup from 1 ft,7:51.0,38-44,Milwaukee,0,0.0
+8588,19,Shooting foul by J. Nwora (drawn by J. Jackson),7:36.0,38-44,Detroit,0,1.0
+8589,19,J. Jackson makes free throw 1 of 2,7:36.0,39-44,Detroit,0,0.0
+8590,19,J. Jackson makes free throw 2 of 2,7:36.0,40-44,Detroit,0,0.0
+8591,19,Turnover by G. Allen (lost ball; steal by S. Lee),7:25.0,40-44,Milwaukee,0,0.0
+8592,19,S. Lee misses 2-pt layup from 1 ft (block by G. Antetokounmpo),7:22.0,40-44,Detroit,0,0.0
+8593,19,Defensive rebound by Team,7:22.0,40-44,Milwaukee,0,0.0
+8594,19,Milwaukee full timeout,7:22.0,40-44,Milwaukee,0,0.0
+8595,19,Instant Replay (Challenge: Ruling Stands),7:22.0,40-44,Milwaukee,0,0.0
+8596,19,G. Antetokounmpo makes 2-pt layup from 2 ft,7:03.0,40-46,Milwaukee,0,0.0
+8597,19,Personal foul by J. Holiday (drawn by S. Lee),6:55.0,40-46,Detroit,0,0.0
+8598,19,G. Hill enters the game for J. Nwora,6:55.0,40-46,Milwaukee,1,0.0
+8599,19,F. Jackson misses 2-pt jump shot from 14 ft,6:43.0,40-46,Detroit,0,0.0
+8600,19,Defensive rebound by G. Allen,6:40.0,40-46,Milwaukee,0,0.0
+8601,19,J. Holiday misses 2-pt hook shot from 4 ft,6:32.0,40-46,Milwaukee,0,1.0
+8602,19,Defensive rebound by S. Lee,6:29.0,40-46,Detroit,0,0.0
+8603,19,F. Jackson misses 3-pt jump shot from 29 ft,6:19.0,40-46,Detroit,0,0.0
+8604,19,Defensive rebound by P. Connaughton,6:15.0,40-46,Milwaukee,0,0.0
+8605,19,Offensive foul by P. Connaughton (drawn by J. Jackson),6:04.0,40-46,Milwaukee,0,0.0
+8606,19,Turnover by P. Connaughton (offensive foul),6:04.0,40-46,Milwaukee,0,0.0
+8607,19,C. Cunningham enters the game for F. Jackson,6:04.0,40-46,Detroit,0,0.0
+8608,19,J. Grant enters the game for J. Jackson,6:04.0,40-46,Detroit,0,0.0
+8609,19,C. Cunningham makes 3-pt jump shot from 23 ft (assist by S. Lee),5:51.0,43-46,Detroit,0,0.0
+8610,19,Personal foul by T. Lyles (drawn by G. Antetokounmpo),5:37.0,43-46,Milwaukee,0,1.0
+8611,19,B. Portis enters the game for P. Connaughton,5:37.0,43-46,Milwaukee,1,0.0
+8612,19,G. Allen misses 2-pt layup from 3 ft,5:25.0,43-46,Milwaukee,0,0.0
+8613,19,Defensive rebound by J. Grant,5:23.0,43-46,Detroit,0,0.0
+8614,19,C. Cunningham misses 3-pt jump shot from 28 ft,5:19.0,43-46,Detroit,0,0.0
+8615,19,Defensive rebound by B. Portis,5:17.0,43-46,Milwaukee,0,0.0
+8616,19,J. Holiday makes 2-pt jump shot from 11 ft,5:10.0,43-48,Milwaukee,0,0.0
+8617,19,Shooting foul by T. Lyles (drawn by J. Holiday),5:10.0,43-48,Milwaukee,0,1.0
+8618,19,L. Garza enters the game for T. Lyles,5:10.0,43-48,Detroit,0,0.0
+8619,19,J. Holiday makes free throw 1 of 1,5:10.0,43-49,Milwaukee,0,0.0
+8620,19,P. Connaughton enters the game for G. Antetokounmpo,5:10.0,43-49,Milwaukee,1,0.0
+8621,19,J. Grant misses 3-pt jump shot from 28 ft,4:56.0,43-49,Detroit,0,0.0
+8622,19,Offensive rebound by L. Garza,4:53.0,43-49,Detroit,0,0.0
+8623,19,S. Lee misses 3-pt jump shot from 24 ft,4:52.0,43-49,Detroit,0,0.0
+8624,19,Defensive rebound by J. Holiday,4:49.0,43-49,Milwaukee,0,0.0
+8625,19,P. Connaughton makes 3-pt jump shot from 27 ft (assist by J. Holiday),4:44.0,43-52,Milwaukee,0,0.0
+8626,19,Detroit full timeout,4:44.0,43-52,Detroit,0,0.0
+8627,19,K. Middleton enters the game for J. Holiday,4:44.0,43-52,Milwaukee,1,0.0
+8628,19,Personal foul by G. Hill (drawn by S. Lee),4:36.0,43-52,Detroit,0,0.0
+8629,19,S. Lee makes 3-pt jump shot from 28 ft (assist by J. Grant),4:22.0,46-52,Detroit,0,0.0
+8630,19,Turnover by K. Middleton (lost ball; steal by J. Grant),4:10.0,46-52,Milwaukee,0,0.0
+8631,19,J. Grant misses 2-pt layup from 3 ft,4:03.0,46-52,Detroit,0,0.0
+8632,19,Offensive rebound by J. Grant,4:02.0,46-52,Detroit,0,0.0
+8633,19,S. Lee misses 2-pt jump shot from 11 ft,3:54.0,46-52,Detroit,0,0.0
+8634,19,Defensive rebound by P. Connaughton,3:51.0,46-52,Milwaukee,0,0.0
+8635,19,P. Connaughton makes 2-pt layup from 2 ft (assist by B. Portis),3:41.0,46-54,Milwaukee,0,0.0
+8636,19,S. Bey makes 3-pt jump shot from 24 ft (assist by C. Cunningham),3:22.0,49-54,Detroit,0,0.0
+8637,19,B. Portis misses 2-pt layup from 4 ft,3:11.0,49-54,Milwaukee,0,0.0
+8638,19,Defensive rebound by S. Lee,3:09.0,49-54,Detroit,0,0.0
+8639,19,S. Lee misses 2-pt layup from 2 ft,3:04.0,49-54,Detroit,0,0.0
+8640,19,Defensive rebound by P. Connaughton,3:00.0,49-54,Milwaukee,0,0.0
+8641,19,B. Portis misses 3-pt jump shot from 24 ft,2:56.0,49-54,Milwaukee,0,0.0
+8642,19,Defensive rebound by L. Garza,2:53.0,49-54,Detroit,0,0.0
+8643,19,S. Bey misses 3-pt jump shot from 27 ft,2:47.0,49-54,Detroit,0,1.0
+8644,19,Defensive rebound by K. Middleton,2:43.0,49-54,Milwaukee,0,1.0
+8645,19,K. Middleton misses 2-pt jump shot from 16 ft,2:33.0,49-54,Milwaukee,0,0.0
+8646,19,Defensive rebound by L. Garza,2:30.0,49-54,Detroit,0,0.0
+8647,19,J. Grant misses 3-pt jump shot from 29 ft,2:19.0,49-54,Detroit,0,0.0
+8648,19,Defensive rebound by K. Middleton,2:15.0,49-54,Milwaukee,0,0.0
+8649,19,G. Hill makes 2-pt layup at rim (assist by G. Allen),2:12.0,49-56,Milwaukee,0,0.0
+8650,19,Offensive foul by J. Grant (drawn by P. Connaughton),2:00.0,49-56,Detroit,0,0.0
+8651,19,Turnover by J. Grant (offensive foul),2:00.0,49-56,Detroit,0,0.0
+8652,19,J. Jackson enters the game for S. Bey,2:00.0,49-56,Detroit,0,0.0
+8653,19,G. Antetokounmpo enters the game for G. Allen,2:00.0,49-56,Milwaukee,1,0.0
+8654,19,J. Holiday enters the game for P. Connaughton,2:00.0,49-56,Milwaukee,1,1.0
+8655,19,Turnover by K. Middleton (bad pass),1:47.0,49-56,Milwaukee,0,0.0
+8656,19,J. Jackson misses 2-pt hook shot from 6 ft (block by J. Holiday),1:26.0,49-56,Detroit,0,0.0
+8657,19,Defensive rebound by Team,1:26.0,49-56,Milwaukee,0,0.0
+8658,19,K. Middleton makes 3-pt jump shot from 28 ft (assist by G. Antetokounmpo),1:14.0,49-59,Milwaukee,0,0.0
+8659,19,C. Cunningham misses 2-pt jump shot from 8 ft,1:01.0,49-59,Detroit,0,0.0
+8660,19,Defensive rebound by J. Holiday,0:59.0,49-59,Milwaukee,0,0.0
+8661,19,Turnover by B. Portis (bad pass; steal by S. Lee),0:53.0,49-59,Milwaukee,0,0.0
+8662,19,Turnover by C. Cunningham (step out of bounds),0:49.0,49-59,Detroit,0,0.0
+8663,19,F. Jackson enters the game for S. Lee,0:49.0,49-59,Detroit,0,0.0
+8664,19,P. Connaughton enters the game for B. Portis,0:49.0,49-59,Milwaukee,1,0.0
+8665,19,G. Antetokounmpo makes 2-pt layup from 1 ft,0:30.0,49-61,Milwaukee,0,0.0
+8666,19,Turnover by C. Cunningham (bad pass; steal by G. Antetokounmpo),0:11.0,49-61,Detroit,0,0.0
+8667,19,P. Connaughton makes 3-pt jump shot from 25 ft (assist by G. Antetokounmpo),0:04.0,49-64,Milwaukee,0,0.0
+8668,19,C. Cunningham makes 3-pt jump shot from 23 ft,0:00.0,52-64,Detroit,0,0.0
+8669,19,Instant Replay (Request: Ruling Stands),0:00.0,52-64,Detroit,0,0.0
+8670,19,Violation by Team (delay of game),12:00.0,52-64,Detroit,0,0.0
+8671,19,Violation by Team (delay of game),12:00.0,52-64,Milwaukee,0,0.0
+8672,19,J. Grant makes 2-pt jump shot from 19 ft,11:39.0,54-64,Detroit,0,0.0
+8673,19,J. Holiday misses 3-pt jump shot from 26 ft,11:12.0,54-64,Milwaukee,0,0.0
+8674,19,Defensive rebound by S. Bey,11:12.0,54-64,Detroit,0,0.0
+8675,19,Turnover by S. Bey (bad pass; steal by K. Middleton),11:08.0,54-64,Detroit,0,0.0
+8676,19,Personal foul by J. Grant (drawn by K. Middleton),11:02.0,54-64,Milwaukee,0,0.0
+8677,19,J. Holiday makes 2-pt jump shot from 18 ft,10:50.0,54-66,Milwaukee,0,0.0
+8678,19,L. Garza makes 2-pt layup from 3 ft (assist by C. Cunningham),10:39.0,56-66,Detroit,0,0.0
+8679,19,Shooting foul by S. Bey (drawn by G. Antetokounmpo),10:19.0,56-66,Milwaukee,0,0.0
+8680,19,G. Antetokounmpo makes free throw 1 of 2,10:19.0,56-67,Milwaukee,0,0.0
+8681,19,G. Antetokounmpo makes free throw 2 of 2,10:19.0,56-68,Milwaukee,0,0.0
+8682,19,J. Grant misses 3-pt jump shot from 24 ft,10:06.0,56-68,Detroit,0,0.0
+8683,19,Offensive rebound by L. Garza,10:02.0,56-68,Detroit,0,0.0
+8684,19,L. Garza misses 3-pt jump shot from 27 ft,9:59.0,56-68,Detroit,0,0.0
+8685,19,Defensive rebound by K. Middleton,9:55.0,56-68,Milwaukee,0,0.0
+8686,19,K. Middleton misses 3-pt jump shot from 26 ft,9:49.0,56-68,Milwaukee,0,0.0
+8687,19,Defensive rebound by S. Bey,9:45.0,56-68,Detroit,0,0.0
+8688,19,C. Cunningham misses 3-pt jump shot from 29 ft,9:36.0,56-68,Detroit,0,0.0
+8689,19,Defensive rebound by B. Portis,9:32.0,56-68,Milwaukee,0,0.0
+8690,19,G. Antetokounmpo makes 3-pt jump shot from 25 ft,9:20.0,56-71,Milwaukee,0,0.0
+8691,19,Shooting foul by J. Holiday (drawn by C. Cunningham),9:03.0,56-71,Detroit,0,0.0
+8692,19,C. Cunningham makes free throw 1 of 2,9:03.0,57-71,Detroit,0,0.0
+8693,19,S. Lee enters the game for C. Joseph,9:03.0,57-71,Detroit,0,0.0
+8694,19,C. Cunningham misses free throw 2 of 2,9:03.0,57-71,Detroit,0,1.0
+8695,19,Defensive rebound by B. Portis,8:59.0,57-71,Milwaukee,0,0.0
+8696,19,G. Allen misses 3-pt jump shot from 26 ft,8:40.0,57-71,Milwaukee,0,0.0
+8697,19,Defensive rebound by S. Bey,8:37.0,57-71,Detroit,0,0.0
+8698,19,S. Lee makes 2-pt layup from 1 ft (assist by C. Cunningham),8:25.0,59-71,Detroit,0,0.0
+8699,19,Turnover by J. Holiday (bad pass; steal by J. Grant),8:10.0,59-71,Milwaukee,0,1.0
+8700,19,S. Bey makes 3-pt jump shot from 23 ft (assist by S. Lee),8:00.0,62-71,Detroit,0,0.0
+8701,19,K. Middleton misses 2-pt jump shot from 5 ft,7:36.0,62-71,Milwaukee,0,0.0
+8702,19,Defensive rebound by S. Bey,7:34.0,62-71,Detroit,0,0.0
+8703,19,Turnover by C. Cunningham (bad pass),7:20.0,62-71,Detroit,0,0.0
+8704,19,P. Connaughton enters the game for B. Portis,7:20.0,62-71,Milwaukee,1,0.0
+8705,19,K. Middleton misses 2-pt jump shot from 20 ft,6:57.0,62-71,Milwaukee,0,0.0
+8706,19,Defensive rebound by C. Cunningham,6:53.0,62-71,Detroit,0,0.0
+8707,19,S. Bey makes 3-pt jump shot from 25 ft (assist by C. Cunningham),6:43.0,65-71,Detroit,0,0.0
+8708,19,Milwaukee full timeout,6:42.0,65-71,Milwaukee,0,0.0
+8709,19,G. Hill enters the game for K. Middleton,6:42.0,65-71,Milwaukee,1,0.0
+8710,19,Shooting foul by L. Garza (drawn by G. Antetokounmpo),6:28.0,65-71,Milwaukee,0,0.0
+8711,19,G. Antetokounmpo makes free throw 1 of 2,6:28.0,65-72,Milwaukee,0,0.0
+8712,19,G. Antetokounmpo makes free throw 2 of 2,6:28.0,65-73,Milwaukee,0,0.0
+8713,19,S. Bey misses 2-pt jump shot from 14 ft,6:13.0,65-73,Detroit,0,0.0
+8714,19,Defensive rebound by J. Holiday,6:11.0,65-73,Milwaukee,0,0.0
+8715,19,G. Antetokounmpo makes 2-pt layup from 1 ft (assist by J. Holiday),6:06.0,65-75,Milwaukee,0,0.0
+8716,19,S. Lee misses 2-pt hook shot from 6 ft,5:54.0,65-75,Detroit,0,0.0
+8717,19,Offensive rebound by S. Lee,5:54.0,65-75,Detroit,0,1.0
+8718,19,S. Lee makes 2-pt layup at rim,5:51.0,67-75,Detroit,0,0.0
+8719,19,G. Antetokounmpo misses 3-pt jump shot from 27 ft,5:38.0,67-75,Milwaukee,0,0.0
+8720,19,Defensive rebound by C. Cunningham,5:38.0,67-75,Detroit,0,0.0
+8721,19,C. Cunningham misses 2-pt jump shot from 16 ft,5:30.0,67-75,Detroit,0,0.0
+8722,19,Defensive rebound by P. Connaughton,5:27.0,67-75,Milwaukee,0,0.0
+8723,19,J. Holiday makes 3-pt jump shot from 26 ft,5:17.0,67-78,Milwaukee,0,0.0
+8724,19,J. Grant misses 3-pt jump shot from 26 ft,5:03.0,67-78,Detroit,0,0.0
+8725,19,Defensive rebound by Team,5:02.0,67-78,Milwaukee,0,0.0
+8726,19,T. Lyles enters the game for L. Garza,5:02.0,67-78,Detroit,0,0.0
+8727,19,R. Hood enters the game for G. Allen,5:02.0,67-78,Milwaukee,1,0.0
+8728,19,J. Holiday makes 3-pt jump shot from 27 ft,4:50.0,67-81,Milwaukee,0,0.0
+8729,19,Detroit full timeout,4:48.0,67-81,Detroit,0,0.0
+8730,19,J. Grant makes 2-pt layup from 3 ft,4:32.0,69-81,Detroit,0,0.0
+8731,19,R. Hood misses 3-pt jump shot from 26 ft,4:12.0,69-81,Milwaukee,0,1.0
+8732,19,Offensive rebound by G. Hill,4:10.0,69-81,Milwaukee,0,0.0
+8733,19,G. Antetokounmpo makes 2-pt layup from 1 ft (assist by G. Hill),4:08.0,69-83,Milwaukee,0,0.0
+8734,19,Turnover by Team (shot clock),3:43.0,69-83,Detroit,0,0.0
+8735,19,P. Connaughton misses 2-pt hook shot from 3 ft,3:27.0,69-83,Milwaukee,0,0.0
+8736,19,Defensive rebound by J. Grant,3:24.0,69-83,Detroit,0,0.0
+8737,19,C. Cunningham makes 2-pt jump shot from 4 ft,3:20.0,71-83,Detroit,0,0.0
+8738,19,Personal foul by S. Lee (drawn by J. Holiday),3:18.0,71-83,Milwaukee,0,0.0
+8739,19,H. Diallo enters the game for C. Cunningham,3:18.0,71-83,Detroit,0,0.0
+8740,19,F. Jackson enters the game for J. Grant,3:18.0,71-83,Detroit,0,0.0
+8741,19,B. Portis enters the game for G. Antetokounmpo,3:18.0,71-83,Milwaukee,1,0.0
+8742,19,Turnover by J. Holiday (bad pass),3:08.0,71-83,Milwaukee,0,0.0
+8743,19,T. Lyles misses 3-pt jump shot from 26 ft,2:59.0,71-83,Detroit,0,0.0
+8744,19,Defensive rebound by P. Connaughton,2:57.0,71-83,Milwaukee,0,0.0
+8745,19,J. Holiday makes 3-pt jump shot from 27 ft,2:48.0,71-86,Milwaukee,0,0.0
+8746,19,S. Lee misses 3-pt jump shot from 25 ft,2:32.0,71-86,Detroit,0,0.0
+8747,19,Defensive rebound by J. Holiday,2:29.0,71-86,Milwaukee,0,0.0
+8748,19,J. Holiday misses 3-pt jump shot from 28 ft,2:24.0,71-86,Milwaukee,0,0.0
+8749,19,Offensive rebound by G. Hill,2:22.0,71-86,Milwaukee,0,1.0
+8750,19,R. Hood misses 3-pt jump shot from 22 ft,2:19.0,71-86,Milwaukee,0,1.0
+8751,19,Defensive rebound by S. Bey,2:16.0,71-86,Detroit,0,0.0
+8752,19,T. Lyles misses 3-pt jump shot from 27 ft,1:56.0,71-86,Detroit,0,0.0
+8753,19,Defensive rebound by R. Hood,1:53.0,71-86,Milwaukee,0,0.0
+8754,19,B. Portis misses 2-pt hook shot from 9 ft,1:36.0,71-86,Milwaukee,0,0.0
+8755,19,Defensive rebound by S. Bey,1:33.0,71-86,Detroit,0,0.0
+8756,19,Shooting foul by J. Holiday (drawn by S. Bey),1:14.0,71-86,Detroit,0,0.0
+8757,19,S. Bey misses free throw 1 of 2,1:14.0,71-86,Detroit,0,0.0
+8758,19,Offensive rebound by Team,1:14.0,71-86,Detroit,0,0.0
+8759,19,K. Middleton enters the game for P. Connaughton,1:14.0,71-86,Milwaukee,1,0.0
+8760,19,J. Nwora enters the game for J. Holiday,1:14.0,71-86,Milwaukee,1,0.0
+8761,19,S. Bey makes free throw 2 of 2,1:14.0,72-86,Detroit,0,0.0
+8762,19,K. Middleton misses 3-pt jump shot from 27 ft,0:55.0,72-86,Milwaukee,0,0.0
+8763,19,Defensive rebound by H. Diallo,0:51.0,72-86,Detroit,0,0.0
+8764,19,J. Jackson enters the game for S. Bey,0:51.0,72-86,Detroit,0,0.0
+8765,19,T. Lyles misses 2-pt layup from 5 ft,0:40.0,72-86,Detroit,0,0.0
+8766,19,Offensive rebound by H. Diallo,0:38.0,72-86,Detroit,0,0.0
+8767,19,H. Diallo makes 2-pt dunk at rim,0:38.0,74-86,Detroit,0,0.0
+8768,19,K. Middleton misses 2-pt jump shot from 10 ft,0:28.0,74-86,Milwaukee,0,0.0
+8769,19,Offensive rebound by K. Middleton,0:27.0,74-86,Milwaukee,0,0.0
+8770,19,G. Hill makes 2-pt layup at rim (assist by K. Middleton),0:26.0,74-88,Milwaukee,0,0.0
+8771,19,S. Lee misses 3-pt jump shot from 27 ft,0:01.0,74-88,Detroit,0,0.0
+8772,19,Defensive rebound by B. Portis,0:01.0,74-88,Milwaukee,0,0.0
+8773,19,K. Middleton makes 2-pt layup from 2 ft (assist by G. Hill),11:50.0,74-90,Milwaukee,0,0.0
+8774,19,F. Jackson misses 2-pt jump shot from 8 ft,11:32.0,74-90,Detroit,0,0.0
+8775,19,Defensive rebound by J. Nwora,11:29.0,74-90,Milwaukee,0,0.0
+8776,19,K. Middleton misses 3-pt jump shot from 28 ft,11:22.0,74-90,Milwaukee,0,0.0
+8777,19,Defensive rebound by H. Diallo,11:19.0,74-90,Detroit,0,0.0
+8778,19,F. Jackson misses 3-pt jump shot from 25 ft,11:07.0,74-90,Detroit,0,0.0
+8779,19,Defensive rebound by G. Hill,11:03.0,74-90,Milwaukee,0,0.0
+8780,19,G. Hill misses 2-pt hook shot from 11 ft,10:48.0,74-90,Milwaukee,0,0.0
+8781,19,Defensive rebound by S. Lee,10:45.0,74-90,Detroit,0,0.0
+8782,19,T. Lyles makes 2-pt layup from 2 ft (assist by S. Lee),10:39.0,76-90,Detroit,0,0.0
+8783,19,Shooting foul by R. Hood (drawn by T. Lyles),10:39.0,76-90,Detroit,0,1.0
+8784,19,T. Lyles makes free throw 1 of 1,10:39.0,77-90,Detroit,0,1.0
+8785,19,B. Portis makes 2-pt jump shot from 14 ft,10:13.0,77-92,Milwaukee,0,1.0
+8786,19,S. Lee misses 3-pt jump shot from 27 ft,9:57.0,77-92,Detroit,0,0.0
+8787,19,Defensive rebound by B. Portis,9:55.0,77-92,Milwaukee,0,0.0
+8788,19,K. Middleton makes 2-pt jump shot from 11 ft (assist by R. Hood),9:48.0,77-94,Milwaukee,0,0.0
+8789,19,H. Diallo makes 2-pt jump shot from 15 ft,9:25.0,79-94,Detroit,0,0.0
+8790,19,K. Middleton makes 2-pt jump shot from 18 ft,9:16.0,79-96,Milwaukee,0,0.0
+8791,19,Detroit full timeout,9:16.0,79-96,Detroit,0,0.0
+8792,19,C. Cunningham enters the game for S. Lee,9:16.0,79-96,Detroit,0,0.0
+8793,19,G. Allen enters the game for G. Hill,9:16.0,79-96,Milwaukee,1,0.0
+8794,19,G. Antetokounmpo enters the game for R. Hood,9:16.0,79-96,Milwaukee,1,0.0
+8795,19,J. Holiday enters the game for B. Portis,9:16.0,79-96,Milwaukee,1,0.0
+8796,19,Personal foul by G. Allen (drawn by F. Jackson),9:04.0,79-96,Detroit,0,0.0
+8797,19,F. Jackson misses 3-pt jump shot from 29 ft,8:56.0,79-96,Detroit,0,0.0
+8798,19,Defensive rebound by J. Holiday,8:53.0,79-96,Milwaukee,0,0.0
+8799,19,G. Antetokounmpo makes 2-pt jump shot from 4 ft (assist by J. Holiday),8:47.0,79-98,Milwaukee,0,0.0
+8800,19,H. Diallo misses 2-pt layup from 3 ft (block by J. Nwora),8:42.0,79-98,Detroit,0,0.0
+8801,19,Defensive rebound by K. Middleton,8:38.0,79-98,Milwaukee,0,0.0
+8802,19,G. Allen makes 3-pt jump shot from 24 ft (assist by J. Nwora),8:33.0,79-101,Milwaukee,0,0.0
+8803,19,H. Diallo misses 2-pt jump shot from 13 ft,8:17.0,79-101,Detroit,0,0.0
+8804,19,Offensive rebound by T. Lyles,8:17.0,79-101,Detroit,0,0.0
+8805,19,T. Lyles makes 2-pt layup at rim,8:11.0,81-101,Detroit,0,0.0
+8806,19,G. Allen misses 3-pt jump shot from 26 ft,7:55.0,81-101,Milwaukee,0,0.0
+8807,19,Defensive rebound by H. Diallo,7:51.0,81-101,Detroit,0,0.0
+8808,19,Turnover by C. Cunningham (lost ball; steal by J. Nwora),7:46.0,81-101,Detroit,0,0.0
+8809,19,Personal foul by H. Diallo (drawn by G. Antetokounmpo),7:40.0,81-101,Milwaukee,0,0.0
+8810,19,G. Allen misses 3-pt jump shot from 27 ft,7:32.0,81-101,Milwaukee,0,0.0
+8811,19,Defensive rebound by T. Lyles,7:29.0,81-101,Detroit,0,0.0
+8812,19,Turnover by T. Lyles (bad pass; steal by G. Antetokounmpo),7:28.0,81-101,Detroit,0,0.0
+8813,19,G. Antetokounmpo makes 2-pt layup from 1 ft,7:24.0,81-103,Milwaukee,0,0.0
+8814,19,T. Lyles misses 3-pt jump shot from 27 ft,7:05.0,81-103,Detroit,0,0.0
+8815,19,Defensive rebound by J. Nwora,7:03.0,81-103,Milwaukee,0,1.0
+8816,19,K. Middleton misses 2-pt jump shot from 16 ft,6:51.0,81-103,Milwaukee,0,1.0
+8817,19,Defensive rebound by C. Cunningham,6:47.0,81-103,Detroit,0,1.0
+8818,19,J. Jackson makes 3-pt jump shot from 27 ft (assist by F. Jackson),6:40.0,84-103,Detroit,0,0.0
+8819,19,J. Holiday misses 2-pt layup from 2 ft,6:22.0,84-103,Milwaukee,0,0.0
+8820,19,Defensive rebound by F. Jackson,6:20.0,84-103,Detroit,0,0.0
+8821,19,F. Jackson makes 2-pt layup from 3 ft,6:12.0,86-103,Detroit,0,0.0
+8822,19,Milwaukee full timeout,6:11.0,86-103,Milwaukee,0,0.0
+8823,19,S. Bey enters the game for F. Jackson,6:11.0,86-103,Detroit,0,0.0
+8824,19,J. Grant enters the game for T. Lyles,6:11.0,86-103,Detroit,0,0.0
+8825,19,P. Connaughton enters the game for G. Allen,6:11.0,86-103,Milwaukee,1,0.0
+8826,19,R. Hood enters the game for K. Middleton,6:11.0,86-103,Milwaukee,1,0.0
+8827,19,B. Portis enters the game for J. Nwora,6:11.0,86-103,Milwaukee,1,0.0
+8828,19,B. Portis makes 3-pt jump shot from 28 ft (assist by G. Antetokounmpo),5:53.0,86-106,Milwaukee,0,0.0
+8829,19,J. Jackson misses 2-pt jump shot from 19 ft,5:34.0,86-106,Detroit,0,0.0
+8830,19,Defensive rebound by G. Antetokounmpo,5:31.0,86-106,Milwaukee,0,0.0
+8831,19,B. Portis makes 3-pt jump shot from 27 ft (assist by P. Connaughton),5:20.0,86-109,Milwaukee,0,1.0
+8832,19,C. Cunningham misses 3-pt jump shot from 26 ft (block by P. Connaughton),5:08.0,86-109,Detroit,0,0.0
+8833,19,Defensive rebound by B. Portis,5:05.0,86-109,Milwaukee,0,0.0
+8834,19,Personal foul by S. Bey (drawn by B. Portis),5:05.0,86-109,Milwaukee,0,0.0
+8835,19,G. Antetokounmpo misses 3-pt jump shot from 28 ft,5:00.0,86-109,Milwaukee,0,0.0
+8836,19,Defensive rebound by S. Bey,4:57.0,86-109,Detroit,0,0.0
+8837,19,J. Grant makes 2-pt jump shot from 20 ft,4:51.0,88-109,Detroit,0,0.0
+8838,19,Offensive foul by G. Antetokounmpo (drawn by J. Grant),4:32.0,88-109,Milwaukee,0,0.0
+8839,19,Turnover by G. Antetokounmpo (offensive foul),4:32.0,88-109,Milwaukee,0,0.0
+8840,19,Personal foul by B. Portis (drawn by J. Grant),4:24.0,88-109,Detroit,0,0.0
+8841,19,G. Hill enters the game for R. Hood,4:24.0,88-109,Milwaukee,1,0.0
+8842,19,Shooting foul by B. Portis (drawn by J. Jackson),4:17.0,88-109,Detroit,0,0.0
+8843,19,J. Jackson makes free throw 1 of 2,4:17.0,89-109,Detroit,0,0.0
+8844,19,J. Jackson makes free throw 2 of 2,4:17.0,90-109,Detroit,0,0.0
+8845,19,Offensive foul by P. Connaughton (drawn by J. Grant),4:08.0,90-109,Milwaukee,0,0.0
+8846,19,Turnover by P. Connaughton (offensive foul),4:08.0,90-109,Milwaukee,0,0.0
+8847,19,J. Jackson misses 3-pt jump shot from 25 ft,3:56.0,90-109,Detroit,0,0.0
+8848,19,Defensive rebound by J. Holiday,3:53.0,90-109,Milwaukee,0,0.0
+8849,19,Turnover by P. Connaughton (bad pass; steal by H. Diallo),3:36.0,90-109,Milwaukee,0,0.0
+8850,19,J. Jackson misses 2-pt jump shot from 11 ft,3:25.0,90-109,Detroit,0,1.0
+8851,19,Defensive rebound by P. Connaughton,3:22.0,90-109,Milwaukee,0,1.0
+8852,19,Personal foul by S. Bey (drawn by J. Holiday),3:20.0,90-109,Milwaukee,0,0.0
+8853,19,Milwaukee full timeout,3:20.0,90-109,Milwaukee,0,1.0
+8854,19,L. Garza enters the game for C. Cunningham,3:20.0,90-109,Detroit,0,0.0
+8855,19,S. Lee enters the game for J. Grant,3:20.0,90-109,Detroit,0,0.0
+8856,19,R. McGruder enters the game for J. Jackson,3:20.0,90-109,Detroit,0,1.0
+8857,19,B. Portis makes 3-pt jump shot from 23 ft (assist by J. Holiday),3:10.0,90-112,Milwaukee,0,1.0
+8858,19,L. Garza misses 3-pt jump shot from 26 ft,2:45.0,90-112,Detroit,0,0.0
+8859,19,Defensive rebound by Team,2:45.0,90-112,Milwaukee,0,0.0
+8860,19,S. Mamukelashvili enters the game for G. Antetokounmpo,2:45.0,90-112,Milwaukee,1,0.0
+8861,19,J. Nwora enters the game for B. Portis,2:45.0,90-112,Milwaukee,1,0.0
+8862,19,Turnover by J. Holiday (bad pass),2:32.0,90-112,Milwaukee,0,0.0
+8863,19,J. Robinson enters the game for J. Holiday,2:32.0,90-112,Milwaukee,1,0.0
+8864,19,S. Bey misses 3-pt jump shot from 26 ft,2:19.0,90-112,Detroit,0,0.0
+8865,19,Defensive rebound by Team,2:18.0,90-112,Milwaukee,0,0.0
+8866,19,T. Antetokounmpo enters the game for P. Connaughton,2:18.0,90-112,Milwaukee,1,0.0
+8867,19,G. Kalaitzakis enters the game for G. Hill,2:18.0,90-112,Milwaukee,1,0.0
+8868,19,Turnover by T. Antetokounmpo (bad pass; steal by S. Lee),1:59.0,90-112,Milwaukee,0,0.0
+8869,19,Shooting foul by T. Antetokounmpo (drawn by S. Lee),1:56.0,90-112,Detroit,0,0.0
+8870,19,S. Lee misses free throw 1 of 2,1:56.0,90-112,Detroit,0,0.0
+8871,19,Offensive rebound by Team,1:56.0,90-112,Detroit,0,0.0
+8872,19,S. Lee misses free throw 2 of 2,1:56.0,90-112,Detroit,0,0.0
+8873,19,Defensive rebound by T. Antetokounmpo,1:53.0,90-112,Milwaukee,0,0.0
+8874,19,Shooting foul by H. Diallo (drawn by J. Nwora),1:44.0,90-112,Milwaukee,0,0.0
+8875,19,J. Nwora makes free throw 1 of 2,1:44.0,90-113,Milwaukee,0,0.0
+8876,19,J. Nwora makes free throw 2 of 2,1:44.0,90-114,Milwaukee,0,0.0
+8877,19,S. Lee misses 2-pt layup from 9 ft,1:32.0,90-114,Detroit,0,0.0
+8878,19,Offensive rebound by Team,1:32.0,90-114,Detroit,0,0.0
+8879,19,H. Diallo misses 2-pt jump shot from 13 ft,1:06.0,90-114,Detroit,0,0.0
+8880,19,Defensive rebound by T. Antetokounmpo,1:03.0,90-114,Milwaukee,0,0.0
+8881,19,J. Robinson misses 2-pt jump shot from 17 ft,0:59.0,90-114,Milwaukee,0,0.0
+8882,19,Defensive rebound by L. Garza,0:57.0,90-114,Detroit,0,0.0
+8883,19,S. Lee makes 2-pt layup from 1 ft,0:52.0,92-114,Detroit,0,0.0
+8884,19,Violation by Team (def goaltending),0:52.0,92-114,Milwaukee,0,0.0
+8885,19,Turnover by J. Robinson (bad pass; steal by S. Lee),0:40.0,92-114,Milwaukee,0,0.0
+8886,19,Shooting foul by S. Mamukelashvili (drawn by S. Bey),0:37.0,92-114,Detroit,0,
+8887,19,S. Bey misses free throw 1 of 2,0:37.0,92-114,Detroit,0,
+8888,19,Offensive rebound by Team,0:37.0,92-114,Detroit,0,
+8889,19,S. Bey makes free throw 2 of 2,0:37.0,93-114,Detroit,0,
+8890,19,S. Mamukelashvili misses 3-pt jump shot from 27 ft,0:14.0,93-114,Milwaukee,0,
+8891,19,Defensive rebound by H. Diallo,0:11.0,93-114,Detroit,0,
+8892,19,L. Garza misses 2-pt layup from 5 ft (block by S. Mamukelashvili),0:04.0,93-114,Detroit,0,
+8893,19,Offensive rebound by Team,0:04.0,93-114,Detroit,0,
+8894,19,S. Lee misses 3-pt jump shot from 29 ft,0:00.0,93-114,Detroit,0,
+8895,19,Offensive rebound by Team,0:00.0,93-114,Detroit,0,

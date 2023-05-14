@@ -1,0 +1,451 @@
+,game number,play,time,score,team,current_sub_status,future_sub_status
+35740,78,J. Holiday makes 3-pt jump shot from 25 ft,11:38.0,0-3,Milwaukee,0,0.0
+35741,78,L. Dončić makes 2-pt jump shot from 12 ft,11:23.0,2-3,Dallas,0,0.0
+35742,78,Shooting foul by G. Antetokounmpo (drawn by L. Dončić),11:23.0,2-3,Dallas,0,0.0
+35743,78,L. Dončić misses free throw 1 of 1,11:23.0,2-3,Dallas,0,0.0
+35744,78,Defensive rebound by W. Matthews,11:18.0,2-3,Milwaukee,0,0.0
+35745,78,Turnover by G. Antetokounmpo (lost ball; steal by D. Finney-Smith),11:04.0,2-3,Milwaukee,0,0.0
+35746,78,R. Bullock misses 3-pt jump shot from 28 ft,10:58.0,2-3,Dallas,0,0.0
+35747,78,Defensive rebound by G. Antetokounmpo,10:54.0,2-3,Milwaukee,0,0.0
+35748,78,B. Lopez makes 3-pt jump shot from 24 ft (assist by K. Middleton),10:48.0,2-6,Milwaukee,0,0.0
+35749,78,D. Powell makes 2-pt layup from 2 ft (assist by D. Finney-Smith),10:30.0,4-6,Dallas,0,0.0
+35750,78,J. Holiday makes 3-pt jump shot from 27 ft (assist by G. Antetokounmpo),10:19.0,4-9,Milwaukee,0,0.0
+35751,78,L. Dončić misses 2-pt jump shot from 17 ft,10:08.0,4-9,Dallas,0,0.0
+35752,78,Defensive rebound by K. Middleton,10:06.0,4-9,Milwaukee,0,0.0
+35753,78,W. Matthews misses 3-pt jump shot from 26 ft,10:00.0,4-9,Milwaukee,0,0.0
+35754,78,Defensive rebound by D. Powell,9:57.0,4-9,Dallas,0,0.0
+35755,78,D. Powell makes 2-pt dunk from 1 ft (assist by L. Dončić),9:43.0,6-9,Dallas,0,1.0
+35756,78,K. Middleton misses 2-pt jump shot from 18 ft,9:28.0,6-9,Milwaukee,0,0.0
+35757,78,Defensive rebound by D. Powell,9:24.0,6-9,Dallas,0,0.0
+35758,78,L. Dončić makes 2-pt layup from 6 ft,9:08.0,8-9,Dallas,0,0.0
+35759,78,B. Lopez misses 2-pt hook shot from 2 ft,8:51.0,8-9,Milwaukee,0,0.0
+35760,78,Defensive rebound by D. Powell,8:49.0,8-9,Dallas,0,0.0
+35761,78,J. Brunson makes 3-pt jump shot from 27 ft (assist by L. Dončić),8:29.0,11-9,Dallas,0,0.0
+35762,78,G. Antetokounmpo makes 2-pt jump shot from 11 ft,8:13.0,11-11,Milwaukee,0,0.0
+35763,78,D. Powell makes 2-pt dunk from 2 ft (assist by L. Dončić),8:02.0,13-11,Dallas,0,0.0
+35764,78,Personal foul by J. Brunson (drawn by K. Middleton),7:45.0,13-11,Milwaukee,0,0.0
+35765,78,G. Hill enters the game for J. Holiday,7:45.0,13-11,Milwaukee,1,0.0
+35766,78,G. Antetokounmpo misses 2-pt jump shot from 9 ft,7:30.0,13-11,Milwaukee,0,0.0
+35767,78,Defensive rebound by D. Powell,7:27.0,13-11,Dallas,0,0.0
+35768,78,Personal foul by W. Matthews (drawn by D. Powell),7:23.0,13-11,Dallas,0,0.0
+35769,78,D. Finney-Smith misses 3-pt jump shot from 30 ft,7:21.0,13-11,Dallas,0,0.0
+35770,78,Defensive rebound by K. Middleton,7:17.0,13-11,Milwaukee,0,0.0
+35771,78,B. Lopez misses 3-pt jump shot from 24 ft,7:08.0,13-11,Milwaukee,0,1.0
+35772,78,Offensive rebound by G. Antetokounmpo,7:05.0,13-11,Milwaukee,0,0.0
+35773,78,G. Antetokounmpo makes 2-pt hook shot from 5 ft,7:05.0,13-13,Milwaukee,0,0.0
+35774,78,D. Powell makes 2-pt layup from 3 ft (assist by D. Finney-Smith),6:47.0,15-13,Dallas,0,0.0
+35775,78,Milwaukee full timeout,6:39.0,15-13,Milwaukee,0,0.0
+35776,78,W. Matthews misses 2-pt layup from 2 ft,6:29.0,15-13,Milwaukee,0,0.0
+35777,78,Defensive rebound by J. Brunson,6:26.0,15-13,Dallas,0,0.0
+35778,78,J. Brunson misses 3-pt jump shot from 27 ft,6:12.0,15-13,Dallas,0,0.0
+35779,78,Defensive rebound by G. Hill,6:10.0,15-13,Milwaukee,0,1.0
+35780,78,Violation by Team (kicked ball),6:02.0,15-13,Dallas,0,1.0
+35781,78,B. Portis enters the game for B. Lopez,6:02.0,15-13,Milwaukee,1,0.0
+35782,78,G. Antetokounmpo misses 2-pt hook shot from 5 ft,5:56.0,15-13,Milwaukee,0,0.0
+35783,78,Offensive rebound by Team,5:56.0,15-13,Milwaukee,0,0.0
+35784,78,Loose ball foul by D. Finney-Smith (drawn by G. Antetokounmpo),5:55.0,15-13,Dallas,0,0.0
+35785,78,G. Antetokounmpo misses 2-pt jump shot from 19 ft,5:49.0,15-13,Milwaukee,0,0.0
+35786,78,Defensive rebound by R. Bullock,5:46.0,15-13,Dallas,0,0.0
+35787,78,Personal foul by W. Matthews (drawn by L. Dončić),5:31.0,15-13,Dallas,0,0.0
+35788,78,S. Dinwiddie enters the game for D. Finney-Smith,5:31.0,15-13,Dallas,0,0.0
+35789,78,P. Connaughton enters the game for G. Antetokounmpo,5:31.0,15-13,Milwaukee,1,0.0
+35790,78,J. Holiday enters the game for W. Matthews,5:31.0,15-13,Milwaukee,1,0.0
+35791,78,R. Bullock makes 2-pt jump shot from 16 ft (assist by D. Powell),5:18.0,17-13,Dallas,0,0.0
+35792,78,B. Portis misses 3-pt jump shot from 27 ft,5:06.0,17-13,Milwaukee,0,0.0
+35793,78,Offensive rebound by G. Hill,5:04.0,17-13,Milwaukee,0,0.0
+35794,78,P. Connaughton makes 3-pt jump shot from 27 ft (assist by K. Middleton),4:59.0,17-16,Milwaukee,0,0.0
+35795,78,L. Dončić misses 2-pt jump shot from 8 ft,4:43.0,17-16,Dallas,0,0.0
+35796,78,Defensive rebound by Team,4:43.0,17-16,Milwaukee,0,0.0
+35797,78,P. Connaughton misses 3-pt jump shot from 27 ft,4:36.0,17-16,Milwaukee,0,0.0
+35798,78,Defensive rebound by L. Dončić,4:33.0,17-16,Dallas,0,1.0
+35799,78,Turnover by L. Dončić (bad pass; steal by G. Hill),4:30.0,17-16,Dallas,0,0.0
+35800,78,J. Holiday misses 3-pt jump shot from 27 ft,4:23.0,17-16,Milwaukee,0,0.0
+35801,78,Defensive rebound by L. Dončić,4:20.0,17-16,Dallas,0,0.0
+35802,78,Personal foul by K. Middleton (drawn by L. Dončić),4:13.0,17-16,Dallas,0,0.0
+35803,78,M. Chriss enters the game for J. Brunson,4:13.0,17-16,Dallas,0,0.0
+35804,78,J. Green enters the game for D. Powell,4:13.0,17-16,Dallas,0,0.0
+35805,78,M. Chriss makes 2-pt dunk from 2 ft (assist by S. Dinwiddie),4:06.0,19-16,Dallas,0,0.0
+35806,78,J. Holiday makes 2-pt layup from 2 ft (assist by K. Middleton),3:53.0,19-18,Milwaukee,0,0.0
+35807,78,Shooting foul by M. Chriss (drawn by J. Holiday),3:53.0,19-18,Milwaukee,0,0.0
+35808,78,G. Allen enters the game for K. Middleton,3:53.0,19-18,Milwaukee,1,0.0
+35809,78,J. Holiday makes free throw 1 of 1,3:53.0,19-19,Milwaukee,0,0.0
+35810,78,Turnover by L. Dončić (bad pass),3:42.0,19-19,Dallas,0,0.0
+35811,78,J. Holiday makes 2-pt hook shot from 7 ft,3:30.0,19-21,Milwaukee,0,0.0
+35812,78,Turnover by S. Dinwiddie (bad pass),3:14.0,19-21,Dallas,0,0.0
+35813,78,G. Allen makes 3-pt jump shot from 26 ft (assist by G. Hill),2:55.0,19-24,Milwaukee,0,1.0
+35814,78,L. Dončić misses 3-pt jump shot from 29 ft,2:44.0,19-24,Dallas,0,0.0
+35815,78,Defensive rebound by Team,2:42.0,19-24,Milwaukee,0,0.0
+35816,78,Dallas full timeout,2:42.0,19-24,Dallas,0,0.0
+35817,78,G. Allen misses 3-pt jump shot from 26 ft,2:22.0,19-24,Milwaukee,0,0.0
+35818,78,Defensive rebound by J. Green,2:19.0,19-24,Dallas,0,0.0
+35819,78,Shooting foul by J. Holiday (drawn by L. Dončić),2:10.0,19-24,Dallas,0,0.0
+35820,78,L. Dončić misses free throw 1 of 2,2:10.0,19-24,Dallas,0,0.0
+35821,78,Offensive rebound by Team,2:10.0,19-24,Dallas,0,0.0
+35822,78,D. Finney-Smith enters the game for J. Green,2:10.0,19-24,Dallas,0,0.0
+35823,78,G. Antetokounmpo enters the game for G. Hill,2:10.0,19-24,Milwaukee,1,0.0
+35824,78,L. Dončić makes free throw 2 of 2,2:10.0,20-24,Dallas,0,0.0
+35825,78,B. Portis makes 3-pt jump shot from 29 ft (assist by J. Holiday),1:55.0,20-27,Milwaukee,0,0.0
+35826,78,R. Bullock makes 3-pt jump shot from 25 ft (assist by S. Dinwiddie),1:38.0,23-27,Dallas,0,0.0
+35827,78,P. Connaughton makes 3-pt jump shot from 26 ft (assist by G. Allen),1:21.0,23-30,Milwaukee,0,0.0
+35828,78,D. Finney-Smith makes 2-pt jump shot from 11 ft (assist by S. Dinwiddie),0:56.0,25-30,Dallas,0,0.0
+35829,78,B. Portis makes 3-pt jump shot from 23 ft (assist by G. Allen),0:52.0,25-33,Milwaukee,0,0.0
+35830,78,R. Bullock misses 3-pt jump shot from 24 ft,0:31.0,25-33,Dallas,0,0.0
+35831,78,Defensive rebound by B. Portis,0:28.0,25-33,Milwaukee,0,0.0
+35832,78,Personal foul by S. Dinwiddie (drawn by G. Antetokounmpo),0:26.0,25-33,Milwaukee,0,0.0
+35833,78,D. Powell enters the game for M. Chriss,0:26.0,25-33,Dallas,0,0.0
+35834,78,P. Connaughton misses 3-pt jump shot from 26 ft,0:18.0,25-33,Milwaukee,0,0.0
+35835,78,Offensive rebound by P. Connaughton,0:16.0,25-33,Milwaukee,0,0.0
+35836,78,B. Portis misses 3-pt jump shot from 24 ft,0:12.0,25-33,Milwaukee,0,0.0
+35837,78,Defensive rebound by L. Dončić,0:08.0,25-33,Dallas,0,0.0
+35838,78,L. Dončić misses 2-pt jump shot from 21 ft (block by J. Holiday),0:00.0,25-33,Dallas,0,0.0
+35839,78,Defensive rebound by P. Connaughton,0:00.0,25-33,Milwaukee,0,0.0
+35840,78,S. Dinwiddie misses 2-pt jump shot from 10 ft,11:45.0,25-33,Dallas,0,0.0
+35841,78,Defensive rebound by G. Allen,11:42.0,25-33,Milwaukee,0,0.0
+35842,78,G. Antetokounmpo makes 2-pt hook shot from 9 ft,11:35.0,25-35,Milwaukee,0,0.0
+35843,78,Violation by Team (kicked ball),11:16.0,25-35,Milwaukee,0,0.0
+35844,78,Shooting foul by G. Allen (drawn by S. Dinwiddie),11:07.0,25-35,Dallas,0,0.0
+35845,78,S. Dinwiddie makes free throw 1 of 2,11:07.0,26-35,Dallas,0,0.0
+35846,78,S. Dinwiddie makes free throw 2 of 2,11:07.0,27-35,Dallas,0,0.0
+35847,78,Turnover by G. Hill (out of bounds lost ball),10:50.0,27-35,Milwaukee,0,0.0
+35848,78,Turnover by D. Bertāns (bad pass; steal by G. Antetokounmpo),10:37.0,27-35,Dallas,0,0.0
+35849,78,Personal take foul by S. Dinwiddie (drawn by G. Antetokounmpo),10:37.0,27-35,Milwaukee,0,0.0
+35850,78,K. Middleton misses 3-pt jump shot from 27 ft,10:28.0,27-35,Milwaukee,0,0.0
+35851,78,Offensive rebound by Team,10:28.0,27-35,Milwaukee,0,0.0
+35852,78,Loose ball foul by D. Finney-Smith (drawn by G. Antetokounmpo),10:28.0,27-35,Dallas,0,0.0
+35853,78,G. Allen misses 3-pt jump shot from 27 ft,10:22.0,27-35,Milwaukee,0,0.0
+35854,78,Defensive rebound by D. Bertāns,10:18.0,27-35,Dallas,0,0.0
+35855,78,D. Bertāns makes 3-pt jump shot from 26 ft (assist by S. Dinwiddie),10:13.0,30-35,Dallas,0,0.0
+35856,78,B. Lopez misses 3-pt jump shot from 27 ft,10:00.0,30-35,Milwaukee,0,0.0
+35857,78,Defensive rebound by D. Bertāns,9:58.0,30-35,Dallas,0,0.0
+35858,78,Shooting foul by G. Hill (drawn by D. Powell),9:44.0,30-35,Dallas,0,0.0
+35859,78,D. Powell makes free throw 1 of 2,9:44.0,31-35,Dallas,0,0.0
+35860,78,D. Powell makes free throw 2 of 2,9:44.0,32-35,Dallas,0,0.0
+35861,78,B. Lopez misses 2-pt layup from 4 ft,9:31.0,32-35,Milwaukee,0,0.0
+35862,78,Offensive rebound by B. Lopez,9:30.0,32-35,Milwaukee,0,0.0
+35863,78,B. Lopez makes 2-pt layup at rim,9:30.0,32-37,Milwaukee,0,0.0
+35864,78,S. Dinwiddie makes 3-pt jump shot from 27 ft,9:10.0,35-37,Dallas,0,0.0
+35865,78,G. Antetokounmpo makes 2-pt layup from 1 ft (assist by K. Middleton),8:54.0,35-39,Milwaukee,0,0.0
+35866,78,D. Powell misses 2-pt layup from 3 ft,8:42.0,35-39,Dallas,0,0.0
+35867,78,Offensive rebound by D. Powell,8:40.0,35-39,Dallas,0,0.0
+35868,78,D. Powell misses 2-pt layup at rim,8:40.0,35-39,Dallas,0,0.0
+35869,78,Defensive rebound by Team,8:40.0,35-39,Milwaukee,0,0.0
+35870,78,Personal foul by D. Powell (drawn by G. Allen),8:40.0,35-39,Milwaukee,0,0.0
+35871,78,G. Antetokounmpo misses 3-pt jump shot from 27 ft,8:31.0,35-39,Milwaukee,0,0.0
+35872,78,Defensive rebound by D. Powell,8:28.0,35-39,Dallas,0,0.0
+35873,78,J. Brunson misses 2-pt jump shot from 20 ft,8:18.0,35-39,Dallas,0,0.0
+35874,78,Defensive rebound by G. Hill,8:06.0,35-39,Milwaukee,0,0.0
+35875,78,G. Hill misses 2-pt layup from 2 ft,8:05.0,35-39,Milwaukee,0,1.0
+35876,78,Defensive rebound by D. Powell,8:01.0,35-39,Dallas,0,0.0
+35877,78,J. Brunson misses 3-pt jump shot from 28 ft,7:55.0,35-39,Dallas,0,0.0
+35878,78,Defensive rebound by B. Lopez,7:53.0,35-39,Milwaukee,0,0.0
+35879,78,B. Lopez makes 2-pt layup from 1 ft (assist by G. Allen),7:46.0,35-41,Milwaukee,0,1.0
+35880,78,S. Dinwiddie misses 2-pt jump shot from 18 ft,7:29.0,35-41,Dallas,0,1.0
+35881,78,Defensive rebound by G. Hill,7:26.0,35-41,Milwaukee,0,0.0
+35882,78,G. Hill misses 2-pt layup from 2 ft,7:21.0,35-41,Milwaukee,0,0.0
+35883,78,Defensive rebound by Team,7:21.0,35-41,Dallas,0,0.0
+35884,78,J. Green enters the game for S. Dinwiddie,7:21.0,35-41,Dallas,0,0.0
+35885,78,J. Holiday enters the game for G. Allen,7:21.0,35-41,Milwaukee,1,0.0
+35886,78,Personal foul by J. Holiday (drawn by D. Powell),6:59.0,35-41,Dallas,0,0.0
+35887,78,Milwaukee full timeout,6:59.0,35-41,Milwaukee,0,0.0
+35888,78,R. Bullock enters the game for D. Bertāns,6:59.0,35-41,Dallas,0,0.0
+35889,78,P. Connaughton enters the game for G. Antetokounmpo,6:59.0,35-41,Milwaukee,1,0.0
+35890,78,B. Portis enters the game for G. Hill,6:59.0,35-41,Milwaukee,1,0.0
+35891,78,J. Brunson makes 2-pt jump shot from 19 ft,6:43.0,37-41,Dallas,0,0.0
+35892,78,B. Lopez misses 2-pt jump shot from 11 ft,6:24.0,37-41,Milwaukee,0,1.0
+35893,78,Defensive rebound by R. Bullock,6:21.0,37-41,Dallas,0,0.0
+35894,78,R. Bullock misses 3-pt jump shot from 27 ft,6:03.0,37-41,Dallas,0,0.0
+35895,78,Defensive rebound by B. Portis,6:00.0,37-41,Milwaukee,0,0.0
+35896,78,K. Middleton makes 2-pt jump shot from 22 ft,5:53.0,37-43,Milwaukee,0,0.0
+35897,78,Instant Replay (Request: Ruling Stands),5:53.0,37-43,Milwaukee,0,0.0
+35898,78,J. Brunson misses 2-pt jump shot from 15 ft,5:30.0,37-43,Dallas,0,0.0
+35899,78,Offensive rebound by Team,5:28.0,37-43,Dallas,0,0.0
+35900,78,Loose ball foul by B. Lopez (drawn by D. Finney-Smith),5:28.0,37-43,Milwaukee,0,1.0
+35901,78,L. Dončić enters the game for D. Finney-Smith,5:28.0,37-43,Dallas,0,0.0
+35902,78,W. Matthews enters the game for B. Lopez,5:28.0,37-43,Milwaukee,1,0.0
+35903,78,J. Green makes 3-pt jump shot from 27 ft (assist by J. Brunson),5:17.0,40-43,Dallas,0,0.0
+35904,78,B. Portis makes 2-pt layup from 3 ft (assist by J. Holiday),5:06.0,40-45,Milwaukee,0,0.0
+35905,78,J. Green misses 3-pt jump shot from 23 ft,4:46.0,40-45,Dallas,0,0.0
+35906,78,Offensive rebound by Team,4:43.0,40-45,Dallas,0,0.0
+35907,78,D. Bertāns enters the game for J. Brunson,4:43.0,40-45,Dallas,0,0.0
+35908,78,S. Dinwiddie enters the game for J. Green,4:43.0,40-45,Dallas,0,0.0
+35909,78,D. Finney-Smith enters the game for D. Powell,4:43.0,40-45,Dallas,0,0.0
+35910,78,G. Antetokounmpo enters the game for K. Middleton,4:43.0,40-45,Milwaukee,1,0.0
+35911,78,L. Dončić misses 2-pt jump shot from 6 ft,4:33.0,40-45,Dallas,0,0.0
+35912,78,Offensive rebound by Team,4:33.0,40-45,Dallas,0,0.0
+35913,78,R. Bullock makes 2-pt layup from 2 ft (assist by L. Dončić),4:33.0,42-45,Dallas,0,0.0
+35914,78,Shooting foul by P. Connaughton (drawn by R. Bullock),4:33.0,42-45,Dallas,0,0.0
+35915,78,R. Bullock makes free throw 1 of 1,4:33.0,43-45,Dallas,0,0.0
+35916,78,G. Antetokounmpo makes 2-pt hook shot from 11 ft,4:19.0,43-47,Milwaukee,0,0.0
+35917,78,D. Finney-Smith makes 2-pt layup from 2 ft (assist by L. Dončić),4:05.0,45-47,Dallas,0,0.0
+35918,78,J. Holiday misses 2-pt layup from 3 ft (block by R. Bullock),3:52.0,45-47,Milwaukee,0,1.0
+35919,78,Offensive rebound by J. Holiday,3:47.0,45-47,Milwaukee,0,0.0
+35920,78,W. Matthews misses 3-pt jump shot from 26 ft,3:44.0,45-47,Milwaukee,0,0.0
+35921,78,Offensive rebound by Team,3:44.0,45-47,Milwaukee,0,0.0
+35922,78,Loose ball foul by R. Bullock (drawn by J. Holiday),3:44.0,45-47,Dallas,0,0.0
+35923,78,Violation by Team (delay of game),3:44.0,45-47,Dallas,0,0.0
+35924,78,Turnover by W. Matthews (bad pass; steal by L. Dončić),3:31.0,45-47,Milwaukee,0,0.0
+35925,78,S. Dinwiddie makes 3-pt jump shot from 26 ft (assist by L. Dončić),3:26.0,48-47,Dallas,0,0.0
+35926,78,B. Portis misses 2-pt jump shot from 8 ft (block by D. Bertāns),3:08.0,48-47,Milwaukee,0,0.0
+35927,78,Offensive rebound by Team,3:08.0,48-47,Milwaukee,0,0.0
+35928,78,G. Allen enters the game for B. Portis,3:08.0,48-47,Milwaukee,1,0.0
+35929,78,P. Connaughton misses 3-pt jump shot from 31 ft,3:02.0,48-47,Milwaukee,0,0.0
+35930,78,Defensive rebound by D. Bertāns,2:58.0,48-47,Dallas,0,0.0
+35931,78,S. Dinwiddie makes 3-pt jump shot from 29 ft (assist by D. Finney-Smith),2:46.0,51-47,Dallas,0,1.0
+35932,78,W. Matthews misses 3-pt jump shot from 27 ft,2:25.0,51-47,Milwaukee,0,0.0
+35933,78,Defensive rebound by R. Bullock,2:22.0,51-47,Dallas,0,0.0
+35934,78,L. Dončić makes 2-pt jump shot from 7 ft,2:14.0,53-47,Dallas,0,0.0
+35935,78,G. Allen makes 3-pt jump shot from 28 ft (assist by J. Holiday),2:02.0,53-50,Milwaukee,0,0.0
+35936,78,S. Dinwiddie misses 3-pt jump shot from 23 ft,1:40.0,53-50,Dallas,0,0.0
+35937,78,Defensive rebound by G. Allen,1:36.0,53-50,Milwaukee,0,0.0
+35938,78,G. Antetokounmpo misses 2-pt layup from 1 ft (block by D. Finney-Smith),1:28.0,53-50,Milwaukee,0,0.0
+35939,78,Offensive rebound by Team,1:28.0,53-50,Milwaukee,0,0.0
+35940,78,Dallas full timeout,1:28.0,53-50,Dallas,0,1.0
+35941,78,K. Middleton enters the game for W. Matthews,1:28.0,53-50,Milwaukee,1,0.0
+35942,78,Turnover by G. Antetokounmpo (lost ball; steal by D. Finney-Smith),1:25.0,53-50,Milwaukee,0,0.0
+35943,78,L. Dončić makes 2-pt dunk from 1 ft,1:22.0,55-50,Dallas,0,0.0
+35944,78,G. Antetokounmpo makes 2-pt dunk from 2 ft (assist by J. Holiday),1:06.0,55-52,Milwaukee,0,0.0
+35945,78,L. Dončić makes 2-pt jump shot from 1 ft,0:50.0,57-52,Dallas,0,0.0
+35946,78,G. Antetokounmpo misses 2-pt jump shot from 13 ft,0:41.0,57-52,Milwaukee,0,0.0
+35947,78,Offensive rebound by K. Middleton,0:40.0,57-52,Milwaukee,0,0.0
+35948,78,K. Middleton makes 2-pt layup from 1 ft,0:40.0,57-54,Milwaukee,0,0.0
+35949,78,Shooting foul by D. Bertāns (drawn by K. Middleton),0:40.0,57-54,Milwaukee,0,0.0
+35950,78,W. Matthews enters the game for J. Holiday,0:40.0,57-54,Milwaukee,1,0.0
+35951,78,K. Middleton makes free throw 1 of 1,0:40.0,57-55,Milwaukee,0,0.0
+35952,78,L. Dončić misses 2-pt jump shot from 12 ft,0:21.0,57-55,Dallas,0,0.0
+35953,78,Defensive rebound by G. Antetokounmpo,0:19.0,57-55,Milwaukee,0,0.0
+35954,78,K. Middleton misses 2-pt jump shot from 18 ft,0:00.0,57-55,Milwaukee,0,0.0
+35955,78,Offensive rebound by Team,0:00.0,57-55,Milwaukee,0,0.0
+35956,78,L. Dončić misses 3-pt jump shot from 30 ft,11:45.0,57-55,Dallas,0,0.0
+35957,78,Defensive rebound by G. Antetokounmpo,11:40.0,57-55,Milwaukee,0,0.0
+35958,78,B. Lopez misses 2-pt hook shot from 8 ft,11:23.0,57-55,Milwaukee,0,0.0
+35959,78,Offensive rebound by G. Antetokounmpo,11:22.0,57-55,Milwaukee,0,0.0
+35960,78,Turnover by K. Middleton (lost ball; steal by J. Brunson),11:13.0,57-55,Milwaukee,0,0.0
+35961,78,Shooting foul by B. Lopez (drawn by D. Powell),11:06.0,57-55,Dallas,0,0.0
+35962,78,D. Powell makes free throw 1 of 2,11:06.0,58-55,Dallas,0,0.0
+35963,78,D. Powell makes free throw 2 of 2,11:06.0,59-55,Dallas,0,0.0
+35964,78,K. Middleton misses 2-pt jump shot from 17 ft,10:56.0,59-55,Milwaukee,0,0.0
+35965,78,Defensive rebound by D. Powell,10:53.0,59-55,Dallas,0,0.0
+35966,78,D. Powell makes 2-pt layup from 2 ft (assist by L. Dončić),10:37.0,61-55,Dallas,0,0.0
+35967,78,Shooting foul by K. Middleton (drawn by D. Powell),10:37.0,61-55,Dallas,0,0.0
+35968,78,D. Powell makes free throw 1 of 1,10:37.0,62-55,Dallas,0,0.0
+35969,78,Shooting foul by R. Bullock (drawn by W. Matthews),10:25.0,62-55,Milwaukee,0,0.0
+35970,78,W. Matthews makes free throw 1 of 2,10:25.0,62-56,Milwaukee,0,0.0
+35971,78,W. Matthews makes free throw 2 of 2,10:25.0,62-57,Milwaukee,0,0.0
+35972,78,L. Dončić makes 2-pt jump shot from 10 ft,10:05.0,64-57,Dallas,0,0.0
+35973,78,B. Lopez misses 2-pt layup from 3 ft,9:53.0,64-57,Milwaukee,0,0.0
+35974,78,Defensive rebound by D. Finney-Smith,9:51.0,64-57,Dallas,0,0.0
+35975,78,D. Powell makes 2-pt dunk from 3 ft (assist by L. Dončić),9:48.0,66-57,Dallas,0,0.0
+35976,78,Milwaukee full timeout,9:48.0,66-57,Milwaukee,0,0.0
+35977,78,J. Holiday makes 3-pt jump shot from 26 ft (assist by K. Middleton),9:34.0,66-60,Milwaukee,0,1.0
+35978,78,J. Brunson makes 3-pt jump shot from 23 ft (assist by L. Dončić),9:08.0,69-60,Dallas,0,0.0
+35979,78,K. Middleton misses 3-pt jump shot from 28 ft,8:58.0,69-60,Milwaukee,0,0.0
+35980,78,Defensive rebound by D. Powell,8:55.0,69-60,Dallas,0,0.0
+35981,78,L. Dončić misses 3-pt jump shot from 28 ft,8:49.0,69-60,Dallas,0,0.0
+35982,78,Defensive rebound by G. Antetokounmpo,8:47.0,69-60,Milwaukee,0,0.0
+35983,78,J. Holiday makes 3-pt jump shot from 26 ft (assist by W. Matthews),8:38.0,69-63,Milwaukee,0,0.0
+35984,78,L. Dončić makes 3-pt jump shot from 29 ft,8:12.0,72-63,Dallas,0,0.0
+35985,78,G. Antetokounmpo makes 2-pt jump shot from 11 ft,8:00.0,72-65,Milwaukee,0,0.0
+35986,78,Turnover by L. Dončić (bad pass),7:50.0,72-65,Dallas,0,0.0
+35987,78,P. Connaughton enters the game for W. Matthews,7:50.0,72-65,Milwaukee,1,1.0
+35988,78,G. Antetokounmpo misses 2-pt jump shot from 9 ft,7:34.0,72-65,Milwaukee,0,0.0
+35989,78,Defensive rebound by R. Bullock,7:32.0,72-65,Dallas,0,0.0
+35990,78,Turnover by L. Dončić (bad pass; steal by G. Antetokounmpo),7:24.0,72-65,Dallas,0,0.0
+35991,78,P. Connaughton makes 3-pt jump shot from 23 ft (assist by J. Holiday),7:14.0,72-68,Milwaukee,0,0.0
+35992,78,Shooting foul by D. Powell (drawn by P. Connaughton),7:14.0,72-68,Milwaukee,0,0.0
+35993,78,P. Connaughton makes free throw 1 of 1,7:14.0,72-69,Milwaukee,0,0.0
+35994,78,Turnover by D. Powell (bad pass; steal by B. Lopez),6:57.0,72-69,Dallas,0,0.0
+35995,78,G. Antetokounmpo makes 2-pt dunk from 3 ft,6:50.0,72-71,Milwaukee,0,0.0
+35996,78,Dallas full timeout,6:50.0,72-71,Dallas,0,0.0
+35997,78,B. Portis enters the game for K. Middleton,6:50.0,72-71,Milwaukee,1,0.0
+35998,78,D. Finney-Smith misses 3-pt jump shot from 28 ft,6:36.0,72-71,Dallas,0,0.0
+35999,78,Defensive rebound by B. Lopez,6:32.0,72-71,Milwaukee,0,0.0
+36000,78,B. Lopez makes 2-pt hook shot from 8 ft (assist by G. Antetokounmpo),6:22.0,72-73,Milwaukee,0,0.0
+36001,78,D. Finney-Smith misses 3-pt jump shot from 24 ft,6:03.0,72-73,Dallas,0,0.0
+36002,78,Defensive rebound by J. Holiday,6:00.0,72-73,Milwaukee,0,0.0
+36003,78,B. Portis misses 3-pt jump shot from 27 ft,5:53.0,72-73,Milwaukee,0,1.0
+36004,78,Defensive rebound by Team,5:52.0,72-73,Dallas,0,0.0
+36005,78,L. Dončić misses 3-pt jump shot from 28 ft,5:31.0,72-73,Dallas,0,0.0
+36006,78,Defensive rebound by B. Portis,5:28.0,72-73,Milwaukee,0,0.0
+36007,78,G. Antetokounmpo makes 2-pt jump shot from 19 ft,5:17.0,72-75,Milwaukee,0,0.0
+36008,78,Turnover by L. Dončić (lost ball; steal by B. Lopez),5:04.0,72-75,Dallas,0,0.0
+36009,78,Shooting foul by R. Bullock (drawn by G. Antetokounmpo),5:03.0,72-75,Milwaukee,0,0.0
+36010,78,G. Antetokounmpo misses free throw 1 of 2,5:03.0,72-75,Milwaukee,0,0.0
+36011,78,Offensive rebound by Team,5:03.0,72-75,Milwaukee,0,0.0
+36012,78,D. Bertāns enters the game for D. Powell,5:03.0,72-75,Dallas,0,0.0
+36013,78,G. Allen enters the game for B. Lopez,5:03.0,72-75,Milwaukee,1,0.0
+36014,78,G. Antetokounmpo misses free throw 2 of 2,5:03.0,72-75,Milwaukee,0,0.0
+36015,78,Defensive rebound by R. Bullock,5:00.0,72-75,Dallas,0,0.0
+36016,78,L. Dončić misses 2-pt jump shot from 9 ft,4:51.0,72-75,Dallas,0,0.0
+36017,78,Defensive rebound by B. Portis,4:49.0,72-75,Milwaukee,0,0.0
+36018,78,B. Portis makes 2-pt layup from 4 ft (assist by J. Holiday),4:41.0,72-77,Milwaukee,0,0.0
+36019,78,D. Finney-Smith makes 2-pt layup from 1 ft (assist by L. Dončić),4:20.0,74-77,Dallas,0,0.0
+36020,78,P. Connaughton makes 2-pt dunk from 1 ft (assist by J. Holiday),4:05.0,74-79,Milwaukee,0,0.0
+36021,78,J. Brunson makes 2-pt layup from 4 ft (assist by R. Bullock),3:49.0,76-79,Dallas,0,0.0
+36022,78,G. Antetokounmpo makes 2-pt layup from 2 ft,3:40.0,76-81,Milwaukee,0,1.0
+36023,78,J. Brunson makes 3-pt jump shot from 25 ft (assist by D. Finney-Smith),3:24.0,79-81,Dallas,0,1.0
+36024,78,G. Antetokounmpo misses 3-pt jump shot from 27 ft,3:14.0,79-81,Milwaukee,0,0.0
+36025,78,Defensive rebound by D. Bertāns,3:12.0,79-81,Dallas,0,0.0
+36026,78,D. Bertāns makes 3-pt jump shot from 28 ft (assist by L. Dončić),3:04.0,82-81,Dallas,0,0.0
+36027,78,J. Holiday misses 3-pt jump shot from 28 ft,2:50.0,82-81,Milwaukee,0,0.0
+36028,78,Defensive rebound by Team,2:50.0,82-81,Dallas,0,0.0
+36029,78,Loose ball foul by B. Portis (drawn by D. Bertāns),2:50.0,82-81,Milwaukee,0,0.0
+36030,78,S. Dinwiddie enters the game for J. Brunson,2:50.0,82-81,Dallas,0,0.0
+36031,78,J. Green enters the game for D. Finney-Smith,2:50.0,82-81,Dallas,0,0.0
+36032,78,G. Hill enters the game for G. Antetokounmpo,2:50.0,82-81,Milwaukee,1,0.0
+36033,78,K. Middleton enters the game for P. Connaughton,2:50.0,82-81,Milwaukee,1,0.0
+36034,78,R. Bullock makes 3-pt jump shot from 24 ft (assist by L. Dončić),2:28.0,85-81,Dallas,0,0.0
+36035,78,B. Portis misses 2-pt jump shot from 8 ft,2:18.0,85-81,Milwaukee,0,0.0
+36036,78,Defensive rebound by R. Bullock,2:15.0,85-81,Dallas,0,0.0
+36037,78,D. Bertāns misses 3-pt jump shot from 28 ft,2:00.0,85-81,Dallas,0,1.0
+36038,78,Defensive rebound by B. Portis,1:56.0,85-81,Milwaukee,0,1.0
+36039,78,Turnover by K. Middleton (bad pass; steal by L. Dončić),1:39.0,85-81,Milwaukee,0,0.0
+36040,78,L. Dončić misses 3-pt jump shot from 26 ft,1:32.0,85-81,Dallas,0,0.0
+36041,78,Defensive rebound by K. Middleton,1:28.0,85-81,Milwaukee,0,0.0
+36042,78,Personal foul by D. Bertāns (drawn by K. Middleton),1:21.0,85-81,Milwaukee,0,1.0
+36043,78,G. Allen makes 2-pt layup from 3 ft (assist by J. Holiday),1:05.0,85-83,Milwaukee,0,0.0
+36044,78,L. Dončić makes 3-pt jump shot from 25 ft,0:47.0,88-83,Dallas,0,0.0
+36045,78,Personal foul by J. Green (drawn by K. Middleton),0:35.0,88-83,Milwaukee,0,0.0
+36046,78,K. Middleton makes free throw 1 of 2,0:35.0,88-84,Milwaukee,0,0.0
+36047,78,P. Connaughton enters the game for J. Holiday,0:35.0,88-84,Milwaukee,1,0.0
+36048,78,W. Matthews enters the game for B. Portis,0:35.0,88-84,Milwaukee,1,0.0
+36049,78,K. Middleton makes free throw 2 of 2,0:35.0,88-85,Milwaukee,0,0.0
+36050,78,Shooting foul by P. Connaughton (drawn by L. Dončić),0:24.0,88-85,Dallas,0,0.0
+36051,78,L. Dončić makes free throw 1 of 2,0:24.0,89-85,Dallas,0,0.0
+36052,78,B. Portis enters the game for W. Matthews,0:24.0,89-85,Milwaukee,1,0.0
+36053,78,L. Dončić makes free throw 2 of 2,0:24.0,90-85,Dallas,0,0.0
+36054,78,B. Portis makes 2-pt jump shot from 16 ft (assist by K. Middleton),0:07.0,90-87,Milwaukee,0,0.0
+36055,78,Instant Replay (Request: Ruling Stands),0:00.0,90-87,Milwaukee,0,0.0
+36056,78,K. Middleton makes 2-pt jump shot from 16 ft,11:49.0,90-89,Milwaukee,0,0.0
+36057,78,J. Brunson misses 2-pt jump shot from 20 ft,11:21.0,90-89,Dallas,0,0.0
+36058,78,Defensive rebound by G. Antetokounmpo,11:18.0,90-89,Milwaukee,0,0.0
+36059,78,Turnover by G. Antetokounmpo (out of bounds lost ball),11:15.0,90-89,Milwaukee,0,0.0
+36060,78,D. Finney-Smith misses 3-pt jump shot from 23 ft,11:01.0,90-89,Dallas,0,0.0
+36061,78,Defensive rebound by B. Portis,10:58.0,90-89,Milwaukee,0,0.0
+36062,78,G. Allen misses 2-pt layup from 7 ft,10:50.0,90-89,Milwaukee,0,0.0
+36063,78,Defensive rebound by D. Bertāns,10:49.0,90-89,Dallas,0,0.0
+36064,78,Personal foul by G. Hill (drawn by J. Brunson),10:49.0,90-89,Dallas,0,0.0
+36065,78,D. Bertāns misses 3-pt jump shot from 26 ft,10:33.0,90-89,Dallas,0,0.0
+36066,78,Defensive rebound by G. Antetokounmpo,10:31.0,90-89,Milwaukee,0,0.0
+36067,78,G. Hill misses 3-pt jump shot from 23 ft,10:20.0,90-89,Milwaukee,0,0.0
+36068,78,Offensive rebound by B. Portis,10:18.0,90-89,Milwaukee,0,0.0
+36069,78,B. Portis misses 2-pt hook shot from 12 ft,10:16.0,90-89,Milwaukee,0,0.0
+36070,78,Defensive rebound by J. Brunson,10:13.0,90-89,Dallas,0,0.0
+36071,78,D. Bertāns misses 3-pt jump shot from 29 ft,10:10.0,90-89,Dallas,0,0.0
+36072,78,Defensive rebound by G. Antetokounmpo,10:06.0,90-89,Milwaukee,0,0.0
+36073,78,B. Portis makes 2-pt layup from 3 ft,9:58.0,90-91,Milwaukee,0,0.0
+36074,78,Turnover by S. Dinwiddie (bad pass; steal by G. Hill),9:36.0,90-91,Dallas,0,0.0
+36075,78,Personal take foul by D. Bertāns (drawn by G. Antetokounmpo),9:36.0,90-91,Milwaukee,0,1.0
+36076,78,L. Dončić enters the game for D. Bertāns,9:36.0,90-91,Dallas,0,0.0
+36077,78,D. Powell enters the game for S. Dinwiddie,9:36.0,90-91,Dallas,0,0.0
+36078,78,K. Middleton misses 2-pt jump shot from 16 ft,9:25.0,90-91,Milwaukee,0,0.0
+36079,78,Defensive rebound by D. Powell,9:22.0,90-91,Dallas,0,0.0
+36080,78,R. Bullock enters the game for J. Green,9:22.0,90-91,Dallas,0,0.0
+36081,78,Dallas full timeout,9:16.0,90-91,Dallas,0,1.0
+36082,78,J. Green enters the game for R. Bullock,9:16.0,90-91,Dallas,0,0.0
+36083,78,Instant Replay (Challenge: Ruling Stands),9:16.0,90-91,Dallas,0,0.0
+36084,78,R. Bullock enters the game for J. Green,9:16.0,90-91,Dallas,0,0.0
+36085,78,W. Matthews enters the game for B. Portis,9:16.0,90-91,Milwaukee,1,0.0
+36086,78,L. Dončić makes 3-pt jump shot from 26 ft,9:04.0,93-91,Dallas,0,0.0
+36087,78,K. Middleton misses 3-pt jump shot from 23 ft,8:44.0,93-91,Milwaukee,0,0.0
+36088,78,Defensive rebound by L. Dončić,8:41.0,93-91,Dallas,0,0.0
+36089,78,L. Dončić misses 3-pt jump shot from 26 ft,8:33.0,93-91,Dallas,0,0.0
+36090,78,Defensive rebound by Team,8:32.0,93-91,Milwaukee,0,0.0
+36091,78,J. Holiday enters the game for G. Allen,8:32.0,93-91,Milwaukee,1,0.0
+36092,78,K. Middleton misses 2-pt jump shot from 11 ft,8:16.0,93-91,Milwaukee,0,1.0
+36093,78,Defensive rebound by D. Powell,8:14.0,93-91,Dallas,0,0.0
+36094,78,Shooting foul by K. Middleton (drawn by L. Dončić),7:57.0,93-91,Dallas,0,0.0
+36095,78,L. Dončić makes free throw 1 of 2,7:57.0,94-91,Dallas,0,0.0
+36096,78,L. Dončić makes free throw 2 of 2,7:57.0,95-91,Dallas,0,1.0
+36097,78,J. Holiday misses 2-pt jump shot from 10 ft,7:43.0,95-91,Milwaukee,0,0.0
+36098,78,Defensive rebound by L. Dončić,7:41.0,95-91,Dallas,0,0.0
+36099,78,D. Finney-Smith makes 3-pt jump shot from 24 ft (assist by L. Dončić),7:20.0,98-91,Dallas,0,0.0
+36100,78,Shooting foul by D. Powell (drawn by G. Antetokounmpo),7:12.0,98-91,Milwaukee,0,0.0
+36101,78,G. Antetokounmpo makes free throw 1 of 2,7:12.0,98-92,Milwaukee,0,0.0
+36102,78,P. Connaughton enters the game for G. Hill,7:12.0,98-92,Milwaukee,1,0.0
+36103,78,G. Antetokounmpo makes free throw 2 of 2,7:12.0,98-93,Milwaukee,0,0.0
+36104,78,R. Bullock makes 3-pt jump shot from 24 ft (assist by L. Dončić),6:55.0,101-93,Dallas,0,0.0
+36105,78,Milwaukee full timeout,6:55.0,101-93,Milwaukee,0,0.0
+36106,78,B. Lopez enters the game for W. Matthews,6:55.0,101-93,Milwaukee,1,0.0
+36107,78,B. Lopez makes 2-pt jump shot from 7 ft (assist by K. Middleton),6:40.0,101-95,Milwaukee,0,0.0
+36108,78,J. Brunson misses 2-pt jump shot from 13 ft,6:15.0,101-95,Dallas,0,0.0
+36109,78,Offensive rebound by D. Powell,6:15.0,101-95,Dallas,0,0.0
+36110,78,Turnover by Team (shot clock),6:15.0,101-95,Dallas,0,0.0
+36111,78,J. Holiday makes 3-pt jump shot from 27 ft,6:06.0,101-98,Milwaukee,0,0.0
+36112,78,D. Powell makes 2-pt layup from 2 ft (assist by D. Finney-Smith),5:52.0,103-98,Dallas,0,0.0
+36113,78,Shooting foul by B. Lopez (drawn by D. Powell),5:52.0,103-98,Dallas,0,0.0
+36114,78,D. Powell makes free throw 1 of 1,5:52.0,104-98,Dallas,0,0.0
+36115,78,K. Middleton misses 2-pt hook shot from 10 ft,5:35.0,104-98,Milwaukee,0,0.0
+36116,78,Defensive rebound by L. Dončić,5:31.0,104-98,Dallas,0,0.0
+36117,78,D. Powell makes 2-pt layup from 1 ft (assist by L. Dončić),5:19.0,106-98,Dallas,0,0.0
+36118,78,B. Lopez makes 3-pt jump shot from 24 ft (assist by K. Middleton),5:03.0,106-101,Milwaukee,0,0.0
+36119,78,Shooting foul by J. Holiday (drawn by L. Dončić),4:47.0,106-101,Dallas,0,0.0
+36120,78,Milwaukee full timeout,4:47.0,106-101,Milwaukee,0,0.0
+36121,78,Instant Replay (Challenge: Stands),4:47.0,106-101,Milwaukee,0,0.0
+36122,78,L. Dončić makes free throw 1 of 3,4:47.0,107-101,Dallas,0,1.0
+36123,78,L. Dončić makes free throw 2 of 3,4:47.0,108-101,Dallas,0,0.0
+36124,78,L. Dončić makes free throw 3 of 3,4:47.0,109-101,Dallas,0,0.0
+36125,78,P. Connaughton misses 3-pt jump shot from 23 ft,4:31.0,109-101,Milwaukee,0,0.0
+36126,78,Defensive rebound by J. Brunson,4:27.0,109-101,Dallas,0,0.0
+36127,78,R. Bullock makes 2-pt jump shot from 14 ft (assist by D. Finney-Smith),4:11.0,111-101,Dallas,0,0.0
+36128,78,Shooting foul by R. Bullock (drawn by K. Middleton),4:03.0,111-101,Milwaukee,0,0.0
+36129,78,K. Middleton makes free throw 1 of 3,4:03.0,111-102,Milwaukee,0,1.0
+36130,78,K. Middleton misses free throw 2 of 3,4:03.0,111-102,Milwaukee,0,0.0
+36131,78,Offensive rebound by Team,4:03.0,111-102,Milwaukee,0,0.0
+36132,78,B. Portis enters the game for B. Lopez,4:03.0,111-102,Milwaukee,1,0.0
+36133,78,K. Middleton makes free throw 3 of 3,4:03.0,111-103,Milwaukee,0,0.0
+36134,78,D. Finney-Smith misses 3-pt jump shot from 27 ft,3:51.0,111-103,Dallas,0,0.0
+36135,78,Defensive rebound by Team,3:49.0,111-103,Milwaukee,0,0.0
+36136,78,K. Middleton misses 2-pt jump shot from 13 ft,3:29.0,111-103,Milwaukee,0,0.0
+36137,78,Defensive rebound by D. Powell,3:26.0,111-103,Dallas,0,0.0
+36138,78,Dallas full timeout,3:21.0,111-103,Dallas,0,0.0
+36139,78,G. Allen enters the game for P. Connaughton,3:21.0,111-103,Milwaukee,1,0.0
+36140,78,J. Brunson misses 3-pt jump shot from 27 ft,3:04.0,111-103,Dallas,0,0.0
+36141,78,Offensive rebound by Team,3:04.0,111-103,Dallas,0,0.0
+36142,78,Turnover by Team (shot clock),3:04.0,111-103,Dallas,0,0.0
+36143,78,G. Antetokounmpo misses 2-pt hook shot from 5 ft,2:45.0,111-103,Milwaukee,0,0.0
+36144,78,Defensive rebound by L. Dončić,2:43.0,111-103,Dallas,0,0.0
+36145,78,L. Dončić misses 2-pt jump shot from 8 ft,2:23.0,111-103,Dallas,0,0.0
+36146,78,Defensive rebound by Team,2:23.0,111-103,Milwaukee,0,0.0
+36147,78,Turnover by K. Middleton (bad pass; steal by D. Powell),2:12.0,111-103,Milwaukee,0,0.0
+36148,78,Personal foul by K. Middleton (drawn by L. Dončić),1:58.0,111-103,Dallas,0,0.0
+36149,78,L. Dončić makes free throw 1 of 2,1:58.0,112-103,Dallas,0,0.0
+36150,78,L. Dončić makes free throw 2 of 2,1:58.0,113-103,Dallas,0,0.0
+36151,78,G. Antetokounmpo misses 3-pt jump shot from 27 ft,1:48.0,113-103,Milwaukee,0,0.0
+36152,78,Defensive rebound by R. Bullock,1:45.0,113-103,Dallas,0,0.0
+36153,78,Turnover by D. Powell (bad pass; steal by J. Holiday),1:35.0,113-103,Dallas,0,0.0
+36154,78,Turnover by G. Allen (bad pass; steal by L. Dončić),1:24.0,113-103,Milwaukee,0,0.0
+36155,78,Turnover by J. Brunson (bad pass; steal by B. Portis),1:06.0,113-103,Dallas,0,0.0
+36156,78,Personal foul by L. Dončić (drawn by G. Antetokounmpo),1:05.0,113-103,Milwaukee,0,0.0
+36157,78,J. Holiday misses 3-pt jump shot from 27 ft,0:59.0,113-103,Milwaukee,0,0.0
+36158,78,Offensive rebound by G. Antetokounmpo,0:59.0,113-103,Milwaukee,0,0.0
+36159,78,Shooting foul by L. Dončić (drawn by G. Antetokounmpo),0:59.0,113-103,Milwaukee,0,0.0
+36160,78,G. Antetokounmpo makes free throw 1 of 2,0:59.0,113-104,Milwaukee,0,0.0
+36161,78,G. Antetokounmpo misses free throw 2 of 2,0:59.0,113-104,Milwaukee,0,0.0
+36162,78,Defensive rebound by L. Dončić,0:56.0,113-104,Dallas,0,0.0
+36163,78,Turnover by L. Dončić (bad pass; steal by G. Allen),0:50.0,113-104,Dallas,0,1.0
+36164,78,K. Middleton misses 3-pt jump shot from 27 ft,0:44.0,113-104,Milwaukee,0,0.0
+36165,78,Offensive rebound by B. Portis,0:41.0,113-104,Milwaukee,0,0.0
+36166,78,Personal foul by R. Bullock (drawn by G. Antetokounmpo),0:41.0,113-104,Milwaukee,0,0.0
+36167,78,G. Antetokounmpo misses free throw 1 of 2,0:41.0,113-104,Milwaukee,0,0.0
+36168,78,Offensive rebound by Team,0:41.0,113-104,Milwaukee,0,1.0
+36169,78,G. Antetokounmpo makes free throw 2 of 2,0:41.0,113-105,Milwaukee,0,1.0
+36170,78,Dallas full timeout,0:41.0,113-105,Dallas,0,0.0
+36171,78,S. Dinwiddie enters the game for D. Powell,0:41.0,113-105,Dallas,0,0.0
+36172,78,Dallas full timeout,0:41.0,113-105,Dallas,0,0.0
+36173,78,G. Hill enters the game for B. Portis,0:41.0,113-105,Milwaukee,1,0.0
+36174,78,Personal take foul by G. Hill (drawn by D. Finney-Smith),0:32.0,113-105,Dallas,0,0.0
+36175,78,D. Finney-Smith makes free throw 1 of 2,0:32.0,114-105,Dallas,0,0.0
+36176,78,D. Finney-Smith makes free throw 2 of 2,0:32.0,115-105,Dallas,0,0.0
+36177,78,Milwaukee full timeout,0:32.0,115-105,Milwaukee,0,0.0
+36178,78,P. Connaughton enters the game for G. Allen,0:32.0,115-105,Milwaukee,1,0.0
+36179,78,B. Portis enters the game for G. Hill,0:32.0,115-105,Milwaukee,1,0.0
+36180,78,G. Antetokounmpo makes 2-pt dunk from 2 ft (assist by K. Middleton),0:27.0,115-107,Milwaukee,0,
+36181,78,Personal take foul by G. Antetokounmpo (drawn by J. Brunson),0:24.0,115-107,Dallas,0,
+36182,78,J. Brunson makes free throw 1 of 2,0:24.0,116-107,Dallas,0,
+36183,78,J. Brunson makes free throw 2 of 2,0:24.0,117-107,Dallas,0,
+36184,78,B. Portis makes 3-pt jump shot from 27 ft (assist by J. Holiday),0:17.0,117-110,Milwaukee,0,
+36185,78,Personal foul by K. Middleton (drawn by L. Dončić),0:15.0,117-110,Dallas,0,
+36186,78,L. Dončić misses free throw 1 of 2,0:15.0,117-110,Dallas,0,
+36187,78,Offensive rebound by Team,0:15.0,117-110,Dallas,0,
+36188,78,L. Dončić makes free throw 2 of 2,0:15.0,118-110,Dallas,0,
+36189,78,G. Antetokounmpo makes 2-pt dunk from 2 ft,0:10.0,118-112,Milwaukee,0,

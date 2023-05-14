@@ -1,0 +1,471 @@
+,game number,play,time,score,team,current_sub_status,future_sub_status
+10242,23,G. Trent makes 3-pt jump shot from 27 ft (assist by P. Siakam),11:34.0,0-3,Toronto,0,0.0
+10243,23,B. Portis misses 2-pt jump shot from 12 ft,11:10.0,0-3,Milwaukee,0,0.0
+10244,23,Offensive rebound by G. Allen,11:06.0,0-3,Milwaukee,0,0.0
+10245,23,G. Allen misses 3-pt jump shot from 26 ft,11:04.0,0-3,Milwaukee,0,0.0
+10246,23,Defensive rebound by G. Trent,11:02.0,0-3,Toronto,0,0.0
+10247,23,P. Siakam makes 2-pt jump shot from 18 ft,10:50.0,0-5,Toronto,0,0.0
+10248,23,P. Connaughton misses 2-pt hook shot from 7 ft,10:27.0,0-5,Milwaukee,0,0.0
+10249,23,Defensive rebound by P. Siakam,10:25.0,0-5,Toronto,0,0.0
+10250,23,Turnover by P. Siakam (bad pass; steal by P. Connaughton),10:19.0,0-5,Toronto,0,0.0
+10251,23,G. Allen misses 3-pt jump shot from 23 ft,10:06.0,0-5,Milwaukee,0,0.0
+10252,23,Defensive rebound by P. Achiuwa,10:03.0,0-5,Toronto,0,0.0
+10253,23,G. Trent misses 3-pt jump shot from 28 ft,9:56.0,0-5,Toronto,0,0.0
+10254,23,Defensive rebound by J. Holiday,9:52.0,0-5,Milwaukee,0,0.0
+10255,23,J. Holiday makes 2-pt hook shot from 10 ft,9:47.0,2-5,Milwaukee,0,0.0
+10256,23,P. Achiuwa misses 2-pt jump shot from 10 ft,9:28.0,2-5,Toronto,0,0.0
+10257,23,Defensive rebound by B. Portis,9:26.0,2-5,Milwaukee,0,0.0
+10258,23,J. Holiday makes 2-pt jump shot from 16 ft,9:12.0,4-5,Milwaukee,0,0.0
+10259,23,P. Siakam makes 3-pt jump shot from 23 ft (assist by P. Achiuwa),8:57.0,4-8,Toronto,0,0.0
+10260,23,B. Portis misses 2-pt layup from 3 ft (block by F. VanVleet),8:46.0,4-8,Milwaukee,0,0.0
+10261,23,Defensive rebound by Team,8:46.0,4-8,Toronto,0,0.0
+10262,23,F. VanVleet misses 3-pt jump shot from 27 ft,8:32.0,4-8,Toronto,0,1.0
+10263,23,Defensive rebound by K. Middleton,8:29.0,4-8,Milwaukee,0,0.0
+10264,23,J. Holiday makes 2-pt layup at rim (assist by K. Middleton),8:28.0,6-8,Milwaukee,0,0.0
+10265,23,Shooting foul by F. VanVleet (drawn by J. Holiday),8:28.0,6-8,Milwaukee,0,0.0
+10266,23,J. Holiday makes free throw 1 of 1,8:28.0,7-8,Milwaukee,0,0.0
+10267,23,G. Trent misses 2-pt jump shot from 12 ft,8:09.0,7-8,Toronto,0,1.0
+10268,23,Defensive rebound by K. Middleton,8:06.0,7-8,Milwaukee,0,0.0
+10269,23,Violation by Team (kicked ball),8:00.0,7-8,Toronto,0,0.0
+10270,23,G. Allen makes 2-pt jump shot from 10 ft (assist by J. Holiday),7:56.0,9-8,Milwaukee,0,0.0
+10271,23,Turnover by P. Achiuwa (traveling),7:37.0,9-8,Toronto,0,0.0
+10272,23,G. Hill enters the game for J. Holiday,7:37.0,9-8,Milwaukee,1,0.0
+10273,23,B. Portis misses 2-pt hook shot from 2 ft,7:23.0,9-8,Milwaukee,0,0.0
+10274,23,Offensive rebound by B. Portis,7:23.0,9-8,Milwaukee,0,0.0
+10275,23,Shooting foul by P. Siakam (drawn by B. Portis),7:23.0,9-8,Milwaukee,0,0.0
+10276,23,B. Portis makes free throw 1 of 2,7:23.0,10-8,Milwaukee,0,0.0
+10277,23,S. Mamukelashvili enters the game for P. Connaughton,7:23.0,10-8,Milwaukee,1,0.0
+10278,23,B. Portis misses free throw 2 of 2,7:23.0,10-8,Milwaukee,0,1.0
+10279,23,Defensive rebound by P. Achiuwa,7:21.0,10-8,Toronto,0,0.0
+10280,23,S. Barnes misses 3-pt jump shot from 24 ft,7:04.0,10-8,Toronto,0,0.0
+10281,23,Defensive rebound by G. Hill,7:01.0,10-8,Milwaukee,0,0.0
+10282,23,B. Portis misses 2-pt hook shot from 8 ft,6:53.0,10-8,Milwaukee,0,0.0
+10283,23,Defensive rebound by P. Siakam,6:50.0,10-8,Toronto,0,0.0
+10284,23,F. VanVleet makes 3-pt jump shot from 27 ft (assist by G. Trent),6:44.0,10-11,Toronto,0,0.0
+10285,23,K. Middleton misses 2-pt jump shot from 9 ft (block by S. Barnes),6:32.0,10-11,Milwaukee,0,0.0
+10286,23,Offensive rebound by Team,6:32.0,10-11,Milwaukee,0,0.0
+10287,23,Toronto full timeout,6:32.0,10-11,Toronto,0,0.0
+10288,23,J. Holiday enters the game for K. Middleton,6:32.0,10-11,Milwaukee,1,0.0
+10289,23,G. Hill misses 3-pt jump shot from 23 ft,6:27.0,10-11,Milwaukee,0,1.0
+10290,23,Offensive rebound by S. Mamukelashvili,6:24.0,10-11,Milwaukee,0,1.0
+10291,23,S. Mamukelashvili makes 2-pt dunk from 1 ft (assist by J. Holiday),6:13.0,12-11,Milwaukee,0,0.0
+10292,23,P. Achiuwa misses 2-pt layup from 5 ft,5:53.0,12-11,Toronto,0,0.0
+10293,23,Offensive rebound by P. Achiuwa,5:49.0,12-11,Toronto,0,0.0
+10294,23,P. Achiuwa makes 2-pt layup at rim,5:49.0,12-13,Toronto,0,0.0
+10295,23,Turnover by J. Holiday (lost ball; steal by S. Barnes),5:40.0,12-13,Milwaukee,0,0.0
+10296,23,P. Siakam makes 2-pt layup from 1 ft (assist by S. Barnes),5:36.0,12-15,Toronto,0,0.0
+10297,23,G. Allen makes 3-pt jump shot from 26 ft (assist by G. Hill),5:17.0,15-15,Milwaukee,0,0.0
+10298,23,Turnover by F. VanVleet (traveling),4:53.0,15-15,Toronto,0,0.0
+10299,23,T. Antetokounmpo enters the game for G. Allen,4:53.0,15-15,Milwaukee,1,0.0
+10300,23,R. Hood enters the game for B. Portis,4:53.0,15-15,Milwaukee,1,0.0
+10301,23,Personal foul by S. Barnes (drawn by G. Hill),4:34.0,15-15,Milwaukee,0,0.0
+10302,23,D. Banton enters the game for P. Achiuwa,4:34.0,15-15,Toronto,0,0.0
+10303,23,C. Boucher enters the game for S. Barnes,4:34.0,15-15,Toronto,0,0.0
+10304,23,T. Antetokounmpo misses 2-pt layup from 3 ft,4:26.0,15-15,Milwaukee,0,0.0
+10305,23,Defensive rebound by G. Trent,4:24.0,15-15,Toronto,0,1.0
+10306,23,P. Siakam misses 3-pt jump shot from 26 ft,4:12.0,15-15,Toronto,0,0.0
+10307,23,Defensive rebound by T. Antetokounmpo,4:07.0,15-15,Milwaukee,0,0.0
+10308,23,Def 3 sec tech foul by Team,3:50.0,15-15,Milwaukee,0,0.0
+10309,23,G. Hill makes technical free throw,3:50.0,16-15,Milwaukee,0,0.0
+10310,23,J. Holiday makes 2-pt jump shot from 12 ft,3:42.0,18-15,Milwaukee,0,0.0
+10311,23,G. Trent misses 2-pt jump shot from 6 ft,3:18.0,18-15,Toronto,0,0.0
+10312,23,Defensive rebound by R. Hood,3:16.0,18-15,Milwaukee,0,0.0
+10313,23,S. Mykhailiuk enters the game for G. Trent,3:16.0,18-15,Toronto,0,0.0
+10314,23,Milwaukee full timeout,3:02.0,18-15,Milwaukee,0,0.0
+10315,23,P. Connaughton enters the game for S. Mamukelashvili,3:02.0,18-15,Milwaukee,1,1.0
+10316,23,S. Barnes enters the game for P. Siakam,3:02.0,18-15,Toronto,0,0.0
+10317,23,R. Hood misses 2-pt jump shot from 16 ft,2:56.0,18-15,Milwaukee,0,0.0
+10318,23,Defensive rebound by F. VanVleet,2:53.0,18-15,Toronto,0,0.0
+10319,23,S. Barnes makes 3-pt jump shot from 24 ft (assist by D. Banton),2:47.0,18-18,Toronto,0,0.0
+10320,23,R. Hood misses 3-pt jump shot from 24 ft,2:31.0,18-18,Milwaukee,0,0.0
+10321,23,Offensive rebound by J. Holiday,2:29.0,18-18,Milwaukee,0,0.0
+10322,23,G. Hill misses 3-pt jump shot from 27 ft,2:28.0,18-18,Milwaukee,0,0.0
+10323,23,Defensive rebound by D. Banton,2:24.0,18-18,Toronto,0,0.0
+10324,23,Turnover by D. Banton (out of bounds lost ball),2:24.0,18-18,Toronto,0,0.0
+10325,23,K. Middleton enters the game for J. Holiday,2:24.0,18-18,Milwaukee,1,0.0
+10326,23,K. Middleton misses 2-pt jump shot from 19 ft,2:18.0,18-18,Milwaukee,0,0.0
+10327,23,Defensive rebound by Team,2:16.0,18-18,Toronto,0,0.0
+10328,23,Offensive foul by C. Boucher (drawn by T. Antetokounmpo),2:06.0,18-18,Toronto,0,0.0
+10329,23,Turnover by C. Boucher (offensive foul),2:06.0,18-18,Toronto,0,0.0
+10330,23,G. Hill makes 3-pt jump shot from 24 ft (assist by R. Hood),1:43.0,21-18,Milwaukee,0,0.0
+10331,23,Shooting foul by R. Hood (drawn by C. Boucher),1:31.0,21-18,Toronto,0,0.0
+10332,23,C. Boucher makes free throw 1 of 2,1:31.0,21-19,Toronto,0,0.0
+10333,23,G. Trent enters the game for F. VanVleet,1:31.0,21-19,Toronto,0,0.0
+10334,23,C. Boucher makes free throw 2 of 2,1:31.0,21-20,Toronto,0,0.0
+10335,23,R. Hood misses 2-pt jump shot from 7 ft,1:10.0,21-20,Milwaukee,0,0.0
+10336,23,Offensive rebound by R. Hood,1:08.0,21-20,Milwaukee,0,0.0
+10337,23,P. Connaughton misses 3-pt jump shot from 26 ft,1:07.0,21-20,Milwaukee,0,0.0
+10338,23,Defensive rebound by S. Mykhailiuk,1:03.0,21-20,Toronto,0,0.0
+10339,23,S. Mykhailiuk makes 3-pt jump shot from 27 ft,0:53.0,21-23,Toronto,0,0.0
+10340,23,K. Middleton makes 2-pt layup from 3 ft (assist by T. Antetokounmpo),0:38.0,23-23,Milwaukee,0,0.0
+10341,23,S. Barnes makes 3-pt jump shot from 27 ft (assist by G. Trent),0:28.0,23-26,Toronto,0,0.0
+10342,23,G. Hill misses 3-pt jump shot from 25 ft,0:09.0,23-26,Milwaukee,0,0.0
+10343,23,Defensive rebound by G. Trent,0:06.0,23-26,Toronto,0,0.0
+10344,23,D. Banton misses 2-pt layup from 2 ft,0:01.0,23-26,Toronto,0,0.0
+10345,23,Defensive rebound by P. Connaughton,0:01.0,23-26,Milwaukee,0,0.0
+10346,23,P. Connaughton misses 3-pt jump shot from 62 ft,0:00.0,23-26,Milwaukee,0,0.0
+10347,23,Offensive rebound by Team,0:00.0,23-26,Milwaukee,0,0.0
+10348,23,K. Middleton misses 2-pt jump shot from 20 ft,11:42.0,23-26,Milwaukee,0,0.0
+10349,23,Defensive rebound by S. Barnes,11:39.0,23-26,Toronto,0,0.0
+10350,23,G. Trent misses 3-pt jump shot from 26 ft,11:25.0,23-26,Toronto,0,0.0
+10351,23,Defensive rebound by B. Portis,11:22.0,23-26,Milwaukee,0,0.0
+10352,23,K. Middleton misses 2-pt layup from 1 ft,11:08.0,23-26,Milwaukee,0,1.0
+10353,23,Offensive rebound by K. Middleton,11:06.0,23-26,Milwaukee,0,0.0
+10354,23,G. Allen misses 3-pt jump shot from 25 ft,11:03.0,23-26,Milwaukee,0,0.0
+10355,23,Defensive rebound by C. Boucher,10:59.0,23-26,Toronto,0,0.0
+10356,23,C. Boucher misses 3-pt jump shot from 26 ft,10:48.0,23-26,Toronto,0,0.0
+10357,23,Defensive rebound by B. Portis,10:46.0,23-26,Milwaukee,0,0.0
+10358,23,J. Holiday makes 3-pt jump shot from 26 ft,10:38.0,26-26,Milwaukee,0,0.0
+10359,23,G. Trent makes 2-pt jump shot from 5 ft (assist by S. Mykhailiuk),10:18.0,26-28,Toronto,0,0.0
+10360,23,Shooting foul by S. Mykhailiuk (drawn by B. Portis),10:04.0,26-28,Milwaukee,0,0.0
+10361,23,B. Portis makes free throw 1 of 2,10:04.0,27-28,Milwaukee,0,0.0
+10362,23,S. Mamukelashvili enters the game for P. Connaughton,10:04.0,27-28,Milwaukee,1,0.0
+10363,23,Y. Watanabe enters the game for C. Boucher,10:04.0,27-28,Toronto,0,0.0
+10364,23,B. Portis makes free throw 2 of 2,10:04.0,28-28,Milwaukee,0,0.0
+10365,23,G. Trent misses 3-pt jump shot from 25 ft,9:44.0,28-28,Toronto,0,0.0
+10366,23,Defensive rebound by K. Middleton,9:41.0,28-28,Milwaukee,0,0.0
+10367,23,B. Portis misses 2-pt layup from 11 ft (block by G. Trent),9:31.0,28-28,Milwaukee,0,0.0
+10368,23,Offensive rebound by S. Mamukelashvili,9:27.0,28-28,Milwaukee,0,0.0
+10369,23,S. Mamukelashvili makes 2-pt layup from 1 ft,9:26.0,30-28,Milwaukee,0,0.0
+10370,23,S. Mykhailiuk misses 3-pt jump shot from 25 ft,9:16.0,30-28,Toronto,0,0.0
+10371,23,Defensive rebound by B. Portis,9:12.0,30-28,Milwaukee,0,0.0
+10372,23,Turnover by K. Middleton (bad pass; steal by Y. Watanabe),9:02.0,30-28,Milwaukee,0,0.0
+10373,23,S. Barnes misses 3-pt jump shot from 26 ft,8:58.0,30-28,Toronto,0,0.0
+10374,23,Offensive rebound by D. Banton,8:54.0,30-28,Toronto,0,0.0
+10375,23,D. Banton makes 2-pt hook shot from 5 ft,8:52.0,30-30,Toronto,0,0.0
+10376,23,J. Holiday misses 2-pt layup from 4 ft,8:42.0,30-30,Milwaukee,0,1.0
+10377,23,Defensive rebound by S. Barnes,8:39.0,30-30,Toronto,0,0.0
+10378,23,S. Mykhailiuk misses 3-pt jump shot from 26 ft,8:36.0,30-30,Toronto,0,0.0
+10379,23,Offensive rebound by D. Banton,8:36.0,30-30,Toronto,0,0.0
+10380,23,D. Banton misses 2-pt jump shot from 12 ft,8:21.0,30-30,Toronto,0,0.0
+10381,23,Defensive rebound by S. Mamukelashvili,8:18.0,30-30,Milwaukee,0,0.0
+10382,23,Turnover by K. Middleton (lost ball; steal by S. Mykhailiuk),8:08.0,30-30,Milwaukee,0,0.0
+10383,23,Shooting foul by J. Holiday (drawn by Y. Watanabe),8:05.0,30-30,Toronto,0,0.0
+10384,23,Y. Watanabe misses free throw 1 of 2,8:05.0,30-30,Toronto,0,0.0
+10385,23,Offensive rebound by Team,8:05.0,30-30,Toronto,0,0.0
+10386,23,R. Hood enters the game for K. Middleton,8:05.0,30-30,Milwaukee,1,0.0
+10387,23,P. Achiuwa enters the game for D. Banton,8:05.0,30-30,Toronto,0,0.0
+10388,23,P. Siakam enters the game for S. Barnes,8:05.0,30-30,Toronto,0,0.0
+10389,23,F. VanVleet enters the game for G. Trent,8:05.0,30-30,Toronto,0,0.0
+10390,23,Y. Watanabe misses free throw 2 of 2,8:05.0,30-30,Toronto,0,0.0
+10391,23,Defensive rebound by B. Portis,8:02.0,30-30,Milwaukee,0,0.0
+10392,23,G. Allen misses 2-pt layup from 5 ft,7:43.0,30-30,Milwaukee,0,0.0
+10393,23,Defensive rebound by F. VanVleet,7:40.0,30-30,Toronto,0,0.0
+10394,23,P. Achiuwa misses 2-pt hook shot from 7 ft,7:35.0,30-30,Toronto,0,1.0
+10395,23,Offensive rebound by P. Siakam,7:35.0,30-30,Toronto,0,1.0
+10396,23,P. Siakam misses 2-pt layup at rim,7:32.0,30-30,Toronto,0,0.0
+10397,23,Offensive rebound by P. Siakam,7:32.0,30-30,Toronto,0,0.0
+10398,23,Turnover by P. Siakam (lost ball; steal by B. Portis),7:30.0,30-30,Toronto,0,0.0
+10399,23,J. Holiday misses 3-pt jump shot from 26 ft,7:17.0,30-30,Milwaukee,0,0.0
+10400,23,Defensive rebound by Y. Watanabe,7:14.0,30-30,Toronto,0,0.0
+10401,23,S. Mykhailiuk misses 3-pt jump shot from 24 ft,7:03.0,30-30,Toronto,0,0.0
+10402,23,Offensive rebound by Team,7:02.0,30-30,Toronto,0,0.0
+10403,23,Toronto full timeout,7:02.0,30-30,Toronto,0,0.0
+10404,23,T. Antetokounmpo enters the game for G. Allen,7:02.0,30-30,Milwaukee,1,1.0
+10405,23,G. Hill enters the game for B. Portis,7:02.0,30-30,Milwaukee,1,0.0
+10406,23,P. Siakam makes 2-pt layup from 4 ft (assist by Y. Watanabe),6:55.0,30-32,Toronto,0,0.0
+10407,23,R. Hood misses 2-pt jump shot from 21 ft,6:35.0,30-32,Milwaukee,0,0.0
+10408,23,Offensive rebound by S. Mamukelashvili,6:34.0,30-32,Milwaukee,0,0.0
+10409,23,Turnover by J. Holiday (bad pass; steal by P. Achiuwa),6:27.0,30-32,Milwaukee,0,0.0
+10410,23,S. Mykhailiuk makes 2-pt layup from 7 ft (assist by F. VanVleet),6:21.0,30-34,Toronto,0,1.0
+10411,23,Turnover by T. Antetokounmpo (bad pass; steal by S. Mykhailiuk),6:07.0,30-34,Milwaukee,0,0.0
+10412,23,Y. Watanabe makes 3-pt jump shot from 23 ft (assist by S. Mykhailiuk),5:58.0,30-37,Toronto,0,0.0
+10413,23,Milwaukee full timeout,5:56.0,30-37,Milwaukee,0,0.0
+10414,23,P. Connaughton enters the game for T. Antetokounmpo,5:56.0,30-37,Milwaukee,1,0.0
+10415,23,J. Holiday makes 2-pt jump shot from 7 ft,5:42.0,32-37,Milwaukee,0,0.0
+10416,23,Turnover by Team (shot clock),5:16.0,32-37,Toronto,0,0.0
+10417,23,J. Holiday makes 2-pt jump shot from 14 ft,4:59.0,34-37,Milwaukee,0,0.0
+10418,23,P. Siakam makes 2-pt jump shot from 9 ft,4:45.0,34-39,Toronto,0,0.0
+10419,23,Personal foul by Y. Watanabe (drawn by J. Holiday),4:31.0,34-39,Milwaukee,0,0.0
+10420,23,K. Middleton enters the game for R. Hood,4:31.0,34-39,Milwaukee,1,0.0
+10421,23,S. Barnes enters the game for S. Mykhailiuk,4:31.0,34-39,Toronto,0,0.0
+10422,23,G. Trent enters the game for Y. Watanabe,4:31.0,34-39,Toronto,0,0.0
+10423,23,Instant Replay (Request: Ruling Stands),4:15.0,34-39,Milwaukee,0,0.0
+10424,23,Turnover by Team (shot clock),4:15.0,34-39,Milwaukee,0,1.0
+10425,23,P. Siakam misses 2-pt jump shot from 8 ft,4:01.0,34-39,Toronto,0,1.0
+10426,23,Defensive rebound by J. Holiday,3:59.0,34-39,Milwaukee,0,0.0
+10427,23,S. Mamukelashvili misses 3-pt jump shot from 26 ft,3:45.0,34-39,Milwaukee,0,0.0
+10428,23,Defensive rebound by S. Barnes,3:42.0,34-39,Toronto,0,0.0
+10429,23,P. Siakam makes 2-pt jump shot from 3 ft (assist by S. Barnes),3:30.0,34-41,Toronto,0,0.0
+10430,23,K. Middleton misses 3-pt jump shot from 27 ft,3:18.0,34-41,Milwaukee,0,0.0
+10431,23,Defensive rebound by F. VanVleet,3:16.0,34-41,Toronto,0,0.0
+10432,23,F. VanVleet misses 3-pt jump shot from 29 ft,3:12.0,34-41,Toronto,0,0.0
+10433,23,Defensive rebound by Team,3:08.0,34-41,Milwaukee,0,0.0
+10434,23,G. Allen enters the game for J. Holiday,3:08.0,34-41,Milwaukee,1,0.0
+10435,23,B. Portis enters the game for S. Mamukelashvili,3:08.0,34-41,Milwaukee,1,0.0
+10436,23,B. Portis misses 3-pt jump shot from 26 ft,3:03.0,34-41,Milwaukee,0,0.0
+10437,23,Defensive rebound by P. Siakam,2:59.0,34-41,Toronto,0,0.0
+10438,23,S. Barnes makes 3-pt jump shot from 27 ft (assist by P. Siakam),2:48.0,34-44,Toronto,0,0.0
+10439,23,K. Middleton misses 3-pt jump shot from 25 ft,2:19.0,34-44,Milwaukee,0,0.0
+10440,23,Offensive rebound by B. Portis,2:17.0,34-44,Milwaukee,0,0.0
+10441,23,B. Portis makes 2-pt hook shot from 5 ft,2:14.0,36-44,Milwaukee,0,0.0
+10442,23,G. Trent misses 3-pt jump shot from 23 ft,1:53.0,36-44,Toronto,0,0.0
+10443,23,Offensive rebound by P. Achiuwa,1:50.0,36-44,Toronto,0,0.0
+10444,23,P. Achiuwa misses 2-pt hook shot from 9 ft,1:47.0,36-44,Toronto,0,0.0
+10445,23,Defensive rebound by B. Portis,1:45.0,36-44,Milwaukee,0,0.0
+10446,23,K. Middleton makes 2-pt jump shot from 13 ft,1:42.0,38-44,Milwaukee,0,0.0
+10447,23,P. Siakam makes 2-pt jump shot from 10 ft,1:15.0,38-46,Toronto,0,0.0
+10448,23,Violation by Team (def goaltending),1:15.0,38-46,Milwaukee,0,0.0
+10449,23,Turnover by K. Middleton (bad pass; steal by G. Trent),0:58.0,38-46,Milwaukee,0,0.0
+10450,23,P. Achiuwa makes 2-pt dunk from 2 ft (assist by F. VanVleet),0:55.0,38-48,Toronto,0,0.0
+10451,23,Personal foul by S. Barnes (drawn by K. Middleton),0:48.0,38-48,Milwaukee,0,0.0
+10452,23,K. Middleton misses 2-pt layup from 7 ft,0:42.0,38-48,Milwaukee,0,0.0
+10453,23,Defensive rebound by P. Siakam,0:39.0,38-48,Toronto,0,0.0
+10454,23,G. Trent misses 3-pt jump shot from 26 ft,0:31.0,38-48,Toronto,0,0.0
+10455,23,Defensive rebound by K. Middleton,0:28.0,38-48,Milwaukee,0,0.0
+10456,23,G. Allen misses 2-pt layup from 6 ft,0:06.0,38-48,Milwaukee,0,0.0
+10457,23,Offensive rebound by B. Portis,0:06.0,38-48,Milwaukee,0,0.0
+10458,23,B. Portis makes 2-pt layup at rim,0:06.0,40-48,Milwaukee,0,0.0
+10459,23,G. Trent misses 2-pt jump shot from 21 ft,0:00.0,40-48,Toronto,0,0.0
+10460,23,Offensive rebound by Team,0:00.0,40-48,Toronto,0,0.0
+10461,23,J. Holiday misses 2-pt jump shot from 15 ft,11:42.0,40-48,Milwaukee,0,0.0
+10462,23,Defensive rebound by G. Trent,11:39.0,40-48,Toronto,0,0.0
+10463,23,G. Trent misses 3-pt jump shot from 26 ft,11:26.0,40-48,Toronto,0,0.0
+10464,23,Defensive rebound by P. Connaughton,11:22.0,40-48,Milwaukee,0,0.0
+10465,23,K. Middleton makes 2-pt layup from 2 ft,11:17.0,42-48,Milwaukee,0,0.0
+10466,23,S. Barnes misses 3-pt jump shot from 25 ft,10:56.0,42-48,Toronto,0,0.0
+10467,23,Defensive rebound by P. Connaughton,10:53.0,42-48,Milwaukee,0,0.0
+10468,23,Shooting foul by P. Achiuwa (drawn by B. Portis),10:43.0,42-48,Milwaukee,0,0.0
+10469,23,B. Portis makes free throw 1 of 2,10:43.0,43-48,Milwaukee,0,0.0
+10470,23,B. Portis makes free throw 2 of 2,10:43.0,44-48,Milwaukee,0,0.0
+10471,23,F. VanVleet makes 3-pt jump shot from 27 ft (assist by P. Siakam),10:30.0,44-51,Toronto,0,0.0
+10472,23,Shooting foul by S. Barnes (drawn by P. Connaughton),10:09.0,44-51,Milwaukee,0,0.0
+10473,23,P. Connaughton makes free throw 1 of 2,10:09.0,45-51,Milwaukee,0,0.0
+10474,23,P. Connaughton makes free throw 2 of 2,10:09.0,46-51,Milwaukee,0,0.0
+10475,23,Shooting foul by J. Holiday (drawn by F. VanVleet),9:56.0,46-51,Toronto,0,0.0
+10476,23,F. VanVleet makes free throw 1 of 2,9:56.0,46-52,Toronto,0,0.0
+10477,23,F. VanVleet makes free throw 2 of 2,9:56.0,46-53,Toronto,0,0.0
+10478,23,J. Holiday misses 2-pt layup from 2 ft (block by P. Siakam),9:47.0,46-53,Milwaukee,0,0.0
+10479,23,Offensive rebound by Team,9:47.0,46-53,Milwaukee,0,0.0
+10480,23,P. Connaughton makes 3-pt jump shot from 23 ft (assist by J. Holiday),9:45.0,49-53,Milwaukee,0,0.0
+10481,23,F. VanVleet misses 2-pt layup from 6 ft (block by J. Holiday),9:36.0,49-53,Toronto,0,0.0
+10482,23,Offensive rebound by Team,9:36.0,49-53,Toronto,0,0.0
+10483,23,F. VanVleet makes 3-pt jump shot from 24 ft (assist by G. Trent),9:32.0,49-56,Toronto,0,0.0
+10484,23,Personal foul by F. VanVleet (drawn by J. Holiday),9:18.0,49-56,Milwaukee,0,0.0
+10485,23,Shooting foul by P. Siakam (drawn by B. Portis),9:11.0,49-56,Milwaukee,0,0.0
+10486,23,B. Portis makes free throw 1 of 2,9:11.0,50-56,Milwaukee,0,0.0
+10487,23,B. Portis makes free throw 2 of 2,9:11.0,51-56,Milwaukee,0,0.0
+10488,23,F. VanVleet misses 2-pt jump shot from 16 ft,8:46.0,51-56,Toronto,0,1.0
+10489,23,Defensive rebound by K. Middleton,8:43.0,51-56,Milwaukee,0,0.0
+10490,23,G. Allen misses 3-pt jump shot from 27 ft,8:35.0,51-56,Milwaukee,0,0.0
+10491,23,Defensive rebound by G. Trent,8:32.0,51-56,Toronto,0,0.0
+10492,23,G. Trent misses 2-pt jump shot from 6 ft (block by B. Portis),8:29.0,51-56,Toronto,0,0.0
+10493,23,Offensive rebound by Team,8:29.0,51-56,Toronto,0,0.0
+10494,23,S. Barnes makes 2-pt jump shot from 17 ft,8:15.0,51-58,Toronto,0,0.0
+10495,23,Shooting foul by F. VanVleet (drawn by J. Holiday),7:58.0,51-58,Milwaukee,0,0.0
+10496,23,J. Holiday misses free throw 1 of 2,7:58.0,51-58,Milwaukee,0,0.0
+10497,23,Offensive rebound by Team,7:58.0,51-58,Milwaukee,0,1.0
+10498,23,S. Mamukelashvili enters the game for P. Connaughton,7:58.0,51-58,Milwaukee,1,0.0
+10499,23,J. Holiday makes free throw 2 of 2,7:58.0,52-58,Milwaukee,0,0.0
+10500,23,G. Trent makes 3-pt jump shot from 27 ft (assist by P. Siakam),7:39.0,52-61,Toronto,0,0.0
+10501,23,J. Holiday misses 2-pt jump shot from 20 ft,7:14.0,52-61,Milwaukee,0,0.0
+10502,23,Defensive rebound by G. Trent,7:10.0,52-61,Toronto,0,0.0
+10503,23,P. Siakam misses 3-pt jump shot from 26 ft,7:03.0,52-61,Toronto,0,0.0
+10504,23,Offensive rebound by S. Barnes,7:00.0,52-61,Toronto,0,0.0
+10505,23,P. Achiuwa makes 2-pt jump shot from 10 ft (assist by S. Barnes),6:50.0,52-63,Toronto,0,0.0
+10506,23,Milwaukee full timeout,6:43.0,52-63,Milwaukee,0,0.0
+10507,23,G. Hill enters the game for K. Middleton,6:43.0,52-63,Milwaukee,1,0.0
+10508,23,G. Allen makes 2-pt hook shot from 8 ft,6:23.0,54-63,Milwaukee,0,0.0
+10509,23,F. VanVleet misses 3-pt jump shot from 26 ft,5:59.0,54-63,Toronto,0,0.0
+10510,23,Defensive rebound by J. Holiday,5:56.0,54-63,Milwaukee,0,0.0
+10511,23,S. Mamukelashvili misses 2-pt dunk from 3 ft (block by P. Achiuwa),5:50.0,54-63,Milwaukee,0,1.0
+10512,23,Defensive rebound by S. Barnes,5:46.0,54-63,Toronto,0,0.0
+10513,23,Offensive foul by P. Siakam (drawn by J. Holiday),5:46.0,54-63,Toronto,0,0.0
+10514,23,Turnover by P. Siakam (offensive foul),5:46.0,54-63,Toronto,0,1.0
+10515,23,J. Holiday misses 2-pt jump shot from 11 ft,5:35.0,54-63,Milwaukee,0,0.0
+10516,23,Offensive rebound by S. Mamukelashvili,5:31.0,54-63,Milwaukee,0,0.0
+10517,23,S. Mamukelashvili misses 2-pt layup at rim,5:31.0,54-63,Milwaukee,0,0.0
+10518,23,Offensive rebound by S. Mamukelashvili,5:30.0,54-63,Milwaukee,0,0.0
+10519,23,Turnover by B. Portis (bad pass; steal by S. Barnes),5:21.0,54-63,Milwaukee,0,0.0
+10520,23,Personal take foul by B. Portis (drawn by P. Achiuwa),5:20.0,54-63,Toronto,0,0.0
+10521,23,J. Nwora enters the game for G. Allen,5:20.0,54-63,Milwaukee,1,0.0
+10522,23,Shooting foul by B. Portis (drawn by P. Siakam),5:03.0,54-63,Toronto,0,0.0
+10523,23,P. Siakam makes free throw 1 of 2,5:03.0,54-64,Toronto,0,0.0
+10524,23,T. Antetokounmpo enters the game for B. Portis,5:03.0,54-64,Milwaukee,1,0.0
+10525,23,C. Boucher enters the game for P. Achiuwa,5:03.0,54-64,Toronto,0,0.0
+10526,23,S. Mykhailiuk enters the game for G. Trent,5:03.0,54-64,Toronto,0,0.0
+10527,23,P. Siakam misses free throw 2 of 2,5:03.0,54-64,Toronto,0,0.0
+10528,23,Defensive rebound by S. Mamukelashvili,5:01.0,54-64,Milwaukee,0,0.0
+10529,23,G. Hill misses 3-pt jump shot from 27 ft,4:44.0,54-64,Milwaukee,0,0.0
+10530,23,Offensive rebound by S. Mamukelashvili,4:40.0,54-64,Milwaukee,0,0.0
+10531,23,J. Holiday makes 3-pt jump shot from 26 ft (assist by S. Mamukelashvili),4:34.0,57-64,Milwaukee,0,0.0
+10532,23,Turnover by F. VanVleet (bad pass; steal by T. Antetokounmpo),4:16.0,57-64,Toronto,0,0.0
+10533,23,J. Holiday makes 3-pt jump shot from 26 ft,4:09.0,60-64,Milwaukee,0,0.0
+10534,23,F. VanVleet misses 2-pt jump shot from 5 ft (block by T. Antetokounmpo),3:49.0,60-64,Toronto,0,0.0
+10535,23,Offensive rebound by Team,3:49.0,60-64,Toronto,0,0.0
+10536,23,F. VanVleet makes 3-pt jump shot from 25 ft (assist by S. Mykhailiuk),3:45.0,60-67,Toronto,0,0.0
+10537,23,Turnover by J. Holiday (bad pass),3:34.0,60-67,Milwaukee,0,0.0
+10538,23,S. Barnes misses 2-pt layup from 2 ft,3:20.0,60-67,Toronto,0,0.0
+10539,23,Defensive rebound by S. Mamukelashvili,3:19.0,60-67,Milwaukee,0,0.0
+10540,23,Personal foul by P. Siakam (drawn by G. Hill),3:16.0,60-67,Milwaukee,0,0.0
+10541,23,G. Hill misses free throw 1 of 2,3:16.0,60-67,Milwaukee,0,0.0
+10542,23,Offensive rebound by Team,3:16.0,60-67,Milwaukee,0,0.0
+10543,23,I. Bonga enters the game for P. Siakam,3:16.0,60-67,Toronto,0,1.0
+10544,23,G. Hill makes free throw 2 of 2,3:16.0,61-67,Milwaukee,0,1.0
+10545,23,C. Boucher misses 2-pt layup from 1 ft,2:55.0,61-67,Toronto,0,0.0
+10546,23,Defensive rebound by G. Hill,2:52.0,61-67,Milwaukee,0,0.0
+10547,23,J. Holiday misses 2-pt layup from 5 ft (block by C. Boucher),2:37.0,61-67,Milwaukee,0,0.0
+10548,23,Offensive rebound by J. Nwora,2:33.0,61-67,Milwaukee,0,0.0
+10549,23,S. Mamukelashvili misses 2-pt jump shot from 7 ft,2:31.0,61-67,Milwaukee,0,0.0
+10550,23,Offensive rebound by Team,2:31.0,61-67,Milwaukee,0,0.0
+10551,23,Turnover by Team (shot clock),2:31.0,61-67,Milwaukee,0,0.0
+10552,23,Toronto full timeout,2:31.0,61-67,Toronto,0,0.0
+10553,23,P. Connaughton enters the game for J. Holiday,2:31.0,61-67,Milwaukee,1,0.0
+10554,23,K. Middleton enters the game for S. Mamukelashvili,2:31.0,61-67,Milwaukee,1,0.0
+10555,23,D. Banton enters the game for S. Barnes,2:31.0,61-67,Toronto,0,0.0
+10556,23,C. Boucher misses 3-pt jump shot from 23 ft,2:13.0,61-67,Toronto,0,0.0
+10557,23,Offensive rebound by S. Mykhailiuk,2:10.0,61-67,Toronto,0,0.0
+10558,23,Instant Replay (Request: Ruling Stands),2:04.0,61-67,Toronto,0,0.0
+10559,23,F. VanVleet makes 2-pt jump shot from 22 ft,2:04.0,61-69,Toronto,0,1.0
+10560,23,K. Middleton misses 2-pt jump shot from 13 ft,1:44.0,61-69,Milwaukee,0,0.0
+10561,23,Defensive rebound by F. VanVleet,1:42.0,61-69,Toronto,0,0.0
+10562,23,Turnover by F. VanVleet (lost ball; steal by J. Nwora),1:32.0,61-69,Toronto,0,0.0
+10563,23,Turnover by J. Nwora (bad pass; steal by I. Bonga),1:27.0,61-69,Milwaukee,0,0.0
+10564,23,F. VanVleet misses 3-pt jump shot from 26 ft,1:09.0,61-69,Toronto,0,0.0
+10565,23,Offensive rebound by C. Boucher,1:05.0,61-69,Toronto,0,0.0
+10566,23,C. Boucher makes 2-pt dunk at rim,1:05.0,61-71,Toronto,0,1.0
+10567,23,Personal foul by I. Bonga (drawn by K. Middleton),0:51.0,61-71,Milwaukee,0,0.0
+10568,23,K. Middleton makes free throw 1 of 2,0:51.0,62-71,Milwaukee,0,0.0
+10569,23,B. Portis enters the game for J. Nwora,0:51.0,62-71,Milwaukee,1,0.0
+10570,23,Y. Watanabe enters the game for F. VanVleet,0:51.0,62-71,Toronto,0,0.0
+10571,23,K. Middleton makes free throw 2 of 2,0:51.0,63-71,Milwaukee,0,0.0
+10572,23,C. Boucher makes 2-pt layup from 4 ft (assist by D. Banton),0:37.0,63-73,Toronto,0,0.0
+10573,23,K. Middleton makes 3-pt jump shot from 28 ft,0:31.0,66-73,Milwaukee,0,0.0
+10574,23,C. Boucher misses 2-pt layup at rim,0:22.0,66-73,Toronto,0,0.0
+10575,23,Defensive rebound by T. Antetokounmpo,0:22.0,66-73,Milwaukee,0,0.0
+10576,23,G. Allen enters the game for T. Antetokounmpo,0:22.0,66-73,Milwaukee,1,0.0
+10577,23,P. Achiuwa enters the game for C. Boucher,0:22.0,66-73,Toronto,0,0.0
+10578,23,K. Middleton makes 2-pt jump shot from 14 ft (assist by G. Hill),0:00.0,68-73,Milwaukee,0,0.0
+10579,23,Instant Replay (Request: Ruling Stands),0:00.0,68-73,Milwaukee,0,0.0
+10580,23,P. Siakam misses 2-pt jump shot from 5 ft (block by K. Middleton),11:44.0,68-73,Toronto,0,0.0
+10581,23,Defensive rebound by G. Hill,11:42.0,68-73,Milwaukee,0,0.0
+10582,23,Personal foul by Y. Watanabe (drawn by G. Allen),11:35.0,68-73,Milwaukee,0,0.0
+10583,23,K. Middleton misses 2-pt jump shot from 11 ft,11:24.0,68-73,Milwaukee,0,0.0
+10584,23,Defensive rebound by S. Mykhailiuk,11:22.0,68-73,Toronto,0,0.0
+10585,23,S. Mykhailiuk misses 3-pt jump shot from 26 ft,11:06.0,68-73,Toronto,0,0.0
+10586,23,Offensive rebound by D. Banton,11:03.0,68-73,Toronto,0,1.0
+10587,23,D. Banton misses 2-pt layup at rim,11:03.0,68-73,Toronto,0,0.0
+10588,23,Defensive rebound by Team,11:03.0,68-73,Milwaukee,0,0.0
+10589,23,B. Portis misses 2-pt layup from 5 ft,10:45.0,68-73,Milwaukee,0,0.0
+10590,23,Defensive rebound by S. Mykhailiuk,10:43.0,68-73,Toronto,0,0.0
+10591,23,S. Mykhailiuk makes 2-pt layup from 3 ft,10:39.0,68-75,Toronto,0,0.0
+10592,23,Offensive foul by B. Portis (drawn by P. Siakam),10:25.0,68-75,Milwaukee,0,0.0
+10593,23,Turnover by B. Portis (offensive foul),10:25.0,68-75,Milwaukee,0,0.0
+10594,23,Toronto full timeout,10:25.0,68-75,Toronto,0,0.0
+10595,23,Instant Replay (Challenge: Ruling Stands),10:25.0,68-75,Toronto,0,0.0
+10596,23,J. Holiday enters the game for G. Hill,10:25.0,68-75,Milwaukee,1,0.0
+10597,23,S. Barnes enters the game for Y. Watanabe,10:25.0,68-75,Toronto,0,0.0
+10598,23,P. Siakam misses 2-pt jump shot from 20 ft,10:08.0,68-75,Toronto,0,1.0
+10599,23,Defensive rebound by B. Portis,10:06.0,68-75,Milwaukee,0,0.0
+10600,23,J. Holiday makes 3-pt jump shot from 27 ft,9:51.0,71-75,Milwaukee,0,0.0
+10601,23,S. Mykhailiuk misses 3-pt jump shot from 25 ft,9:34.0,71-75,Toronto,0,0.0
+10602,23,Defensive rebound by J. Holiday,9:33.0,71-75,Milwaukee,0,0.0
+10603,23,P. Connaughton makes 2-pt jump shot from 3 ft (assist by J. Holiday),9:28.0,73-75,Milwaukee,0,0.0
+10604,23,P. Siakam misses 3-pt jump shot from 25 ft,9:05.0,73-75,Toronto,0,0.0
+10605,23,Offensive rebound by P. Achiuwa,9:02.0,73-75,Toronto,0,0.0
+10606,23,P. Achiuwa misses 2-pt layup at rim,9:02.0,73-75,Toronto,0,0.0
+10607,23,Offensive rebound by Team,9:02.0,73-75,Toronto,0,0.0
+10608,23,S. Mamukelashvili enters the game for K. Middleton,9:02.0,73-75,Milwaukee,1,0.0
+10609,23,G. Trent enters the game for D. Banton,9:02.0,73-75,Toronto,0,0.0
+10610,23,F. VanVleet enters the game for S. Mykhailiuk,9:02.0,73-75,Toronto,0,1.0
+10611,23,F. VanVleet makes 3-pt jump shot from 23 ft (assist by S. Barnes),8:55.0,73-78,Toronto,0,1.0
+10612,23,B. Portis misses 3-pt jump shot from 27 ft,8:35.0,73-78,Milwaukee,0,0.0
+10613,23,Defensive rebound by G. Trent,8:32.0,73-78,Toronto,0,0.0
+10614,23,Personal foul by B. Portis (drawn by P. Siakam),8:29.0,73-78,Toronto,0,0.0
+10615,23,F. VanVleet makes 2-pt layup from 1 ft (assist by P. Achiuwa),8:24.0,73-80,Toronto,0,0.0
+10616,23,J. Holiday misses 2-pt jump shot from 10 ft,8:12.0,73-80,Milwaukee,0,0.0
+10617,23,Defensive rebound by F. VanVleet,8:08.0,73-80,Toronto,0,0.0
+10618,23,P. Siakam makes 2-pt layup from 1 ft (assist by F. VanVleet),8:05.0,73-82,Toronto,0,0.0
+10619,23,Milwaukee full timeout,8:04.0,73-82,Milwaukee,0,0.0
+10620,23,G. Hill enters the game for P. Connaughton,8:04.0,73-82,Milwaukee,1,0.0
+10621,23,K. Middleton enters the game for B. Portis,8:04.0,73-82,Milwaukee,1,0.0
+10622,23,K. Middleton makes 2-pt jump shot from 19 ft (assist by G. Hill),7:37.0,75-82,Milwaukee,0,0.0
+10623,23,F. VanVleet makes 2-pt layup from 2 ft,7:21.0,75-84,Toronto,0,0.0
+10624,23,Personal foul by S. Barnes (drawn by K. Middleton),7:08.0,75-84,Milwaukee,0,0.0
+10625,23,K. Middleton makes 3-pt jump shot from 26 ft (assist by J. Holiday),7:02.0,78-84,Milwaukee,0,0.0
+10626,23,Offensive foul by P. Siakam (drawn by G. Hill),6:49.0,78-84,Toronto,0,0.0
+10627,23,Turnover by P. Siakam (offensive foul),6:49.0,78-84,Toronto,0,0.0
+10628,23,Toronto full timeout,6:49.0,78-84,Toronto,0,0.0
+10629,23,Y. Watanabe enters the game for P. Siakam,6:49.0,78-84,Toronto,0,0.0
+10630,23,K. Middleton misses 2-pt jump shot from 23 ft,6:32.0,78-84,Milwaukee,0,0.0
+10631,23,Offensive rebound by Team,6:31.0,78-84,Milwaukee,0,0.0
+10632,23,Loose ball foul by S. Barnes (drawn by S. Mamukelashvili),6:31.0,78-84,Toronto,0,0.0
+10633,23,G. Allen makes 3-pt jump shot from 26 ft (assist by J. Holiday),6:16.0,81-84,Milwaukee,0,1.0
+10634,23,Y. Watanabe makes 3-pt jump shot from 23 ft (assist by F. VanVleet),5:53.0,81-87,Toronto,0,0.0
+10635,23,Violation by Team (kicked ball),5:33.0,81-87,Toronto,0,0.0
+10636,23,S. Mamukelashvili makes 2-pt dunk from 1 ft (assist by J. Holiday),5:23.0,83-87,Milwaukee,0,0.0
+10637,23,F. VanVleet misses 3-pt jump shot from 27 ft,5:07.0,83-87,Toronto,0,0.0
+10638,23,Defensive rebound by K. Middleton,5:05.0,83-87,Milwaukee,0,0.0
+10639,23,Personal foul by Y. Watanabe (drawn by K. Middleton),5:04.0,83-87,Milwaukee,0,0.0
+10640,23,P. Siakam enters the game for Y. Watanabe,5:04.0,83-87,Toronto,0,0.0
+10641,23,Turnover by J. Holiday (lost ball; steal by G. Trent),4:55.0,83-87,Milwaukee,0,0.0
+10642,23,Turnover by P. Siakam (traveling),4:44.0,83-87,Toronto,0,0.0
+10643,23,P. Connaughton enters the game for G. Allen,4:44.0,83-87,Milwaukee,1,0.0
+10644,23,S. Mamukelashvili makes 2-pt layup from 2 ft (assist by K. Middleton),4:34.0,85-87,Milwaukee,0,0.0
+10645,23,G. Trent misses 2-pt jump shot from 20 ft,4:20.0,85-87,Toronto,0,0.0
+10646,23,Offensive rebound by P. Achiuwa,4:17.0,85-87,Toronto,0,0.0
+10647,23,P. Siakam makes 2-pt layup from 2 ft,4:08.0,85-89,Toronto,0,1.0
+10648,23,Turnover by J. Holiday (bad pass; steal by S. Barnes),3:46.0,85-89,Milwaukee,0,1.0
+10649,23,G. Trent misses 3-pt jump shot from 23 ft,3:41.0,85-89,Toronto,0,0.0
+10650,23,Defensive rebound by S. Mamukelashvili,3:38.0,85-89,Milwaukee,0,0.0
+10651,23,K. Middleton misses 2-pt layup from 2 ft,3:29.0,85-89,Milwaukee,0,0.0
+10652,23,Offensive rebound by J. Holiday,3:29.0,85-89,Milwaukee,0,0.0
+10653,23,P. Connaughton misses 3-pt jump shot from 24 ft,3:24.0,85-89,Milwaukee,0,0.0
+10654,23,Defensive rebound by G. Trent,3:22.0,85-89,Toronto,0,0.0
+10655,23,F. VanVleet makes 2-pt layup from 4 ft,3:10.0,85-91,Toronto,0,0.0
+10656,23,Milwaukee full timeout,3:09.0,85-91,Milwaukee,0,0.0
+10657,23,G. Allen enters the game for G. Hill,3:09.0,85-91,Milwaukee,1,0.0
+10658,23,B. Portis enters the game for S. Mamukelashvili,3:09.0,85-91,Milwaukee,1,0.0
+10659,23,Shooting foul by F. VanVleet (drawn by J. Holiday),2:47.0,85-91,Milwaukee,0,0.0
+10660,23,J. Holiday misses free throw 1 of 2,2:47.0,85-91,Milwaukee,0,0.0
+10661,23,Offensive rebound by Team,2:47.0,85-91,Milwaukee,0,0.0
+10662,23,J. Holiday misses free throw 2 of 2,2:47.0,85-91,Milwaukee,0,0.0
+10663,23,Defensive rebound by S. Barnes,2:45.0,85-91,Toronto,0,0.0
+10664,23,G. Trent misses 3-pt jump shot from 27 ft,2:29.0,85-91,Toronto,0,0.0
+10665,23,Offensive rebound by P. Siakam,2:24.0,85-91,Toronto,0,0.0
+10666,23,Personal foul by J. Holiday (drawn by P. Siakam),2:24.0,85-91,Toronto,0,0.0
+10667,23,S. Barnes makes 2-pt jump shot from 6 ft,2:16.0,85-93,Toronto,0,0.0
+10668,23,Turnover by B. Portis (traveling),2:05.0,85-93,Milwaukee,0,0.0
+10669,23,Personal foul by J. Holiday (drawn by F. VanVleet),1:48.0,85-93,Toronto,0,0.0
+10670,23,P. Siakam misses 2-pt jump shot from 16 ft,1:36.0,85-93,Toronto,0,0.0
+10671,23,Offensive rebound by P. Achiuwa,1:34.0,85-93,Toronto,0,0.0
+10672,23,Turnover by G. Trent (out of bounds lost ball),1:29.0,85-93,Toronto,0,0.0
+10673,23,K. Middleton makes 2-pt jump shot from 15 ft,1:13.0,87-93,Milwaukee,0,0.0
+10674,23,P. Siakam misses 2-pt layup from 1 ft,0:55.0,87-93,Toronto,0,0.0
+10675,23,Defensive rebound by K. Middleton,0:53.0,87-93,Milwaukee,0,0.0
+10676,23,J. Holiday misses 2-pt layup from 2 ft (block by P. Achiuwa),0:48.0,87-93,Milwaukee,0,0.0
+10677,23,Defensive rebound by P. Siakam,0:45.0,87-93,Toronto,0,0.0
+10678,23,Offensive foul by P. Siakam (drawn by P. Connaughton),0:42.0,87-93,Toronto,0,0.0
+10679,23,Turnover by P. Siakam (offensive foul),0:42.0,87-93,Toronto,0,0.0
+10680,23,Milwaukee full timeout,0:42.0,87-93,Milwaukee,0,0.0
+10681,23,Instant Replay (Challenge: Ruling Stands),0:42.0,87-93,Milwaukee,0,0.0
+10682,23,Y. Watanabe enters the game for P. Siakam,0:42.0,87-93,Toronto,0,0.0
+10683,23,B. Portis makes 3-pt jump shot from 26 ft (assist by J. Holiday),0:33.0,90-93,Milwaukee,0,0.0
+10684,23,Shooting foul by J. Holiday (drawn by F. VanVleet),0:19.0,90-93,Toronto,0,0.0
+10685,23,F. VanVleet makes free throw 1 of 2,0:19.0,90-94,Toronto,0,0.0
+10686,23,F. VanVleet makes free throw 2 of 2,0:19.0,90-95,Toronto,0,0.0
+10687,23,Milwaukee full timeout,0:19.0,90-95,Milwaukee,0,0.0
+10688,23,Shooting foul by P. Achiuwa (drawn by K. Middleton),0:14.0,90-95,Milwaukee,0,0.0
+10689,23,K. Middleton makes free throw 1 of 3,0:14.0,91-95,Milwaukee,0,0.0
+10690,23,K. Middleton makes free throw 2 of 3,0:14.0,92-95,Milwaukee,0,0.0
+10691,23,K. Middleton misses free throw 3 of 3,0:14.0,92-95,Milwaukee,0,0.0
+10692,23,Offensive rebound by Team,0:13.0,92-95,Milwaukee,0,1.0
+10693,23,Loose ball foul by P. Achiuwa (drawn by B. Portis),0:13.0,92-95,Toronto,0,0.0
+10694,23,B. Portis makes free throw 1 of 2,0:13.0,93-95,Milwaukee,0,0.0
+10695,23,B. Portis misses free throw 2 of 2,0:13.0,93-95,Milwaukee,0,0.0
+10696,23,Offensive rebound by B. Portis,0:11.0,93-95,Milwaukee,0,0.0
+10697,23,P. Connaughton misses 3-pt jump shot from 23 ft,0:06.0,93-95,Milwaukee,0,0.0
+10698,23,Defensive rebound by P. Achiuwa,0:03.0,93-95,Toronto,0,0.0
+10699,23,Personal foul by B. Portis (drawn by P. Achiuwa),0:03.0,93-95,Toronto,0,1.0
+10700,23,P. Achiuwa misses free throw 1 of 2,0:03.0,93-95,Toronto,0,0.0
+10701,23,Offensive rebound by Team,0:03.0,93-95,Toronto,0,0.0
+10702,23,S. Mamukelashvili enters the game for G. Allen,0:03.0,93-95,Milwaukee,1,
+10703,23,P. Achiuwa misses free throw 2 of 2,0:03.0,93-95,Toronto,0,
+10704,23,Offensive rebound by S. Barnes,0:02.0,93-95,Toronto,0,
+10705,23,Personal foul by K. Middleton (drawn by F. VanVleet),0:00.0,93-95,Toronto,0,
+10706,23,F. VanVleet makes free throw 1 of 2,0:00.0,93-96,Toronto,0,
+10707,23,F. VanVleet makes free throw 2 of 2,0:00.0,93-97,Toronto,0,
+10708,23,Milwaukee full timeout,0:00.0,93-97,Milwaukee,0,
+10709,23,G. Allen enters the game for S. Mamukelashvili,0:00.0,93-97,Milwaukee,1,
+10710,23,K. Middleton misses 3-pt jump shot from 27 ft,0:00.0,93-97,Milwaukee,0,
+10711,23,Offensive rebound by Team,0:00.0,93-97,Milwaukee,0,

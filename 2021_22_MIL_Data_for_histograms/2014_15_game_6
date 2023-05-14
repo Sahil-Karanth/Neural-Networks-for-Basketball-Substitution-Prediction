@@ -1,0 +1,500 @@
+,game number,play,time,score,team,current_sub_status,future_sub_status
+2393,6,Shooting foul by T. Antetokounmpo (drawn by L. Walker),11:48.0,0-0,San Antonio,0,0.0
+2394,6,L. Walker misses free throw 1 of 2,11:48.0,0-0,San Antonio,0,0.0
+2395,6,Offensive rebound by Team,11:48.0,0-0,San Antonio,0,0.0
+2396,6,L. Walker makes free throw 2 of 2,11:48.0,1-0,San Antonio,0,0.0
+2397,6,G. Allen misses 3-pt jump shot from 24 ft,11:36.0,1-0,Milwaukee,0,0.0
+2398,6,Defensive rebound by K. Johnson,11:33.0,1-0,San Antonio,0,1.0
+2399,6,K. Johnson misses 2-pt jump shot from 16 ft,11:24.0,1-0,San Antonio,0,0.0
+2400,6,Defensive rebound by T. Antetokounmpo,11:20.0,1-0,Milwaukee,0,0.0
+2401,6,Offensive foul by G. Antetokounmpo (drawn by K. Johnson),11:19.0,1-0,Milwaukee,0,0.0
+2402,6,Turnover by G. Antetokounmpo (offensive foul),11:19.0,1-0,Milwaukee,0,0.0
+2403,6,J. Poeltl makes 2-pt layup from 1 ft (assist by D. Murray),11:08.0,3-0,San Antonio,0,0.0
+2404,6,G. Antetokounmpo makes 2-pt dunk at rim (assist by G. Allen),10:47.0,3-2,Milwaukee,0,0.0
+2405,6,Turnover by L. Walker (bad pass; steal by K. Middleton),10:32.0,3-2,San Antonio,0,0.0
+2406,6,K. Middleton makes 2-pt jump shot from 18 ft (assist by G. Hill),10:12.0,3-4,Milwaukee,0,0.0
+2407,6,San Antonio full timeout,10:12.0,3-4,San Antonio,0,0.0
+2408,6,P. Connaughton enters the game for T. Antetokounmpo,10:12.0,3-4,Milwaukee,1,0.0
+2409,6,K. Johnson misses 3-pt jump shot from 23 ft,9:56.0,3-4,San Antonio,0,0.0
+2410,6,Defensive rebound by P. Connaughton,9:52.0,3-4,Milwaukee,0,0.0
+2411,6,G. Antetokounmpo misses 2-pt layup from 3 ft,9:47.0,3-4,Milwaukee,0,0.0
+2412,6,Defensive rebound by K. Johnson,9:45.0,3-4,San Antonio,0,0.0
+2413,6,D. White makes 2-pt layup from 4 ft (assist by K. Johnson),9:42.0,5-4,San Antonio,0,0.0
+2414,6,Turnover by Team (shot clock),9:15.0,5-4,Milwaukee,0,0.0
+2415,6,D. White misses 3-pt jump shot from 23 ft,8:57.0,5-4,San Antonio,0,0.0
+2416,6,Defensive rebound by G. Hill,8:54.0,5-4,Milwaukee,0,0.0
+2417,6,G. Hill misses 2-pt jump shot from 10 ft,8:40.0,5-4,Milwaukee,0,0.0
+2418,6,Defensive rebound by D. Murray,8:37.0,5-4,San Antonio,0,0.0
+2419,6,D. Murray misses 2-pt jump shot from 14 ft,8:33.0,5-4,San Antonio,0,0.0
+2420,6,Defensive rebound by G. Antetokounmpo,8:30.0,5-4,Milwaukee,0,1.0
+2421,6,G. Allen makes 3-pt jump shot from 23 ft (assist by G. Antetokounmpo),8:17.0,5-7,Milwaukee,0,0.0
+2422,6,D. White makes 3-pt jump shot from 23 ft (assist by L. Walker),8:01.0,8-7,San Antonio,0,0.0
+2423,6,K. Middleton misses 3-pt jump shot from 26 ft,7:51.0,8-7,Milwaukee,0,0.0
+2424,6,Offensive rebound by G. Hill,7:48.0,8-7,Milwaukee,0,0.0
+2425,6,G. Hill misses 2-pt layup from 7 ft,7:37.0,8-7,Milwaukee,0,0.0
+2426,6,Offensive rebound by P. Connaughton,7:34.0,8-7,Milwaukee,0,0.0
+2427,6,P. Connaughton makes 2-pt layup at rim,7:34.0,8-9,Milwaukee,0,0.0
+2428,6,L. Walker makes 3-pt jump shot from 27 ft (assist by D. Murray),7:28.0,11-9,San Antonio,0,0.0
+2429,6,Turnover by G. Antetokounmpo (traveling),7:13.0,11-9,Milwaukee,0,0.0
+2430,6,T. Antetokounmpo enters the game for G. Antetokounmpo,7:13.0,11-9,Milwaukee,1,0.0
+2431,6,D. White makes 2-pt layup from 3 ft (assist by D. Murray),7:02.0,13-9,San Antonio,0,0.0
+2432,6,K. Middleton misses 2-pt jump shot from 12 ft,6:45.0,13-9,Milwaukee,0,1.0
+2433,6,Offensive rebound by G. Hill,6:41.0,13-9,Milwaukee,0,1.0
+2434,6,G. Hill makes 2-pt layup at rim,6:41.0,13-11,Milwaukee,0,0.0
+2435,6,Turnover by L. Walker (bad pass),6:37.0,13-11,San Antonio,0,0.0
+2436,6,D. Eubanks enters the game for J. Poeltl,6:37.0,13-11,San Antonio,0,0.0
+2437,6,T. Antetokounmpo misses 2-pt layup from 4 ft (block by D. Eubanks),6:15.0,13-11,Milwaukee,0,0.0
+2438,6,Defensive rebound by K. Johnson,6:11.0,13-11,San Antonio,0,0.0
+2439,6,D. White makes 3-pt jump shot from 22 ft (assist by L. Walker),6:09.0,16-11,San Antonio,0,0.0
+2440,6,K. Middleton makes 2-pt jump shot from 17 ft,5:51.0,16-13,Milwaukee,0,0.0
+2441,6,D. Vassell enters the game for L. Walker,5:51.0,16-13,San Antonio,0,0.0
+2442,6,J. Nwora enters the game for G. Allen,5:51.0,16-13,Milwaukee,1,0.0
+2443,6,J. Robinson enters the game for G. Hill,5:51.0,16-13,Milwaukee,1,0.0
+2444,6,D. White makes 3-pt jump shot from 23 ft (assist by D. Murray),5:34.0,19-13,San Antonio,0,0.0
+2445,6,K. Middleton makes 2-pt layup from 3 ft,5:22.0,19-15,Milwaukee,0,0.0
+2446,6,D. Murray misses 3-pt jump shot from 23 ft,5:06.0,19-15,San Antonio,0,0.0
+2447,6,Defensive rebound by T. Antetokounmpo,5:04.0,19-15,Milwaukee,0,1.0
+2448,6,J. Nwora misses 3-pt jump shot from 24 ft,4:44.0,19-15,Milwaukee,0,0.0
+2449,6,Defensive rebound by K. Johnson,4:41.0,19-15,San Antonio,0,0.0
+2450,6,K. Johnson makes 2-pt jump shot from 16 ft,4:35.0,21-15,San Antonio,0,0.0
+2451,6,P. Connaughton makes 2-pt jump shot from 11 ft (assist by K. Middleton),4:21.0,21-17,Milwaukee,0,0.0
+2452,6,Shooting foul by J. Robinson (drawn by D. White),4:10.0,21-17,San Antonio,0,0.0
+2453,6,D. White misses free throw 1 of 2,4:10.0,21-17,San Antonio,0,0.0
+2454,6,Offensive rebound by Team,4:10.0,21-17,San Antonio,0,0.0
+2455,6,Milwaukee full timeout,4:10.0,21-17,Milwaukee,0,0.0
+2456,6,B. Forbes enters the game for D. Murray,4:10.0,21-17,San Antonio,0,1.0
+2457,6,R. Hood enters the game for K. Middleton,4:10.0,21-17,Milwaukee,1,0.0
+2458,6,D. White makes free throw 2 of 2,4:10.0,22-17,San Antonio,0,0.0
+2459,6,J. Nwora makes 2-pt jump shot from 11 ft (assist by J. Robinson),3:50.0,22-19,Milwaukee,0,0.0
+2460,6,D. Vassell misses 3-pt jump shot from 27 ft,3:33.0,22-19,San Antonio,0,0.0
+2461,6,Defensive rebound by T. Antetokounmpo,3:31.0,22-19,Milwaukee,0,0.0
+2462,6,Offensive foul by T. Antetokounmpo (drawn by D. Eubanks),3:19.0,22-19,Milwaukee,0,0.0
+2463,6,Turnover by T. Antetokounmpo (offensive foul),3:19.0,22-19,Milwaukee,0,0.0
+2464,6,K. Bates-Diop enters the game for D. Eubanks,3:19.0,22-19,San Antonio,0,0.0
+2465,6,J. Poeltl enters the game for K. Johnson,3:19.0,22-19,San Antonio,0,0.0
+2466,6,G. Antetokounmpo enters the game for T. Antetokounmpo,3:19.0,22-19,Milwaukee,1,0.0
+2467,6,Shooting foul by R. Hood (drawn by B. Forbes),3:07.0,22-19,San Antonio,0,0.0
+2468,6,B. Forbes misses free throw 1 of 2,3:07.0,22-19,San Antonio,0,0.0
+2469,6,Offensive rebound by Team,3:07.0,22-19,San Antonio,0,0.0
+2470,6,B. Forbes makes free throw 2 of 2,3:07.0,23-19,San Antonio,0,0.0
+2471,6,Shooting foul by J. Poeltl (drawn by G. Antetokounmpo),2:51.0,23-19,Milwaukee,0,0.0
+2472,6,G. Antetokounmpo misses free throw 1 of 2,2:51.0,23-19,Milwaukee,0,0.0
+2473,6,Offensive rebound by Team,2:51.0,23-19,Milwaukee,0,0.0
+2474,6,G. Antetokounmpo misses free throw 2 of 2,2:51.0,23-19,Milwaukee,0,0.0
+2475,6,Defensive rebound by D. Vassell,2:48.0,23-19,San Antonio,0,0.0
+2476,6,D. White misses 3-pt jump shot from 27 ft,2:41.0,23-19,San Antonio,0,0.0
+2477,6,Defensive rebound by P. Connaughton,2:38.0,23-19,Milwaukee,0,0.0
+2478,6,Turnover by P. Connaughton (lost ball; steal by K. Bates-Diop),2:28.0,23-19,Milwaukee,0,0.0
+2479,6,Turnover by D. White (bad pass; steal by P. Connaughton),2:21.0,23-19,San Antonio,0,1.0
+2480,6,J. Nwora misses 2-pt jump shot from 11 ft,2:09.0,23-19,Milwaukee,0,0.0
+2481,6,Defensive rebound by J. Poeltl,2:06.0,23-19,San Antonio,0,0.0
+2482,6,B. Forbes misses 2-pt jump shot from 12 ft,2:01.0,23-19,San Antonio,0,0.0
+2483,6,Defensive rebound by G. Antetokounmpo,1:59.0,23-19,Milwaukee,0,0.0
+2484,6,G. Antetokounmpo makes 2-pt jump shot from 17 ft (assist by J. Robinson),1:51.0,23-21,Milwaukee,0,0.0
+2485,6,Offensive foul by J. Poeltl (drawn by P. Connaughton),1:41.0,23-21,San Antonio,0,0.0
+2486,6,Turnover by J. Poeltl (offensive foul),1:41.0,23-21,San Antonio,0,0.0
+2487,6,D. Eubanks enters the game for J. Poeltl,1:41.0,23-21,San Antonio,0,0.0
+2488,6,D. Murray enters the game for D. White,1:41.0,23-21,San Antonio,0,0.0
+2489,6,S. Ojeleye enters the game for P. Connaughton,1:41.0,23-21,Milwaukee,1,0.0
+2490,6,G. Antetokounmpo misses 3-pt jump shot from 27 ft,1:22.0,23-21,Milwaukee,0,0.0
+2491,6,Defensive rebound by Team,1:18.0,23-21,San Antonio,0,0.0
+2492,6,D. Murray misses 2-pt jump shot from 20 ft,1:10.0,23-21,San Antonio,0,0.0
+2493,6,Defensive rebound by S. Ojeleye,1:00.0,23-21,Milwaukee,0,0.0
+2494,6,J. Robinson makes 3-pt jump shot from 26 ft,0:58.0,23-24,Milwaukee,0,0.0
+2495,6,D. Vassell misses 2-pt jump shot from 18 ft,0:45.0,23-24,San Antonio,0,0.0
+2496,6,Defensive rebound by Team,0:45.0,23-24,Milwaukee,0,0.0
+2497,6,G. Antetokounmpo misses 2-pt layup from 3 ft,0:32.0,23-24,Milwaukee,0,0.0
+2498,6,Defensive rebound by D. Vassell,0:29.0,23-24,San Antonio,0,0.0
+2499,6,D. Murray makes 2-pt layup from 10 ft (assist by D. Vassell),0:27.0,25-24,San Antonio,0,0.0
+2500,6,J. Nwora misses 3-pt jump shot from 27 ft,0:08.0,25-24,Milwaukee,0,0.0
+2501,6,Defensive rebound by D. Vassell,0:05.0,25-24,San Antonio,0,0.0
+2502,6,K. Bates-Diop makes 2-pt layup from 4 ft (assist by D. Vassell),0:02.0,27-24,San Antonio,0,0.0
+2503,6,S. Ojeleye misses 3-pt jump shot from 50 ft,0:00.0,27-24,Milwaukee,0,0.0
+2504,6,Offensive rebound by Team,0:00.0,27-24,Milwaukee,0,0.0
+2505,6,G. Antetokounmpo misses 2-pt jump shot from 18 ft,11:40.0,27-24,Milwaukee,0,0.0
+2506,6,Defensive rebound by D. Vassell,11:38.0,27-24,San Antonio,0,0.0
+2507,6,D. Eubanks misses 2-pt layup from 5 ft (block by G. Hill),11:36.0,27-24,San Antonio,0,0.0
+2508,6,Defensive rebound by R. Hood,11:32.0,27-24,Milwaukee,0,0.0
+2509,6,R. Hood makes 3-pt jump shot from 27 ft (assist by G. Antetokounmpo),11:30.0,27-27,Milwaukee,0,0.0
+2510,6,B. Forbes makes 2-pt jump shot from 15 ft (assist by D. Eubanks),11:16.0,29-27,San Antonio,0,0.0
+2511,6,G. Allen misses 3-pt jump shot from 29 ft,10:50.0,29-27,Milwaukee,0,0.0
+2512,6,Defensive rebound by Team,10:49.0,29-27,San Antonio,0,0.0
+2513,6,D. Eubanks makes 2-pt dunk at rim (assist by D. Murray),10:39.0,31-27,San Antonio,0,0.0
+2514,6,Turnover by R. Hood (bad pass; steal by D. Murray),10:19.0,31-27,Milwaukee,0,0.0
+2515,6,B. Forbes misses 3-pt jump shot from 26 ft,10:14.0,31-27,San Antonio,0,0.0
+2516,6,Defensive rebound by G. Allen,10:11.0,31-27,Milwaukee,0,1.0
+2517,6,G. Allen misses 3-pt jump shot from 27 ft,10:03.0,31-27,Milwaukee,0,1.0
+2518,6,Defensive rebound by D. Murray,10:00.0,31-27,San Antonio,0,0.0
+2519,6,D. Vassell misses 3-pt jump shot from 26 ft,9:49.0,31-27,San Antonio,0,0.0
+2520,6,Defensive rebound by G. Antetokounmpo,9:46.0,31-27,Milwaukee,0,0.0
+2521,6,G. Allen misses 3-pt jump shot from 26 ft,9:38.0,31-27,Milwaukee,0,0.0
+2522,6,Defensive rebound by D. Eubanks,9:35.0,31-27,San Antonio,0,0.0
+2523,6,B. Forbes misses 3-pt jump shot from 30 ft,9:31.0,31-27,San Antonio,0,0.0
+2524,6,Defensive rebound by Team,9:30.0,31-27,Milwaukee,0,0.0
+2525,6,L. Walker enters the game for D. Vassell,9:30.0,31-27,San Antonio,0,0.0
+2526,6,T. Antetokounmpo enters the game for G. Antetokounmpo,9:30.0,31-27,Milwaukee,1,0.0
+2527,6,K. Middleton enters the game for R. Hood,9:30.0,31-27,Milwaukee,1,0.0
+2528,6,Turnover by G. Allen (bad pass; steal by K. Bates-Diop),9:16.0,31-27,Milwaukee,0,0.0
+2529,6,L. Walker misses 3-pt jump shot from 26 ft,9:10.0,31-27,San Antonio,0,0.0
+2530,6,Defensive rebound by S. Ojeleye,9:06.0,31-27,Milwaukee,0,0.0
+2531,6,G. Hill makes 2-pt layup from 2 ft,8:48.0,31-29,Milwaukee,0,1.0
+2532,6,D. Eubanks misses 2-pt hook shot from 6 ft,8:34.0,31-29,San Antonio,0,0.0
+2533,6,Defensive rebound by G. Hill,8:32.0,31-29,Milwaukee,0,0.0
+2534,6,T. Antetokounmpo misses 3-pt jump shot from 23 ft,8:15.0,31-29,Milwaukee,0,0.0
+2535,6,Defensive rebound by K. Bates-Diop,8:12.0,31-29,San Antonio,0,0.0
+2536,6,B. Forbes makes 3-pt jump shot from 26 ft (assist by D. Murray),8:08.0,34-29,San Antonio,0,0.0
+2537,6,Personal foul by B. Forbes (drawn by G. Hill),7:51.0,34-29,Milwaukee,0,0.0
+2538,6,K. Johnson enters the game for K. Bates-Diop,7:51.0,34-29,San Antonio,0,0.0
+2539,6,D. White enters the game for D. Eubanks,7:51.0,34-29,San Antonio,0,0.0
+2540,6,T. Young enters the game for B. Forbes,7:51.0,34-29,San Antonio,0,0.0
+2541,6,P. Connaughton enters the game for S. Ojeleye,7:51.0,34-29,Milwaukee,1,0.0
+2542,6,Turnover by T. Antetokounmpo (step out of bounds),7:42.0,34-29,Milwaukee,0,0.0
+2543,6,L. Walker misses 2-pt jump shot from 17 ft,7:28.0,34-29,San Antonio,0,0.0
+2544,6,Defensive rebound by K. Middleton,7:26.0,34-29,Milwaukee,0,0.0
+2545,6,K. Middleton makes 3-pt jump shot from 26 ft,7:21.0,34-32,Milwaukee,0,0.0
+2546,6,Turnover by D. Murray (bad pass; steal by K. Middleton),7:06.0,34-32,San Antonio,0,0.0
+2547,6,G. Hill makes 2-pt dunk from 1 ft (assist by K. Middleton),7:01.0,34-34,Milwaukee,0,0.0
+2548,6,San Antonio full timeout,7:01.0,34-34,San Antonio,0,0.0
+2549,6,T. Jones enters the game for D. Murray,7:01.0,34-34,San Antonio,0,0.0
+2550,6,T. Jones misses 2-pt jump shot from 13 ft,6:40.0,34-34,San Antonio,0,0.0
+2551,6,Offensive rebound by T. Young,6:39.0,34-34,San Antonio,0,0.0
+2552,6,T. Young misses 2-pt layup from 10 ft,6:38.0,34-34,San Antonio,0,0.0
+2553,6,Offensive rebound by T. Young,6:35.0,34-34,San Antonio,0,0.0
+2554,6,T. Young makes 2-pt layup from 3 ft,6:35.0,36-34,San Antonio,0,0.0
+2555,6,K. Middleton misses 3-pt jump shot from 27 ft (block by D. White),6:27.0,36-34,Milwaukee,0,0.0
+2556,6,Offensive rebound by T. Antetokounmpo,6:27.0,36-34,Milwaukee,0,0.0
+2557,6,K. Middleton makes 2-pt layup from 3 ft (assist by T. Antetokounmpo),6:21.0,36-36,Milwaukee,0,0.0
+2558,6,T. Jones makes 2-pt layup from 1 ft (assist by T. Young),6:14.0,38-36,San Antonio,0,0.0
+2559,6,G. Hill misses 3-pt jump shot from 27 ft,5:59.0,38-36,Milwaukee,0,1.0
+2560,6,Defensive rebound by K. Johnson,5:56.0,38-36,San Antonio,0,1.0
+2561,6,K. Johnson misses 2-pt layup from 4 ft,5:46.0,38-36,San Antonio,0,1.0
+2562,6,Defensive rebound by G. Hill,5:44.0,38-36,Milwaukee,0,0.0
+2563,6,T. Antetokounmpo misses 2-pt layup from 3 ft,5:41.0,38-36,Milwaukee,0,0.0
+2564,6,Defensive rebound by D. White,5:37.0,38-36,San Antonio,0,0.0
+2565,6,L. Walker misses 3-pt jump shot from 24 ft,5:25.0,38-36,San Antonio,0,0.0
+2566,6,Defensive rebound by T. Antetokounmpo,5:22.0,38-36,Milwaukee,0,0.0
+2567,6,Shooting foul by T. Jones (drawn by G. Hill),5:19.0,38-36,Milwaukee,0,0.0
+2568,6,G. Hill makes free throw 1 of 2,5:19.0,38-37,Milwaukee,0,0.0
+2569,6,G. Antetokounmpo enters the game for G. Allen,5:19.0,38-37,Milwaukee,1,0.0
+2570,6,J. Nwora enters the game for T. Antetokounmpo,5:19.0,38-37,Milwaukee,1,0.0
+2571,6,S. Ojeleye enters the game for P. Connaughton,5:19.0,38-37,Milwaukee,1,0.0
+2572,6,G. Hill makes free throw 2 of 2,5:19.0,38-38,Milwaukee,0,0.0
+2573,6,T. Jones misses 2-pt layup from 3 ft,4:53.0,38-38,San Antonio,0,0.0
+2574,6,Defensive rebound by G. Antetokounmpo,4:51.0,38-38,Milwaukee,0,0.0
+2575,6,Turnover by G. Antetokounmpo (lost ball; steal by L. Walker),4:48.0,38-38,Milwaukee,0,1.0
+2576,6,L. Walker misses 2-pt layup from 5 ft,4:43.0,38-38,San Antonio,0,0.0
+2577,6,Offensive rebound by T. Young,4:39.0,38-38,San Antonio,0,0.0
+2578,6,T. Young misses 2-pt layup at rim,4:39.0,38-38,San Antonio,0,0.0
+2579,6,Defensive rebound by G. Antetokounmpo,4:38.0,38-38,Milwaukee,0,0.0
+2580,6,S. Ojeleye misses 3-pt jump shot from 24 ft,4:35.0,38-38,Milwaukee,0,0.0
+2581,6,Defensive rebound by Team,4:34.0,38-38,San Antonio,0,0.0
+2582,6,Loose ball foul by G. Antetokounmpo (drawn by K. Johnson),4:34.0,38-38,Milwaukee,0,0.0
+2583,6,D. Murray enters the game for K. Johnson,4:34.0,38-38,San Antonio,0,1.0
+2584,6,D. Vassell enters the game for T. Jones,4:34.0,38-38,San Antonio,0,0.0
+2585,6,J. Robinson enters the game for G. Hill,4:34.0,38-38,Milwaukee,1,0.0
+2586,6,D. Vassell misses 2-pt jump shot from 13 ft,4:22.0,38-38,San Antonio,0,0.0
+2587,6,Defensive rebound by G. Antetokounmpo,4:19.0,38-38,Milwaukee,0,0.0
+2588,6,Turnover by G. Antetokounmpo (lost ball; steal by D. Vassell),4:16.0,38-38,Milwaukee,0,0.0
+2589,6,D. Murray makes 2-pt layup from 2 ft (assist by T. Young),4:14.0,40-38,San Antonio,0,0.0
+2590,6,Shooting foul by S. Ojeleye (drawn by D. Murray),4:14.0,40-38,San Antonio,0,0.0
+2591,6,Milwaukee full timeout,4:14.0,40-38,Milwaukee,0,0.0
+2592,6,K. Johnson enters the game for L. Walker,4:14.0,40-38,San Antonio,0,0.0
+2593,6,R. Hood enters the game for K. Middleton,4:14.0,40-38,Milwaukee,1,0.0
+2594,6,D. Murray makes free throw 1 of 1,4:14.0,41-38,San Antonio,0,0.0
+2595,6,S. Ojeleye misses 3-pt jump shot from 24 ft,4:02.0,41-38,Milwaukee,0,0.0
+2596,6,Defensive rebound by K. Johnson,3:59.0,41-38,San Antonio,0,0.0
+2597,6,D. Vassell misses 3-pt jump shot from 25 ft,3:50.0,41-38,San Antonio,0,0.0
+2598,6,Defensive rebound by S. Ojeleye,3:47.0,41-38,Milwaukee,0,0.0
+2599,6,G. Antetokounmpo makes 2-pt layup from 3 ft (assist by J. Robinson),3:39.0,41-40,Milwaukee,0,0.0
+2600,6,Shooting foul by T. Young (drawn by G. Antetokounmpo),3:39.0,41-40,Milwaukee,0,0.0
+2601,6,B. Forbes enters the game for D. White,3:39.0,41-40,San Antonio,0,0.0
+2602,6,J. Poeltl enters the game for T. Young,3:39.0,41-40,San Antonio,0,0.0
+2603,6,G. Antetokounmpo makes free throw 1 of 1,3:39.0,41-41,Milwaukee,0,0.0
+2604,6,J. Poeltl misses 2-pt layup from 2 ft,3:21.0,41-41,San Antonio,0,0.0
+2605,6,Defensive rebound by J. Nwora,3:18.0,41-41,Milwaukee,0,0.0
+2606,6,J. Nwora misses 3-pt jump shot from 29 ft,3:08.0,41-41,Milwaukee,0,0.0
+2607,6,Defensive rebound by D. Murray,3:03.0,41-41,San Antonio,0,0.0
+2608,6,B. Forbes makes 2-pt layup from 2 ft (assist by D. Murray),2:58.0,43-41,San Antonio,0,0.0
+2609,6,R. Hood misses 2-pt hook shot from 9 ft,2:33.0,43-41,Milwaukee,0,0.0
+2610,6,Defensive rebound by K. Johnson,2:30.0,43-41,San Antonio,0,0.0
+2611,6,Turnover by D. Murray (lost ball; steal by J. Robinson),2:24.0,43-41,San Antonio,0,1.0
+2612,6,Shooting foul by J. Poeltl (drawn by J. Nwora),2:21.0,43-41,Milwaukee,0,0.0
+2613,6,J. Nwora makes free throw 1 of 2,2:21.0,43-42,Milwaukee,0,0.0
+2614,6,D. White enters the game for J. Poeltl,2:21.0,43-42,San Antonio,0,0.0
+2615,6,T. Young enters the game for D. Vassell,2:21.0,43-42,San Antonio,0,0.0
+2616,6,J. Nwora makes free throw 2 of 2,2:21.0,43-43,Milwaukee,0,0.0
+2617,6,D. Murray misses 3-pt jump shot from 27 ft,2:08.0,43-43,San Antonio,0,0.0
+2618,6,Offensive rebound by T. Young,2:06.0,43-43,San Antonio,0,0.0
+2619,6,T. Young misses 2-pt layup at rim,2:06.0,43-43,San Antonio,0,0.0
+2620,6,Defensive rebound by G. Antetokounmpo,2:05.0,43-43,Milwaukee,0,0.0
+2621,6,K. Middleton enters the game for S. Ojeleye,2:05.0,43-43,Milwaukee,1,0.0
+2622,6,Shooting foul by D. Murray (drawn by G. Antetokounmpo),1:55.0,43-43,Milwaukee,0,0.0
+2623,6,G. Antetokounmpo misses free throw 1 of 2,1:55.0,43-43,Milwaukee,0,1.0
+2624,6,Offensive rebound by Team,1:55.0,43-43,Milwaukee,0,0.0
+2625,6,G. Antetokounmpo misses free throw 2 of 2,1:55.0,43-43,Milwaukee,0,0.0
+2626,6,Defensive rebound by K. Johnson,1:52.0,43-43,San Antonio,0,0.0
+2627,6,K. Johnson misses 3-pt jump shot from 27 ft,1:39.0,43-43,San Antonio,0,0.0
+2628,6,Defensive rebound by K. Middleton,1:36.0,43-43,Milwaukee,0,0.0
+2629,6,Turnover by K. Middleton (bad pass; steal by K. Johnson),1:30.0,43-43,Milwaukee,0,0.0
+2630,6,T. Young makes 2-pt layup from 1 ft,1:25.0,45-43,San Antonio,0,0.0
+2631,6,Personal foul by T. Young (drawn by G. Antetokounmpo),1:11.0,45-43,Milwaukee,0,0.0
+2632,6,G. Antetokounmpo makes free throw 1 of 2,1:11.0,45-44,Milwaukee,0,0.0
+2633,6,P. Connaughton enters the game for J. Robinson,1:11.0,45-44,Milwaukee,1,0.0
+2634,6,G. Antetokounmpo makes free throw 2 of 2,1:11.0,45-45,Milwaukee,0,0.0
+2635,6,Shooting foul by P. Connaughton (drawn by D. White),1:02.0,45-45,San Antonio,0,0.0
+2636,6,D. White misses free throw 1 of 2,1:02.0,45-45,San Antonio,0,0.0
+2637,6,Offensive rebound by Team,1:02.0,45-45,San Antonio,0,0.0
+2638,6,D. White misses free throw 2 of 2,1:02.0,45-45,San Antonio,0,0.0
+2639,6,Defensive rebound by G. Antetokounmpo,0:59.0,45-45,Milwaukee,0,0.0
+2640,6,G. Antetokounmpo makes 2-pt dunk from 2 ft,0:50.0,45-47,Milwaukee,0,0.0
+2641,6,B. Forbes misses 2-pt jump shot from 20 ft,0:39.0,45-47,San Antonio,0,0.0
+2642,6,Defensive rebound by P. Connaughton,0:36.0,45-47,Milwaukee,0,0.0
+2643,6,K. Middleton misses 3-pt jump shot from 26 ft,0:31.0,45-47,Milwaukee,0,0.0
+2644,6,Defensive rebound by D. White,0:28.0,45-47,San Antonio,0,0.0
+2645,6,D. Murray misses 2-pt jump shot from 13 ft,0:18.0,45-47,San Antonio,0,0.0
+2646,6,Defensive rebound by R. Hood,0:15.0,45-47,Milwaukee,0,0.0
+2647,6,Turnover by K. Middleton (lost ball; steal by T. Young),0:00.0,45-47,Milwaukee,0,0.0
+2648,6,Def 3 sec tech foul by Team,11:43.0,45-47,Milwaukee,0,0.0
+2649,6,K. Middleton makes technical free throw,11:43.0,45-48,Milwaukee,0,0.0
+2650,6,G. Allen misses 3-pt jump shot from 27 ft,11:33.0,45-48,Milwaukee,0,0.0
+2651,6,Defensive rebound by L. Walker,11:30.0,45-48,San Antonio,0,0.0
+2652,6,Turnover by L. Walker (bad pass; steal by T. Antetokounmpo),11:28.0,45-48,San Antonio,0,0.0
+2653,6,Personal take foul by D. White (drawn by G. Allen),11:28.0,45-48,Milwaukee,0,0.0
+2654,6,K. Middleton misses 2-pt jump shot from 2 ft,11:04.0,45-48,Milwaukee,0,0.0
+2655,6,Defensive rebound by J. Poeltl,11:02.0,45-48,San Antonio,0,0.0
+2656,6,K. Johnson makes 2-pt layup from 3 ft (assist by L. Walker),10:55.0,47-48,San Antonio,0,0.0
+2657,6,Shooting foul by K. Middleton (drawn by K. Johnson),10:55.0,47-48,San Antonio,0,0.0
+2658,6,K. Johnson makes free throw 1 of 1,10:55.0,48-48,San Antonio,0,0.0
+2659,6,G. Hill misses 2-pt layup from 3 ft,10:39.0,48-48,Milwaukee,0,0.0
+2660,6,Defensive rebound by D. Murray,10:36.0,48-48,San Antonio,0,0.0
+2661,6,L. Walker misses 3-pt jump shot from 26 ft,10:33.0,48-48,San Antonio,0,0.0
+2662,6,Defensive rebound by G. Allen,10:30.0,48-48,Milwaukee,0,0.0
+2663,6,G. Antetokounmpo makes 2-pt layup from 1 ft (assist by K. Middleton),10:10.0,48-50,Milwaukee,0,0.0
+2664,6,Violation by Team (delay of game),10:10.0,48-50,Milwaukee,0,0.0
+2665,6,Shooting foul by G. Allen (drawn by D. White),9:58.0,48-50,San Antonio,0,0.0
+2666,6,D. White misses free throw 1 of 2,9:58.0,48-50,San Antonio,0,0.0
+2667,6,Offensive rebound by Team,9:58.0,48-50,San Antonio,0,0.0
+2668,6,D. White makes free throw 2 of 2,9:58.0,49-50,San Antonio,0,0.0
+2669,6,G. Allen misses 2-pt dunk from 4 ft,9:47.0,49-50,Milwaukee,0,0.0
+2670,6,Defensive rebound by D. Murray,9:45.0,49-50,San Antonio,0,0.0
+2671,6,K. Johnson makes 2-pt jump shot from 15 ft (assist by D. Murray),9:37.0,51-50,San Antonio,0,0.0
+2672,6,K. Middleton misses 2-pt jump shot from 9 ft,9:27.0,51-50,Milwaukee,0,0.0
+2673,6,Defensive rebound by L. Walker,9:24.0,51-50,San Antonio,0,0.0
+2674,6,D. Murray makes 2-pt jump shot from 2 ft (assist by K. Johnson),9:17.0,53-50,San Antonio,0,0.0
+2675,6,K. Middleton misses 2-pt jump shot from 15 ft,9:02.0,53-50,Milwaukee,0,0.0
+2676,6,Defensive rebound by J. Poeltl,9:00.0,53-50,San Antonio,0,0.0
+2677,6,D. Murray misses 2-pt layup from 2 ft,8:53.0,53-50,San Antonio,0,1.0
+2678,6,Defensive rebound by G. Allen,8:51.0,53-50,Milwaukee,0,0.0
+2679,6,G. Antetokounmpo makes 2-pt layup from 3 ft,8:44.0,53-52,Milwaukee,0,0.0
+2680,6,L. Walker misses 3-pt jump shot from 27 ft,8:34.0,53-52,San Antonio,0,0.0
+2681,6,Offensive rebound by J. Poeltl,8:28.0,53-52,San Antonio,0,0.0
+2682,6,D. White misses 3-pt jump shot from 27 ft,8:26.0,53-52,San Antonio,0,0.0
+2683,6,Defensive rebound by T. Antetokounmpo,8:21.0,53-52,Milwaukee,0,0.0
+2684,6,K. Middleton makes 2-pt layup from 1 ft,8:11.0,53-54,Milwaukee,0,0.0
+2685,6,San Antonio full timeout,8:10.0,53-54,San Antonio,0,0.0
+2686,6,B. Forbes enters the game for L. Walker,8:10.0,53-54,San Antonio,0,0.0
+2687,6,P. Connaughton enters the game for T. Antetokounmpo,8:10.0,53-54,Milwaukee,1,0.0
+2688,6,B. Forbes misses 2-pt jump shot from 11 ft,7:56.0,53-54,San Antonio,0,0.0
+2689,6,Defensive rebound by G. Allen,7:53.0,53-54,Milwaukee,0,0.0
+2690,6,G. Antetokounmpo misses 3-pt jump shot from 27 ft,7:43.0,53-54,Milwaukee,0,0.0
+2691,6,Offensive rebound by P. Connaughton,7:41.0,53-54,Milwaukee,0,0.0
+2692,6,K. Middleton misses 2-pt jump shot from 12 ft,7:30.0,53-54,Milwaukee,0,0.0
+2693,6,Defensive rebound by K. Johnson,7:28.0,53-54,San Antonio,0,0.0
+2694,6,Turnover by B. Forbes (step out of bounds),7:22.0,53-54,San Antonio,0,0.0
+2695,6,K. Middleton makes 2-pt jump shot from 12 ft,7:01.0,53-56,Milwaukee,0,0.0
+2696,6,D. White misses 3-pt jump shot from 29 ft,6:50.0,53-56,San Antonio,0,0.0
+2697,6,Defensive rebound by Team,6:49.0,53-56,Milwaukee,0,0.0
+2698,6,G. Allen makes 3-pt jump shot from 23 ft (assist by G. Hill),6:35.0,53-59,Milwaukee,0,1.0
+2699,6,K. Johnson misses 2-pt jump shot from 18 ft,6:19.0,53-59,San Antonio,0,0.0
+2700,6,Defensive rebound by P. Connaughton,6:16.0,53-59,Milwaukee,0,0.0
+2701,6,G. Antetokounmpo misses 2-pt jump shot from 6 ft,6:07.0,53-59,Milwaukee,0,0.0
+2702,6,Defensive rebound by K. Johnson,6:04.0,53-59,San Antonio,0,1.0
+2703,6,B. Forbes misses 2-pt jump shot from 16 ft,5:58.0,53-59,San Antonio,0,0.0
+2704,6,Offensive rebound by Team,5:58.0,53-59,San Antonio,0,0.0
+2705,6,Loose ball foul by G. Antetokounmpo (drawn by J. Poeltl),5:58.0,53-59,Milwaukee,0,0.0
+2706,6,K. Bates-Diop enters the game for K. Johnson,5:58.0,53-59,San Antonio,0,0.0
+2707,6,D. Vassell enters the game for D. Murray,5:58.0,53-59,San Antonio,0,0.0
+2708,6,T. Antetokounmpo enters the game for G. Antetokounmpo,5:58.0,53-59,Milwaukee,1,0.0
+2709,6,D. White misses 3-pt jump shot from 28 ft,5:44.0,53-59,San Antonio,0,0.0
+2710,6,Defensive rebound by T. Antetokounmpo,5:41.0,53-59,Milwaukee,0,0.0
+2711,6,T. Young enters the game for J. Poeltl,5:41.0,53-59,San Antonio,0,0.0
+2712,6,J. Nwora enters the game for G. Allen,5:41.0,53-59,Milwaukee,1,0.0
+2713,6,Turnover by K. Middleton (bad pass; steal by B. Forbes),5:30.0,53-59,Milwaukee,0,0.0
+2714,6,B. Forbes makes 2-pt layup from 1 ft,5:25.0,55-59,San Antonio,0,0.0
+2715,6,K. Middleton misses 2-pt jump shot from 14 ft,5:05.0,55-59,Milwaukee,0,1.0
+2716,6,Defensive rebound by Team,5:05.0,55-59,San Antonio,0,1.0
+2717,6,D. Vassell misses 3-pt jump shot from 26 ft,4:48.0,55-59,San Antonio,0,0.0
+2718,6,Defensive rebound by T. Antetokounmpo,4:43.0,55-59,Milwaukee,0,0.0
+2719,6,G. Hill misses 3-pt jump shot from 27 ft,4:21.0,55-59,Milwaukee,0,0.0
+2720,6,Offensive rebound by P. Connaughton,4:19.0,55-59,Milwaukee,0,0.0
+2721,6,J. Nwora makes 2-pt jump shot from 13 ft (assist by P. Connaughton),4:17.0,55-61,Milwaukee,0,0.0
+2722,6,Shooting foul by P. Connaughton (drawn by K. Bates-Diop),4:05.0,55-61,San Antonio,0,0.0
+2723,6,K. Bates-Diop makes free throw 1 of 2,4:05.0,56-61,San Antonio,0,0.0
+2724,6,T. Jones enters the game for D. White,4:05.0,56-61,San Antonio,0,0.0
+2725,6,R. Hood enters the game for G. Hill,4:05.0,56-61,Milwaukee,1,0.0
+2726,6,J. Robinson enters the game for K. Middleton,4:05.0,56-61,Milwaukee,1,1.0
+2727,6,K. Bates-Diop makes free throw 2 of 2,4:05.0,57-61,San Antonio,0,0.0
+2728,6,R. Hood makes 3-pt jump shot from 24 ft (assist by T. Antetokounmpo),3:52.0,57-64,Milwaukee,0,0.0
+2729,6,T. Jones misses 2-pt layup from 3 ft,3:40.0,57-64,San Antonio,0,0.0
+2730,6,Offensive rebound by T. Young,3:35.0,57-64,San Antonio,0,0.0
+2731,6,T. Young makes 2-pt layup from 3 ft,3:33.0,59-64,San Antonio,0,0.0
+2732,6,J. Nwora misses 2-pt jump shot from 15 ft,3:13.0,59-64,Milwaukee,0,0.0
+2733,6,Defensive rebound by T. Young,3:10.0,59-64,San Antonio,0,1.0
+2734,6,T. Young makes 2-pt hook shot from 4 ft (assist by K. Bates-Diop),2:57.0,61-64,San Antonio,0,0.0
+2735,6,Milwaukee full timeout,2:55.0,61-64,Milwaukee,0,0.0
+2736,6,G. Antetokounmpo enters the game for T. Antetokounmpo,2:55.0,61-64,Milwaukee,1,0.0
+2737,6,J. Nwora misses 3-pt jump shot from 23 ft,2:32.0,61-64,Milwaukee,0,0.0
+2738,6,Defensive rebound by T. Jones,2:28.0,61-64,San Antonio,0,0.0
+2739,6,B. Forbes misses 3-pt jump shot from 29 ft (block by P. Connaughton),2:24.0,61-64,San Antonio,0,0.0
+2740,6,Offensive rebound by B. Forbes,2:23.0,61-64,San Antonio,0,0.0
+2741,6,B. Forbes makes 2-pt jump shot from 8 ft,2:22.0,63-64,San Antonio,0,0.0
+2742,6,Violation by Team (kicked ball),2:10.0,63-64,San Antonio,0,0.0
+2743,6,S. Ojeleye enters the game for J. Nwora,2:10.0,63-64,Milwaukee,1,0.0
+2744,6,J. Robinson makes 3-pt jump shot from 27 ft (assist by G. Antetokounmpo),2:01.0,63-67,Milwaukee,0,0.0
+2745,6,T. Young makes 2-pt layup from 3 ft (assist by T. Jones),1:39.0,65-67,San Antonio,0,0.0
+2746,6,R. Hood misses 2-pt layup from 3 ft,1:21.0,65-67,Milwaukee,0,0.0
+2747,6,Defensive rebound by D. Vassell,1:18.0,65-67,San Antonio,0,0.0
+2748,6,D. Murray enters the game for T. Jones,1:18.0,65-67,San Antonio,0,0.0
+2749,6,Shooting foul by G. Antetokounmpo (drawn by D. Vassell),1:10.0,65-67,San Antonio,0,0.0
+2750,6,D. Vassell makes free throw 1 of 2,1:10.0,66-67,San Antonio,0,0.0
+2751,6,D. Vassell makes free throw 2 of 2,1:10.0,67-67,San Antonio,0,0.0
+2752,6,P. Connaughton misses 3-pt jump shot from 23 ft,0:58.0,67-67,Milwaukee,0,0.0
+2753,6,Defensive rebound by K. Bates-Diop,0:55.0,67-67,San Antonio,0,0.0
+2754,6,B. Forbes makes 2-pt jump shot from 13 ft (assist by D. Murray),0:49.0,69-67,San Antonio,0,0.0
+2755,6,S. Ojeleye misses 3-pt jump shot from 25 ft,0:31.0,69-67,Milwaukee,0,0.0
+2756,6,Defensive rebound by T. Young,0:28.0,69-67,San Antonio,0,0.0
+2757,6,B. Forbes misses 2-pt jump shot from 10 ft,0:08.0,69-67,San Antonio,0,0.0
+2758,6,Defensive rebound by G. Antetokounmpo,0:06.0,69-67,Milwaukee,0,0.0
+2759,6,Turnover by G. Antetokounmpo (bad pass; steal by T. Young),0:01.0,69-67,Milwaukee,0,0.0
+2760,6,T. Young misses 3-pt jump shot from 38 ft,0:00.0,69-67,San Antonio,0,0.0
+2761,6,Offensive rebound by Team,0:00.0,69-67,San Antonio,0,0.0
+2762,6,B. Forbes makes 2-pt jump shot from 7 ft,11:45.0,71-67,San Antonio,0,0.0
+2763,6,Turnover by Team (shot clock),11:21.0,71-67,Milwaukee,0,1.0
+2764,6,L. Walker enters the game for D. Vassell,11:21.0,71-67,San Antonio,0,0.0
+2765,6,D. Murray makes 2-pt layup from 1 ft (assist by T. Young),11:10.0,73-67,San Antonio,0,0.0
+2766,6,R. Hood misses 3-pt jump shot from 27 ft,10:45.0,73-67,Milwaukee,0,0.0
+2767,6,Defensive rebound by L. Walker,10:42.0,73-67,San Antonio,0,0.0
+2768,6,D. Murray misses 2-pt jump shot from 17 ft,10:30.0,73-67,San Antonio,0,0.0
+2769,6,Defensive rebound by K. Middleton,10:27.0,73-67,Milwaukee,0,0.0
+2770,6,S. Ojeleye misses 3-pt jump shot from 27 ft,10:20.0,73-67,Milwaukee,0,0.0
+2771,6,Offensive rebound by G. Allen,10:18.0,73-67,Milwaukee,0,0.0
+2772,6,Turnover by G. Hill (bad pass),10:16.0,73-67,Milwaukee,0,0.0
+2773,6,G. Antetokounmpo enters the game for S. Ojeleye,10:16.0,73-67,Milwaukee,1,0.0
+2774,6,L. Walker misses 3-pt jump shot from 27 ft,9:56.0,73-67,San Antonio,0,0.0
+2775,6,Defensive rebound by G. Antetokounmpo,9:53.0,73-67,Milwaukee,0,0.0
+2776,6,K. Middleton misses 3-pt jump shot from 28 ft,9:47.0,73-67,Milwaukee,0,0.0
+2777,6,Defensive rebound by T. Young,9:44.0,73-67,San Antonio,0,0.0
+2778,6,Turnover by L. Walker (lost ball; steal by K. Middleton),9:40.0,73-67,San Antonio,0,1.0
+2779,6,G. Hill makes 2-pt layup from 2 ft (assist by K. Middleton),9:34.0,73-69,Milwaukee,0,0.0
+2780,6,B. Forbes misses 2-pt jump shot from 15 ft,9:12.0,73-69,San Antonio,0,0.0
+2781,6,Defensive rebound by G. Antetokounmpo,9:09.0,73-69,Milwaukee,0,0.0
+2782,6,G. Antetokounmpo misses 3-pt jump shot from 27 ft,9:01.0,73-69,Milwaukee,0,0.0
+2783,6,Defensive rebound by K. Bates-Diop,8:58.0,73-69,San Antonio,0,0.0
+2784,6,San Antonio full timeout,8:57.0,73-69,San Antonio,0,0.0
+2785,6,K. Johnson enters the game for K. Bates-Diop,8:57.0,73-69,San Antonio,0,0.0
+2786,6,J. Poeltl enters the game for B. Forbes,8:57.0,73-69,San Antonio,0,0.0
+2787,6,D. White enters the game for T. Young,8:57.0,73-69,San Antonio,0,0.0
+2788,6,P. Connaughton enters the game for R. Hood,8:57.0,73-69,Milwaukee,1,0.0
+2789,6,J. Poeltl makes 2-pt jump shot from 14 ft (assist by D. White),8:47.0,75-69,San Antonio,0,0.0
+2790,6,G. Antetokounmpo makes 2-pt dunk from 3 ft (assist by P. Connaughton),8:33.0,75-71,Milwaukee,0,1.0
+2791,6,D. White makes 2-pt layup from 3 ft (assist by J. Poeltl),8:21.0,77-71,San Antonio,0,0.0
+2792,6,G. Antetokounmpo makes 2-pt layup from 1 ft,8:04.0,77-73,Milwaukee,0,0.0
+2793,6,K. Johnson misses 3-pt jump shot from 27 ft,7:42.0,77-73,San Antonio,0,0.0
+2794,6,Defensive rebound by G. Antetokounmpo,7:39.0,77-73,Milwaukee,0,0.0
+2795,6,G. Allen misses 2-pt layup from 2 ft (block by K. Johnson),7:21.0,77-73,Milwaukee,0,1.0
+2796,6,Defensive rebound by J. Poeltl,7:16.0,77-73,San Antonio,0,0.0
+2797,6,D. Murray makes 2-pt layup from 2 ft (assist by L. Walker),7:15.0,79-73,San Antonio,0,0.0
+2798,6,B. Forbes enters the game for D. Murray,7:15.0,79-73,San Antonio,0,0.0
+2799,6,D. Vassell enters the game for L. Walker,7:15.0,79-73,San Antonio,0,1.0
+2800,6,T. Antetokounmpo enters the game for G. Antetokounmpo,7:15.0,79-73,Milwaukee,1,0.0
+2801,6,Turnover by K. Middleton (lost ball; steal by J. Poeltl),6:55.0,79-73,Milwaukee,0,0.0
+2802,6,J. Poeltl misses 2-pt jump shot from 5 ft,6:50.0,79-73,San Antonio,0,0.0
+2803,6,Defensive rebound by K. Middleton,6:47.0,79-73,Milwaukee,0,0.0
+2804,6,Personal foul by D. Vassell (drawn by K. Middleton),6:45.0,79-73,Milwaukee,0,0.0
+2805,6,G. Antetokounmpo enters the game for T. Antetokounmpo,6:45.0,79-73,Milwaukee,1,0.0
+2806,6,K. Middleton makes 3-pt jump shot from 27 ft,6:38.0,79-76,Milwaukee,0,0.0
+2807,6,Shooting foul by G. Antetokounmpo (drawn by J. Poeltl),6:25.0,79-76,San Antonio,0,0.0
+2808,6,J. Poeltl makes free throw 1 of 2,6:25.0,80-76,San Antonio,0,0.0
+2809,6,J. Robinson enters the game for G. Hill,6:25.0,80-76,Milwaukee,1,1.0
+2810,6,J. Poeltl makes free throw 2 of 2,6:25.0,81-76,San Antonio,0,1.0
+2811,6,Turnover by J. Robinson (traveling),6:11.0,81-76,Milwaukee,0,0.0
+2812,6,D. White misses 2-pt jump shot from 13 ft,5:57.0,81-76,San Antonio,0,0.0
+2813,6,Defensive rebound by Team,5:57.0,81-76,Milwaukee,0,0.0
+2814,6,K. Middleton misses 2-pt jump shot from 13 ft,5:42.0,81-76,Milwaukee,0,0.0
+2815,6,Defensive rebound by K. Johnson,5:39.0,81-76,San Antonio,0,0.0
+2816,6,K. Johnson makes 2-pt layup from 1 ft (assist by D. White),5:34.0,83-76,San Antonio,0,0.0
+2817,6,Milwaukee full timeout,5:34.0,83-76,Milwaukee,0,0.0
+2818,6,D. Murray enters the game for B. Forbes,5:34.0,83-76,San Antonio,0,0.0
+2819,6,G. Hill enters the game for K. Middleton,5:34.0,83-76,Milwaukee,1,0.0
+2820,6,J. Nwora enters the game for J. Robinson,5:34.0,83-76,Milwaukee,1,0.0
+2821,6,G. Allen makes 3-pt jump shot from 23 ft (assist by P. Connaughton),5:22.0,83-79,Milwaukee,0,0.0
+2822,6,D. Murray misses 2-pt layup from 5 ft,5:11.0,83-79,San Antonio,0,1.0
+2823,6,Offensive rebound by J. Poeltl,5:06.0,83-79,San Antonio,0,0.0
+2824,6,J. Poeltl makes 2-pt layup at rim,5:06.0,85-79,San Antonio,0,0.0
+2825,6,J. Nwora misses 3-pt jump shot from 23 ft,4:54.0,85-79,Milwaukee,0,0.0
+2826,6,Defensive rebound by D. Vassell,4:50.0,85-79,San Antonio,0,0.0
+2827,6,J. Poeltl misses 2-pt jump shot from 12 ft,4:44.0,85-79,San Antonio,0,0.0
+2828,6,Defensive rebound by P. Connaughton,4:41.0,85-79,Milwaukee,0,0.0
+2829,6,Shooting foul by K. Johnson (drawn by G. Antetokounmpo),4:31.0,85-79,Milwaukee,0,0.0
+2830,6,G. Antetokounmpo misses free throw 1 of 2,4:31.0,85-79,Milwaukee,0,0.0
+2831,6,Offensive rebound by Team,4:31.0,85-79,Milwaukee,0,0.0
+2832,6,K. Middleton enters the game for G. Allen,4:31.0,85-79,Milwaukee,1,0.0
+2833,6,G. Antetokounmpo makes free throw 2 of 2,4:31.0,85-80,Milwaukee,0,0.0
+2834,6,K. Johnson misses 3-pt jump shot from 26 ft,4:17.0,85-80,San Antonio,0,0.0
+2835,6,Defensive rebound by K. Middleton,4:13.0,85-80,Milwaukee,0,1.0
+2836,6,P. Connaughton misses 2-pt layup from 1 ft,4:03.0,85-80,Milwaukee,0,0.0
+2837,6,Offensive rebound by P. Connaughton,4:00.0,85-80,Milwaukee,0,0.0
+2838,6,P. Connaughton makes 2-pt layup from 2 ft (assist by G. Hill),3:52.0,85-82,Milwaukee,0,0.0
+2839,6,K. Johnson misses 2-pt layup from 7 ft,3:32.0,85-82,San Antonio,0,0.0
+2840,6,Defensive rebound by G. Antetokounmpo,3:29.0,85-82,Milwaukee,0,0.0
+2841,6,P. Connaughton misses 3-pt jump shot from 27 ft,3:24.0,85-82,Milwaukee,0,0.0
+2842,6,Defensive rebound by D. Vassell,3:24.0,85-82,San Antonio,0,0.0
+2843,6,D. Murray makes 2-pt jump shot from 14 ft,3:17.0,87-82,San Antonio,0,0.0
+2844,6,Milwaukee full timeout,3:15.0,87-82,Milwaukee,0,0.0
+2845,6,G. Allen enters the game for J. Nwora,3:15.0,87-82,Milwaukee,1,0.0
+2846,6,G. Antetokounmpo makes 2-pt layup at rim,3:07.0,87-84,Milwaukee,0,0.0
+2847,6,Shooting foul by J. Poeltl (drawn by G. Antetokounmpo),3:07.0,87-84,Milwaukee,0,0.0
+2848,6,G. Antetokounmpo makes free throw 1 of 1,3:07.0,87-85,Milwaukee,0,0.0
+2849,6,D. Murray makes 2-pt jump shot from 14 ft (assist by D. White),2:53.0,89-85,San Antonio,0,0.0
+2850,6,Turnover by G. Antetokounmpo (traveling),2:37.0,89-85,Milwaukee,0,0.0
+2851,6,K. Johnson makes 3-pt jump shot from 23 ft (assist by D. White),2:22.0,92-85,San Antonio,0,0.0
+2852,6,G. Antetokounmpo makes 2-pt layup from 1 ft,2:00.0,92-87,Milwaukee,0,0.0
+2853,6,D. Murray makes 2-pt layup from 1 ft,1:42.0,94-87,San Antonio,0,0.0
+2854,6,K. Middleton misses 2-pt jump shot from 17 ft,1:27.0,94-87,Milwaukee,0,1.0
+2855,6,Defensive rebound by D. Vassell,1:24.0,94-87,San Antonio,0,0.0
+2856,6,D. Murray makes 3-pt jump shot from 27 ft,1:12.0,97-87,San Antonio,0,0.0
+2857,6,Milwaukee full timeout,1:12.0,97-87,Milwaukee,0,0.0
+2858,6,K. Middleton misses 3-pt jump shot from 26 ft,1:07.0,97-87,Milwaukee,0,1.0
+2859,6,Offensive rebound by P. Connaughton,1:05.0,97-87,Milwaukee,0,0.0
+2860,6,G. Allen makes 3-pt jump shot from 27 ft (assist by K. Middleton),1:02.0,97-90,Milwaukee,0,0.0
+2861,6,Instant Replay (Request: Stands),1:02.0,97-90,Milwaukee,0,0.0
+2862,6,Personal take foul by K. Middleton (drawn by D. Murray),1:02.0,97-90,San Antonio,0,0.0
+2863,6,T. Young enters the game for J. Poeltl,1:02.0,97-90,San Antonio,0,1.0
+2864,6,T. Antetokounmpo enters the game for G. Antetokounmpo,1:02.0,97-90,Milwaukee,1,0.0
+2865,6,Personal take foul by K. Middleton (drawn by D. Vassell),1:01.0,97-90,San Antonio,0,0.0
+2866,6,D. Vassell makes free throw 1 of 2,1:01.0,98-90,San Antonio,0,0.0
+2867,6,J. Poeltl enters the game for T. Young,1:01.0,98-90,San Antonio,0,0.0
+2868,6,G. Antetokounmpo enters the game for T. Antetokounmpo,1:01.0,98-90,Milwaukee,1,0.0
+2869,6,D. Vassell makes free throw 2 of 2,1:01.0,99-90,San Antonio,0,1.0
+2870,6,G. Antetokounmpo makes 2-pt dunk from 2 ft,0:57.0,99-92,Milwaukee,0,0.0
+2871,6,Shooting foul by J. Poeltl (drawn by G. Antetokounmpo),0:57.0,99-92,Milwaukee,0,0.0
+2872,6,T. Young enters the game for J. Poeltl,0:57.0,99-92,San Antonio,0,0.0
+2873,6,T. Antetokounmpo enters the game for G. Allen,0:57.0,99-92,Milwaukee,1,0.0
+2874,6,G. Antetokounmpo makes free throw 1 of 1,0:57.0,99-93,Milwaukee,0,1.0
+2875,6,Personal take foul by K. Middleton (drawn by D. Murray),0:56.0,99-93,San Antonio,0,1.0
+2876,6,D. Murray misses free throw 1 of 2,0:56.0,99-93,San Antonio,0,1.0
+2877,6,Offensive rebound by Team,0:56.0,99-93,San Antonio,0,1.0
+2878,6,J. Poeltl enters the game for T. Young,0:56.0,99-93,San Antonio,0,1.0
+2879,6,G. Allen enters the game for T. Antetokounmpo,0:56.0,99-93,Milwaukee,1,0.0
+2880,6,D. Murray makes free throw 2 of 2,0:56.0,100-93,San Antonio,0,0.0
+2881,6,Turnover by G. Antetokounmpo (bad pass; steal by D. Murray),0:47.0,100-93,Milwaukee,0,0.0
+2882,6,Personal take foul by G. Allen (drawn by D. Murray),0:47.0,100-93,San Antonio,0,
+2883,6,D. Murray makes free throw 1 of 2,0:47.0,101-93,San Antonio,0,
+2884,6,T. Antetokounmpo enters the game for G. Allen,0:47.0,101-93,Milwaukee,1,
+2885,6,G. Kalaitzakis enters the game for G. Antetokounmpo,0:47.0,101-93,Milwaukee,1,
+2886,6,S. Mamukelashvili enters the game for P. Connaughton,0:47.0,101-93,Milwaukee,1,
+2887,6,J. Nwora enters the game for G. Hill,0:47.0,101-93,Milwaukee,1,
+2888,6,J. Robinson enters the game for K. Middleton,0:47.0,101-93,Milwaukee,1,
+2889,6,D. Murray makes free throw 2 of 2,0:47.0,102-93,San Antonio,0,
+2890,6,Turnover by S. Mamukelashvili (bad pass; steal by D. Murray),0:40.0,102-93,Milwaukee,0,
+2891,6,Turnover by Team (shot clock),0:17.0,102-93,San Antonio,0,

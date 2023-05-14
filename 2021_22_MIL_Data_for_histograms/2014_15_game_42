@@ -1,0 +1,498 @@
+,game number,play,time,score,team,current_sub_status,future_sub_status
+18948,42,M. Bridges misses 2-pt layup from 4 ft,11:55.0,0-0,Charlotte,0,0.0
+18949,42,Defensive rebound by G. Antetokounmpo,11:51.0,0-0,Milwaukee,0,0.0
+18950,42,Turnover by J. Nwora (bad pass; steal by T. Rozier),11:36.0,0-0,Milwaukee,0,0.0
+18951,42,M. Bridges makes 2-pt dunk from 5 ft (assist by T. Rozier),11:32.0,0-2,Charlotte,0,0.0
+18952,42,K. Middleton misses 3-pt jump shot from 25 ft,11:15.0,0-2,Milwaukee,0,0.0
+18953,42,Defensive rebound by L. Ball,11:09.0,0-2,Charlotte,0,0.0
+18954,42,M. Plumlee makes 2-pt dunk at rim (assist by L. Ball),11:08.0,0-4,Charlotte,0,0.0
+18955,42,J. Nwora misses 3-pt jump shot from 24 ft,10:47.0,0-4,Milwaukee,0,0.0
+18956,42,Defensive rebound by G. Hayward,10:43.0,0-4,Charlotte,0,0.0
+18957,42,L. Ball misses 3-pt jump shot from 27 ft,10:31.0,0-4,Charlotte,0,0.0
+18958,42,Defensive rebound by B. Portis,10:28.0,0-4,Milwaukee,0,0.0
+18959,42,Shooting foul by M. Plumlee (drawn by G. Antetokounmpo),10:24.0,0-4,Milwaukee,0,0.0
+18960,42,G. Antetokounmpo misses free throw 1 of 2,10:24.0,0-4,Milwaukee,0,0.0
+18961,42,Offensive rebound by Team,10:24.0,0-4,Milwaukee,0,0.0
+18962,42,G. Antetokounmpo makes free throw 2 of 2,10:24.0,1-4,Milwaukee,0,0.0
+18963,42,G. Hayward misses 2-pt jump shot from 8 ft,10:05.0,1-4,Charlotte,0,0.0
+18964,42,Defensive rebound by J. Nwora,10:02.0,1-4,Milwaukee,0,0.0
+18965,42,Personal foul by M. Plumlee (drawn by G. Antetokounmpo),9:56.0,1-4,Milwaukee,0,0.0
+18966,42,P. Washington enters the game for M. Plumlee,9:56.0,1-4,Charlotte,0,0.0
+18967,42,B. Portis makes 2-pt jump shot from 9 ft (assist by K. Middleton),9:47.0,3-4,Milwaukee,0,0.0
+18968,42,T. Rozier makes 2-pt jump shot from 8 ft (assist by L. Ball),9:32.0,3-6,Charlotte,0,0.0
+18969,42,G. Antetokounmpo makes 2-pt dunk from 1 ft (assist by K. Middleton),9:23.0,5-6,Milwaukee,0,0.0
+18970,42,L. Ball misses 2-pt layup from 3 ft,9:00.0,5-6,Charlotte,0,0.0
+18971,42,Defensive rebound by K. Middleton,8:59.0,5-6,Milwaukee,0,0.0
+18972,42,W. Matthews makes 3-pt jump shot from 26 ft (assist by J. Nwora),8:53.0,8-6,Milwaukee,0,0.0
+18973,42,L. Ball misses 3-pt jump shot from 26 ft,8:30.0,8-6,Charlotte,0,0.0
+18974,42,Defensive rebound by B. Portis,8:26.0,8-6,Milwaukee,0,0.0
+18975,42,K. Middleton misses 2-pt jump shot from 9 ft,8:14.0,8-6,Milwaukee,0,0.0
+18976,42,Defensive rebound by P. Washington,8:12.0,8-6,Charlotte,0,0.0
+18977,42,Turnover by T. Rozier (bad pass; steal by W. Matthews),8:01.0,8-6,Charlotte,0,0.0
+18978,42,Personal foul by P. Washington (drawn by G. Antetokounmpo),7:52.0,8-6,Milwaukee,0,0.0
+18979,42,B. Portis misses 3-pt jump shot from 24 ft,7:44.0,8-6,Milwaukee,0,0.0
+18980,42,Offensive rebound by W. Matthews,7:42.0,8-6,Milwaukee,0,0.0
+18981,42,Offensive foul by G. Antetokounmpo (drawn by P. Washington),7:39.0,8-6,Milwaukee,0,0.0
+18982,42,Turnover by G. Antetokounmpo (offensive foul),7:39.0,8-6,Milwaukee,0,0.0
+18983,42,Turnover by L. Ball (bad pass),7:31.0,8-6,Charlotte,0,0.0
+18984,42,K. Middleton makes 3-pt jump shot from 26 ft,7:18.0,11-6,Milwaukee,0,0.0
+18985,42,Shooting foul by P. Washington (drawn by K. Middleton),7:18.0,11-6,Milwaukee,0,1.0
+18986,42,K. Middleton makes free throw 1 of 1,7:18.0,12-6,Milwaukee,0,1.0
+18987,42,M. Bridges makes 3-pt jump shot from 26 ft (assist by T. Rozier),7:04.0,12-9,Charlotte,0,0.0
+18988,42,G. Antetokounmpo makes 3-pt jump shot from 26 ft (assist by K. Middleton),6:51.0,15-9,Milwaukee,0,0.0
+18989,42,M. Bridges makes 3-pt jump shot from 25 ft (assist by L. Ball),6:33.0,15-12,Charlotte,0,0.0
+18990,42,Turnover by B. Portis (lost ball; steal by L. Ball),6:23.0,15-12,Milwaukee,0,0.0
+18991,42,P. Washington misses 2-pt layup from 4 ft,6:18.0,15-12,Charlotte,0,0.0
+18992,42,Defensive rebound by B. Portis,6:15.0,15-12,Milwaukee,0,0.0
+18993,42,W. Matthews makes 3-pt jump shot from 26 ft (assist by B. Portis),6:13.0,18-12,Milwaukee,0,0.0
+18994,42,Charlotte full timeout,6:10.0,18-12,Charlotte,0,0.0
+18995,42,T. Antetokounmpo enters the game for G. Antetokounmpo,6:10.0,18-12,Milwaukee,1,0.0
+18996,42,L. Galloway enters the game for J. Nwora,6:10.0,18-12,Milwaukee,1,0.0
+18997,42,K. Oubre enters the game for T. Rozier,6:10.0,18-12,Charlotte,0,0.0
+18998,42,G. Hayward misses 3-pt jump shot from 24 ft,5:56.0,18-12,Charlotte,0,0.0
+18999,42,Defensive rebound by B. Portis,5:54.0,18-12,Milwaukee,0,0.0
+19000,42,K. Middleton misses 2-pt jump shot from 8 ft (block by K. Oubre),5:37.0,18-12,Milwaukee,0,0.0
+19001,42,Defensive rebound by L. Ball,5:33.0,18-12,Charlotte,0,0.0
+19002,42,Personal foul by T. Antetokounmpo (drawn by L. Ball),5:32.0,18-12,Charlotte,0,0.0
+19003,42,L. Ball makes 2-pt jump shot from 16 ft,5:27.0,18-14,Charlotte,0,1.0
+19004,42,B. Portis makes 2-pt hook shot from 4 ft (assist by L. Galloway),5:08.0,20-14,Milwaukee,0,1.0
+19005,42,K. Oubre misses 3-pt jump shot from 24 ft,4:54.0,20-14,Charlotte,0,0.0
+19006,42,Defensive rebound by B. Portis,4:52.0,20-14,Milwaukee,0,0.0
+19007,42,K. Middleton makes 2-pt layup from 3 ft,4:45.0,22-14,Milwaukee,0,0.0
+19008,42,Violation by Team (delay of game),4:43.0,22-14,Milwaukee,0,0.0
+19009,42,J. McDaniels enters the game for P. Washington,4:43.0,22-14,Charlotte,0,0.0
+19010,42,Turnover by L. Ball (bad pass; steal by T. Antetokounmpo),4:32.0,22-14,Charlotte,0,0.0
+19011,42,B. Portis misses 2-pt jump shot from 9 ft,4:21.0,22-14,Milwaukee,0,0.0
+19012,42,Defensive rebound by M. Bridges,4:19.0,22-14,Charlotte,0,0.0
+19013,42,R. Hood enters the game for W. Matthews,4:19.0,22-14,Milwaukee,1,0.0
+19014,42,S. Mamukelashvili enters the game for B. Portis,4:19.0,22-14,Milwaukee,1,0.0
+19015,42,Shooting foul by T. Antetokounmpo (drawn by K. Oubre),4:07.0,22-14,Charlotte,0,0.0
+19016,42,K. Oubre makes free throw 1 of 2,4:07.0,22-15,Charlotte,0,0.0
+19017,42,K. Oubre makes free throw 2 of 2,4:07.0,22-16,Charlotte,0,0.0
+19018,42,C. Martin enters the game for G. Hayward,4:07.0,22-16,Charlotte,0,0.0
+19019,42,K. Middleton misses 2-pt jump shot from 12 ft,3:57.0,22-16,Milwaukee,0,0.0
+19020,42,Offensive rebound by S. Mamukelashvili,3:56.0,22-16,Milwaukee,0,0.0
+19021,42,S. Mamukelashvili misses 2-pt layup at rim,3:56.0,22-16,Milwaukee,0,0.0
+19022,42,Offensive rebound by S. Mamukelashvili,3:55.0,22-16,Milwaukee,0,1.0
+19023,42,S. Mamukelashvili makes 2-pt layup at rim,3:54.0,24-16,Milwaukee,0,0.0
+19024,42,J. McDaniels misses 3-pt jump shot from 24 ft,3:38.0,24-16,Charlotte,0,0.0
+19025,42,Defensive rebound by S. Mamukelashvili,3:36.0,24-16,Milwaukee,0,0.0
+19026,42,K. Middleton makes 3-pt jump shot from 27 ft (assist by S. Mamukelashvili),3:24.0,27-16,Milwaukee,0,0.0
+19027,42,L. Ball makes 3-pt jump shot from 27 ft (assist by C. Martin),3:05.0,27-19,Charlotte,0,0.0
+19028,42,L. Galloway misses 2-pt layup from 8 ft,2:42.0,27-19,Milwaukee,0,0.0
+19029,42,Offensive rebound by T. Antetokounmpo,2:39.0,27-19,Milwaukee,0,1.0
+19030,42,Shooting foul by K. Oubre (drawn by K. Middleton),2:33.0,27-19,Milwaukee,0,0.0
+19031,42,Milwaukee full timeout,2:33.0,27-19,Milwaukee,0,0.0
+19032,42,G. Antetokounmpo enters the game for T. Antetokounmpo,2:33.0,27-19,Milwaukee,1,0.0
+19033,42,T. Rozier enters the game for L. Ball,2:33.0,27-19,Charlotte,0,0.0
+19034,42,P. Washington enters the game for M. Bridges,2:33.0,27-19,Charlotte,0,0.0
+19035,42,K. Middleton makes free throw 1 of 2,2:33.0,28-19,Milwaukee,0,0.0
+19036,42,K. Middleton makes free throw 2 of 2,2:33.0,29-19,Milwaukee,0,0.0
+19037,42,Shooting foul by S. Mamukelashvili (drawn by J. McDaniels),2:11.0,29-19,Charlotte,0,0.0
+19038,42,J. McDaniels makes free throw 1 of 2,2:11.0,29-20,Charlotte,0,0.0
+19039,42,J. Nwora enters the game for K. Middleton,2:11.0,29-20,Milwaukee,1,0.0
+19040,42,J. McDaniels misses free throw 2 of 2,2:11.0,29-20,Charlotte,0,0.0
+19041,42,Offensive rebound by C. Martin,2:04.0,29-20,Charlotte,0,0.0
+19042,42,K. Oubre misses 3-pt jump shot from 26 ft,2:01.0,29-20,Charlotte,0,0.0
+19043,42,Defensive rebound by G. Antetokounmpo,1:59.0,29-20,Milwaukee,0,0.0
+19044,42,Turnover by G. Antetokounmpo (bad pass; steal by C. Martin),1:44.0,29-20,Milwaukee,0,0.0
+19045,42,C. Martin makes 2-pt layup from 2 ft,1:39.0,29-22,Charlotte,0,0.0
+19046,42,R. Hood misses 3-pt jump shot from 28 ft,1:18.0,29-22,Milwaukee,0,0.0
+19047,42,Defensive rebound by T. Rozier,1:15.0,29-22,Charlotte,0,0.0
+19048,42,T. Rozier misses 2-pt jump shot from 18 ft,1:04.0,29-22,Charlotte,0,0.0
+19049,42,Defensive rebound by J. Nwora,1:02.0,29-22,Milwaukee,0,0.0
+19050,42,J. Nwora misses 3-pt jump shot from 27 ft,0:54.0,29-22,Milwaukee,0,0.0
+19051,42,Defensive rebound by P. Washington,0:52.0,29-22,Charlotte,0,0.0
+19052,42,P. Washington makes 3-pt jump shot from 26 ft (assist by K. Oubre),0:46.0,29-25,Charlotte,0,0.0
+19053,42,R. Hood misses 3-pt jump shot from 26 ft,0:26.0,29-25,Milwaukee,0,0.0
+19054,42,Offensive rebound by L. Galloway,0:22.0,29-25,Milwaukee,0,0.0
+19055,42,J. Nwora misses 2-pt jump shot from 7 ft,0:19.0,29-25,Milwaukee,0,0.0
+19056,42,Defensive rebound by C. Martin,0:14.0,29-25,Charlotte,0,0.0
+19057,42,T. Rozier makes 2-pt layup from 2 ft,0:01.0,29-27,Charlotte,0,0.0
+19058,42,R. Hood misses 3-pt jump shot from 27 ft,11:37.0,29-27,Milwaukee,0,0.0
+19059,42,Offensive rebound by S. Ojeleye,11:34.0,29-27,Milwaukee,0,0.0
+19060,42,J. Nwora misses 2-pt jump shot from 14 ft,11:31.0,29-27,Milwaukee,0,0.0
+19061,42,Defensive rebound by K. Oubre,11:27.0,29-27,Charlotte,0,0.0
+19062,42,J. McDaniels misses 3-pt jump shot from 23 ft,11:12.0,29-27,Charlotte,0,0.0
+19063,42,Defensive rebound by B. Portis,11:08.0,29-27,Milwaukee,0,0.0
+19064,42,B. Portis misses 2-pt jump shot from 13 ft,10:53.0,29-27,Milwaukee,0,0.0
+19065,42,Defensive rebound by Team,10:52.0,29-27,Charlotte,0,0.0
+19066,42,Personal foul by B. Portis (drawn by J. McDaniels),10:40.0,29-27,Charlotte,0,0.0
+19067,42,K. Oubre misses 2-pt layup from 4 ft,10:31.0,29-27,Charlotte,0,0.0
+19068,42,Offensive rebound by Team,10:30.0,29-27,Charlotte,0,0.0
+19069,42,J. McDaniels misses 2-pt jump shot from 20 ft,10:26.0,29-27,Charlotte,0,0.0
+19070,42,Defensive rebound by R. Hood,10:23.0,29-27,Milwaukee,0,1.0
+19071,42,Personal foul by K. Oubre (drawn by G. Antetokounmpo),10:17.0,29-27,Milwaukee,0,0.0
+19072,42,Turnover by B. Portis (lost ball; steal by J. McDaniels),10:06.0,29-27,Milwaukee,0,0.0
+19073,42,Turnover by J. McDaniels (traveling),10:02.0,29-27,Charlotte,0,0.0
+19074,42,G. Antetokounmpo makes 2-pt jump shot from 16 ft,9:51.0,31-27,Milwaukee,0,0.0
+19075,42,T. Rozier makes 3-pt jump shot from 26 ft (assist by J. McDaniels),9:39.0,31-30,Charlotte,0,0.0
+19076,42,G. Antetokounmpo misses 3-pt jump shot from 27 ft,9:27.0,31-30,Milwaukee,0,1.0
+19077,42,Defensive rebound by P. Washington,9:24.0,31-30,Charlotte,0,1.0
+19078,42,T. Rozier makes 3-pt jump shot from 26 ft,9:08.0,31-33,Charlotte,0,0.0
+19079,42,Milwaukee full timeout,9:07.0,31-33,Milwaukee,0,0.0
+19080,42,W. Matthews enters the game for R. Hood,9:07.0,31-33,Milwaukee,1,0.0
+19081,42,W. Matthews misses 3-pt jump shot from 28 ft,8:43.0,31-33,Milwaukee,0,0.0
+19082,42,Offensive rebound by J. Nwora,8:40.0,31-33,Milwaukee,0,0.0
+19083,42,J. Nwora misses 2-pt jump shot from 4 ft,8:38.0,31-33,Milwaukee,0,0.0
+19084,42,Defensive rebound by K. Oubre,8:38.0,31-33,Charlotte,0,0.0
+19085,42,Personal take foul by G. Antetokounmpo (drawn by T. Rozier),8:34.0,31-33,Charlotte,0,0.0
+19086,42,L. Galloway enters the game for G. Antetokounmpo,8:34.0,31-33,Milwaukee,1,0.0
+19087,42,K. Middleton enters the game for J. Nwora,8:34.0,31-33,Milwaukee,1,0.0
+19088,42,T. Rozier misses 3-pt jump shot from 27 ft,8:27.0,31-33,Charlotte,0,0.0
+19089,42,Defensive rebound by S. Ojeleye,8:25.0,31-33,Milwaukee,0,0.0
+19090,42,Turnover by K. Middleton (bad pass; steal by C. Martin),8:15.0,31-33,Milwaukee,0,0.0
+19091,42,K. Oubre makes 2-pt jump shot from 9 ft (assist by J. McDaniels),8:02.0,31-35,Charlotte,0,0.0
+19092,42,L. Galloway misses 3-pt jump shot from 27 ft,7:51.0,31-35,Milwaukee,0,0.0
+19093,42,Defensive rebound by Team,7:51.0,31-35,Charlotte,0,0.0
+19094,42,T. Rozier misses 2-pt layup from 3 ft,7:34.0,31-35,Charlotte,0,0.0
+19095,42,Defensive rebound by S. Ojeleye,7:32.0,31-35,Milwaukee,0,0.0
+19096,42,Offensive foul by K. Middleton (drawn by T. Rozier),7:26.0,31-35,Milwaukee,0,0.0
+19097,42,Turnover by K. Middleton (offensive foul),7:26.0,31-35,Milwaukee,0,0.0
+19098,42,K. Oubre makes 3-pt jump shot from 26 ft (assist by P. Washington),7:12.0,31-38,Charlotte,0,0.0
+19099,42,B. Portis misses 2-pt layup from 3 ft,6:57.0,31-38,Milwaukee,0,0.0
+19100,42,Defensive rebound by K. Oubre,6:55.0,31-38,Charlotte,0,0.0
+19101,42,K. Oubre misses 3-pt jump shot from 27 ft,6:53.0,31-38,Charlotte,0,0.0
+19102,42,Defensive rebound by L. Galloway,6:50.0,31-38,Milwaukee,0,0.0
+19103,42,L. Ball enters the game for T. Rozier,6:50.0,31-38,Charlotte,0,0.0
+19104,42,K. Middleton makes 2-pt jump shot from 14 ft,6:34.0,33-38,Milwaukee,0,0.0
+19105,42,L. Ball misses 2-pt jump shot from 13 ft,6:19.0,33-38,Charlotte,0,0.0
+19106,42,Offensive rebound by J. McDaniels,6:12.0,33-38,Charlotte,0,0.0
+19107,42,J. McDaniels misses 2-pt dunk at rim,6:12.0,33-38,Charlotte,0,0.0
+19108,42,Defensive rebound by L. Galloway,6:11.0,33-38,Milwaukee,0,0.0
+19109,42,K. Middleton makes 3-pt jump shot from 26 ft (assist by L. Galloway),6:09.0,36-38,Milwaukee,0,0.0
+19110,42,Charlotte full timeout,6:09.0,36-38,Charlotte,0,0.0
+19111,42,M. Bridges enters the game for J. McDaniels,6:09.0,36-38,Charlotte,0,0.0
+19112,42,Turnover by P. Washington (bad pass; steal by B. Portis),5:55.0,36-38,Charlotte,0,0.0
+19113,42,K. Middleton misses 3-pt jump shot from 26 ft,5:49.0,36-38,Milwaukee,0,0.0
+19114,42,Defensive rebound by C. Martin,5:47.0,36-38,Charlotte,0,0.0
+19115,42,K. Oubre misses 3-pt jump shot from 26 ft,5:37.0,36-38,Charlotte,0,1.0
+19116,42,Offensive rebound by M. Bridges,5:34.0,36-38,Charlotte,0,1.0
+19117,42,M. Bridges misses 3-pt jump shot from 23 ft,5:32.0,36-38,Charlotte,0,0.0
+19118,42,Defensive rebound by K. Middleton,5:29.0,36-38,Milwaukee,0,0.0
+19119,42,L. Galloway misses 3-pt jump shot from 25 ft,5:20.0,36-38,Milwaukee,0,0.0
+19120,42,Defensive rebound by P. Washington,5:18.0,36-38,Charlotte,0,1.0
+19121,42,K. Oubre makes 2-pt jump shot from 2 ft (assist by L. Ball),5:11.0,36-40,Charlotte,0,0.0
+19122,42,W. Matthews misses 3-pt jump shot from 26 ft,5:02.0,36-40,Milwaukee,0,0.0
+19123,42,Defensive rebound by K. Oubre,4:59.0,36-40,Charlotte,0,0.0
+19124,42,Turnover by C. Martin (bad pass),4:50.0,36-40,Charlotte,0,0.0
+19125,42,G. Antetokounmpo enters the game for S. Ojeleye,4:50.0,36-40,Milwaukee,1,0.0
+19126,42,S. Mamukelashvili enters the game for B. Portis,4:50.0,36-40,Milwaukee,1,0.0
+19127,42,W. Matthews makes 3-pt jump shot from 23 ft (assist by K. Middleton),4:34.0,39-40,Milwaukee,0,0.0
+19128,42,M. Bridges makes 2-pt layup from 2 ft,4:20.0,39-42,Charlotte,0,0.0
+19129,42,Shooting foul by S. Mamukelashvili (drawn by M. Bridges),4:20.0,39-42,Charlotte,0,0.0
+19130,42,J. Nwora enters the game for K. Middleton,4:20.0,39-42,Milwaukee,1,0.0
+19131,42,M. Bridges misses free throw 1 of 1,4:20.0,39-42,Charlotte,0,0.0
+19132,42,Defensive rebound by G. Antetokounmpo,4:17.0,39-42,Milwaukee,0,0.0
+19133,42,S. Mamukelashvili misses 3-pt jump shot from 26 ft,4:05.0,39-42,Milwaukee,0,0.0
+19134,42,Defensive rebound by Team,4:03.0,39-42,Charlotte,0,0.0
+19135,42,G. Hayward enters the game for K. Oubre,4:03.0,39-42,Charlotte,0,1.0
+19136,42,L. Ball misses 2-pt jump shot from 9 ft,3:50.0,39-42,Charlotte,0,1.0
+19137,42,Offensive rebound by C. Martin,3:48.0,39-42,Charlotte,0,1.0
+19138,42,G. Hayward misses 3-pt jump shot from 26 ft,3:46.0,39-42,Charlotte,0,0.0
+19139,42,Offensive rebound by M. Bridges,3:43.0,39-42,Charlotte,0,0.0
+19140,42,M. Bridges makes 2-pt layup from 1 ft,3:42.0,39-44,Charlotte,0,0.0
+19141,42,W. Matthews misses 3-pt jump shot from 26 ft,3:21.0,39-44,Milwaukee,0,0.0
+19142,42,Defensive rebound by P. Washington,3:19.0,39-44,Charlotte,0,0.0
+19143,42,L. Ball makes 3-pt jump shot from 24 ft (assist by M. Bridges),3:17.0,39-47,Charlotte,0,0.0
+19144,42,Milwaukee full timeout,3:15.0,39-47,Milwaukee,0,0.0
+19145,42,R. Hood enters the game for L. Galloway,3:15.0,39-47,Milwaukee,1,0.0
+19146,42,K. Middleton enters the game for S. Mamukelashvili,3:15.0,39-47,Milwaukee,1,0.0
+19147,42,B. Portis enters the game for W. Matthews,3:15.0,39-47,Milwaukee,1,0.0
+19148,42,G. Antetokounmpo misses 2-pt jump shot from 10 ft,2:55.0,39-47,Milwaukee,0,0.0
+19149,42,Defensive rebound by L. Ball,2:51.0,39-47,Charlotte,0,0.0
+19150,42,L. Ball misses 3-pt jump shot from 27 ft,2:40.0,39-47,Charlotte,0,0.0
+19151,42,Defensive rebound by K. Middleton,2:38.0,39-47,Milwaukee,0,0.0
+19152,42,G. Antetokounmpo misses 2-pt layup from 4 ft,2:30.0,39-47,Milwaukee,0,0.0
+19153,42,Defensive rebound by G. Hayward,2:28.0,39-47,Charlotte,0,0.0
+19154,42,L. Ball misses 2-pt jump shot from 18 ft,2:22.0,39-47,Charlotte,0,0.0
+19155,42,Defensive rebound by K. Middleton,2:20.0,39-47,Milwaukee,0,0.0
+19156,42,Personal foul by L. Ball (drawn by K. Middleton),2:19.0,39-47,Milwaukee,0,0.0
+19157,42,T. Rozier enters the game for L. Ball,2:19.0,39-47,Charlotte,0,0.0
+19158,42,R. Hood misses 2-pt jump shot from 6 ft,2:02.0,39-47,Milwaukee,0,0.0
+19159,42,Defensive rebound by P. Washington,2:01.0,39-47,Charlotte,0,0.0
+19160,42,G. Hayward misses 2-pt layup from 3 ft,1:54.0,39-47,Charlotte,0,0.0
+19161,42,Defensive rebound by B. Portis,1:52.0,39-47,Milwaukee,0,0.0
+19162,42,K. Middleton misses 2-pt jump shot from 9 ft (block by P. Washington),1:44.0,39-47,Milwaukee,0,0.0
+19163,42,Offensive rebound by K. Middleton,1:43.0,39-47,Milwaukee,0,0.0
+19164,42,Personal foul by P. Washington (drawn by K. Middleton),1:43.0,39-47,Milwaukee,0,0.0
+19165,42,J. McDaniels enters the game for P. Washington,1:43.0,39-47,Charlotte,0,0.0
+19166,42,J. Nwora misses 2-pt jump shot from 12 ft,1:36.0,39-47,Milwaukee,0,0.0
+19167,42,Offensive rebound by B. Portis,1:31.0,39-47,Milwaukee,0,0.0
+19168,42,B. Portis makes 2-pt layup from 1 ft,1:29.0,41-47,Milwaukee,0,0.0
+19169,42,Personal foul by B. Portis (drawn by M. Bridges),1:16.0,41-47,Charlotte,0,0.0
+19170,42,G. Hayward misses 3-pt jump shot from 23 ft,1:07.0,41-47,Charlotte,0,0.0
+19171,42,Defensive rebound by K. Middleton,1:04.0,41-47,Milwaukee,0,0.0
+19172,42,R. Hood misses 3-pt jump shot from 23 ft,0:59.0,41-47,Milwaukee,0,0.0
+19173,42,Defensive rebound by G. Hayward,0:57.0,41-47,Charlotte,0,0.0
+19174,42,C. Martin misses 3-pt jump shot from 23 ft,0:49.0,41-47,Charlotte,0,0.0
+19175,42,Defensive rebound by G. Antetokounmpo,0:46.0,41-47,Milwaukee,0,0.0
+19176,42,B. Portis misses 3-pt jump shot from 26 ft,0:32.0,41-47,Milwaukee,0,0.0
+19177,42,Defensive rebound by M. Bridges,0:29.0,41-47,Charlotte,0,0.0
+19178,42,M. Bridges misses 3-pt jump shot from 35 ft,0:06.0,41-47,Charlotte,0,0.0
+19179,42,Offensive rebound by Team,0:06.0,41-47,Charlotte,0,0.0
+19180,42,Turnover by Team (shot clock),0:06.0,41-47,Charlotte,0,0.0
+19181,42,G. Antetokounmpo misses 2-pt dunk from 1 ft,0:00.0,41-47,Milwaukee,0,0.0
+19182,42,Defensive rebound by Team,0:00.0,41-47,Charlotte,0,0.0
+19183,42,J. Nwora misses 3-pt jump shot from 25 ft,11:45.0,41-47,Milwaukee,0,0.0
+19184,42,Defensive rebound by T. Rozier,11:41.0,41-47,Charlotte,0,0.0
+19185,42,M. Plumlee misses 2-pt layup at rim (block by G. Antetokounmpo),11:29.0,41-47,Charlotte,0,0.0
+19186,42,Offensive rebound by M. Plumlee,11:25.0,41-47,Charlotte,0,0.0
+19187,42,T. Rozier makes 3-pt jump shot from 23 ft (assist by M. Plumlee),11:20.0,41-50,Charlotte,0,0.0
+19188,42,Turnover by B. Portis (step out of bounds),11:19.0,41-50,Milwaukee,0,0.0
+19189,42,M. Bridges makes 3-pt jump shot from 25 ft (assist by L. Ball),11:05.0,41-53,Charlotte,0,0.0
+19190,42,G. Antetokounmpo makes 2-pt dunk from 3 ft (assist by K. Middleton),10:53.0,43-53,Milwaukee,0,0.0
+19191,42,Shooting foul by M. Plumlee (drawn by G. Antetokounmpo),10:53.0,43-53,Milwaukee,0,0.0
+19192,42,G. Antetokounmpo makes free throw 1 of 1,10:53.0,44-53,Milwaukee,0,0.0
+19193,42,L. Ball makes 2-pt layup from 2 ft,10:44.0,44-55,Charlotte,0,0.0
+19194,42,Personal foul by L. Ball (drawn by G. Antetokounmpo),10:37.0,44-55,Milwaukee,0,0.0
+19195,42,G. Antetokounmpo misses 2-pt hook shot from 7 ft,10:31.0,44-55,Milwaukee,0,0.0
+19196,42,Defensive rebound by G. Hayward,10:28.0,44-55,Charlotte,0,0.0
+19197,42,M. Bridges misses 3-pt jump shot from 27 ft,10:18.0,44-55,Charlotte,0,0.0
+19198,42,Defensive rebound by G. Antetokounmpo,10:15.0,44-55,Milwaukee,0,0.0
+19199,42,J. Nwora makes 3-pt jump shot from 24 ft (assist by G. Antetokounmpo),10:07.0,47-55,Milwaukee,0,0.0
+19200,42,Shooting foul by J. Nwora (drawn by G. Hayward),10:01.0,47-55,Charlotte,0,0.0
+19201,42,G. Hayward makes free throw 1 of 2,10:01.0,47-56,Charlotte,0,0.0
+19202,42,G. Hayward makes free throw 2 of 2,10:01.0,47-57,Charlotte,0,0.0
+19203,42,Personal foul by M. Plumlee (drawn by G. Antetokounmpo),9:47.0,47-57,Milwaukee,0,0.0
+19204,42,K. Middleton makes 3-pt jump shot from 25 ft (assist by G. Antetokounmpo),9:42.0,50-57,Milwaukee,0,0.0
+19205,42,G. Hayward misses 3-pt jump shot from 27 ft,9:29.0,50-57,Charlotte,0,0.0
+19206,42,Offensive rebound by M. Plumlee,9:24.0,50-57,Charlotte,0,0.0
+19207,42,T. Rozier makes 2-pt jump shot from 14 ft (assist by M. Plumlee),9:18.0,50-59,Charlotte,0,0.0
+19208,42,G. Antetokounmpo misses 2-pt jump shot from 6 ft,9:07.0,50-59,Milwaukee,0,0.0
+19209,42,Offensive rebound by B. Portis,9:07.0,50-59,Milwaukee,0,0.0
+19210,42,B. Portis misses 2-pt layup at rim,9:07.0,50-59,Milwaukee,0,0.0
+19211,42,Offensive rebound by B. Portis,9:07.0,50-59,Milwaukee,0,0.0
+19212,42,Personal foul by L. Ball (drawn by B. Portis),9:07.0,50-59,Milwaukee,0,0.0
+19213,42,K. Middleton misses 2-pt jump shot from 10 ft,8:56.0,50-59,Milwaukee,0,0.0
+19214,42,Defensive rebound by L. Ball,8:54.0,50-59,Charlotte,0,0.0
+19215,42,L. Ball misses 2-pt layup from 3 ft,8:43.0,50-59,Charlotte,0,0.0
+19216,42,Offensive rebound by L. Ball,8:38.0,50-59,Charlotte,0,0.0
+19217,42,L. Ball makes 2-pt layup at rim,8:38.0,50-61,Charlotte,0,0.0
+19218,42,Turnover by K. Middleton (out of bounds lost ball),8:31.0,50-61,Milwaukee,0,0.0
+19219,42,T. Rozier makes 2-pt jump shot from 19 ft (assist by M. Bridges),8:10.0,50-63,Charlotte,0,0.0
+19220,42,Milwaukee full timeout,8:09.0,50-63,Milwaukee,0,0.0
+19221,42,B. Portis makes 2-pt dunk from 2 ft (assist by G. Antetokounmpo),7:51.0,52-63,Milwaukee,0,0.0
+19222,42,L. Ball makes 2-pt layup from 4 ft,7:33.0,52-65,Charlotte,0,0.0
+19223,42,Personal foul by L. Ball (drawn by G. Antetokounmpo),7:25.0,52-65,Milwaukee,0,0.0
+19224,42,G. Antetokounmpo makes free throw 1 of 2,7:25.0,53-65,Milwaukee,0,0.0
+19225,42,K. Oubre enters the game for L. Ball,7:25.0,53-65,Charlotte,0,0.0
+19226,42,G. Antetokounmpo makes free throw 2 of 2,7:25.0,54-65,Milwaukee,0,1.0
+19227,42,G. Hayward makes 3-pt jump shot from 26 ft,7:13.0,54-68,Charlotte,0,1.0
+19228,42,Shooting foul by K. Oubre (drawn by G. Antetokounmpo),7:04.0,54-68,Milwaukee,0,0.0
+19229,42,G. Antetokounmpo makes free throw 1 of 2,7:04.0,55-68,Milwaukee,0,0.0
+19230,42,G. Antetokounmpo makes free throw 2 of 2,7:04.0,56-68,Milwaukee,0,0.0
+19231,42,T. Rozier misses 2-pt dunk from 3 ft (block by J. Nwora),6:54.0,56-68,Charlotte,0,0.0
+19232,42,Defensive rebound by G. Antetokounmpo,6:51.0,56-68,Milwaukee,0,0.0
+19233,42,J. Nwora misses 3-pt jump shot from 23 ft,6:47.0,56-68,Milwaukee,0,1.0
+19234,42,Defensive rebound by T. Rozier,6:45.0,56-68,Charlotte,0,0.0
+19235,42,Personal foul by G. Antetokounmpo (drawn by G. Hayward),6:31.0,56-68,Charlotte,0,0.0
+19236,42,L. Galloway enters the game for G. Antetokounmpo,6:31.0,56-68,Milwaukee,1,0.0
+19237,42,S. Ojeleye enters the game for J. Nwora,6:31.0,56-68,Milwaukee,1,0.0
+19238,42,K. Oubre makes 3-pt jump shot from 25 ft (assist by G. Hayward),6:24.0,56-71,Charlotte,0,0.0
+19239,42,B. Portis makes 3-pt jump shot from 26 ft (assist by L. Galloway),6:10.0,59-71,Milwaukee,0,0.0
+19240,42,G. Hayward makes 2-pt jump shot from 16 ft (assist by K. Oubre),5:53.0,59-73,Charlotte,0,0.0
+19241,42,B. Portis makes 2-pt layup from 2 ft (assist by K. Middleton),5:37.0,61-73,Milwaukee,0,0.0
+19242,42,Charlotte full timeout,5:36.0,61-73,Charlotte,0,0.0
+19243,42,S. Mamukelashvili enters the game for B. Portis,5:36.0,61-73,Milwaukee,1,0.0
+19244,42,P. Washington enters the game for M. Plumlee,5:36.0,61-73,Charlotte,0,0.0
+19245,42,K. Oubre misses 3-pt jump shot from 24 ft,5:22.0,61-73,Charlotte,0,0.0
+19246,42,Offensive rebound by P. Washington,5:18.0,61-73,Charlotte,0,0.0
+19247,42,Personal foul by W. Matthews (drawn by T. Rozier),5:12.0,61-73,Charlotte,0,1.0
+19248,42,M. Bridges misses 2-pt jump shot from 19 ft,4:57.0,61-73,Charlotte,0,0.0
+19249,42,Defensive rebound by L. Galloway,4:54.0,61-73,Milwaukee,0,0.0
+19250,42,K. Middleton makes 2-pt jump shot from 12 ft,4:43.0,63-73,Milwaukee,0,0.0
+19251,42,Turnover by K. Oubre (lost ball; steal by W. Matthews),4:19.0,63-73,Charlotte,0,0.0
+19252,42,L. Galloway misses 2-pt layup from 3 ft (block by G. Hayward),4:17.0,63-73,Milwaukee,0,0.0
+19253,42,Defensive rebound by M. Bridges,4:15.0,63-73,Charlotte,0,0.0
+19254,42,K. Oubre makes 2-pt dunk from 2 ft (assist by T. Rozier),4:10.0,63-75,Charlotte,0,0.0
+19255,42,S. Mamukelashvili makes 2-pt layup from 2 ft,3:46.0,65-75,Milwaukee,0,0.0
+19256,42,Shooting foul by P. Washington (drawn by S. Mamukelashvili),3:46.0,65-75,Milwaukee,0,1.0
+19257,42,R. Hood enters the game for W. Matthews,3:46.0,65-75,Milwaukee,1,0.0
+19258,42,S. Mamukelashvili makes free throw 1 of 1,3:46.0,66-75,Milwaukee,0,0.0
+19259,42,T. Rozier makes 3-pt jump shot from 29 ft,3:25.0,66-78,Charlotte,0,0.0
+19260,42,Turnover by K. Middleton (out of bounds lost ball),3:16.0,66-78,Milwaukee,0,0.0
+19261,42,T. Rozier misses 3-pt jump shot from 29 ft,3:05.0,66-78,Charlotte,0,0.0
+19262,42,Offensive rebound by P. Washington,3:04.0,66-78,Charlotte,0,0.0
+19263,42,Shooting foul by L. Galloway (drawn by P. Washington),3:04.0,66-78,Charlotte,0,0.0
+19264,42,P. Washington misses free throw 1 of 2,3:04.0,66-78,Charlotte,0,0.0
+19265,42,Offensive rebound by Team,3:04.0,66-78,Charlotte,0,0.0
+19266,42,G. Antetokounmpo enters the game for K. Middleton,3:04.0,66-78,Milwaukee,1,0.0
+19267,42,P. Washington makes free throw 2 of 2,3:04.0,66-79,Charlotte,0,0.0
+19268,42,Turnover by R. Hood (bad pass; steal by T. Rozier),2:49.0,66-79,Milwaukee,0,0.0
+19269,42,T. Rozier makes 2-pt layup from 4 ft,2:45.0,66-81,Charlotte,0,0.0
+19270,42,Personal foul by P. Washington (drawn by G. Antetokounmpo),2:34.0,66-81,Milwaukee,0,0.0
+19271,42,G. Antetokounmpo makes free throw 1 of 2,2:34.0,67-81,Milwaukee,0,0.0
+19272,42,J. McDaniels enters the game for P. Washington,2:34.0,67-81,Charlotte,0,0.0
+19273,42,G. Antetokounmpo makes free throw 2 of 2,2:34.0,68-81,Milwaukee,0,1.0
+19274,42,K. Oubre misses 3-pt jump shot from 23 ft,2:20.0,68-81,Charlotte,0,0.0
+19275,42,Defensive rebound by L. Galloway,2:17.0,68-81,Milwaukee,0,0.0
+19276,42,G. Antetokounmpo makes 2-pt dunk from 2 ft,2:08.0,70-81,Milwaukee,0,0.0
+19277,42,M. Bridges misses 2-pt layup from 8 ft (block by R. Hood),1:51.0,70-81,Charlotte,0,0.0
+19278,42,Defensive rebound by L. Galloway,1:47.0,70-81,Milwaukee,0,0.0
+19279,42,L. Galloway misses 3-pt jump shot from 23 ft,1:32.0,70-81,Milwaukee,0,0.0
+19280,42,Defensive rebound by M. Bridges,1:28.0,70-81,Charlotte,0,0.0
+19281,42,J. McDaniels makes 2-pt layup from 3 ft (assist by M. Bridges),1:25.0,70-83,Charlotte,0,0.0
+19282,42,Shooting foul by S. Mamukelashvili (drawn by J. McDaniels),1:25.0,70-83,Charlotte,0,0.0
+19283,42,B. Portis enters the game for L. Galloway,1:25.0,70-83,Milwaukee,1,0.0
+19284,42,M. Plumlee enters the game for M. Bridges,1:25.0,70-83,Charlotte,0,0.0
+19285,42,J. McDaniels makes free throw 1 of 1,1:25.0,70-84,Charlotte,0,0.0
+19286,42,S. Ojeleye misses 2-pt jump shot from 7 ft,1:04.0,70-84,Milwaukee,0,0.0
+19287,42,Defensive rebound by J. McDaniels,1:02.0,70-84,Charlotte,0,0.0
+19288,42,T. Rozier makes 3-pt jump shot from 24 ft (assist by J. McDaniels),0:59.0,70-87,Charlotte,0,0.0
+19289,42,G. Antetokounmpo makes 3-pt jump shot from 25 ft,0:51.0,73-87,Milwaukee,0,0.0
+19290,42,Turnover by T. Rozier (bad pass; steal by B. Portis),0:31.0,73-87,Charlotte,0,0.0
+19291,42,Turnover by G. Antetokounmpo (lost ball; steal by M. Plumlee),0:17.0,73-87,Milwaukee,0,0.0
+19292,42,K. Oubre makes 2-pt dunk from 2 ft (assist by G. Hayward),0:14.0,73-89,Charlotte,0,0.0
+19293,42,B. Portis makes 2-pt jump shot from 11 ft (assist by S. Mamukelashvili),0:03.0,75-89,Milwaukee,0,0.0
+19294,42,K. Oubre misses 3-pt jump shot from 45 ft,0:00.0,75-89,Charlotte,0,0.0
+19295,42,Offensive rebound by Team,0:00.0,75-89,Charlotte,0,0.0
+19296,42,Shooting foul by K. Middleton (drawn by M. Plumlee),11:52.0,75-89,Charlotte,0,0.0
+19297,42,M. Plumlee misses free throw 1 of 2,11:52.0,75-89,Charlotte,0,0.0
+19298,42,Offensive rebound by Team,11:52.0,75-89,Charlotte,0,0.0
+19299,42,M. Plumlee misses free throw 2 of 2,11:52.0,75-89,Charlotte,0,0.0
+19300,42,Defensive rebound by K. Middleton,11:49.0,75-89,Milwaukee,0,0.0
+19301,42,W. Matthews misses 2-pt layup from 3 ft,11:34.0,75-89,Milwaukee,0,0.0
+19302,42,Offensive rebound by G. Antetokounmpo,11:29.0,75-89,Milwaukee,0,0.0
+19303,42,G. Antetokounmpo misses 2-pt layup at rim,11:29.0,75-89,Milwaukee,0,0.0
+19304,42,Defensive rebound by L. Ball,11:28.0,75-89,Charlotte,0,0.0
+19305,42,J. McDaniels misses 3-pt jump shot from 23 ft,11:24.0,75-89,Charlotte,0,0.0
+19306,42,Defensive rebound by G. Antetokounmpo,11:21.0,75-89,Milwaukee,0,0.0
+19307,42,G. Antetokounmpo makes 3-pt jump shot from 26 ft,11:17.0,78-89,Milwaukee,0,0.0
+19308,42,J. McDaniels misses 2-pt jump shot from 11 ft,10:54.0,78-89,Charlotte,0,0.0
+19309,42,Offensive rebound by L. Ball,10:50.0,78-89,Charlotte,0,0.0
+19310,42,M. Plumlee makes 2-pt dunk from 1 ft (assist by C. Martin),10:39.0,78-91,Charlotte,0,0.0
+19311,42,B. Portis misses 2-pt jump shot from 9 ft,10:25.0,78-91,Milwaukee,0,0.0
+19312,42,Defensive rebound by L. Ball,10:22.0,78-91,Charlotte,0,1.0
+19313,42,L. Ball makes 2-pt jump shot from 6 ft,10:15.0,78-93,Charlotte,0,0.0
+19314,42,Personal foul by J. McDaniels (drawn by W. Matthews),10:02.0,78-93,Milwaukee,0,0.0
+19315,42,Turnover by K. Middleton (lost ball; steal by K. Oubre),9:54.0,78-93,Milwaukee,0,0.0
+19316,42,K. Oubre misses 3-pt jump shot from 26 ft,9:42.0,78-93,Charlotte,0,0.0
+19317,42,Defensive rebound by B. Portis,9:39.0,78-93,Milwaukee,0,0.0
+19318,42,G. Antetokounmpo misses 3-pt jump shot from 26 ft,9:33.0,78-93,Milwaukee,0,1.0
+19319,42,Defensive rebound by L. Ball,9:30.0,78-93,Charlotte,0,0.0
+19320,42,J. McDaniels misses 3-pt jump shot from 26 ft,9:23.0,78-93,Charlotte,0,0.0
+19321,42,Defensive rebound by Team,9:21.0,78-93,Milwaukee,0,0.0
+19322,42,J. Nwora enters the game for G. Antetokounmpo,9:21.0,78-93,Milwaukee,1,0.0
+19323,42,B. Portis makes 2-pt hook shot from 5 ft (assist by W. Matthews),9:12.0,80-93,Milwaukee,0,0.0
+19324,42,L. Ball misses 3-pt jump shot from 29 ft,9:01.0,80-93,Charlotte,0,0.0
+19325,42,Defensive rebound by K. Middleton,8:56.0,80-93,Milwaukee,0,0.0
+19326,42,B. Portis makes 2-pt layup from 1 ft (assist by K. Middleton),8:54.0,82-93,Milwaukee,0,0.0
+19327,42,Charlotte full timeout,8:53.0,82-93,Charlotte,0,0.0
+19328,42,G. Antetokounmpo enters the game for R. Hood,8:53.0,82-93,Milwaukee,1,0.0
+19329,42,M. Bridges enters the game for J. McDaniels,8:53.0,82-93,Charlotte,0,0.0
+19330,42,G. Hayward enters the game for M. Plumlee,8:53.0,82-93,Charlotte,0,0.0
+19331,42,G. Hayward makes 2-pt jump shot from 15 ft (assist by C. Martin),8:36.0,82-95,Charlotte,0,0.0
+19332,42,Shooting foul by M. Bridges (drawn by G. Antetokounmpo),8:23.0,82-95,Milwaukee,0,0.0
+19333,42,G. Antetokounmpo misses free throw 1 of 2,8:23.0,82-95,Milwaukee,0,0.0
+19334,42,Offensive rebound by Team,8:23.0,82-95,Milwaukee,0,1.0
+19335,42,G. Antetokounmpo makes free throw 2 of 2,8:23.0,83-95,Milwaukee,0,0.0
+19336,42,M. Bridges misses 3-pt jump shot from 27 ft,8:09.0,83-95,Charlotte,0,0.0
+19337,42,Offensive rebound by C. Martin,8:05.0,83-95,Charlotte,0,0.0
+19338,42,K. Oubre makes 2-pt dunk from 2 ft (assist by L. Ball),7:58.0,83-97,Charlotte,0,0.0
+19339,42,G. Antetokounmpo makes 2-pt jump shot from 8 ft (assist by K. Middleton),7:42.0,85-97,Milwaukee,0,0.0
+19340,42,Personal foul by B. Portis (drawn by C. Martin),7:34.0,85-97,Charlotte,0,0.0
+19341,42,M. Bridges makes 2-pt dunk from 1 ft (assist by L. Ball),7:27.0,85-99,Charlotte,0,0.0
+19342,42,Shooting foul by G. Hayward (drawn by K. Middleton),7:14.0,85-99,Milwaukee,0,1.0
+19343,42,K. Middleton makes free throw 1 of 2,7:14.0,86-99,Milwaukee,0,1.0
+19344,42,S. Mamukelashvili enters the game for B. Portis,7:14.0,86-99,Milwaukee,1,0.0
+19345,42,K. Middleton makes free throw 2 of 2,7:14.0,87-99,Milwaukee,0,0.0
+19346,42,G. Hayward misses 2-pt layup from 3 ft (block by G. Antetokounmpo),6:52.0,87-99,Charlotte,0,0.0
+19347,42,Offensive rebound by Team,6:52.0,87-99,Charlotte,0,0.0
+19348,42,K. Oubre misses 3-pt jump shot from 29 ft,6:48.0,87-99,Charlotte,0,0.0
+19349,42,Defensive rebound by Team,6:47.0,87-99,Milwaukee,0,0.0
+19350,42,G. Antetokounmpo makes 2-pt dunk from 2 ft (assist by K. Middleton),6:31.0,89-99,Milwaukee,0,0.0
+19351,42,Charlotte full timeout,6:30.0,89-99,Charlotte,0,0.0
+19352,42,R. Hood enters the game for S. Mamukelashvili,6:30.0,89-99,Milwaukee,1,0.0
+19353,42,B. Portis enters the game for K. Middleton,6:30.0,89-99,Milwaukee,1,0.0
+19354,42,T. Rozier enters the game for C. Martin,6:30.0,89-99,Charlotte,0,0.0
+19355,42,P. Washington enters the game for K. Oubre,6:30.0,89-99,Charlotte,0,0.0
+19356,42,G. Hayward misses 3-pt jump shot from 27 ft,6:10.0,89-99,Charlotte,0,0.0
+19357,42,Defensive rebound by Team,6:08.0,89-99,Milwaukee,0,1.0
+19358,42,Loose ball foul by L. Ball (drawn by G. Antetokounmpo),6:08.0,89-99,Charlotte,0,0.0
+19359,42,C. Martin enters the game for L. Ball,6:08.0,89-99,Charlotte,0,0.0
+19360,42,W. Matthews misses 2-pt jump shot from 8 ft,5:57.0,89-99,Milwaukee,0,0.0
+19361,42,Defensive rebound by M. Bridges,5:53.0,89-99,Charlotte,0,0.0
+19362,42,M. Bridges makes 2-pt jump shot from 6 ft (assist by C. Martin),5:47.0,89-101,Charlotte,0,0.0
+19363,42,W. Matthews misses 3-pt jump shot from 23 ft,5:32.0,89-101,Milwaukee,0,0.0
+19364,42,Defensive rebound by G. Hayward,5:29.0,89-101,Charlotte,0,0.0
+19365,42,P. Washington makes 3-pt jump shot from 26 ft (assist by T. Rozier),5:18.0,89-104,Charlotte,0,0.0
+19366,42,Milwaukee full timeout,5:16.0,89-104,Milwaukee,0,0.0
+19367,42,K. Middleton enters the game for R. Hood,5:16.0,89-104,Milwaukee,1,0.0
+19368,42,Shooting foul by P. Washington (drawn by G. Antetokounmpo),4:57.0,89-104,Milwaukee,0,0.0
+19369,42,M. Plumlee enters the game for P. Washington,4:57.0,89-104,Charlotte,0,0.0
+19370,42,G. Antetokounmpo makes free throw 1 of 2,4:57.0,90-104,Milwaukee,0,0.0
+19371,42,G. Antetokounmpo makes free throw 2 of 2,4:57.0,91-104,Milwaukee,0,0.0
+19372,42,G. Hayward misses 2-pt jump shot from 13 ft,4:33.0,91-104,Charlotte,0,0.0
+19373,42,Defensive rebound by G. Antetokounmpo,4:31.0,91-104,Milwaukee,0,0.0
+19374,42,Personal foul by C. Martin (drawn by G. Antetokounmpo),4:19.0,91-104,Milwaukee,0,0.0
+19375,42,G. Antetokounmpo makes free throw 1 of 2,4:19.0,92-104,Milwaukee,0,0.0
+19376,42,G. Antetokounmpo makes free throw 2 of 2,4:19.0,93-104,Milwaukee,0,0.0
+19377,42,T. Rozier misses 3-pt jump shot from 26 ft,3:55.0,93-104,Charlotte,0,0.0
+19378,42,Defensive rebound by K. Middleton,3:53.0,93-104,Milwaukee,0,0.0
+19379,42,Turnover by K. Middleton (bad pass; steal by M. Bridges),3:50.0,93-104,Milwaukee,0,0.0
+19380,42,Shooting foul by G. Antetokounmpo (drawn by C. Martin),3:46.0,93-104,Charlotte,0,0.0
+19381,42,C. Martin makes free throw 1 of 2,3:46.0,93-105,Charlotte,0,0.0
+19382,42,C. Martin makes free throw 2 of 2,3:46.0,93-106,Charlotte,0,0.0
+19383,42,J. Nwora misses 3-pt jump shot from 26 ft,3:37.0,93-106,Milwaukee,0,0.0
+19384,42,Defensive rebound by C. Martin,3:34.0,93-106,Charlotte,0,0.0
+19385,42,T. Rozier misses 2-pt jump shot from 3 ft,3:18.0,93-106,Charlotte,0,0.0
+19386,42,Offensive rebound by M. Plumlee,3:17.0,93-106,Charlotte,0,0.0
+19387,42,T. Rozier misses 3-pt jump shot from 25 ft,3:09.0,93-106,Charlotte,0,0.0
+19388,42,Defensive rebound by K. Middleton,3:05.0,93-106,Milwaukee,0,0.0
+19389,42,K. Middleton makes 2-pt layup from 2 ft,2:59.0,95-106,Milwaukee,0,0.0
+19390,42,Turnover by G. Hayward (lost ball; steal by G. Antetokounmpo),2:42.0,95-106,Charlotte,0,0.0
+19391,42,Personal foul by M. Bridges (drawn by G. Antetokounmpo),2:36.0,95-106,Milwaukee,0,0.0
+19392,42,G. Antetokounmpo makes free throw 1 of 2,2:36.0,96-106,Milwaukee,0,0.0
+19393,42,L. Ball enters the game for C. Martin,2:36.0,96-106,Charlotte,0,0.0
+19394,42,G. Antetokounmpo makes free throw 2 of 2,2:36.0,97-106,Milwaukee,0,0.0
+19395,42,Turnover by M. Plumlee (bad pass),2:18.0,97-106,Charlotte,0,0.0
+19396,42,C. Martin enters the game for L. Ball,2:18.0,97-106,Charlotte,0,0.0
+19397,42,G. Antetokounmpo makes 2-pt layup from 5 ft (assist by J. Nwora),2:10.0,99-106,Milwaukee,0,0.0
+19398,42,Shooting foul by M. Plumlee (drawn by G. Antetokounmpo),2:10.0,99-106,Milwaukee,0,0.0
+19399,42,L. Ball enters the game for C. Martin,2:10.0,99-106,Charlotte,0,0.0
+19400,42,G. Antetokounmpo makes free throw 1 of 1,2:10.0,100-106,Milwaukee,0,0.0
+19401,42,L. Ball makes 2-pt layup from 3 ft,1:53.0,100-108,Charlotte,0,0.0
+19402,42,K. Middleton misses 2-pt jump shot from 8 ft,1:44.0,100-108,Milwaukee,0,0.0
+19403,42,Offensive rebound by G. Antetokounmpo,1:42.0,100-108,Milwaukee,0,0.0
+19404,42,G. Antetokounmpo makes 2-pt layup from 3 ft,1:40.0,102-108,Milwaukee,0,0.0
+19405,42,L. Ball misses 3-pt jump shot from 29 ft,1:24.0,102-108,Charlotte,0,0.0
+19406,42,Defensive rebound by B. Portis,1:20.0,102-108,Milwaukee,0,0.0
+19407,42,Turnover by B. Portis (lost ball; steal by M. Plumlee),1:20.0,102-108,Milwaukee,0,0.0
+19408,42,L. Ball misses 2-pt layup from 3 ft,1:07.0,102-108,Charlotte,0,0.0
+19409,42,Defensive rebound by Team,1:06.0,102-108,Milwaukee,0,0.0
+19410,42,C. Martin enters the game for L. Ball,1:06.0,102-108,Charlotte,0,0.0
+19411,42,K. Middleton makes 2-pt jump shot from 12 ft,0:56.0,104-108,Milwaukee,0,0.0
+19412,42,Charlotte full timeout,0:47.0,104-108,Charlotte,0,0.0
+19413,42,L. Ball enters the game for C. Martin,0:47.0,104-108,Charlotte,0,0.0
+19414,42,K. Oubre enters the game for M. Plumlee,0:47.0,104-108,Charlotte,0,0.0
+19415,42,T. Rozier makes 3-pt jump shot from 27 ft (assist by L. Ball),0:34.0,104-111,Charlotte,0,0.0
+19416,42,Milwaukee full timeout,0:34.0,104-111,Milwaukee,0,0.0
+19417,42,C. Martin enters the game for L. Ball,0:34.0,104-111,Charlotte,0,0.0
+19418,42,J. McDaniels enters the game for K. Oubre,0:34.0,104-111,Charlotte,0,0.0
+19419,42,W. Matthews misses 3-pt jump shot from 27 ft,0:32.0,104-111,Milwaukee,0,0.0
+19420,42,Offensive rebound by Team,0:28.0,104-111,Milwaukee,0,0.0
+19421,42,Personal foul by G. Hayward (drawn by G. Antetokounmpo),0:27.0,104-111,Milwaukee,0,0.0
+19422,42,G. Antetokounmpo makes free throw 1 of 2,0:27.0,105-111,Milwaukee,0,0.0
+19423,42,L. Ball enters the game for C. Martin,0:27.0,105-111,Charlotte,0,0.0
+19424,42,K. Oubre enters the game for J. McDaniels,0:27.0,105-111,Charlotte,0,0.0
+19425,42,G. Antetokounmpo makes free throw 2 of 2,0:27.0,106-111,Milwaukee,0,0.0
+19426,42,Personal take foul by K. Middleton (drawn by L. Ball),0:27.0,106-111,Charlotte,0,0.0
+19427,42,Charlotte full timeout,0:27.0,106-111,Charlotte,0,0.0
+19428,42,Personal take foul by G. Antetokounmpo (drawn by L. Ball),0:25.0,106-111,Charlotte,0,0.0
+19429,42,L. Ball makes free throw 1 of 2,0:25.0,106-112,Charlotte,0,0.0
+19430,42,C. Martin enters the game for K. Oubre,0:25.0,106-112,Charlotte,0,0.0
+19431,42,L. Ball misses free throw 2 of 2,0:25.0,106-112,Charlotte,0,0.0
+19432,42,Defensive rebound by G. Antetokounmpo,0:23.0,106-112,Milwaukee,0,0.0
+19433,42,J. Nwora misses 2-pt jump shot from 22 ft,0:14.0,106-112,Milwaukee,0,0.0
+19434,42,Defensive rebound by M. Bridges,0:12.0,106-112,Charlotte,0,0.0
+19435,42,M. Bridges makes 2-pt layup from 2 ft,0:10.0,106-114,Charlotte,0,
+19436,42,Shooting foul by K. Middleton (drawn by M. Bridges),0:10.0,106-114,Charlotte,0,
+19437,42,Instant Replay (Challenge: Ruling Stands),0:10.0,106-114,Charlotte,0,
+19438,42,Milwaukee full timeout,0:10.0,106-114,Milwaukee,0,
+19439,42,M. Bridges misses free throw 1 of 1,0:10.0,106-114,Charlotte,0,
+19440,42,Defensive rebound by G. Antetokounmpo,0:09.0,106-114,Milwaukee,0,
+19441,42,G. Antetokounmpo misses 3-pt jump shot from 27 ft,0:03.0,106-114,Milwaukee,0,
+19442,42,Offensive rebound by B. Portis,0:03.0,106-114,Milwaukee,0,
+19443,42,B. Portis misses 2-pt layup at rim,0:00.0,106-114,Milwaukee,0,
+19444,42,Defensive rebound by T. Rozier,0:00.0,106-114,Charlotte,0,

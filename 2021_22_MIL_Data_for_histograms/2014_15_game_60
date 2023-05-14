@@ -1,0 +1,486 @@
+,game number,play,time,score,team,current_sub_status,future_sub_status
+27315,60,Turnover by J. Embiid (lost ball; steal by G. Antetokounmpo),11:43.0,0-0,Philadelphia,0,0.0
+27316,60,Shooting foul by M. Thybulle (drawn by J. Holiday),11:37.0,0-0,Milwaukee,0,0.0
+27317,60,J. Holiday misses free throw 1 of 2,11:37.0,0-0,Milwaukee,0,0.0
+27318,60,Offensive rebound by Team,11:37.0,0-0,Milwaukee,0,0.0
+27319,60,J. Holiday makes free throw 2 of 2,11:37.0,0-1,Milwaukee,0,0.0
+27320,60,J. Embiid misses 3-pt jump shot from 26 ft,11:17.0,0-1,Philadelphia,0,0.0
+27321,60,Defensive rebound by G. Antetokounmpo,11:14.0,0-1,Milwaukee,0,0.0
+27322,60,B. Portis makes 3-pt jump shot from 23 ft (assist by G. Antetokounmpo),11:08.0,0-4,Milwaukee,0,0.0
+27323,60,T. Harris makes 2-pt jump shot from 13 ft (assist by M. Thybulle),10:51.0,2-4,Philadelphia,0,0.0
+27324,60,Personal foul by G. Niang (drawn by G. Antetokounmpo),10:44.0,2-4,Milwaukee,0,0.0
+27325,60,J. Holiday misses 3-pt jump shot from 27 ft,10:25.0,2-4,Milwaukee,0,0.0
+27326,60,Defensive rebound by G. Niang,10:22.0,2-4,Philadelphia,0,0.0
+27327,60,T. Harris makes 2-pt jump shot from 8 ft,10:02.0,4-4,Philadelphia,0,0.0
+27328,60,B. Portis misses 3-pt jump shot from 24 ft,9:46.0,4-4,Milwaukee,0,0.0
+27329,60,Defensive rebound by M. Thybulle,9:43.0,4-4,Philadelphia,0,0.0
+27330,60,Shooting foul by K. Middleton (drawn by T. Maxey),9:42.0,4-4,Philadelphia,0,0.0
+27331,60,T. Maxey makes free throw 1 of 2,9:42.0,5-4,Philadelphia,0,0.0
+27332,60,T. Maxey makes free throw 2 of 2,9:42.0,6-4,Philadelphia,0,0.0
+27333,60,G. Antetokounmpo makes 2-pt jump shot from 12 ft,9:19.0,6-6,Milwaukee,0,0.0
+27334,60,G. Niang misses 3-pt jump shot from 23 ft,9:02.0,6-6,Philadelphia,0,0.0
+27335,60,Defensive rebound by Team,9:02.0,6-6,Milwaukee,0,0.0
+27336,60,Loose ball foul by J. Embiid (drawn by B. Portis),9:02.0,6-6,Philadelphia,0,0.0
+27337,60,K. Middleton misses 3-pt jump shot from 28 ft,8:49.0,6-6,Milwaukee,0,0.0
+27338,60,Defensive rebound by T. Maxey,8:46.0,6-6,Philadelphia,0,0.0
+27339,60,J. Embiid misses 2-pt jump shot from 7 ft,8:31.0,6-6,Philadelphia,0,0.0
+27340,60,Offensive rebound by G. Niang,8:29.0,6-6,Philadelphia,0,0.0
+27341,60,T. Harris misses 2-pt layup from 3 ft,8:26.0,6-6,Philadelphia,0,1.0
+27342,60,Offensive rebound by T. Harris,8:26.0,6-6,Philadelphia,0,0.0
+27343,60,T. Harris makes 2-pt layup at rim,8:21.0,8-6,Philadelphia,0,0.0
+27344,60,J. Nwora makes 3-pt jump shot from 26 ft (assist by J. Holiday),8:15.0,8-9,Milwaukee,0,0.0
+27345,60,J. Embiid makes 2-pt layup from 1 ft (assist by T. Harris),7:58.0,10-9,Philadelphia,0,0.0
+27346,60,G. Antetokounmpo misses 2-pt jump shot from 15 ft,7:42.0,10-9,Milwaukee,0,0.0
+27347,60,Offensive rebound by B. Portis,7:39.0,10-9,Milwaukee,0,0.0
+27348,60,B. Portis makes 2-pt hook shot from 11 ft,7:38.0,10-11,Milwaukee,0,0.0
+27349,60,J. Embiid makes 3-pt jump shot from 26 ft,7:23.0,13-11,Philadelphia,0,0.0
+27350,60,Milwaukee full timeout,7:16.0,13-11,Milwaukee,0,0.0
+27351,60,S. Ibaka enters the game for J. Nwora,7:16.0,13-11,Milwaukee,1,0.0
+27352,60,S. Ibaka misses 2-pt jump shot from 7 ft,6:58.0,13-11,Milwaukee,0,0.0
+27353,60,Offensive rebound by K. Middleton,6:54.0,13-11,Milwaukee,0,0.0
+27354,60,K. Middleton misses 2-pt layup at rim,6:54.0,13-11,Milwaukee,0,0.0
+27355,60,Defensive rebound by J. Embiid,6:52.0,13-11,Philadelphia,0,0.0
+27356,60,J. Embiid misses 2-pt layup from 10 ft,6:49.0,13-11,Philadelphia,0,0.0
+27357,60,Offensive rebound by J. Embiid,6:43.0,13-11,Philadelphia,0,0.0
+27358,60,J. Embiid misses 2-pt layup at rim,6:43.0,13-11,Philadelphia,0,0.0
+27359,60,Defensive rebound by B. Portis,6:42.0,13-11,Milwaukee,0,1.0
+27360,60,G. Antetokounmpo misses 2-pt jump shot from 13 ft,6:32.0,13-11,Milwaukee,0,0.0
+27361,60,Defensive rebound by T. Harris,6:29.0,13-11,Philadelphia,0,0.0
+27362,60,T. Harris misses 3-pt jump shot from 26 ft,6:20.0,13-11,Philadelphia,0,0.0
+27363,60,Defensive rebound by J. Holiday,6:16.0,13-11,Milwaukee,0,0.0
+27364,60,G. Antetokounmpo misses 2-pt jump shot from 8 ft,6:08.0,13-11,Milwaukee,0,0.0
+27365,60,Defensive rebound by J. Embiid,6:08.0,13-11,Philadelphia,0,0.0
+27366,60,J. Embiid makes 3-pt jump shot from 27 ft (assist by G. Niang),5:54.0,16-11,Philadelphia,0,0.0
+27367,60,K. Middleton makes 2-pt jump shot from 11 ft,5:41.0,16-13,Milwaukee,0,0.0
+27368,60,Personal foul by S. Ibaka (drawn by J. Embiid),5:27.0,16-13,Philadelphia,0,0.0
+27369,60,W. Matthews enters the game for G. Antetokounmpo,5:27.0,16-13,Milwaukee,1,0.0
+27370,60,J. Embiid makes 2-pt jump shot from 21 ft,5:14.0,18-13,Philadelphia,0,0.0
+27371,60,J. Holiday misses 2-pt hook shot from 7 ft,4:57.0,18-13,Milwaukee,0,0.0
+27372,60,Offensive rebound by J. Holiday,4:55.0,18-13,Milwaukee,0,1.0
+27373,60,K. Middleton misses 3-pt jump shot from 26 ft (block by M. Thybulle),4:53.0,18-13,Milwaukee,0,1.0
+27374,60,Offensive rebound by B. Portis,4:48.0,18-13,Milwaukee,0,0.0
+27375,60,W. Matthews makes 3-pt jump shot from 25 ft (assist by K. Middleton),4:43.0,18-16,Milwaukee,0,0.0
+27376,60,M. Thybulle misses 3-pt jump shot from 28 ft,4:23.0,18-16,Philadelphia,0,0.0
+27377,60,Defensive rebound by S. Ibaka,4:19.0,18-16,Milwaukee,0,0.0
+27378,60,S. Ibaka makes 3-pt jump shot from 26 ft (assist by B. Portis),4:07.0,18-19,Milwaukee,0,0.0
+27379,60,Philadelphia full timeout,4:07.0,18-19,Philadelphia,0,0.0
+27380,60,D. Green enters the game for G. Niang,4:07.0,18-19,Philadelphia,0,0.0
+27381,60,F. Korkmaz enters the game for M. Thybulle,4:07.0,18-19,Philadelphia,0,0.0
+27382,60,S. Mamukelashvili enters the game for K. Middleton,4:07.0,18-19,Milwaukee,1,0.0
+27383,60,L. Wigginton enters the game for B. Portis,4:07.0,18-19,Milwaukee,1,0.0
+27384,60,D. Green misses 3-pt jump shot from 27 ft,3:46.0,18-19,Philadelphia,0,0.0
+27385,60,Defensive rebound by S. Mamukelashvili,3:43.0,18-19,Milwaukee,0,0.0
+27386,60,L. Wigginton misses 2-pt layup from 4 ft,3:39.0,18-19,Milwaukee,0,0.0
+27387,60,Defensive rebound by J. Embiid,3:36.0,18-19,Philadelphia,0,0.0
+27388,60,T. Harris misses 3-pt jump shot from 26 ft,3:26.0,18-19,Philadelphia,0,0.0
+27389,60,Defensive rebound by W. Matthews,3:23.0,18-19,Milwaukee,0,0.0
+27390,60,Turnover by S. Ibaka (lost ball; steal by J. Embiid),3:12.0,18-19,Milwaukee,0,1.0
+27391,60,J. Embiid makes 2-pt dunk from 2 ft (assist by T. Harris),3:07.0,20-19,Philadelphia,0,1.0
+27392,60,J. Holiday misses 2-pt jump shot from 15 ft,2:54.0,20-19,Milwaukee,0,0.0
+27393,60,Defensive rebound by J. Embiid,2:51.0,20-19,Philadelphia,0,0.0
+27394,60,T. Harris makes 2-pt jump shot from 3 ft,2:46.0,22-19,Philadelphia,0,0.0
+27395,60,S. Ibaka misses 3-pt jump shot from 29 ft,2:24.0,22-19,Milwaukee,0,0.0
+27396,60,Defensive rebound by J. Embiid,2:20.0,22-19,Philadelphia,0,0.0
+27397,60,Personal foul by J. Holiday (drawn by J. Embiid),2:13.0,22-19,Philadelphia,0,0.0
+27398,60,P. Millsap enters the game for J. Embiid,2:13.0,22-19,Philadelphia,0,0.0
+27399,60,S. Milton enters the game for T. Maxey,2:13.0,22-19,Philadelphia,0,0.0
+27400,60,G. Antetokounmpo enters the game for J. Holiday,2:13.0,22-19,Milwaukee,1,0.0
+27401,60,J. Nwora enters the game for S. Mamukelashvili,2:13.0,22-19,Milwaukee,1,0.0
+27402,60,T. Harris makes 2-pt jump shot from 17 ft,2:03.0,24-19,Philadelphia,0,0.0
+27403,60,G. Antetokounmpo makes 2-pt dunk from 2 ft,1:48.0,24-21,Milwaukee,0,0.0
+27404,60,P. Millsap misses 3-pt jump shot from 27 ft,1:33.0,24-21,Philadelphia,0,0.0
+27405,60,Defensive rebound by S. Ibaka,1:31.0,24-21,Milwaukee,0,1.0
+27406,60,J. Nwora makes 2-pt jump shot from 12 ft (assist by W. Matthews),1:18.0,24-23,Milwaukee,0,0.0
+27407,60,T. Harris misses 3-pt jump shot from 27 ft,1:05.0,24-23,Philadelphia,0,0.0
+27408,60,Defensive rebound by S. Ibaka,1:02.0,24-23,Milwaukee,0,0.0
+27409,60,S. Ibaka misses 3-pt jump shot from 27 ft,0:53.0,24-23,Milwaukee,0,0.0
+27410,60,Defensive rebound by F. Korkmaz,0:50.0,24-23,Philadelphia,0,0.0
+27411,60,F. Korkmaz misses 2-pt jump shot from 12 ft,0:45.0,24-23,Philadelphia,0,0.0
+27412,60,Defensive rebound by L. Wigginton,0:42.0,24-23,Milwaukee,0,0.0
+27413,60,Shooting foul by F. Korkmaz (drawn by L. Wigginton),0:27.0,24-23,Milwaukee,0,0.0
+27414,60,L. Wigginton makes free throw 1 of 2,0:27.0,24-24,Milwaukee,0,0.0
+27415,60,T. Antetokounmpo enters the game for S. Ibaka,0:27.0,24-24,Milwaukee,1,0.0
+27416,60,L. Wigginton makes free throw 2 of 2,0:27.0,24-25,Milwaukee,0,0.0
+27417,60,S. Milton misses 3-pt jump shot from 28 ft,0:05.0,24-25,Philadelphia,0,0.0
+27418,60,Defensive rebound by Team,0:04.0,24-25,Milwaukee,0,0.0
+27419,60,Loose ball foul by D. Green (drawn by J. Nwora),0:04.0,24-25,Philadelphia,0,0.0
+27420,60,J. Nwora makes free throw 1 of 2,0:04.0,24-26,Milwaukee,0,0.0
+27421,60,T. Maxey enters the game for T. Harris,0:04.0,24-26,Philadelphia,0,0.0
+27422,60,J. Nwora makes free throw 2 of 2,0:04.0,24-27,Milwaukee,0,0.0
+27423,60,T. Maxey misses 3-pt jump shot from 33 ft,0:00.0,24-27,Philadelphia,0,0.0
+27424,60,Offensive rebound by Team,0:00.0,24-27,Philadelphia,0,0.0
+27425,60,Offensive foul by K. Middleton (drawn by P. Millsap),11:45.0,24-27,Milwaukee,0,0.0
+27426,60,Turnover by K. Middleton (offensive foul),11:45.0,24-27,Milwaukee,0,0.0
+27427,60,S. Milton makes 2-pt jump shot from 18 ft,11:34.0,26-27,Philadelphia,0,0.0
+27428,60,Shooting foul by P. Millsap (drawn by G. Antetokounmpo),11:27.0,26-27,Milwaukee,0,0.0
+27429,60,G. Antetokounmpo misses free throw 1 of 2,11:27.0,26-27,Milwaukee,0,0.0
+27430,60,Offensive rebound by Team,11:27.0,26-27,Milwaukee,0,0.0
+27431,60,G. Antetokounmpo makes free throw 2 of 2,11:27.0,26-28,Milwaukee,0,0.0
+27432,60,D. Green misses 3-pt jump shot from 23 ft,11:05.0,26-28,Philadelphia,0,0.0
+27433,60,Defensive rebound by K. Middleton,11:00.0,26-28,Milwaukee,0,0.0
+27434,60,W. Matthews misses 3-pt jump shot from 26 ft,10:55.0,26-28,Milwaukee,0,1.0
+27435,60,Defensive rebound by P. Millsap,10:52.0,26-28,Philadelphia,0,0.0
+27436,60,F. Korkmaz makes 3-pt jump shot from 27 ft (assist by S. Milton),10:44.0,29-28,Philadelphia,0,0.0
+27437,60,J. Nwora makes 3-pt jump shot from 23 ft (assist by G. Antetokounmpo),10:21.0,29-31,Milwaukee,0,0.0
+27438,60,G. Niang misses 2-pt jump shot from 6 ft,10:06.0,29-31,Philadelphia,0,0.0
+27439,60,Defensive rebound by L. Wigginton,10:04.0,29-31,Milwaukee,0,0.0
+27440,60,Shooting foul by S. Milton (drawn by K. Middleton),10:02.0,29-31,Milwaukee,0,0.0
+27441,60,K. Middleton misses free throw 1 of 2,10:02.0,29-31,Milwaukee,0,0.0
+27442,60,Offensive rebound by Team,10:02.0,29-31,Milwaukee,0,0.0
+27443,60,T. Maxey enters the game for G. Niang,10:02.0,29-31,Philadelphia,0,0.0
+27444,60,B. Portis enters the game for W. Matthews,10:02.0,29-31,Milwaukee,1,0.0
+27445,60,K. Middleton makes free throw 2 of 2,10:02.0,29-32,Milwaukee,0,0.0
+27446,60,P. Millsap makes 2-pt hook shot from 6 ft,9:39.0,31-32,Philadelphia,0,0.0
+27447,60,Shooting foul by F. Korkmaz (drawn by K. Middleton),9:34.0,31-32,Milwaukee,0,1.0
+27448,60,K. Middleton makes free throw 1 of 2,9:34.0,31-33,Milwaukee,0,0.0
+27449,60,K. Middleton makes free throw 2 of 2,9:34.0,31-34,Milwaukee,0,0.0
+27450,60,P. Millsap makes 2-pt layup from 2 ft (assist by S. Milton),9:20.0,33-34,Philadelphia,0,0.0
+27451,60,J. Nwora misses 2-pt jump shot from 5 ft (block by S. Milton),9:04.0,33-34,Milwaukee,0,0.0
+27452,60,Defensive rebound by S. Milton,9:04.0,33-34,Philadelphia,0,0.0
+27453,60,S. Milton makes 2-pt jump shot from 16 ft,8:57.0,35-34,Philadelphia,0,0.0
+27454,60,G. Antetokounmpo makes 2-pt layup from 6 ft,8:44.0,35-36,Milwaukee,0,0.0
+27455,60,Shooting foul by D. Green (drawn by G. Antetokounmpo),8:44.0,35-36,Milwaukee,0,0.0
+27456,60,M. Thybulle enters the game for F. Korkmaz,8:44.0,35-36,Philadelphia,0,0.0
+27457,60,J. Holiday enters the game for L. Wigginton,8:44.0,35-36,Milwaukee,1,0.0
+27458,60,G. Antetokounmpo makes free throw 1 of 1,8:44.0,35-37,Milwaukee,0,1.0
+27459,60,Turnover by M. Thybulle (lost ball; steal by J. Holiday),8:22.0,35-37,Philadelphia,0,0.0
+27460,60,G. Antetokounmpo misses 2-pt layup from 4 ft,8:15.0,35-37,Milwaukee,0,0.0
+27461,60,Offensive rebound by G. Antetokounmpo,8:14.0,35-37,Milwaukee,0,0.0
+27462,60,G. Antetokounmpo misses 2-pt layup at rim,8:13.0,35-37,Milwaukee,0,0.0
+27463,60,Offensive rebound by G. Antetokounmpo,8:12.0,35-37,Milwaukee,0,0.0
+27464,60,G. Antetokounmpo makes 2-pt layup at rim,8:09.0,35-39,Milwaukee,0,0.0
+27465,60,Philadelphia full timeout,8:09.0,35-39,Philadelphia,0,0.0
+27466,60,J. Embiid enters the game for D. Green,8:09.0,35-39,Philadelphia,0,0.0
+27467,60,G. Niang enters the game for P. Millsap,8:09.0,35-39,Philadelphia,0,0.0
+27468,60,S. Ibaka enters the game for G. Antetokounmpo,8:09.0,35-39,Milwaukee,1,0.0
+27469,60,T. Maxey misses 2-pt jump shot from 10 ft,7:56.0,35-39,Philadelphia,0,0.0
+27470,60,Offensive rebound by J. Embiid,7:56.0,35-39,Philadelphia,0,0.0
+27471,60,Shooting foul by B. Portis (drawn by J. Embiid),7:56.0,35-39,Philadelphia,0,0.0
+27472,60,J. Embiid misses free throw 1 of 2,7:56.0,35-39,Philadelphia,0,0.0
+27473,60,Offensive rebound by Team,7:56.0,35-39,Philadelphia,0,0.0
+27474,60,J. Embiid makes free throw 2 of 2,7:56.0,36-39,Philadelphia,0,0.0
+27475,60,J. Nwora makes 3-pt jump shot from 23 ft (assist by J. Holiday),7:41.0,36-42,Milwaukee,0,0.0
+27476,60,G. Niang makes 3-pt jump shot from 29 ft (assist by J. Embiid),7:25.0,39-42,Philadelphia,0,0.0
+27477,60,Personal foul by T. Maxey (drawn by J. Holiday),7:15.0,39-42,Milwaukee,0,0.0
+27478,60,J. Holiday makes free throw 1 of 2,7:15.0,39-43,Milwaukee,0,0.0
+27479,60,T. Harris enters the game for S. Milton,7:15.0,39-43,Philadelphia,0,0.0
+27480,60,J. Holiday makes free throw 2 of 2,7:15.0,39-44,Milwaukee,0,0.0
+27481,60,T. Maxey misses 3-pt jump shot from 28 ft,7:06.0,39-44,Philadelphia,0,0.0
+27482,60,Defensive rebound by B. Portis,7:04.0,39-44,Milwaukee,0,0.0
+27483,60,B. Portis makes 2-pt hook shot from 9 ft,6:52.0,39-46,Milwaukee,0,1.0
+27484,60,Shooting foul by T. Harris (drawn by B. Portis),6:52.0,39-46,Milwaukee,0,0.0
+27485,60,B. Portis makes free throw 1 of 1,6:52.0,39-47,Milwaukee,0,0.0
+27486,60,T. Harris makes 2-pt layup from 5 ft (assist by T. Maxey),6:39.0,41-47,Philadelphia,0,0.0
+27487,60,J. Holiday makes 2-pt layup from 2 ft,6:28.0,41-49,Milwaukee,0,0.0
+27488,60,G. Niang misses 3-pt jump shot from 28 ft,6:15.0,41-49,Philadelphia,0,0.0
+27489,60,Defensive rebound by K. Middleton,6:12.0,41-49,Milwaukee,0,0.0
+27490,60,B. Portis misses 2-pt jump shot from 14 ft,6:02.0,41-49,Milwaukee,0,0.0
+27491,60,Defensive rebound by T. Harris,5:58.0,41-49,Philadelphia,0,1.0
+27492,60,Personal foul by J. Nwora (drawn by J. Embiid),5:50.0,41-49,Philadelphia,0,0.0
+27493,60,G. Antetokounmpo enters the game for J. Nwora,5:50.0,41-49,Milwaukee,1,0.0
+27494,60,T. Harris misses 2-pt jump shot from 10 ft,5:37.0,41-49,Philadelphia,0,0.0
+27495,60,Defensive rebound by G. Antetokounmpo,5:33.0,41-49,Milwaukee,0,0.0
+27496,60,B. Portis makes 2-pt jump shot from 19 ft (assist by S. Ibaka),5:22.0,41-51,Milwaukee,0,0.0
+27497,60,Turnover by G. Niang (lost ball; steal by G. Antetokounmpo),4:59.0,41-51,Philadelphia,0,0.0
+27498,60,B. Portis makes 2-pt layup from 2 ft (assist by G. Antetokounmpo),4:56.0,41-53,Milwaukee,0,0.0
+27499,60,Philadelphia full timeout,4:56.0,41-53,Philadelphia,0,0.0
+27500,60,F. Korkmaz enters the game for M. Thybulle,4:56.0,41-53,Philadelphia,0,1.0
+27501,60,W. Matthews enters the game for K. Middleton,4:56.0,41-53,Milwaukee,1,0.0
+27502,60,J. Embiid makes 2-pt jump shot from 16 ft (assist by T. Maxey),4:44.0,43-53,Philadelphia,0,0.0
+27503,60,G. Antetokounmpo misses 2-pt layup from 3 ft,4:25.0,43-53,Milwaukee,0,0.0
+27504,60,Defensive rebound by Team,4:25.0,43-53,Philadelphia,0,0.0
+27505,60,T. Maxey makes 2-pt jump shot from 9 ft,4:11.0,45-53,Philadelphia,0,0.0
+27506,60,S. Ibaka misses 3-pt jump shot from 25 ft,3:54.0,45-53,Milwaukee,0,0.0
+27507,60,Defensive rebound by T. Harris,3:50.0,45-53,Philadelphia,0,0.0
+27508,60,Shooting foul by J. Holiday (drawn by T. Maxey),3:49.0,45-53,Philadelphia,0,0.0
+27509,60,T. Maxey makes free throw 1 of 2,3:49.0,46-53,Philadelphia,0,0.0
+27510,60,J. Nwora enters the game for B. Portis,3:49.0,46-53,Milwaukee,1,0.0
+27511,60,T. Maxey makes free throw 2 of 2,3:49.0,47-53,Philadelphia,0,0.0
+27512,60,S. Ibaka makes 2-pt jump shot from 10 ft (assist by G. Antetokounmpo),3:34.0,47-55,Milwaukee,0,0.0
+27513,60,T. Maxey makes 3-pt jump shot from 25 ft,3:21.0,50-55,Philadelphia,0,0.0
+27514,60,G. Antetokounmpo misses 3-pt jump shot from 26 ft,3:06.0,50-55,Milwaukee,0,0.0
+27515,60,Defensive rebound by F. Korkmaz,3:03.0,50-55,Philadelphia,0,0.0
+27516,60,Personal foul by G. Antetokounmpo (drawn by J. Embiid),3:02.0,50-55,Philadelphia,0,0.0
+27517,60,T. Maxey makes 2-pt layup from 2 ft,2:54.0,52-55,Philadelphia,0,0.0
+27518,60,Shooting foul by W. Matthews (drawn by T. Maxey),2:54.0,52-55,Philadelphia,0,1.0
+27519,60,T. Maxey makes free throw 1 of 1,2:54.0,53-55,Philadelphia,0,1.0
+27520,60,Turnover by G. Antetokounmpo (traveling),2:42.0,53-55,Milwaukee,0,0.0
+27521,60,T. Maxey makes 2-pt jump shot from 17 ft,2:34.0,55-55,Philadelphia,0,0.0
+27522,60,J. Holiday makes 2-pt jump shot from 10 ft,2:18.0,55-57,Milwaukee,0,0.0
+27523,60,J. Embiid makes 2-pt jump shot from 13 ft (assist by T. Maxey),2:03.0,57-57,Philadelphia,0,0.0
+27524,60,S. Ibaka misses 3-pt jump shot from 27 ft,1:48.0,57-57,Milwaukee,0,0.0
+27525,60,Defensive rebound by T. Maxey,1:47.0,57-57,Philadelphia,0,0.0
+27526,60,Personal foul by J. Nwora (drawn by T. Maxey),1:47.0,57-57,Philadelphia,0,0.0
+27527,60,T. Maxey makes free throw 1 of 2,1:47.0,58-57,Philadelphia,0,0.0
+27528,60,K. Middleton enters the game for S. Ibaka,1:47.0,58-57,Milwaukee,1,0.0
+27529,60,B. Portis enters the game for W. Matthews,1:47.0,58-57,Milwaukee,1,0.0
+27530,60,T. Maxey makes free throw 2 of 2,1:47.0,59-57,Philadelphia,0,0.0
+27531,60,J. Holiday makes 2-pt jump shot from 8 ft,1:28.0,59-59,Milwaukee,0,0.0
+27532,60,G. Niang makes 3-pt jump shot from 26 ft (assist by J. Embiid),1:06.0,62-59,Philadelphia,0,0.0
+27533,60,B. Portis misses 3-pt jump shot from 27 ft,0:56.0,62-59,Milwaukee,0,0.0
+27534,60,Defensive rebound by J. Embiid,0:53.0,62-59,Philadelphia,0,0.0
+27535,60,Personal foul by B. Portis (drawn by J. Embiid),0:47.0,62-59,Philadelphia,0,0.0
+27536,60,J. Embiid makes free throw 1 of 2,0:47.0,63-59,Philadelphia,0,0.0
+27537,60,J. Embiid makes free throw 2 of 2,0:47.0,64-59,Philadelphia,0,0.0
+27538,60,G. Antetokounmpo makes 2-pt layup from 1 ft (assist by K. Middleton),0:33.0,64-61,Milwaukee,0,0.0
+27539,60,J. Embiid makes 3-pt jump shot from 27 ft (assist by T. Maxey),0:29.0,67-61,Philadelphia,0,0.0
+27540,60,J. Nwora misses 3-pt jump shot from 26 ft,0:09.0,67-61,Milwaukee,0,0.0
+27541,60,Defensive rebound by F. Korkmaz,0:06.0,67-61,Philadelphia,0,0.0
+27542,60,G. Niang misses 3-pt jump shot from 24 ft,0:00.0,67-61,Philadelphia,0,0.0
+27543,60,Offensive rebound by F. Korkmaz,0:00.0,67-61,Philadelphia,0,0.0
+27544,60,F. Korkmaz makes 2-pt layup at rim,0:00.0,69-61,Philadelphia,0,0.0
+27545,60,Instant Replay (Request: Ruling Stands),0:00.0,69-61,Philadelphia,0,0.0
+27546,60,B. Portis misses 3-pt jump shot from 27 ft,11:45.0,69-61,Milwaukee,0,0.0
+27547,60,Offensive rebound by B. Portis,11:43.0,69-61,Milwaukee,0,0.0
+27548,60,J. Nwora misses 2-pt layup at rim,11:41.0,69-61,Milwaukee,0,0.0
+27549,60,Offensive rebound by B. Portis,11:41.0,69-61,Milwaukee,0,0.0
+27550,60,Shooting foul by G. Niang (drawn by B. Portis),11:41.0,69-61,Milwaukee,0,0.0
+27551,60,B. Portis misses free throw 1 of 2,11:41.0,69-61,Milwaukee,0,0.0
+27552,60,Offensive rebound by Team,11:41.0,69-61,Milwaukee,0,0.0
+27553,60,B. Portis makes free throw 2 of 2,11:41.0,69-62,Milwaukee,0,0.0
+27554,60,F. Korkmaz makes 3-pt jump shot from 26 ft (assist by T. Harris),11:25.0,72-62,Philadelphia,0,0.0
+27555,60,B. Portis misses 3-pt jump shot from 23 ft,11:15.0,72-62,Milwaukee,0,0.0
+27556,60,Defensive rebound by T. Harris,11:12.0,72-62,Philadelphia,0,0.0
+27557,60,F. Korkmaz makes 3-pt jump shot from 23 ft (assist by G. Niang),11:02.0,75-62,Philadelphia,0,0.0
+27558,60,K. Middleton misses 3-pt jump shot from 26 ft,10:46.0,75-62,Milwaukee,0,0.0
+27559,60,Offensive rebound by G. Antetokounmpo,10:44.0,75-62,Milwaukee,0,0.0
+27560,60,G. Antetokounmpo makes 2-pt hook shot from 10 ft,10:37.0,75-64,Milwaukee,0,0.0
+27561,60,T. Harris makes 2-pt jump shot from 15 ft,10:19.0,77-64,Philadelphia,0,0.0
+27562,60,G. Antetokounmpo misses 2-pt jump shot from 9 ft,10:09.0,77-64,Milwaukee,0,0.0
+27563,60,Defensive rebound by T. Harris,10:07.0,77-64,Philadelphia,0,0.0
+27564,60,Turnover by J. Embiid (bad pass),10:05.0,77-64,Philadelphia,0,0.0
+27565,60,Technical foul by M. Budenholzer,10:05.0,77-64,Milwaukee,0,0.0
+27566,60,T. Maxey makes technical free throw,10:05.0,78-64,Philadelphia,0,0.0
+27567,60,K. Middleton misses 3-pt jump shot from 26 ft,9:47.0,78-64,Milwaukee,0,0.0
+27568,60,Defensive rebound by F. Korkmaz,9:42.0,78-64,Philadelphia,0,0.0
+27569,60,Turnover by J. Embiid (bad pass),9:38.0,78-64,Philadelphia,0,0.0
+27570,60,B. Portis makes 2-pt dunk from 1 ft (assist by G. Antetokounmpo),9:27.0,78-66,Milwaukee,0,0.0
+27571,60,J. Embiid makes 2-pt jump shot from 11 ft,9:09.0,80-66,Philadelphia,0,0.0
+27572,60,Shooting foul by J. Nwora (drawn by J. Embiid),9:09.0,80-66,Philadelphia,0,0.0
+27573,60,J. Embiid makes free throw 1 of 1,9:09.0,81-66,Philadelphia,0,0.0
+27574,60,G. Antetokounmpo misses 2-pt layup from 3 ft,8:50.0,81-66,Milwaukee,0,0.0
+27575,60,Offensive rebound by G. Antetokounmpo,8:42.0,81-66,Milwaukee,0,0.0
+27576,60,G. Antetokounmpo makes 2-pt layup at rim,8:42.0,81-68,Milwaukee,0,0.0
+27577,60,T. Harris misses 3-pt jump shot from 26 ft,8:29.0,81-68,Philadelphia,0,0.0
+27578,60,Defensive rebound by G. Antetokounmpo,8:25.0,81-68,Milwaukee,0,0.0
+27579,60,Shooting foul by G. Niang (drawn by K. Middleton),8:18.0,81-68,Milwaukee,0,0.0
+27580,60,K. Middleton makes free throw 1 of 2,8:18.0,81-69,Milwaukee,0,0.0
+27581,60,K. Middleton makes free throw 2 of 2,8:18.0,81-70,Milwaukee,0,0.0
+27582,60,J. Embiid makes 2-pt jump shot from 14 ft,8:03.0,83-70,Philadelphia,0,0.0
+27583,60,J. Holiday makes 3-pt jump shot from 27 ft (assist by G. Antetokounmpo),7:50.0,83-73,Milwaukee,0,0.0
+27584,60,T. Maxey misses 3-pt jump shot from 26 ft,7:25.0,83-73,Philadelphia,0,1.0
+27585,60,Defensive rebound by B. Portis,7:21.0,83-73,Milwaukee,0,0.0
+27586,60,K. Middleton makes 3-pt jump shot from 27 ft (assist by G. Antetokounmpo),7:16.0,83-76,Milwaukee,0,0.0
+27587,60,Philadelphia full timeout,7:16.0,83-76,Philadelphia,0,0.0
+27588,60,J. Embiid makes 2-pt jump shot from 14 ft (assist by T. Harris),6:59.0,85-76,Philadelphia,0,0.0
+27589,60,K. Middleton misses 2-pt jump shot from 11 ft,6:41.0,85-76,Milwaukee,0,0.0
+27590,60,Offensive rebound by J. Nwora,6:39.0,85-76,Milwaukee,0,0.0
+27591,60,J. Nwora makes 3-pt jump shot from 27 ft,6:36.0,85-79,Milwaukee,0,0.0
+27592,60,Offensive foul by J. Embiid (drawn by B. Portis),6:20.0,85-79,Philadelphia,0,0.0
+27593,60,Turnover by J. Embiid (offensive foul),6:20.0,85-79,Philadelphia,0,0.0
+27594,60,S. Ibaka enters the game for B. Portis,6:20.0,85-79,Milwaukee,1,0.0
+27595,60,K. Middleton misses 3-pt jump shot from 23 ft,6:08.0,85-79,Milwaukee,0,0.0
+27596,60,Defensive rebound by J. Embiid,6:04.0,85-79,Philadelphia,0,0.0
+27597,60,T. Harris makes 2-pt dunk from 1 ft,5:56.0,87-79,Philadelphia,0,0.0
+27598,60,K. Middleton makes 3-pt jump shot from 28 ft (assist by S. Ibaka),5:41.0,87-82,Milwaukee,0,0.0
+27599,60,G. Niang makes 3-pt jump shot from 27 ft (assist by J. Embiid),5:30.0,90-82,Philadelphia,0,0.0
+27600,60,Turnover by J. Nwora (step out of bounds),5:15.0,90-82,Milwaukee,0,0.0
+27601,60,F. Korkmaz misses 2-pt jump shot from 2 ft,4:58.0,90-82,Philadelphia,0,0.0
+27602,60,Defensive rebound by S. Ibaka,4:54.0,90-82,Milwaukee,0,0.0
+27603,60,J. Nwora misses 3-pt jump shot from 23 ft,4:48.0,90-82,Milwaukee,0,1.0
+27604,60,Defensive rebound by G. Niang,4:48.0,90-82,Philadelphia,0,1.0
+27605,60,J. Embiid misses 2-pt jump shot from 21 ft (block by G. Antetokounmpo),4:35.0,90-82,Philadelphia,0,0.0
+27606,60,Defensive rebound by J. Nwora,4:31.0,90-82,Milwaukee,0,0.0
+27607,60,J. Nwora misses 2-pt jump shot from 14 ft,4:26.0,90-82,Milwaukee,0,0.0
+27608,60,Defensive rebound by J. Embiid,4:23.0,90-82,Philadelphia,0,0.0
+27609,60,T. Maxey misses 2-pt jump shot from 7 ft,4:17.0,90-82,Philadelphia,0,0.0
+27610,60,Defensive rebound by S. Ibaka,4:14.0,90-82,Milwaukee,0,0.0
+27611,60,Milwaukee full timeout,4:11.0,90-82,Milwaukee,0,0.0
+27612,60,D. Green enters the game for F. Korkmaz,4:11.0,90-82,Philadelphia,0,0.0
+27613,60,W. Matthews enters the game for G. Antetokounmpo,4:11.0,90-82,Milwaukee,1,0.0
+27614,60,L. Wigginton enters the game for J. Nwora,4:11.0,90-82,Milwaukee,1,0.0
+27615,60,Personal foul by D. Green (drawn by J. Holiday),4:03.0,90-82,Milwaukee,0,0.0
+27616,60,W. Matthews misses 3-pt jump shot from 26 ft,3:48.0,90-82,Milwaukee,0,0.0
+27617,60,Defensive rebound by T. Harris,3:45.0,90-82,Philadelphia,0,0.0
+27618,60,J. Embiid makes 2-pt jump shot from 22 ft,3:24.0,92-82,Philadelphia,0,0.0
+27619,60,Instant Replay (Request: Ruling Stands),3:24.0,92-82,Philadelphia,0,0.0
+27620,60,J. Holiday makes 2-pt jump shot from 20 ft,3:13.0,92-84,Milwaukee,0,0.0
+27621,60,Shooting foul by W. Matthews (drawn by J. Embiid),2:54.0,92-84,Philadelphia,0,0.0
+27622,60,J. Embiid makes free throw 1 of 2,2:54.0,93-84,Philadelphia,0,0.0
+27623,60,M. Thybulle enters the game for G. Niang,2:54.0,93-84,Philadelphia,0,0.0
+27624,60,J. Embiid makes free throw 2 of 2,2:54.0,94-84,Philadelphia,0,0.0
+27625,60,J. Holiday makes 3-pt jump shot from 27 ft,2:36.0,94-87,Milwaukee,0,0.0
+27626,60,Turnover by J. Embiid (lost ball),2:23.0,94-87,Philadelphia,0,0.0
+27627,60,Loose ball foul by J. Embiid (drawn by L. Wigginton),2:23.0,94-87,Philadelphia,0,0.0
+27628,60,P. Millsap enters the game for J. Embiid,2:23.0,94-87,Philadelphia,0,0.0
+27629,60,S. Milton enters the game for T. Maxey,2:23.0,94-87,Philadelphia,0,0.0
+27630,60,K. Middleton makes 2-pt jump shot from 15 ft (assist by J. Holiday),2:10.0,94-89,Milwaukee,0,0.0
+27631,60,T. Harris misses 2-pt layup from 5 ft,1:56.0,94-89,Philadelphia,0,0.0
+27632,60,Offensive rebound by T. Harris,1:51.0,94-89,Philadelphia,0,0.0
+27633,60,T. Harris misses 2-pt layup at rim,1:51.0,94-89,Philadelphia,0,0.0
+27634,60,Offensive rebound by S. Milton,1:49.0,94-89,Philadelphia,0,0.0
+27635,60,S. Milton makes 2-pt layup at rim,1:49.0,96-89,Philadelphia,0,0.0
+27636,60,J. Holiday makes 2-pt jump shot from 12 ft,1:37.0,96-91,Milwaukee,0,1.0
+27637,60,P. Millsap misses 3-pt jump shot from 27 ft,1:18.0,96-91,Philadelphia,0,1.0
+27638,60,Defensive rebound by L. Wigginton,1:15.0,96-91,Milwaukee,0,0.0
+27639,60,K. Middleton misses 2-pt jump shot from 12 ft,1:06.0,96-91,Milwaukee,0,0.0
+27640,60,Defensive rebound by P. Millsap,1:03.0,96-91,Philadelphia,0,0.0
+27641,60,D. Green makes 2-pt jump shot from 17 ft (assist by P. Millsap),1:00.0,98-91,Philadelphia,0,0.0
+27642,60,Shooting foul by P. Millsap (drawn by J. Holiday),0:50.0,98-91,Milwaukee,0,0.0
+27643,60,J. Holiday misses free throw 1 of 2,0:50.0,98-91,Milwaukee,0,0.0
+27644,60,Offensive rebound by Team,0:50.0,98-91,Milwaukee,0,1.0
+27645,60,G. Niang enters the game for T. Harris,0:50.0,98-91,Philadelphia,0,0.0
+27646,60,G. Antetokounmpo enters the game for S. Ibaka,0:50.0,98-91,Milwaukee,1,0.0
+27647,60,J. Nwora enters the game for K. Middleton,0:50.0,98-91,Milwaukee,1,0.0
+27648,60,J. Holiday makes free throw 2 of 2,0:50.0,98-92,Milwaukee,0,0.0
+27649,60,G. Niang makes 2-pt hook shot from 9 ft (assist by D. Green),0:32.0,100-92,Philadelphia,0,0.0
+27650,60,Shooting foul by P. Millsap (drawn by J. Holiday),0:15.0,100-92,Milwaukee,0,0.0
+27651,60,J. Holiday misses free throw 1 of 2,0:15.0,100-92,Milwaukee,0,0.0
+27652,60,Offensive rebound by Team,0:15.0,100-92,Milwaukee,0,0.0
+27653,60,T. Maxey enters the game for M. Thybulle,0:15.0,100-92,Philadelphia,0,0.0
+27654,60,T. Antetokounmpo enters the game for J. Nwora,0:15.0,100-92,Milwaukee,1,0.0
+27655,60,J. Holiday makes free throw 2 of 2,0:15.0,100-93,Milwaukee,0,0.0
+27656,60,T. Maxey misses 2-pt layup from 6 ft,0:00.0,100-93,Philadelphia,0,0.0
+27657,60,Offensive rebound by P. Millsap,0:00.0,100-93,Philadelphia,0,0.0
+27658,60,Turnover by F. Korkmaz (bad pass; steal by B. Portis),11:49.0,100-93,Philadelphia,0,0.0
+27659,60,Shooting foul by G. Niang (drawn by B. Portis),11:46.0,100-93,Milwaukee,0,0.0
+27660,60,B. Portis makes free throw 1 of 2,11:46.0,100-94,Milwaukee,0,0.0
+27661,60,B. Portis makes free throw 2 of 2,11:46.0,100-95,Milwaukee,0,0.0
+27662,60,S. Milton misses 2-pt jump shot from 18 ft,11:33.0,100-95,Philadelphia,0,0.0
+27663,60,Offensive rebound by S. Milton,11:31.0,100-95,Philadelphia,0,0.0
+27664,60,D. Green misses 3-pt jump shot from 23 ft,11:28.0,100-95,Philadelphia,0,0.0
+27665,60,Defensive rebound by J. Nwora,11:28.0,100-95,Milwaukee,0,0.0
+27666,60,Shooting foul by P. Millsap (drawn by G. Antetokounmpo),11:22.0,100-95,Milwaukee,0,0.0
+27667,60,G. Antetokounmpo makes free throw 1 of 2,11:22.0,100-96,Milwaukee,0,0.0
+27668,60,G. Antetokounmpo makes free throw 2 of 2,11:22.0,100-97,Milwaukee,0,0.0
+27669,60,Turnover by P. Millsap (lost ball; steal by G. Antetokounmpo),11:00.0,100-97,Philadelphia,0,0.0
+27670,60,B. Portis misses 3-pt jump shot from 28 ft,10:51.0,100-97,Milwaukee,0,0.0
+27671,60,Defensive rebound by F. Korkmaz,10:47.0,100-97,Philadelphia,0,0.0
+27672,60,G. Niang makes 3-pt jump shot from 26 ft (assist by F. Korkmaz),10:40.0,103-97,Philadelphia,0,0.0
+27673,60,G. Antetokounmpo misses 3-pt jump shot from 27 ft,10:29.0,103-97,Milwaukee,0,0.0
+27674,60,Defensive rebound by S. Milton,10:26.0,103-97,Philadelphia,0,0.0
+27675,60,Offensive foul by S. Milton (drawn by L. Wigginton),10:17.0,103-97,Philadelphia,0,0.0
+27676,60,Turnover by S. Milton (offensive foul),10:17.0,103-97,Philadelphia,0,1.0
+27677,60,T. Harris enters the game for D. Green,10:17.0,103-97,Philadelphia,0,0.0
+27678,60,T. Maxey enters the game for F. Korkmaz,10:17.0,103-97,Philadelphia,0,0.0
+27679,60,J. Nwora makes 2-pt jump shot from 3 ft (assist by G. Antetokounmpo),9:56.0,103-99,Milwaukee,0,0.0
+27680,60,T. Harris misses 2-pt jump shot from 15 ft,9:40.0,103-99,Philadelphia,0,0.0
+27681,60,Defensive rebound by L. Wigginton,9:35.0,103-99,Milwaukee,0,0.0
+27682,60,J. Nwora misses 3-pt jump shot from 28 ft,9:31.0,103-99,Milwaukee,0,0.0
+27683,60,Defensive rebound by P. Millsap,9:30.0,103-99,Philadelphia,0,0.0
+27684,60,Philadelphia full timeout,9:30.0,103-99,Philadelphia,0,0.0
+27685,60,J. Embiid enters the game for P. Millsap,9:30.0,103-99,Philadelphia,0,0.0
+27686,60,K. Middleton enters the game for J. Nwora,9:30.0,103-99,Milwaukee,1,0.0
+27687,60,T. Maxey misses 2-pt layup from 4 ft,9:18.0,103-99,Philadelphia,0,0.0
+27688,60,Defensive rebound by K. Middleton,9:16.0,103-99,Milwaukee,0,0.0
+27689,60,K. Middleton makes 2-pt jump shot from 12 ft,9:11.0,103-101,Milwaukee,0,0.0
+27690,60,Offensive foul by J. Embiid (drawn by L. Wigginton),8:59.0,103-101,Philadelphia,0,0.0
+27691,60,Turnover by J. Embiid (offensive foul),8:59.0,103-101,Philadelphia,0,0.0
+27692,60,K. Middleton misses 3-pt jump shot from 26 ft,8:49.0,103-101,Milwaukee,0,0.0
+27693,60,Defensive rebound by G. Niang,8:46.0,103-101,Philadelphia,0,1.0
+27694,60,G. Niang misses 3-pt jump shot from 24 ft,8:28.0,103-101,Philadelphia,0,1.0
+27695,60,Defensive rebound by L. Wigginton,8:25.0,103-101,Milwaukee,0,0.0
+27696,60,G. Antetokounmpo makes 2-pt hook shot from 15 ft,8:18.0,103-103,Milwaukee,0,0.0
+27697,60,T. Harris makes 2-pt jump shot from 12 ft,8:03.0,105-103,Philadelphia,0,0.0
+27698,60,Shooting foul by W. Matthews (drawn by T. Harris),8:03.0,105-103,Philadelphia,0,0.0
+27699,60,F. Korkmaz enters the game for S. Milton,8:03.0,105-103,Philadelphia,0,0.0
+27700,60,T. Harris makes free throw 1 of 1,8:03.0,106-103,Philadelphia,0,1.0
+27701,60,B. Portis misses 3-pt jump shot from 23 ft,7:49.0,106-103,Milwaukee,0,0.0
+27702,60,Defensive rebound by G. Niang,7:46.0,106-103,Philadelphia,0,0.0
+27703,60,J. Holiday enters the game for W. Matthews,7:46.0,106-103,Milwaukee,1,0.0
+27704,60,J. Nwora enters the game for L. Wigginton,7:46.0,106-103,Milwaukee,1,0.0
+27705,60,T. Harris misses 2-pt jump shot from 12 ft,7:36.0,106-103,Philadelphia,0,0.0
+27706,60,Defensive rebound by G. Antetokounmpo,7:34.0,106-103,Milwaukee,0,0.0
+27707,60,G. Antetokounmpo makes 3-pt jump shot from 28 ft (assist by B. Portis),7:21.0,106-106,Milwaukee,0,0.0
+27708,60,J. Embiid makes 2-pt layup from 3 ft,7:02.0,108-106,Philadelphia,0,0.0
+27709,60,Shooting foul by B. Portis (drawn by J. Embiid),7:02.0,108-106,Philadelphia,0,0.0
+27710,60,S. Ibaka enters the game for B. Portis,7:02.0,108-106,Milwaukee,1,0.0
+27711,60,J. Embiid makes free throw 1 of 1,7:02.0,109-106,Philadelphia,0,0.0
+27712,60,G. Antetokounmpo makes 2-pt jump shot from 19 ft,6:46.0,109-108,Milwaukee,0,0.0
+27713,60,Personal foul by S. Ibaka (drawn by J. Embiid),6:26.0,109-108,Philadelphia,0,0.0
+27714,60,J. Embiid misses 2-pt jump shot from 16 ft,6:15.0,109-108,Philadelphia,0,0.0
+27715,60,Defensive rebound by G. Antetokounmpo,6:12.0,109-108,Milwaukee,0,0.0
+27716,60,Offensive foul by G. Antetokounmpo (drawn by G. Niang),6:12.0,109-108,Milwaukee,0,0.0
+27717,60,Turnover by G. Antetokounmpo (offensive foul),6:12.0,109-108,Milwaukee,0,0.0
+27718,60,T. Maxey misses 3-pt jump shot from 28 ft,5:55.0,109-108,Philadelphia,0,0.0
+27719,60,Defensive rebound by G. Antetokounmpo,5:52.0,109-108,Milwaukee,0,0.0
+27720,60,J. Holiday makes 3-pt jump shot from 27 ft (assist by G. Antetokounmpo),5:47.0,109-111,Milwaukee,0,0.0
+27721,60,Philadelphia full timeout,5:47.0,109-111,Philadelphia,0,0.0
+27722,60,T. Harris misses 2-pt layup from 3 ft,5:33.0,109-111,Philadelphia,0,0.0
+27723,60,Defensive rebound by G. Antetokounmpo,5:30.0,109-111,Milwaukee,0,0.0
+27724,60,G. Antetokounmpo makes 2-pt layup from 2 ft,5:26.0,109-113,Milwaukee,0,0.0
+27725,60,F. Korkmaz makes 2-pt layup from 1 ft (assist by J. Embiid),5:06.0,111-113,Philadelphia,0,0.0
+27726,60,K. Middleton misses 2-pt jump shot from 16 ft,4:41.0,111-113,Milwaukee,0,0.0
+27727,60,Defensive rebound by F. Korkmaz,4:38.0,111-113,Philadelphia,0,0.0
+27728,60,Shooting foul by G. Antetokounmpo (drawn by J. Embiid),4:31.0,111-113,Philadelphia,0,0.0
+27729,60,J. Embiid misses free throw 1 of 2,4:31.0,111-113,Philadelphia,0,0.0
+27730,60,Offensive rebound by Team,4:31.0,111-113,Philadelphia,0,0.0
+27731,60,J. Embiid makes free throw 2 of 2,4:31.0,112-113,Philadelphia,0,0.0
+27732,60,J. Holiday misses 2-pt jump shot from 15 ft,4:17.0,112-113,Milwaukee,0,0.0
+27733,60,Defensive rebound by J. Embiid,4:14.0,112-113,Philadelphia,0,0.0
+27734,60,F. Korkmaz misses 3-pt jump shot from 26 ft,4:04.0,112-113,Philadelphia,0,1.0
+27735,60,Defensive rebound by S. Ibaka,4:01.0,112-113,Milwaukee,0,0.0
+27736,60,G. Antetokounmpo makes 3-pt jump shot from 26 ft,3:56.0,112-116,Milwaukee,0,0.0
+27737,60,G. Niang makes 3-pt jump shot from 26 ft (assist by J. Embiid),3:35.0,115-116,Philadelphia,0,0.0
+27738,60,Milwaukee full timeout,3:34.0,115-116,Milwaukee,0,0.0
+27739,60,S. Ibaka misses 2-pt layup from 3 ft,3:20.0,115-116,Milwaukee,0,0.0
+27740,60,Defensive rebound by G. Niang,3:17.0,115-116,Philadelphia,0,0.0
+27741,60,G. Niang misses 3-pt jump shot from 26 ft,3:07.0,115-116,Philadelphia,0,0.0
+27742,60,Defensive rebound by J. Holiday,3:04.0,115-116,Milwaukee,0,0.0
+27743,60,Milwaukee full timeout,3:02.0,115-116,Milwaukee,0,1.0
+27744,60,B. Portis enters the game for S. Ibaka,3:02.0,115-116,Milwaukee,1,0.0
+27745,60,K. Middleton misses 3-pt jump shot from 26 ft,2:44.0,115-116,Milwaukee,0,0.0
+27746,60,Defensive rebound by J. Embiid,2:41.0,115-116,Philadelphia,0,0.0
+27747,60,J. Embiid makes 2-pt jump shot from 10 ft,2:32.0,117-116,Philadelphia,0,0.0
+27748,60,J. Holiday misses 3-pt jump shot from 26 ft,2:07.0,117-116,Milwaukee,0,0.0
+27749,60,Defensive rebound by J. Embiid,2:06.0,117-116,Philadelphia,0,1.0
+27750,60,Personal foul by B. Portis (drawn by J. Embiid),2:06.0,117-116,Philadelphia,0,1.0
+27751,60,J. Embiid misses free throw 1 of 2,2:06.0,117-116,Philadelphia,0,0.0
+27752,60,Offensive rebound by Team,2:06.0,117-116,Philadelphia,0,0.0
+27753,60,L. Wigginton enters the game for B. Portis,2:06.0,117-116,Milwaukee,1,0.0
+27754,60,J. Embiid makes free throw 2 of 2,2:06.0,118-116,Philadelphia,0,0.0
+27755,60,Turnover by G. Antetokounmpo (bad pass; steal by F. Korkmaz),1:48.0,118-116,Milwaukee,0,0.0
+27756,60,T. Maxey misses 2-pt layup from 3 ft,1:31.0,118-116,Philadelphia,0,0.0
+27757,60,Defensive rebound by J. Holiday,1:28.0,118-116,Milwaukee,0,0.0
+27758,60,Turnover by K. Middleton (bad pass),1:26.0,118-116,Milwaukee,0,0.0
+27759,60,S. Ibaka enters the game for J. Nwora,1:26.0,118-116,Milwaukee,1,1.0
+27760,60,W. Matthews enters the game for L. Wigginton,1:26.0,118-116,Milwaukee,1,1.0
+27761,60,J. Embiid misses 2-pt jump shot from 14 ft,1:10.0,118-116,Philadelphia,0,0.0
+27762,60,Defensive rebound by K. Middleton,1:07.0,118-116,Milwaukee,0,0.0
+27763,60,J. Holiday misses 2-pt jump shot from 13 ft,0:58.0,118-116,Milwaukee,0,0.0
+27764,60,Defensive rebound by J. Embiid,0:56.0,118-116,Philadelphia,0,0.0
+27765,60,Personal foul by J. Holiday (drawn by J. Embiid),0:41.0,118-116,Philadelphia,0,0.0
+27766,60,J. Embiid makes free throw 1 of 2,0:41.0,119-116,Philadelphia,0,0.0
+27767,60,J. Embiid makes free throw 2 of 2,0:41.0,120-116,Philadelphia,0,0.0
+27768,60,Milwaukee full timeout,0:41.0,120-116,Milwaukee,0,0.0
+27769,60,J. Nwora enters the game for S. Ibaka,0:41.0,120-116,Milwaukee,1,0.0
+27770,60,B. Portis enters the game for W. Matthews,0:41.0,120-116,Milwaukee,1,0.0
+27771,60,J. Holiday misses 3-pt jump shot from 27 ft,0:39.0,120-116,Milwaukee,0,0.0
+27772,60,Offensive rebound by Team,0:37.0,120-116,Milwaukee,0,1.0
+27773,60,Milwaukee full timeout,0:37.0,120-116,Milwaukee,0,0.0
+27774,60,Instant Replay (Challenge: Ruling Stands),0:37.0,120-116,Milwaukee,0,0.0
+27775,60,K. Middleton misses 3-pt jump shot from 26 ft,0:31.0,120-116,Milwaukee,0,1.0
+27776,60,Offensive rebound by J. Holiday,0:27.0,120-116,Milwaukee,0,0.0
+27777,60,K. Middleton makes 2-pt dunk from 3 ft (assist by B. Portis),0:26.0,120-118,Milwaukee,0,0.0
+27778,60,Personal foul by K. Middleton (drawn by G. Niang),0:13.0,120-118,Philadelphia,0,0.0
+27779,60,G. Niang misses free throw 1 of 2,0:13.0,120-118,Philadelphia,0,0.0
+27780,60,Offensive rebound by Team,0:13.0,120-118,Philadelphia,0,1.0
+27781,60,M. Thybulle enters the game for F. Korkmaz,0:13.0,120-118,Philadelphia,0,0.0
+27782,60,S. Ibaka enters the game for J. Nwora,0:13.0,120-118,Milwaukee,1,0.0
+27783,60,G. Niang makes free throw 2 of 2,0:13.0,121-118,Philadelphia,0,0.0
+27784,60,Milwaukee full timeout,0:13.0,121-118,Milwaukee,0,0.0
+27785,60,J. Nwora enters the game for B. Portis,0:13.0,121-118,Milwaukee,1,0.0
+27786,60,K. Middleton misses 3-pt jump shot from 26 ft,0:09.0,121-118,Milwaukee,0,0.0
+27787,60,Defensive rebound by Team,0:08.0,121-118,Philadelphia,0,0.0
+27788,60,Loose ball foul by G. Antetokounmpo (drawn by T. Maxey),0:08.0,121-118,Milwaukee,0,0.0
+27789,60,T. Maxey makes free throw 1 of 2,0:08.0,122-118,Philadelphia,0,0.0
+27790,60,B. Portis enters the game for S. Ibaka,0:08.0,122-118,Milwaukee,1,
+27791,60,T. Maxey makes free throw 2 of 2,0:08.0,123-118,Philadelphia,0,
+27792,60,G. Antetokounmpo makes 2-pt layup from 3 ft,0:03.0,123-120,Milwaukee,0,
+27793,60,Philadelphia full timeout,0:03.0,123-120,Philadelphia,0,
+27794,60,F. Korkmaz enters the game for M. Thybulle,0:03.0,123-120,Philadelphia,0,
+27795,60,Turnover by F. Korkmaz (out of bounds lost ball),0:02.0,123-120,Philadelphia,0,
+27796,60,M. Thybulle enters the game for F. Korkmaz,0:02.0,123-120,Philadelphia,0,
+27797,60,Personal take foul by J. Embiid (drawn by G. Antetokounmpo),0:01.0,123-120,Milwaukee,0,
+27798,60,K. Middleton misses 3-pt jump shot from 31 ft,0:00.0,123-120,Milwaukee,0,
+27799,60,Offensive rebound by Team,0:00.0,123-120,Milwaukee,0,

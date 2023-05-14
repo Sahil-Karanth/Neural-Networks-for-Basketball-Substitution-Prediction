@@ -1,0 +1,436 @@
+,game number,play,time,score,team,current_sub_status,future_sub_status
+22759,50,K. Middleton misses 3-pt jump shot from 26 ft,11:32.0,0-0,Milwaukee,0,0.0
+22760,50,Defensive rebound by I. Okoro,11:30.0,0-0,Cleveland,0,0.0
+22761,50,D. Wade misses 3-pt jump shot from 24 ft,11:08.0,0-0,Cleveland,0,0.0
+22762,50,Defensive rebound by B. Portis,11:06.0,0-0,Milwaukee,0,0.0
+22763,50,Turnover by G. Antetokounmpo (traveling),11:03.0,0-0,Milwaukee,0,0.0
+22764,50,I. Okoro misses 3-pt jump shot from 25 ft,10:47.0,0-0,Cleveland,0,0.0
+22765,50,Defensive rebound by G. Antetokounmpo,10:43.0,0-0,Milwaukee,0,0.0
+22766,50,P. Connaughton makes 3-pt jump shot from 23 ft (assist by B. Portis),10:38.0,3-0,Milwaukee,0,0.0
+22767,50,J. Allen makes 2-pt dunk from 1 ft (assist by D. Garland),10:25.0,3-2,Cleveland,0,0.0
+22768,50,Turnover by K. Middleton (bad pass; steal by I. Okoro),10:12.0,3-2,Milwaukee,0,0.0
+22769,50,E. Mobley misses 3-pt jump shot from 25 ft,10:04.0,3-2,Cleveland,0,0.0
+22770,50,Defensive rebound by G. Antetokounmpo,10:01.0,3-2,Milwaukee,0,0.0
+22771,50,B. Portis makes 3-pt jump shot from 26 ft (assist by G. Antetokounmpo),9:54.0,6-2,Milwaukee,0,0.0
+22772,50,J. Allen makes 2-pt hook shot from 4 ft (assist by D. Garland),9:26.0,6-4,Cleveland,0,0.0
+22773,50,K. Middleton makes 3-pt jump shot from 23 ft (assist by G. Antetokounmpo),9:18.0,9-4,Milwaukee,0,0.0
+22774,50,I. Okoro makes 3-pt jump shot from 24 ft (assist by E. Mobley),8:59.0,9-7,Cleveland,0,0.0
+22775,50,G. Antetokounmpo misses 2-pt hook shot from 6 ft,8:47.0,9-7,Milwaukee,0,0.0
+22776,50,Defensive rebound by E. Mobley,8:45.0,9-7,Cleveland,0,0.0
+22777,50,D. Garland makes 2-pt jump shot from 9 ft,8:38.0,9-9,Cleveland,0,0.0
+22778,50,B. Portis makes 2-pt jump shot from 21 ft (assist by K. Middleton),8:21.0,11-9,Milwaukee,0,0.0
+22779,50,J. Allen misses 2-pt layup from 1 ft,8:07.0,11-9,Cleveland,0,0.0
+22780,50,Offensive rebound by Team,8:07.0,11-9,Cleveland,0,0.0
+22781,50,Personal foul by B. Portis (drawn by J. Allen),8:07.0,11-9,Cleveland,0,1.0
+22782,50,D. Garland makes 2-pt jump shot from 19 ft,7:53.0,11-11,Cleveland,0,0.0
+22783,50,P. Connaughton makes 2-pt layup from 1 ft (assist by G. Antetokounmpo),7:35.0,13-11,Milwaukee,0,0.0
+22784,50,E. Mobley misses 2-pt hook shot from 2 ft,7:09.0,13-11,Cleveland,0,0.0
+22785,50,Offensive rebound by J. Allen,7:08.0,13-11,Cleveland,0,0.0
+22786,50,J. Allen misses 2-pt layup at rim,7:08.0,13-11,Cleveland,0,0.0
+22787,50,Defensive rebound by G. Antetokounmpo,7:08.0,13-11,Milwaukee,0,0.0
+22788,50,Shooting foul by I. Okoro (drawn by B. Portis),7:05.0,13-11,Milwaukee,0,1.0
+22789,50,B. Portis misses free throw 1 of 2,7:05.0,13-11,Milwaukee,0,0.0
+22790,50,Offensive rebound by Team,7:05.0,13-11,Milwaukee,0,0.0
+22791,50,D. DiVincenzo enters the game for K. Middleton,7:05.0,13-11,Milwaukee,1,0.0
+22792,50,B. Portis makes free throw 2 of 2,7:05.0,14-11,Milwaukee,0,0.0
+22793,50,E. Mobley misses 3-pt jump shot from 25 ft,6:52.0,14-11,Cleveland,0,0.0
+22794,50,Defensive rebound by P. Connaughton,6:49.0,14-11,Milwaukee,0,0.0
+22795,50,D. DiVincenzo makes 3-pt jump shot from 23 ft (assist by J. Holiday),6:29.0,17-11,Milwaukee,0,0.0
+22796,50,D. Garland makes 3-pt jump shot from 33 ft (assist by I. Okoro),6:11.0,17-14,Cleveland,0,0.0
+22797,50,Milwaukee full timeout,6:10.0,17-14,Milwaukee,0,0.0
+22798,50,K. Middleton enters the game for G. Antetokounmpo,6:10.0,17-14,Milwaukee,1,0.0
+22799,50,K. Love enters the game for J. Allen,6:10.0,17-14,Cleveland,0,0.0
+22800,50,C. Osman enters the game for D. Wade,6:10.0,17-14,Cleveland,0,0.0
+22801,50,J. Holiday makes 2-pt hook shot from 6 ft,5:52.0,19-14,Milwaukee,0,0.0
+22802,50,E. Mobley misses 2-pt jump shot from 16 ft,5:34.0,19-14,Cleveland,0,0.0
+22803,50,Defensive rebound by Team,5:33.0,19-14,Milwaukee,0,0.0
+22804,50,K. Middleton makes 3-pt jump shot from 28 ft,5:23.0,22-14,Milwaukee,0,0.0
+22805,50,C. Osman makes 3-pt jump shot from 24 ft (assist by I. Okoro),5:06.0,22-17,Cleveland,0,0.0
+22806,50,Turnover by J. Holiday (bad pass; steal by D. Garland),4:58.0,22-17,Milwaukee,0,0.0
+22807,50,K. Love makes 3-pt jump shot from 24 ft (assist by D. Garland),4:51.0,22-20,Cleveland,0,1.0
+22808,50,B. Portis makes 2-pt dunk from 1 ft (assist by J. Holiday),4:39.0,24-20,Milwaukee,0,1.0
+22809,50,Turnover by C. Osman (lost ball; steal by D. DiVincenzo),4:23.0,24-20,Cleveland,0,0.0
+22810,50,J. Holiday makes 2-pt layup from 1 ft (assist by D. DiVincenzo),4:17.0,26-20,Milwaukee,0,0.0
+22811,50,K. Love misses 2-pt jump shot from 18 ft,3:56.0,26-20,Cleveland,0,0.0
+22812,50,Defensive rebound by D. DiVincenzo,3:53.0,26-20,Milwaukee,0,0.0
+22813,50,P. Connaughton makes 3-pt jump shot from 28 ft (assist by J. Holiday),3:43.0,29-20,Milwaukee,0,0.0
+22814,50,Shooting foul by J. Holiday (drawn by D. Garland),3:30.0,29-20,Cleveland,0,0.0
+22815,50,D. Garland misses free throw 1 of 2,3:30.0,29-20,Cleveland,0,0.0
+22816,50,Offensive rebound by Team,3:30.0,29-20,Cleveland,0,1.0
+22817,50,G. Hill enters the game for P. Connaughton,3:30.0,29-20,Milwaukee,1,1.0
+22818,50,J. Nwora enters the game for J. Holiday,3:30.0,29-20,Milwaukee,1,0.0
+22819,50,J. Allen enters the game for E. Mobley,3:30.0,29-20,Cleveland,0,0.0
+22820,50,L. Stevens enters the game for I. Okoro,3:30.0,29-20,Cleveland,0,0.0
+22821,50,D. Garland makes free throw 2 of 2,3:30.0,29-21,Cleveland,0,0.0
+22822,50,G. Hill misses 2-pt jump shot from 10 ft,3:19.0,29-21,Milwaukee,0,0.0
+22823,50,Offensive rebound by D. DiVincenzo,3:17.0,29-21,Milwaukee,0,0.0
+22824,50,D. DiVincenzo makes 2-pt layup at rim,3:17.0,31-21,Milwaukee,0,0.0
+22825,50,Cleveland full timeout,3:09.0,31-21,Cleveland,0,0.0
+22826,50,G. Antetokounmpo enters the game for K. Middleton,3:09.0,31-21,Milwaukee,1,0.0
+22827,50,S. Mamukelashvili enters the game for B. Portis,3:09.0,31-21,Milwaukee,1,0.0
+22828,50,R. Rondo enters the game for D. Garland,3:09.0,31-21,Cleveland,0,0.0
+22829,50,L. Stevens misses 2-pt jump shot from 6 ft (block by G. Hill),2:51.0,31-21,Cleveland,0,0.0
+22830,50,Defensive rebound by G. Hill,2:49.0,31-21,Milwaukee,0,0.0
+22831,50,G. Antetokounmpo makes 2-pt jump shot from 15 ft (assist by J. Nwora),2:29.0,33-21,Milwaukee,0,0.0
+22832,50,L. Stevens misses 2-pt jump shot from 15 ft,2:02.0,33-21,Cleveland,0,0.0
+22833,50,Defensive rebound by D. DiVincenzo,2:00.0,33-21,Milwaukee,0,0.0
+22834,50,Turnover by G. Antetokounmpo (bad pass; steal by J. Allen),1:54.0,33-21,Milwaukee,0,0.0
+22835,50,K. Love misses 3-pt jump shot from 24 ft,1:45.0,33-21,Cleveland,0,0.0
+22836,50,Offensive rebound by K. Love,1:43.0,33-21,Cleveland,0,0.0
+22837,50,K. Love makes 2-pt jump shot from 18 ft,1:42.0,33-23,Cleveland,0,0.0
+22838,50,J. Nwora misses 3-pt jump shot from 27 ft,1:23.0,33-23,Milwaukee,0,0.0
+22839,50,Defensive rebound by K. Love,1:23.0,33-23,Cleveland,0,0.0
+22840,50,R. Rondo misses 2-pt jump shot from 12 ft,1:07.0,33-23,Cleveland,0,0.0
+22841,50,Defensive rebound by G. Antetokounmpo,1:05.0,33-23,Milwaukee,0,0.0
+22842,50,Turnover by D. DiVincenzo (dbl dribble),0:48.0,33-23,Milwaukee,0,0.0
+22843,50,K. Love makes 3-pt jump shot from 27 ft (assist by C. Osman),0:38.0,33-26,Cleveland,0,0.0
+22844,50,G. Antetokounmpo makes 2-pt layup from 1 ft,0:29.0,35-26,Milwaukee,0,0.0
+22845,50,C. Osman misses 3-pt jump shot from 27 ft,0:03.0,35-26,Cleveland,0,0.0
+22846,50,Defensive rebound by J. Nwora,0:00.0,35-26,Milwaukee,0,0.0
+22847,50,J. Nwora misses 3-pt jump shot from 31 ft,0:00.0,35-26,Milwaukee,0,0.0
+22848,50,Offensive rebound by Team,0:00.0,35-26,Milwaukee,0,0.0
+22849,50,Turnover by K. Love (bad pass; steal by J. Nwora),11:43.0,35-26,Cleveland,0,0.0
+22850,50,J. Nwora makes 2-pt layup from 1 ft,11:41.0,37-26,Milwaukee,0,0.0
+22851,50,Violation by Team (def goaltending),11:41.0,37-26,Cleveland,0,0.0
+22852,50,C. Osman makes 3-pt jump shot from 26 ft (assist by R. Rondo),11:17.0,37-29,Cleveland,0,0.0
+22853,50,Personal foul by C. Osman (drawn by G. Antetokounmpo),11:11.0,37-29,Milwaukee,0,0.0
+22854,50,R. Hood misses 2-pt jump shot from 11 ft,11:00.0,37-29,Milwaukee,0,0.0
+22855,50,Defensive rebound by K. Love,10:57.0,37-29,Cleveland,0,0.0
+22856,50,C. Osman makes 3-pt jump shot from 24 ft (assist by R. Rondo),10:51.0,37-32,Cleveland,0,0.0
+22857,50,Turnover by G. Antetokounmpo (bad pass; steal by L. Stevens),10:39.0,37-32,Milwaukee,0,0.0
+22858,50,Turnover by L. Stevens (bad pass; steal by G. Antetokounmpo),10:37.0,37-32,Cleveland,0,0.0
+22859,50,Offensive foul by G. Antetokounmpo (drawn by K. Love),10:35.0,37-32,Milwaukee,0,1.0
+22860,50,Turnover by G. Antetokounmpo (offensive foul),10:35.0,37-32,Milwaukee,0,1.0
+22861,50,Personal foul by P. Connaughton (drawn by K. Love),10:29.0,37-32,Cleveland,0,0.0
+22862,50,Personal foul by J. Nwora (drawn by L. Stevens),10:20.0,37-32,Cleveland,0,0.0
+22863,50,R. Rondo misses 3-pt jump shot from 25 ft,10:06.0,37-32,Cleveland,0,0.0
+22864,50,Offensive rebound by C. Osman,10:03.0,37-32,Cleveland,0,0.0
+22865,50,C. Osman misses 2-pt layup from 3 ft,10:01.0,37-32,Cleveland,0,0.0
+22866,50,Offensive rebound by J. Allen,10:01.0,37-32,Cleveland,0,0.0
+22867,50,J. Allen makes 2-pt dunk at rim,10:00.0,37-34,Cleveland,0,0.0
+22868,50,Milwaukee full timeout,9:46.0,37-34,Milwaukee,0,0.0
+22869,50,J. Holiday enters the game for G. Hill,9:46.0,37-34,Milwaukee,1,0.0
+22870,50,K. Middleton enters the game for J. Nwora,9:46.0,37-34,Milwaukee,1,0.0
+22871,50,G. Antetokounmpo makes 2-pt dunk from 1 ft (assist by K. Middleton),9:38.0,39-34,Milwaukee,0,0.0
+22872,50,Turnover by K. Love (traveling),9:19.0,39-34,Cleveland,0,1.0
+22873,50,P. Connaughton misses 3-pt jump shot from 26 ft,9:06.0,39-34,Milwaukee,0,1.0
+22874,50,Defensive rebound by L. Stevens,9:06.0,39-34,Cleveland,0,0.0
+22875,50,K. Love makes 3-pt jump shot from 26 ft (assist by J. Allen),8:50.0,39-37,Cleveland,0,0.0
+22876,50,P. Connaughton makes 3-pt jump shot from 27 ft (assist by K. Middleton),8:44.0,42-37,Milwaukee,0,0.0
+22877,50,R. Rondo misses 2-pt jump shot from 22 ft (block by J. Holiday),8:19.0,42-37,Cleveland,0,0.0
+22878,50,Defensive rebound by J. Holiday,8:17.0,42-37,Milwaukee,0,0.0
+22879,50,Turnover by G. Antetokounmpo (bad pass; steal by R. Rondo),8:09.0,42-37,Milwaukee,0,0.0
+22880,50,C. Osman misses 3-pt jump shot from 26 ft,8:03.0,42-37,Cleveland,0,0.0
+22881,50,Offensive rebound by L. Stevens,8:02.0,42-37,Cleveland,0,0.0
+22882,50,D. DiVincenzo enters the game for G. Antetokounmpo,8:02.0,42-37,Milwaukee,1,0.0
+22883,50,B. Portis enters the game for R. Hood,8:02.0,42-37,Milwaukee,1,0.0
+22884,50,D. Garland enters the game for J. Allen,8:02.0,42-37,Cleveland,0,0.0
+22885,50,E. Mobley enters the game for R. Rondo,8:02.0,42-37,Cleveland,0,0.0
+22886,50,D. Garland makes 3-pt jump shot from 23 ft (assist by C. Osman),7:55.0,42-40,Cleveland,0,0.0
+22887,50,K. Middleton makes 3-pt jump shot from 26 ft (assist by J. Holiday),7:39.0,45-40,Milwaukee,0,0.0
+22888,50,C. Osman makes 3-pt jump shot from 29 ft (assist by K. Love),7:14.0,45-43,Cleveland,0,0.0
+22889,50,J. Holiday misses 2-pt layup from 6 ft,7:03.0,45-43,Milwaukee,0,0.0
+22890,50,Defensive rebound by K. Love,7:01.0,45-43,Cleveland,0,0.0
+22891,50,C. Osman misses 3-pt jump shot from 23 ft,6:56.0,45-43,Cleveland,0,0.0
+22892,50,Defensive rebound by J. Holiday,6:54.0,45-43,Milwaukee,0,0.0
+22893,50,Turnover by K. Middleton (lost ball; steal by L. Stevens),6:46.0,45-43,Milwaukee,0,0.0
+22894,50,Turnover by C. Osman (lost ball; steal by D. DiVincenzo),6:42.0,45-43,Cleveland,0,0.0
+22895,50,Turnover by D. DiVincenzo (lost ball; steal by K. Love),6:38.0,45-43,Milwaukee,0,0.0
+22896,50,K. Love makes 3-pt jump shot from 27 ft,6:35.0,45-46,Cleveland,0,0.0
+22897,50,D. DiVincenzo misses 3-pt jump shot from 22 ft,6:19.0,45-46,Milwaukee,0,0.0
+22898,50,Offensive rebound by J. Holiday,6:18.0,45-46,Milwaukee,0,0.0
+22899,50,P. Connaughton misses 3-pt jump shot from 23 ft,6:14.0,45-46,Milwaukee,0,0.0
+22900,50,Defensive rebound by E. Mobley,6:13.0,45-46,Cleveland,0,0.0
+22901,50,E. Mobley makes 2-pt dunk from 3 ft (assist by D. Garland),5:56.0,45-48,Cleveland,0,1.0
+22902,50,Milwaukee full timeout,5:55.0,45-48,Milwaukee,0,0.0
+22903,50,I. Okoro enters the game for L. Stevens,5:55.0,45-48,Cleveland,0,0.0
+22904,50,B. Portis makes 2-pt jump shot from 8 ft,5:38.0,47-48,Milwaukee,0,0.0
+22905,50,E. Mobley misses 2-pt layup from 3 ft (block by B. Portis),5:18.0,47-48,Cleveland,0,0.0
+22906,50,Offensive rebound by E. Mobley,5:18.0,47-48,Cleveland,0,0.0
+22907,50,E. Mobley makes 2-pt layup from 1 ft,5:17.0,47-50,Cleveland,0,0.0
+22908,50,Turnover by D. DiVincenzo (lost ball; steal by C. Osman),5:04.0,47-50,Milwaukee,0,0.0
+22909,50,C. Osman makes 2-pt layup at rim,5:00.0,47-52,Cleveland,0,0.0
+22910,50,Shooting foul by P. Connaughton (drawn by C. Osman),5:00.0,47-52,Cleveland,0,0.0
+22911,50,G. Hill enters the game for P. Connaughton,5:00.0,47-52,Milwaukee,1,0.0
+22912,50,C. Osman makes free throw 1 of 1,5:00.0,47-53,Cleveland,0,1.0
+22913,50,K. Middleton misses 3-pt jump shot from 31 ft,4:45.0,47-53,Milwaukee,0,0.0
+22914,50,Defensive rebound by C. Osman,4:45.0,47-53,Cleveland,0,0.0
+22915,50,D. Garland misses 2-pt jump shot from 21 ft,4:25.0,47-53,Cleveland,0,0.0
+22916,50,Defensive rebound by D. DiVincenzo,4:23.0,47-53,Milwaukee,0,0.0
+22917,50,K. Middleton makes 2-pt layup at rim (assist by D. DiVincenzo),4:21.0,49-53,Milwaukee,0,0.0
+22918,50,D. Garland makes 2-pt layup from 1 ft,4:02.0,49-55,Cleveland,0,0.0
+22919,50,B. Portis makes 2-pt jump shot from 15 ft (assist by K. Middleton),3:52.0,51-55,Milwaukee,0,0.0
+22920,50,Shooting foul by B. Portis (drawn by E. Mobley),3:29.0,51-55,Cleveland,0,0.0
+22921,50,E. Mobley makes free throw 1 of 2,3:29.0,51-56,Cleveland,0,0.0
+22922,50,G. Antetokounmpo enters the game for K. Middleton,3:29.0,51-56,Milwaukee,1,0.0
+22923,50,J. Allen enters the game for K. Love,3:29.0,51-56,Cleveland,0,0.0
+22924,50,E. Mobley makes free throw 2 of 2,3:29.0,51-57,Cleveland,0,0.0
+22925,50,J. Holiday misses 2-pt jump shot from 3 ft,3:15.0,51-57,Milwaukee,0,0.0
+22926,50,Defensive rebound by J. Allen,3:12.0,51-57,Cleveland,0,0.0
+22927,50,D. Garland misses 2-pt jump shot from 17 ft,3:07.0,51-57,Cleveland,0,0.0
+22928,50,Offensive rebound by E. Mobley,3:04.0,51-57,Cleveland,0,0.0
+22929,50,E. Mobley makes 2-pt dunk at rim (assist by D. Garland),2:53.0,51-59,Cleveland,0,0.0
+22930,50,Shooting foul by G. Antetokounmpo (drawn by E. Mobley),2:53.0,51-59,Cleveland,0,0.0
+22931,50,E. Mobley misses free throw 1 of 1,2:53.0,51-59,Cleveland,0,0.0
+22932,50,Defensive rebound by G. Hill,2:47.0,51-59,Milwaukee,0,1.0
+22933,50,Personal foul by E. Mobley (drawn by J. Holiday),2:36.0,51-59,Milwaukee,0,0.0
+22934,50,B. Portis misses 3-pt jump shot from 28 ft,2:23.0,51-59,Milwaukee,0,0.0
+22935,50,Offensive rebound by Team,2:22.0,51-59,Milwaukee,0,0.0
+22936,50,Loose ball foul by I. Okoro (drawn by J. Holiday),2:22.0,51-59,Cleveland,0,0.0
+22937,50,D. DiVincenzo misses 3-pt jump shot from 32 ft,2:14.0,51-59,Milwaukee,0,1.0
+22938,50,Defensive rebound by J. Allen,2:11.0,51-59,Cleveland,0,0.0
+22939,50,D. Garland misses 3-pt jump shot from 23 ft,1:56.0,51-59,Cleveland,0,0.0
+22940,50,Offensive rebound by J. Allen,1:55.0,51-59,Cleveland,0,0.0
+22941,50,Turnover by D. Garland (step out of bounds),1:54.0,51-59,Cleveland,0,0.0
+22942,50,K. Middleton enters the game for J. Holiday,1:54.0,51-59,Milwaukee,1,0.0
+22943,50,L. Stevens enters the game for I. Okoro,1:54.0,51-59,Cleveland,0,0.0
+22944,50,D. DiVincenzo misses 3-pt jump shot from 26 ft,1:31.0,51-59,Milwaukee,0,0.0
+22945,50,Offensive rebound by B. Portis,1:29.0,51-59,Milwaukee,0,0.0
+22946,50,Turnover by B. Portis (out of bounds lost ball),1:29.0,51-59,Milwaukee,0,0.0
+22947,50,J. Nwora enters the game for D. DiVincenzo,1:29.0,51-59,Milwaukee,1,0.0
+22948,50,C. Osman makes 3-pt jump shot from 24 ft (assist by D. Garland),1:13.0,51-62,Cleveland,0,0.0
+22949,50,G. Antetokounmpo misses 2-pt jump shot from 17 ft,1:04.0,51-62,Milwaukee,0,0.0
+22950,50,Offensive rebound by B. Portis,1:00.0,51-62,Milwaukee,0,1.0
+22951,50,B. Portis makes 2-pt layup from 1 ft,0:59.0,53-62,Milwaukee,0,0.0
+22952,50,L. Stevens misses 2-pt jump shot from 8 ft,0:42.0,53-62,Cleveland,0,0.0
+22953,50,Turnover by B. Portis (lost ball; steal by L. Stevens),0:39.0,53-62,Milwaukee,0,0.0
+22954,50,Defensive rebound by B. Portis,0:39.0,53-62,Milwaukee,0,0.0
+22955,50,J. Allen misses 2-pt layup from 1 ft,0:37.0,53-62,Cleveland,0,0.0
+22956,50,Defensive rebound by K. Middleton,0:36.0,53-62,Milwaukee,0,0.0
+22957,50,B. Portis makes 2-pt dunk from 2 ft (assist by G. Hill),0:32.0,55-62,Milwaukee,0,0.0
+22958,50,Technical foul by B. Portis,0:32.0,55-62,Milwaukee,0,0.0
+22959,50,D. Garland makes technical free throw,0:32.0,55-63,Cleveland,0,0.0
+22960,50,P. Connaughton enters the game for B. Portis,0:32.0,55-63,Milwaukee,1,0.0
+22961,50,D. Garland misses 2-pt jump shot from 8 ft,0:08.0,55-63,Cleveland,0,0.0
+22962,50,Offensive rebound by L. Stevens,0:07.0,55-63,Cleveland,0,0.0
+22963,50,L. Stevens misses 2-pt layup from 1 ft,0:07.0,55-63,Cleveland,0,0.0
+22964,50,Offensive rebound by J. Allen,0:07.0,55-63,Cleveland,0,0.0
+22965,50,Personal foul by K. Middleton (drawn by J. Allen),0:07.0,55-63,Cleveland,0,0.0
+22966,50,J. Allen makes free throw 1 of 2,0:07.0,55-64,Cleveland,0,0.0
+22967,50,D. Wade enters the game for D. Garland,0:07.0,55-64,Cleveland,0,0.0
+22968,50,J. Allen makes free throw 2 of 2,0:07.0,55-65,Cleveland,0,0.0
+22969,50,G. Antetokounmpo makes 2-pt layup from 4 ft,0:02.0,57-65,Milwaukee,0,0.0
+22970,50,I. Okoro misses 3-pt jump shot from 23 ft,11:47.0,57-65,Cleveland,0,0.0
+22971,50,Defensive rebound by J. Holiday,11:44.0,57-65,Milwaukee,0,0.0
+22972,50,G. Antetokounmpo makes 2-pt dunk from 1 ft (assist by P. Connaughton),11:39.0,59-65,Milwaukee,0,0.0
+22973,50,D. Wade makes 2-pt jump shot from 16 ft,11:15.0,59-67,Cleveland,0,0.0
+22974,50,B. Portis misses 2-pt jump shot from 9 ft,11:06.0,59-67,Milwaukee,0,0.0
+22975,50,Defensive rebound by D. Wade,11:04.0,59-67,Cleveland,0,0.0
+22976,50,D. Garland makes 3-pt jump shot from 33 ft (assist by D. Wade),10:52.0,59-70,Cleveland,0,0.0
+22977,50,Personal foul by D. Wade (drawn by K. Middleton),10:42.0,59-70,Milwaukee,0,0.0
+22978,50,Turnover by G. Antetokounmpo (out of bounds lost ball),10:40.0,59-70,Milwaukee,0,0.0
+22979,50,E. Mobley makes 3-pt jump shot from 26 ft (assist by D. Garland),10:29.0,59-73,Cleveland,0,0.0
+22980,50,B. Portis misses 3-pt jump shot from 25 ft,10:13.0,59-73,Milwaukee,0,0.0
+22981,50,Defensive rebound by J. Allen,10:11.0,59-73,Cleveland,0,0.0
+22982,50,D. Wade makes 3-pt jump shot from 25 ft (assist by I. Okoro),10:04.0,59-76,Cleveland,0,0.0
+22983,50,Milwaukee full timeout,10:03.0,59-76,Milwaukee,0,0.0
+22984,50,Shooting foul by J. Allen (drawn by G. Antetokounmpo),9:44.0,59-76,Milwaukee,0,0.0
+22985,50,G. Antetokounmpo makes free throw 1 of 2,9:44.0,60-76,Milwaukee,0,0.0
+22986,50,G. Antetokounmpo makes free throw 2 of 2,9:44.0,61-76,Milwaukee,0,0.0
+22987,50,E. Mobley misses 2-pt jump shot from 7 ft,9:26.0,61-76,Cleveland,0,0.0
+22988,50,Defensive rebound by J. Holiday,9:24.0,61-76,Milwaukee,0,0.0
+22989,50,Personal foul by I. Okoro (drawn by K. Middleton),9:18.0,61-76,Milwaukee,0,0.0
+22990,50,K. Middleton makes 2-pt jump shot from 13 ft,9:05.0,63-76,Milwaukee,0,0.0
+22991,50,Personal foul by J. Holiday (drawn by E. Mobley),8:49.0,63-76,Cleveland,0,0.0
+22992,50,E. Mobley misses 2-pt layup from 1 ft,8:42.0,63-76,Cleveland,0,0.0
+22993,50,Defensive rebound by P. Connaughton,8:39.0,63-76,Milwaukee,0,0.0
+22994,50,J. Holiday misses 2-pt layup from 1 ft (block by E. Mobley),8:34.0,63-76,Milwaukee,0,0.0
+22995,50,Defensive rebound by D. Garland,8:31.0,63-76,Cleveland,0,0.0
+22996,50,J. Allen misses 2-pt hook shot from 4 ft,8:13.0,63-76,Cleveland,0,0.0
+22997,50,Offensive rebound by E. Mobley,8:12.0,63-76,Cleveland,0,0.0
+22998,50,Shooting foul by K. Middleton (drawn by E. Mobley),8:12.0,63-76,Cleveland,0,0.0
+22999,50,E. Mobley makes free throw 1 of 2,8:12.0,63-77,Cleveland,0,1.0
+23000,50,E. Mobley makes free throw 2 of 2,8:12.0,63-78,Cleveland,0,0.0
+23001,50,Turnover by J. Holiday (bad pass),8:04.0,63-78,Milwaukee,0,0.0
+23002,50,D. Garland misses 3-pt jump shot from 31 ft,7:55.0,63-78,Cleveland,0,0.0
+23003,50,Defensive rebound by P. Connaughton,7:52.0,63-78,Milwaukee,0,0.0
+23004,50,G. Antetokounmpo makes 3-pt jump shot from 25 ft (assist by J. Holiday),7:43.0,66-78,Milwaukee,0,0.0
+23005,50,D. Wade makes 3-pt jump shot from 26 ft,7:19.0,66-81,Cleveland,0,0.0
+23006,50,Personal foul by D. Wade (drawn by G. Antetokounmpo),7:10.0,66-81,Milwaukee,0,0.0
+23007,50,Shooting foul by J. Allen (drawn by G. Antetokounmpo),6:55.0,66-81,Milwaukee,0,0.0
+23008,50,G. Antetokounmpo makes free throw 1 of 2,6:55.0,67-81,Milwaukee,0,1.0
+23009,50,D. DiVincenzo enters the game for B. Portis,6:55.0,67-81,Milwaukee,1,0.0
+23010,50,G. Antetokounmpo makes free throw 2 of 2,6:55.0,68-81,Milwaukee,0,0.0
+23011,50,J. Allen makes 2-pt jump shot from 15 ft (assist by D. Wade),6:33.0,68-83,Cleveland,0,0.0
+23012,50,J. Holiday misses 2-pt layup from 1 ft,6:22.0,68-83,Milwaukee,0,0.0
+23013,50,Defensive rebound by J. Allen,6:19.0,68-83,Cleveland,0,0.0
+23014,50,D. Garland makes 2-pt layup from 2 ft (assist by D. Wade),6:16.0,68-85,Cleveland,0,0.0
+23015,50,G. Antetokounmpo misses 3-pt jump shot from 23 ft,6:07.0,68-85,Milwaukee,0,0.0
+23016,50,Defensive rebound by E. Mobley,6:03.0,68-85,Cleveland,0,0.0
+23017,50,Cleveland full timeout,6:01.0,68-85,Cleveland,0,0.0
+23018,50,B. Portis enters the game for G. Antetokounmpo,6:01.0,68-85,Milwaukee,1,0.0
+23019,50,K. Love enters the game for D. Garland,6:01.0,68-85,Cleveland,0,0.0
+23020,50,R. Rondo enters the game for E. Mobley,6:01.0,68-85,Cleveland,0,1.0
+23021,50,R. Rondo misses 3-pt jump shot from 33 ft,5:44.0,68-85,Cleveland,0,0.0
+23022,50,Offensive rebound by Team,5:43.0,68-85,Cleveland,0,0.0
+23023,50,Turnover by Team (shot clock),5:43.0,68-85,Cleveland,0,0.0
+23024,50,K. Middleton misses 3-pt jump shot from 25 ft,5:36.0,68-85,Milwaukee,0,0.0
+23025,50,Defensive rebound by K. Love,5:34.0,68-85,Cleveland,0,0.0
+23026,50,K. Love misses 3-pt jump shot from 26 ft,5:28.0,68-85,Cleveland,0,0.0
+23027,50,Defensive rebound by K. Middleton,5:20.0,68-85,Milwaukee,0,1.0
+23028,50,B. Portis makes 2-pt hook shot from 8 ft,5:13.0,70-85,Milwaukee,0,0.0
+23029,50,Personal foul by K. Middleton (drawn by K. Love),5:01.0,70-85,Cleveland,0,0.0
+23030,50,J. Nwora enters the game for P. Connaughton,5:01.0,70-85,Milwaukee,1,0.0
+23031,50,C. Osman enters the game for D. Wade,5:01.0,70-85,Cleveland,0,0.0
+23032,50,Shooting foul by J. Holiday (drawn by K. Love),4:48.0,70-85,Cleveland,0,0.0
+23033,50,K. Love makes free throw 1 of 2,4:48.0,70-86,Cleveland,0,0.0
+23034,50,K. Love makes free throw 2 of 2,4:48.0,70-87,Cleveland,0,0.0
+23035,50,Personal foul by J. Allen (drawn by K. Middleton),4:42.0,70-87,Milwaukee,0,0.0
+23036,50,K. Middleton makes free throw 1 of 2,4:42.0,71-87,Milwaukee,0,0.0
+23037,50,G. Hill enters the game for J. Holiday,4:42.0,71-87,Milwaukee,1,0.0
+23038,50,K. Middleton makes free throw 2 of 2,4:42.0,72-87,Milwaukee,0,0.0
+23039,50,Turnover by K. Love (lost ball; steal by G. Hill),4:26.0,72-87,Cleveland,0,0.0
+23040,50,D. DiVincenzo misses 2-pt layup from 2 ft (block by I. Okoro),4:23.0,72-87,Milwaukee,0,0.0
+23041,50,Offensive rebound by Team,4:23.0,72-87,Milwaukee,0,0.0
+23042,50,G. Hill misses 3-pt jump shot from 23 ft,4:17.0,72-87,Milwaukee,0,0.0
+23043,50,Offensive rebound by K. Middleton,4:13.0,72-87,Milwaukee,0,0.0
+23044,50,D. DiVincenzo misses 3-pt jump shot from 26 ft,4:11.0,72-87,Milwaukee,0,0.0
+23045,50,Defensive rebound by C. Osman,4:04.0,72-87,Cleveland,0,0.0
+23046,50,K. Love misses 2-pt jump shot from 14 ft,3:50.0,72-87,Cleveland,0,0.0
+23047,50,Defensive rebound by J. Nwora,3:47.0,72-87,Milwaukee,0,0.0
+23048,50,K. Middleton misses 2-pt layup from 1 ft,3:42.0,72-87,Milwaukee,0,0.0
+23049,50,Defensive rebound by K. Love,3:40.0,72-87,Cleveland,0,0.0
+23050,50,C. Osman makes 2-pt layup from 1 ft,3:32.0,72-89,Cleveland,0,0.0
+23051,50,Offensive foul by D. DiVincenzo (drawn by I. Okoro),3:23.0,72-89,Milwaukee,0,0.0
+23052,50,Turnover by D. DiVincenzo (offensive foul),3:23.0,72-89,Milwaukee,0,0.0
+23053,50,E. Mobley enters the game for J. Allen,3:23.0,72-89,Cleveland,0,0.0
+23054,50,L. Stevens enters the game for I. Okoro,3:23.0,72-89,Cleveland,0,1.0
+23055,50,E. Mobley makes 2-pt layup from 2 ft (assist by K. Love),3:04.0,72-91,Cleveland,0,1.0
+23056,50,K. Middleton misses 2-pt jump shot from 12 ft,2:49.0,72-91,Milwaukee,0,0.0
+23057,50,Offensive rebound by D. DiVincenzo,2:45.0,72-91,Milwaukee,0,0.0
+23058,50,D. DiVincenzo misses 2-pt layup at rim,2:45.0,72-91,Milwaukee,0,0.0
+23059,50,Defensive rebound by K. Love,2:44.0,72-91,Cleveland,0,0.0
+23060,50,K. Love makes 2-pt jump shot from 14 ft (assist by R. Rondo),2:23.0,72-93,Cleveland,0,0.0
+23061,50,Turnover by K. Middleton (lost ball; steal by C. Osman),2:01.0,72-93,Milwaukee,0,0.0
+23062,50,C. Osman misses 3-pt jump shot from 26 ft,1:55.0,72-93,Cleveland,0,0.0
+23063,50,Defensive rebound by Team,1:55.0,72-93,Milwaukee,0,0.0
+23064,50,G. Antetokounmpo enters the game for K. Middleton,1:55.0,72-93,Milwaukee,1,0.0
+23065,50,J. Holiday enters the game for B. Portis,1:55.0,72-93,Milwaukee,1,0.0
+23066,50,J. Holiday misses 3-pt jump shot from 26 ft,1:43.0,72-93,Milwaukee,0,0.0
+23067,50,Defensive rebound by R. Rondo,1:40.0,72-93,Cleveland,0,0.0
+23068,50,Offensive foul by R. Rondo (drawn by J. Nwora),1:36.0,72-93,Cleveland,0,0.0
+23069,50,Turnover by R. Rondo (offensive foul),1:36.0,72-93,Cleveland,0,0.0
+23070,50,D. DiVincenzo makes 2-pt dunk from 1 ft (assist by J. Holiday),1:23.0,74-93,Milwaukee,0,0.0
+23071,50,K. Love misses 2-pt layup from 5 ft,1:04.0,74-93,Cleveland,0,0.0
+23072,50,Offensive rebound by K. Love,0:56.0,74-93,Cleveland,0,0.0
+23073,50,K. Love makes 2-pt layup at rim,0:56.0,74-95,Cleveland,0,0.0
+23074,50,Shooting foul by L. Stevens (drawn by G. Antetokounmpo),0:36.0,74-95,Milwaukee,0,1.0
+23075,50,G. Antetokounmpo makes free throw 1 of 2,0:36.0,75-95,Milwaukee,0,0.0
+23076,50,G. Antetokounmpo misses free throw 2 of 2,0:36.0,75-95,Milwaukee,0,0.0
+23077,50,Offensive rebound by J. Holiday,0:34.0,75-95,Milwaukee,0,0.0
+23078,50,J. Holiday misses 2-pt hook shot from 2 ft (block by E. Mobley),0:34.0,75-95,Milwaukee,0,0.0
+23079,50,Defensive rebound by R. Rondo,0:31.0,75-95,Cleveland,0,0.0
+23080,50,K. Love misses 3-pt jump shot from 27 ft,0:12.0,75-95,Cleveland,0,0.0
+23081,50,Defensive rebound by G. Antetokounmpo,0:08.0,75-95,Milwaukee,0,0.0
+23082,50,Personal foul by E. Mobley (drawn by G. Antetokounmpo),0:03.0,75-95,Milwaukee,0,0.0
+23083,50,G. Antetokounmpo makes free throw 1 of 2,0:03.0,76-95,Milwaukee,0,1.0
+23084,50,T. Antetokounmpo enters the game for J. Holiday,0:03.0,76-95,Milwaukee,1,0.0
+23085,50,G. Antetokounmpo makes free throw 2 of 2,0:03.0,77-95,Milwaukee,0,0.0
+23086,50,G. Antetokounmpo misses 3-pt jump shot from 25 ft,11:41.0,77-95,Milwaukee,0,0.0
+23087,50,Defensive rebound by L. Stevens,11:37.0,77-95,Cleveland,0,0.0
+23088,50,Offensive foul by K. Love (drawn by P. Connaughton),11:35.0,77-95,Cleveland,0,0.0
+23089,50,Turnover by K. Love (offensive foul),11:35.0,77-95,Cleveland,0,0.0
+23090,50,J. Nwora misses 3-pt jump shot from 23 ft,11:21.0,77-95,Milwaukee,0,0.0
+23091,50,Defensive rebound by D. Garland,11:16.0,77-95,Cleveland,0,0.0
+23092,50,Shooting foul by G. Antetokounmpo (drawn by E. Mobley),11:04.0,77-95,Cleveland,0,0.0
+23093,50,K. Middleton enters the game for J. Nwora,11:04.0,77-95,Milwaukee,1,0.0
+23094,50,E. Mobley makes free throw 1 of 2,11:04.0,77-96,Cleveland,0,0.0
+23095,50,E. Mobley misses free throw 2 of 2,11:04.0,77-96,Cleveland,0,0.0
+23096,50,Defensive rebound by G. Antetokounmpo,11:04.0,77-96,Milwaukee,0,0.0
+23097,50,G. Antetokounmpo misses 2-pt dunk from 2 ft,10:56.0,77-96,Milwaukee,0,0.0
+23098,50,Offensive rebound by G. Antetokounmpo,10:55.0,77-96,Milwaukee,0,0.0
+23099,50,Shooting foul by E. Mobley (drawn by G. Antetokounmpo),10:54.0,77-96,Milwaukee,0,0.0
+23100,50,G. Antetokounmpo makes free throw 1 of 2,10:54.0,78-96,Milwaukee,0,0.0
+23101,50,G. Antetokounmpo makes free throw 2 of 2,10:54.0,79-96,Milwaukee,0,0.0
+23102,50,Turnover by K. Love (lost ball; steal by G. Hill),10:32.0,79-96,Cleveland,0,0.0
+23103,50,G. Antetokounmpo makes 2-pt dunk at rim (assist by G. Hill),10:27.0,81-96,Milwaukee,0,0.0
+23104,50,C. Osman misses 3-pt jump shot from 31 ft,10:05.0,81-96,Cleveland,0,0.0
+23105,50,Defensive rebound by G. Antetokounmpo,10:03.0,81-96,Milwaukee,0,1.0
+23106,50,Turnover by G. Antetokounmpo (lost ball; steal by K. Love),9:58.0,81-96,Milwaukee,0,0.0
+23107,50,K. Love makes 2-pt jump shot from 17 ft (assist by D. Garland),9:45.0,81-98,Cleveland,0,0.0
+23108,50,P. Connaughton misses 3-pt jump shot from 24 ft,9:31.0,81-98,Milwaukee,0,0.0
+23109,50,Defensive rebound by L. Stevens,9:24.0,81-98,Cleveland,0,0.0
+23110,50,C. Osman misses 3-pt jump shot from 34 ft,9:05.0,81-98,Cleveland,0,0.0
+23111,50,Defensive rebound by G. Antetokounmpo,9:03.0,81-98,Milwaukee,0,0.0
+23112,50,J. Holiday misses 3-pt jump shot from 29 ft,8:58.0,81-98,Milwaukee,0,0.0
+23113,50,Defensive rebound by E. Mobley,8:54.0,81-98,Cleveland,0,0.0
+23114,50,Cleveland full timeout,8:49.0,81-98,Cleveland,0,0.0
+23115,50,B. Portis enters the game for G. Hill,8:49.0,81-98,Milwaukee,1,0.0
+23116,50,J. Allen enters the game for D. Garland,8:49.0,81-98,Cleveland,0,0.0
+23117,50,I. Okoro enters the game for E. Mobley,8:49.0,81-98,Cleveland,0,1.0
+23118,50,R. Rondo enters the game for L. Stevens,8:49.0,81-98,Cleveland,0,0.0
+23119,50,K. Love makes 3-pt jump shot from 26 ft (assist by R. Rondo),8:39.0,81-101,Cleveland,0,0.0
+23120,50,G. Antetokounmpo misses 2-pt jump shot from 13 ft,8:25.0,81-101,Milwaukee,0,0.0
+23121,50,Defensive rebound by K. Love,8:22.0,81-101,Cleveland,0,0.0
+23122,50,K. Love misses 3-pt jump shot from 32 ft,8:05.0,81-101,Cleveland,0,1.0
+23123,50,Defensive rebound by P. Connaughton,8:03.0,81-101,Milwaukee,0,0.0
+23124,50,Personal foul by C. Osman (drawn by K. Middleton),8:00.0,81-101,Milwaukee,0,0.0
+23125,50,Shooting foul by K. Love (drawn by G. Antetokounmpo),7:49.0,81-101,Milwaukee,0,0.0
+23126,50,G. Antetokounmpo makes free throw 1 of 2,7:49.0,82-101,Milwaukee,0,0.0
+23127,50,D. DiVincenzo enters the game for P. Connaughton,7:49.0,82-101,Milwaukee,1,0.0
+23128,50,G. Antetokounmpo makes free throw 2 of 2,7:49.0,83-101,Milwaukee,0,1.0
+23129,50,R. Rondo makes 3-pt jump shot from 31 ft (assist by C. Osman),7:23.0,83-104,Cleveland,0,0.0
+23130,50,B. Portis makes 2-pt layup from 2 ft (assist by J. Holiday),7:11.0,85-104,Milwaukee,0,0.0
+23131,50,Personal foul by B. Portis (drawn by J. Allen),7:00.0,85-104,Cleveland,0,0.0
+23132,50,P. Connaughton enters the game for G. Antetokounmpo,7:00.0,85-104,Milwaukee,1,0.0
+23133,50,R. Rondo makes 2-pt layup from 1 ft,6:47.0,85-106,Cleveland,0,0.0
+23134,50,K. Middleton makes 2-pt jump shot from 12 ft,6:32.0,87-106,Milwaukee,0,0.0
+23135,50,Turnover by R. Rondo (bad pass; steal by K. Middleton),6:17.0,87-106,Cleveland,0,0.0
+23136,50,K. Middleton makes 2-pt jump shot from 7 ft,6:07.0,89-106,Milwaukee,0,0.0
+23137,50,Personal foul by K. Middleton (drawn by J. Allen),5:51.0,89-106,Cleveland,0,0.0
+23138,50,G. Hill enters the game for J. Holiday,5:51.0,89-106,Milwaukee,1,0.0
+23139,50,E. Mobley enters the game for K. Love,5:51.0,89-106,Cleveland,0,0.0
+23140,50,C. Osman makes 3-pt jump shot from 26 ft (assist by R. Rondo),5:43.0,89-109,Cleveland,0,0.0
+23141,50,B. Portis misses 2-pt jump shot from 21 ft,5:31.0,89-109,Milwaukee,0,0.0
+23142,50,Defensive rebound by I. Okoro,5:26.0,89-109,Cleveland,0,0.0
+23143,50,C. Osman misses 3-pt jump shot from 27 ft,5:08.0,89-109,Cleveland,0,0.0
+23144,50,Defensive rebound by K. Middleton,5:04.0,89-109,Milwaukee,0,0.0
+23145,50,K. Middleton misses 2-pt jump shot from 16 ft,4:52.0,89-109,Milwaukee,0,0.0
+23146,50,Defensive rebound by J. Allen,4:49.0,89-109,Cleveland,0,0.0
+23147,50,Turnover by R. Rondo (bad pass),4:35.0,89-109,Cleveland,0,0.0
+23148,50,D. DiVincenzo makes 2-pt jump shot from 5 ft,4:14.0,91-109,Milwaukee,0,0.0
+23149,50,J. Allen misses 2-pt hook shot from 7 ft,3:49.0,91-109,Cleveland,0,0.0
+23150,50,Defensive rebound by B. Portis,3:48.0,91-109,Milwaukee,0,0.0
+23151,50,B. Portis misses 3-pt jump shot from 27 ft,3:41.0,91-109,Milwaukee,0,0.0
+23152,50,Offensive rebound by G. Hill,3:35.0,91-109,Milwaukee,0,0.0
+23153,50,Milwaukee full timeout,3:33.0,91-109,Milwaukee,0,0.0
+23154,50,K. Middleton misses 3-pt jump shot from 25 ft,3:28.0,91-109,Milwaukee,0,0.0
+23155,50,Defensive rebound by Team,3:28.0,91-109,Cleveland,0,0.0
+23156,50,C. Osman misses 3-pt jump shot from 24 ft,3:11.0,91-109,Cleveland,0,0.0
+23157,50,Defensive rebound by B. Portis,3:08.0,91-109,Milwaukee,0,1.0
+23158,50,K. Middleton makes 2-pt jump shot from 12 ft,2:58.0,93-109,Milwaukee,0,1.0
+23159,50,R. Rondo misses 3-pt jump shot from 35 ft,2:36.0,93-109,Cleveland,0,1.0
+23160,50,Defensive rebound by P. Connaughton,2:32.0,93-109,Milwaukee,0,1.0
+23161,50,G. Hill misses 3-pt jump shot from 24 ft,2:18.0,93-109,Milwaukee,0,0.0
+23162,50,Offensive rebound by B. Portis,2:16.0,93-109,Milwaukee,0,0.0
+23163,50,B. Portis makes 2-pt layup from 1 ft,2:14.0,95-109,Milwaukee,0,0.0
+23164,50,Personal foul by G. Hill (drawn by E. Mobley),1:54.0,95-109,Cleveland,0,0.0
+23165,50,Milwaukee full timeout,1:54.0,95-109,Milwaukee,0,0.0
+23166,50,Instant Replay (Challenge: Ruling Stands),1:54.0,95-109,Milwaukee,0,0.0
+23167,50,T. Antetokounmpo enters the game for P. Connaughton,1:54.0,95-109,Milwaukee,1,0.0
+23168,50,S. Mamukelashvili enters the game for G. Hill,1:54.0,95-109,Milwaukee,1,0.0
+23169,50,J. Nwora enters the game for K. Middleton,1:54.0,95-109,Milwaukee,1,0.0
+23170,50,S. Ojeleye enters the game for B. Portis,1:54.0,95-109,Milwaukee,1,0.0
+23171,50,R. Rondo misses 3-pt jump shot from 25 ft,1:38.0,95-109,Cleveland,0,0.0
+23172,50,Defensive rebound by Team,1:38.0,95-109,Milwaukee,0,0.0
+23173,50,Loose ball foul by J. Allen (drawn by S. Mamukelashvili),1:38.0,95-109,Cleveland,0,0.0
+23174,50,D. Wade enters the game for R. Rondo,1:38.0,95-109,Cleveland,0,0.0
+23175,50,D. DiVincenzo misses 2-pt layup from 1 ft,1:27.0,95-109,Milwaukee,0,0.0
+23176,50,Defensive rebound by J. Allen,1:25.0,95-109,Cleveland,0,0.0
+23177,50,D. Wade makes 2-pt layup from 2 ft (assist by C. Osman),1:12.0,95-111,Cleveland,0,0.0
+23178,50,Shooting foul by D. Wade (drawn by J. Nwora),1:02.0,95-111,Milwaukee,0,0.0
+23179,50,J. Nwora makes free throw 1 of 2,1:02.0,96-111,Milwaukee,0,0.0
+23180,50,E. Davis enters the game for J. Allen,1:02.0,96-111,Cleveland,0,0.0
+23181,50,B. Goodwin enters the game for E. Mobley,1:02.0,96-111,Cleveland,0,0.0
+23182,50,K. Pangos enters the game for I. Okoro,1:02.0,96-111,Cleveland,0,0.0
+23183,50,L. Stevens enters the game for C. Osman,1:02.0,96-111,Cleveland,0,0.0
+23184,50,D. Windler enters the game for D. Wade,1:02.0,96-111,Cleveland,0,
+23185,50,J. Nwora makes free throw 2 of 2,1:02.0,97-111,Milwaukee,0,
+23186,50,Personal foul by T. Antetokounmpo (drawn by L. Stevens),0:41.0,97-111,Cleveland,0,
+23187,50,L. Stevens makes free throw 1 of 2,0:41.0,97-112,Cleveland,0,
+23188,50,L. Stevens makes free throw 2 of 2,0:41.0,97-113,Cleveland,0,
+23189,50,Turnover by J. Nwora (bad pass),0:31.0,97-113,Milwaukee,0,
+23190,50,L. Stevens makes 2-pt layup from 1 ft,0:22.0,97-115,Cleveland,0,
+23191,50,J. Nwora misses 2-pt jump shot from 9 ft,0:11.0,97-115,Milwaukee,0,
+23192,50,Offensive rebound by Team,0:10.0,97-115,Milwaukee,0,
+23193,50,S. Ojeleye makes 2-pt dunk from 1 ft (assist by D. DiVincenzo),0:08.0,99-115,Milwaukee,0,

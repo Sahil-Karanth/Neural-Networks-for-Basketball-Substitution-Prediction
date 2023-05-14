@@ -1,0 +1,463 @@
+,game number,play,time,score,team,current_sub_status,future_sub_status
+30235,66,B. Portis misses 3-pt jump shot from 26 ft,11:43.0,0-0,Milwaukee,0,0.0
+30236,66,Defensive rebound by D. Bazley,11:41.0,0-0,Oklahoma City,0,0.0
+30237,66,I. Roby makes 3-pt jump shot from 27 ft (assist by S. Gilgeous-Alexander),11:30.0,0-3,Oklahoma City,0,0.0
+30238,66,G. Antetokounmpo misses 2-pt jump shot from 13 ft,11:18.0,0-3,Milwaukee,0,0.0
+30239,66,Offensive rebound by B. Portis,11:14.0,0-3,Milwaukee,0,0.0
+30240,66,B. Portis makes 2-pt layup from 1 ft,11:13.0,2-3,Milwaukee,0,0.0
+30241,66,T. Mann makes 3-pt jump shot from 26 ft (assist by S. Gilgeous-Alexander),11:02.0,2-6,Oklahoma City,0,0.0
+30242,66,Turnover by K. Middleton (lost ball; steal by S. Gilgeous-Alexander),10:53.0,2-6,Milwaukee,0,0.0
+30243,66,D. Bazley makes 2-pt layup from 4 ft (assist by S. Gilgeous-Alexander),10:48.0,2-8,Oklahoma City,0,0.0
+30244,66,K. Middleton makes 3-pt jump shot from 27 ft (assist by B. Portis),10:39.0,5-8,Milwaukee,0,0.0
+30245,66,S. Gilgeous-Alexander misses 2-pt jump shot from 10 ft,10:20.0,5-8,Oklahoma City,0,0.0
+30246,66,Defensive rebound by J. Holiday,10:17.0,5-8,Milwaukee,0,0.0
+30247,66,Shooting foul by A. Wiggins (drawn by G. Antetokounmpo),10:12.0,5-8,Milwaukee,0,0.0
+30248,66,G. Antetokounmpo makes free throw 1 of 2,10:12.0,6-8,Milwaukee,0,0.0
+30249,66,G. Antetokounmpo misses free throw 2 of 2,10:12.0,6-8,Milwaukee,0,0.0
+30250,66,Offensive rebound by B. Portis,10:10.0,6-8,Milwaukee,0,0.0
+30251,66,B. Portis misses 2-pt layup from 3 ft,10:08.0,6-8,Milwaukee,0,0.0
+30252,66,Defensive rebound by S. Gilgeous-Alexander,10:05.0,6-8,Oklahoma City,0,0.0
+30253,66,Turnover by S. Gilgeous-Alexander (bad pass; steal by B. Portis),10:01.0,6-8,Oklahoma City,0,0.0
+30254,66,J. Holiday makes 2-pt jump shot from 13 ft,9:51.0,8-8,Milwaukee,0,0.0
+30255,66,S. Gilgeous-Alexander makes 3-pt jump shot from 26 ft (assist by D. Bazley),9:37.0,8-11,Oklahoma City,0,0.0
+30256,66,J. Nwora makes 3-pt jump shot from 23 ft (assist by G. Antetokounmpo),9:18.0,11-11,Milwaukee,0,0.0
+30257,66,Violation by Team (delay of game),9:16.0,11-11,Milwaukee,0,0.0
+30258,66,Shooting foul by J. Holiday (drawn by S. Gilgeous-Alexander),9:02.0,11-11,Oklahoma City,0,0.0
+30259,66,S. Gilgeous-Alexander makes free throw 1 of 2,9:02.0,11-12,Oklahoma City,0,0.0
+30260,66,S. Gilgeous-Alexander makes free throw 2 of 2,9:02.0,11-13,Oklahoma City,0,0.0
+30261,66,K. Middleton makes 2-pt jump shot from 13 ft (assist by J. Holiday),8:45.0,13-13,Milwaukee,0,0.0
+30262,66,Turnover by S. Gilgeous-Alexander (lost ball; steal by B. Portis),8:35.0,13-13,Oklahoma City,0,0.0
+30263,66,Shooting foul by D. Bazley (drawn by B. Portis),8:32.0,13-13,Milwaukee,0,0.0
+30264,66,B. Portis makes free throw 1 of 2,8:32.0,14-13,Milwaukee,0,0.0
+30265,66,B. Portis makes free throw 2 of 2,8:32.0,15-13,Milwaukee,0,0.0
+30266,66,A. Wiggins makes 2-pt layup from 4 ft (assist by S. Gilgeous-Alexander),8:17.0,15-15,Oklahoma City,0,1.0
+30267,66,B. Portis makes 2-pt layup from 8 ft,8:01.0,17-15,Milwaukee,0,0.0
+30268,66,S. Gilgeous-Alexander makes 2-pt jump shot from 16 ft,7:48.0,17-17,Oklahoma City,0,0.0
+30269,66,J. Nwora misses 3-pt jump shot from 23 ft,7:37.0,17-17,Milwaukee,0,0.0
+30270,66,Offensive rebound by J. Holiday,7:36.0,17-17,Milwaukee,0,0.0
+30271,66,J. Nwora misses 2-pt layup from 8 ft,7:30.0,17-17,Milwaukee,0,0.0
+30272,66,Defensive rebound by D. Bazley,7:27.0,17-17,Oklahoma City,0,0.0
+30273,66,T. Mann misses 3-pt jump shot from 23 ft,7:17.0,17-17,Oklahoma City,0,0.0
+30274,66,Defensive rebound by J. Nwora,7:15.0,17-17,Milwaukee,0,0.0
+30275,66,Personal take foul by S. Gilgeous-Alexander (drawn by G. Antetokounmpo),7:14.0,17-17,Milwaukee,0,0.0
+30276,66,J. Carter enters the game for J. Holiday,7:14.0,17-17,Milwaukee,1,0.0
+30277,66,L. Waters enters the game for T. Mann,7:14.0,17-17,Oklahoma City,0,0.0
+30278,66,K. Middleton makes 2-pt jump shot from 18 ft (assist by J. Carter),7:09.0,19-17,Milwaukee,0,0.0
+30279,66,S. Gilgeous-Alexander makes 2-pt layup from 4 ft,6:52.0,19-19,Oklahoma City,0,0.0
+30280,66,B. Portis makes 2-pt layup from 4 ft (assist by K. Middleton),6:42.0,21-19,Milwaukee,0,0.0
+30281,66,Oklahoma City full timeout,6:42.0,21-19,Oklahoma City,0,0.0
+30282,66,S. Gilgeous-Alexander misses 2-pt jump shot from 13 ft,6:28.0,21-19,Oklahoma City,0,0.0
+30283,66,Defensive rebound by G. Antetokounmpo,6:24.0,21-19,Milwaukee,0,0.0
+30284,66,G. Antetokounmpo makes 2-pt dunk from 3 ft,6:13.0,23-19,Milwaukee,0,0.0
+30285,66,D. Bazley makes 2-pt dunk from 2 ft (assist by S. Gilgeous-Alexander),5:54.0,23-21,Oklahoma City,0,1.0
+30286,66,G. Antetokounmpo makes 3-pt jump shot from 25 ft (assist by J. Carter),5:43.0,26-21,Milwaukee,0,1.0
+30287,66,L. Waters misses 3-pt jump shot from 24 ft,5:16.0,26-21,Oklahoma City,0,0.0
+30288,66,Defensive rebound by G. Antetokounmpo,5:14.0,26-21,Milwaukee,0,0.0
+30289,66,J. Nwora misses 3-pt jump shot from 26 ft,5:01.0,26-21,Milwaukee,0,0.0
+30290,66,Offensive rebound by B. Portis,4:58.0,26-21,Milwaukee,0,0.0
+30291,66,B. Portis makes 2-pt layup from 6 ft,4:56.0,28-21,Milwaukee,0,0.0
+30292,66,L. Waters makes 3-pt jump shot from 24 ft (assist by I. Roby),4:35.0,28-24,Oklahoma City,0,0.0
+30293,66,Shooting foul by A. Wiggins (drawn by G. Antetokounmpo),4:26.0,28-24,Milwaukee,0,0.0
+30294,66,G. Antetokounmpo makes free throw 1 of 2,4:26.0,29-24,Milwaukee,0,0.0
+30295,66,S. Ibaka enters the game for K. Middleton,4:26.0,29-24,Milwaukee,1,0.0
+30296,66,S. Mamukelashvili enters the game for B. Portis,4:26.0,29-24,Milwaukee,1,0.0
+30297,66,A. Pokusevski enters the game for I. Roby,4:26.0,29-24,Oklahoma City,0,1.0
+30298,66,G. Antetokounmpo misses free throw 2 of 2,4:26.0,29-24,Milwaukee,0,0.0
+30299,66,Offensive rebound by S. Mamukelashvili,4:24.0,29-24,Milwaukee,0,0.0
+30300,66,G. Antetokounmpo misses 2-pt jump shot from 10 ft,4:22.0,29-24,Milwaukee,0,0.0
+30301,66,Defensive rebound by D. Bazley,4:21.0,29-24,Oklahoma City,0,1.0
+30302,66,Shooting foul by S. Mamukelashvili (drawn by S. Gilgeous-Alexander),4:16.0,29-24,Oklahoma City,0,0.0
+30303,66,Violation by Team (delay of game),4:16.0,29-24,Oklahoma City,0,0.0
+30304,66,S. Gilgeous-Alexander misses free throw 1 of 2,4:16.0,29-24,Oklahoma City,0,0.0
+30305,66,Offensive rebound by Team,4:16.0,29-24,Oklahoma City,0,0.0
+30306,66,S. Gilgeous-Alexander makes free throw 2 of 2,4:16.0,29-25,Oklahoma City,0,0.0
+30307,66,K. Middleton enters the game for G. Antetokounmpo,4:16.0,29-25,Milwaukee,1,0.0
+30308,66,V. Krejci enters the game for D. Bazley,4:16.0,29-25,Oklahoma City,0,0.0
+30309,66,Shooting foul by V. Krejci (drawn by S. Mamukelashvili),4:04.0,29-25,Milwaukee,0,0.0
+30310,66,S. Mamukelashvili makes free throw 1 of 2,4:04.0,30-25,Milwaukee,0,0.0
+30311,66,J. Holiday enters the game for J. Nwora,4:04.0,30-25,Milwaukee,1,0.0
+30312,66,S. Mamukelashvili makes free throw 2 of 2,4:04.0,31-25,Milwaukee,0,0.0
+30313,66,L. Waters misses 3-pt jump shot from 23 ft,3:47.0,31-25,Oklahoma City,0,0.0
+30314,66,Defensive rebound by S. Ibaka,3:42.0,31-25,Milwaukee,0,0.0
+30315,66,K. Middleton misses 2-pt jump shot from 19 ft,3:33.0,31-25,Milwaukee,0,0.0
+30316,66,Defensive rebound by S. Gilgeous-Alexander,3:31.0,31-25,Oklahoma City,0,0.0
+30317,66,A. Wiggins misses 2-pt layup from 5 ft,3:23.0,31-25,Oklahoma City,0,0.0
+30318,66,Defensive rebound by J. Holiday,3:21.0,31-25,Milwaukee,0,1.0
+30319,66,S. Ibaka misses 2-pt layup from 5 ft,3:14.0,31-25,Milwaukee,0,0.0
+30320,66,Offensive rebound by S. Ibaka,3:13.0,31-25,Milwaukee,0,0.0
+30321,66,S. Ibaka misses 2-pt layup from 4 ft,3:13.0,31-25,Milwaukee,0,0.0
+30322,66,Offensive rebound by S. Ibaka,3:13.0,31-25,Milwaukee,0,0.0
+30323,66,Turnover by S. Ibaka (lost ball; steal by S. Gilgeous-Alexander),3:08.0,31-25,Milwaukee,0,0.0
+30324,66,Shooting foul by S. Mamukelashvili (drawn by A. Pokusevski),3:02.0,31-25,Oklahoma City,0,0.0
+30325,66,A. Pokusevski makes free throw 1 of 2,3:02.0,31-26,Oklahoma City,0,0.0
+30326,66,A. Pokusevski makes free throw 2 of 2,3:02.0,31-27,Oklahoma City,0,0.0
+30327,66,Milwaukee full timeout,3:02.0,31-27,Milwaukee,0,0.0
+30328,66,D. Bembry enters the game for K. Middleton,3:02.0,31-27,Milwaukee,1,1.0
+30329,66,S. Ibaka makes 2-pt layup from 3 ft (assist by J. Holiday),2:44.0,33-27,Milwaukee,0,0.0
+30330,66,A. Pokusevski misses 3-pt jump shot from 25 ft,2:25.0,33-27,Oklahoma City,0,0.0
+30331,66,Defensive rebound by S. Ibaka,2:21.0,33-27,Milwaukee,0,0.0
+30332,66,J. Carter misses 3-pt jump shot from 25 ft,2:05.0,33-27,Milwaukee,0,0.0
+30333,66,Offensive rebound by J. Carter,2:03.0,33-27,Milwaukee,0,0.0
+30334,66,J. Holiday makes 2-pt layup from 6 ft,1:58.0,35-27,Milwaukee,0,0.0
+30335,66,S. Gilgeous-Alexander misses 2-pt layup from 6 ft,1:38.0,35-27,Oklahoma City,0,0.0
+30336,66,Defensive rebound by J. Carter,1:36.0,35-27,Milwaukee,0,0.0
+30337,66,Turnover by J. Carter (out of bounds lost ball),1:33.0,35-27,Milwaukee,0,0.0
+30338,66,W. Matthews enters the game for J. Carter,1:33.0,35-27,Milwaukee,1,0.0
+30339,66,Shooting foul by D. Bembry (drawn by S. Gilgeous-Alexander),1:20.0,35-27,Oklahoma City,0,0.0
+30340,66,S. Gilgeous-Alexander misses free throw 1 of 2,1:20.0,35-27,Oklahoma City,0,0.0
+30341,66,Offensive rebound by Team,1:20.0,35-27,Oklahoma City,0,0.0
+30342,66,O. Sarr enters the game for A. Wiggins,1:20.0,35-27,Oklahoma City,0,0.0
+30343,66,S. Gilgeous-Alexander misses free throw 2 of 2,1:20.0,35-27,Oklahoma City,0,0.0
+30344,66,Defensive rebound by S. Ibaka,1:17.0,35-27,Milwaukee,0,0.0
+30345,66,Turnover by J. Holiday (lost ball; steal by V. Krejci),1:03.0,35-27,Milwaukee,0,0.0
+30346,66,L. Waters makes 2-pt dunk from 2 ft (assist by S. Gilgeous-Alexander),1:00.0,35-29,Oklahoma City,0,0.0
+30347,66,J. Holiday makes 2-pt jump shot from 17 ft,0:50.0,37-29,Milwaukee,0,0.0
+30348,66,A. Pokusevski misses 2-pt layup from 4 ft,0:32.0,37-29,Oklahoma City,0,0.0
+30349,66,Offensive rebound by A. Pokusevski,0:30.0,37-29,Oklahoma City,0,0.0
+30350,66,A. Pokusevski makes 2-pt layup at rim,0:30.0,37-31,Oklahoma City,0,0.0
+30351,66,J. Holiday makes 2-pt jump shot from 16 ft,0:26.0,39-31,Milwaukee,0,0.0
+30352,66,S. Gilgeous-Alexander makes 3-pt jump shot from 28 ft,0:05.0,39-34,Oklahoma City,0,0.0
+30353,66,J. Holiday misses 3-pt jump shot from 38 ft,0:00.0,39-34,Milwaukee,0,0.0
+30354,66,Offensive rebound by Team,0:00.0,39-34,Milwaukee,0,0.0
+30355,66,Shooting foul by D. Bembry (drawn by T. Maledon),11:40.0,39-34,Oklahoma City,0,0.0
+30356,66,T. Maledon misses free throw 1 of 2,11:40.0,39-34,Oklahoma City,0,0.0
+30357,66,Offensive rebound by Team,11:40.0,39-34,Oklahoma City,0,0.0
+30358,66,T. Maledon makes free throw 2 of 2,11:40.0,39-35,Oklahoma City,0,0.0
+30359,66,S. Ibaka makes 3-pt jump shot from 26 ft (assist by G. Antetokounmpo),11:28.0,42-35,Milwaukee,0,0.0
+30360,66,A. Pokusevski makes 2-pt jump shot from 16 ft (assist by V. Krejci),11:03.0,42-37,Oklahoma City,0,1.0
+30361,66,S. Ibaka makes 2-pt dunk from 2 ft (assist by D. Bembry),10:50.0,44-37,Milwaukee,0,0.0
+30362,66,Turnover by T. Maledon (palming),10:36.0,44-37,Oklahoma City,0,0.0
+30363,66,D. Bazley enters the game for V. Krejci,10:36.0,44-37,Oklahoma City,0,0.0
+30364,66,G. Antetokounmpo makes 2-pt jump shot from 12 ft,10:26.0,46-37,Milwaukee,0,0.0
+30365,66,T. Mann makes 2-pt jump shot from 13 ft,10:08.0,46-39,Oklahoma City,0,0.0
+30366,66,G. Antetokounmpo makes 3-pt jump shot from 27 ft (assist by J. Holiday),10:01.0,49-39,Milwaukee,0,0.0
+30367,66,T. Mann makes 2-pt jump shot from 13 ft,9:50.0,49-41,Oklahoma City,0,0.0
+30368,66,Personal foul by D. Bazley (drawn by G. Antetokounmpo),9:34.0,49-41,Milwaukee,0,0.0
+30369,66,Personal foul by T. Mann (drawn by G. Antetokounmpo),9:26.0,49-41,Milwaukee,0,0.0
+30370,66,B. Portis enters the game for S. Ibaka,9:26.0,49-41,Milwaukee,1,0.0
+30371,66,Turnover by W. Matthews (bad pass; steal by T. Mann),9:18.0,49-41,Milwaukee,0,1.0
+30372,66,Offensive foul by O. Sarr (drawn by W. Matthews),9:12.0,49-41,Oklahoma City,0,0.0
+30373,66,Turnover by O. Sarr (offensive foul),9:12.0,49-41,Oklahoma City,0,0.0
+30374,66,G. Antetokounmpo makes 2-pt layup from 5 ft,9:02.0,51-41,Milwaukee,0,0.0
+30375,66,Shooting foul by T. Mann (drawn by G. Antetokounmpo),9:02.0,51-41,Milwaukee,0,0.0
+30376,66,G. Antetokounmpo makes free throw 1 of 1,9:02.0,52-41,Milwaukee,0,0.0
+30377,66,O. Sarr makes 3-pt jump shot from 23 ft (assist by T. Maledon),8:45.0,52-44,Oklahoma City,0,0.0
+30378,66,Offensive foul by G. Antetokounmpo (drawn by D. Bazley),8:38.0,52-44,Milwaukee,0,0.0
+30379,66,Turnover by G. Antetokounmpo (offensive foul),8:38.0,52-44,Milwaukee,0,1.0
+30380,66,Violation by Team (kicked ball),8:18.0,52-44,Milwaukee,0,1.0
+30381,66,K. Middleton enters the game for W. Matthews,8:18.0,52-44,Milwaukee,1,0.0
+30382,66,T. Mann makes 2-pt layup from 4 ft (assist by T. Maledon),8:12.0,52-46,Oklahoma City,0,0.0
+30383,66,B. Portis makes 3-pt jump shot from 23 ft (assist by D. Bembry),8:00.0,55-46,Milwaukee,0,0.0
+30384,66,D. Bazley misses 2-pt jump shot from 7 ft (block by G. Antetokounmpo),7:42.0,55-46,Oklahoma City,0,0.0
+30385,66,Offensive rebound by D. Bazley,7:40.0,55-46,Oklahoma City,0,0.0
+30386,66,Turnover by D. Bazley (bad pass; steal by G. Antetokounmpo),7:39.0,55-46,Oklahoma City,0,0.0
+30387,66,J. Holiday makes 3-pt jump shot from 27 ft (assist by K. Middleton),7:33.0,58-46,Milwaukee,0,0.0
+30388,66,Oklahoma City full timeout,7:31.0,58-46,Oklahoma City,0,0.0
+30389,66,J. Carter enters the game for D. Bembry,7:31.0,58-46,Milwaukee,1,0.0
+30390,66,J. Nwora enters the game for J. Holiday,7:31.0,58-46,Milwaukee,1,0.0
+30391,66,V. Krejci enters the game for A. Pokusevski,7:31.0,58-46,Oklahoma City,0,0.0
+30392,66,I. Roby enters the game for O. Sarr,7:31.0,58-46,Oklahoma City,0,0.0
+30393,66,D. Bazley misses 2-pt jump shot from 14 ft,7:13.0,58-46,Oklahoma City,0,0.0
+30394,66,Defensive rebound by G. Antetokounmpo,7:11.0,58-46,Milwaukee,0,0.0
+30395,66,K. Middleton makes 2-pt layup from 3 ft (assist by G. Antetokounmpo),7:00.0,60-46,Milwaukee,0,0.0
+30396,66,T. Maledon misses 3-pt jump shot from 26 ft,6:41.0,60-46,Oklahoma City,0,0.0
+30397,66,Defensive rebound by J. Nwora,6:38.0,60-46,Milwaukee,0,1.0
+30398,66,Personal foul by D. Bazley (drawn by G. Antetokounmpo),6:34.0,60-46,Milwaukee,0,0.0
+30399,66,S. Gilgeous-Alexander enters the game for D. Bazley,6:34.0,60-46,Oklahoma City,0,0.0
+30400,66,A. Pokusevski enters the game for T. Mann,6:34.0,60-46,Oklahoma City,0,0.0
+30401,66,J. Carter misses 2-pt jump shot from 9 ft,6:25.0,60-46,Milwaukee,0,0.0
+30402,66,Defensive rebound by I. Roby,6:22.0,60-46,Oklahoma City,0,0.0
+30403,66,S. Gilgeous-Alexander makes 2-pt layup from 3 ft,6:01.0,60-48,Oklahoma City,0,0.0
+30404,66,K. Middleton misses 3-pt jump shot from 26 ft,5:50.0,60-48,Milwaukee,0,0.0
+30405,66,Defensive rebound by T. Maledon,5:46.0,60-48,Oklahoma City,0,0.0
+30406,66,Personal foul by G. Antetokounmpo (drawn by S. Gilgeous-Alexander),5:41.0,60-48,Oklahoma City,0,0.0
+30407,66,S. Ibaka enters the game for G. Antetokounmpo,5:41.0,60-48,Milwaukee,1,0.0
+30408,66,Personal foul by K. Middleton (drawn by T. Maledon),5:35.0,60-48,Oklahoma City,0,0.0
+30409,66,S. Gilgeous-Alexander makes 2-pt jump shot from 10 ft,5:29.0,60-50,Oklahoma City,0,0.0
+30410,66,K. Middleton misses 2-pt layup from 5 ft (block by I. Roby),5:08.0,60-50,Milwaukee,0,0.0
+30411,66,Offensive rebound by S. Ibaka,5:05.0,60-50,Milwaukee,0,0.0
+30412,66,S. Ibaka makes 2-pt layup from 2 ft,5:05.0,62-50,Milwaukee,0,0.0
+30413,66,A. Pokusevski misses 3-pt jump shot from 25 ft,4:58.0,62-50,Oklahoma City,0,0.0
+30414,66,Defensive rebound by B. Portis,4:55.0,62-50,Milwaukee,0,0.0
+30415,66,J. Carter makes 3-pt jump shot from 23 ft (assist by K. Middleton),4:49.0,65-50,Milwaukee,0,0.0
+30416,66,Oklahoma City full timeout,4:48.0,65-50,Oklahoma City,0,0.0
+30417,66,L. Waters enters the game for V. Krejci,4:48.0,65-50,Oklahoma City,0,0.0
+30418,66,A. Wiggins enters the game for T. Maledon,4:48.0,65-50,Oklahoma City,0,0.0
+30419,66,I. Roby misses 2-pt layup from 3 ft,4:27.0,65-50,Oklahoma City,0,0.0
+30420,66,Defensive rebound by J. Nwora,4:25.0,65-50,Milwaukee,0,0.0
+30421,66,K. Middleton misses 2-pt jump shot from 21 ft,4:21.0,65-50,Milwaukee,0,0.0
+30422,66,Defensive rebound by I. Roby,4:17.0,65-50,Oklahoma City,0,0.0
+30423,66,Personal foul by J. Carter (drawn by S. Gilgeous-Alexander),4:13.0,65-50,Oklahoma City,0,0.0
+30424,66,I. Roby makes 2-pt dunk from 3 ft (assist by S. Gilgeous-Alexander),4:07.0,65-52,Oklahoma City,0,0.0
+30425,66,B. Portis misses 3-pt jump shot from 27 ft,3:53.0,65-52,Milwaukee,0,0.0
+30426,66,Offensive rebound by J. Nwora,3:51.0,65-52,Milwaukee,0,1.0
+30427,66,Turnover by J. Nwora (step out of bounds),3:51.0,65-52,Milwaukee,0,0.0
+30428,66,S. Gilgeous-Alexander misses 2-pt jump shot from 7 ft (block by S. Ibaka),3:39.0,65-52,Oklahoma City,0,0.0
+30429,66,Offensive rebound by A. Wiggins,3:36.0,65-52,Oklahoma City,0,0.0
+30430,66,S. Gilgeous-Alexander misses 2-pt layup from 4 ft (block by B. Portis),3:32.0,65-52,Oklahoma City,0,0.0
+30431,66,Offensive rebound by A. Pokusevski,3:30.0,65-52,Oklahoma City,0,0.0
+30432,66,L. Waters makes 3-pt jump shot from 27 ft (assist by A. Pokusevski),3:29.0,65-55,Oklahoma City,0,0.0
+30433,66,J. Carter makes 3-pt jump shot from 27 ft (assist by K. Middleton),3:13.0,68-55,Milwaukee,0,0.0
+30434,66,I. Roby makes 2-pt layup from 3 ft (assist by A. Pokusevski),2:59.0,68-57,Oklahoma City,0,0.0
+30435,66,Shooting foul by J. Nwora (drawn by I. Roby),2:59.0,68-57,Oklahoma City,0,0.0
+30436,66,J. Holiday enters the game for B. Portis,2:59.0,68-57,Milwaukee,1,0.0
+30437,66,T. Mann enters the game for A. Pokusevski,2:59.0,68-57,Oklahoma City,0,0.0
+30438,66,I. Roby makes free throw 1 of 1,2:59.0,68-58,Oklahoma City,0,0.0
+30439,66,J. Holiday misses 2-pt jump shot from 20 ft,2:49.0,68-58,Milwaukee,0,0.0
+30440,66,Defensive rebound by S. Gilgeous-Alexander,2:46.0,68-58,Oklahoma City,0,1.0
+30441,66,L. Waters makes 3-pt jump shot from 25 ft (assist by I. Roby),2:33.0,68-61,Oklahoma City,0,1.0
+30442,66,J. Nwora makes 2-pt layup from 3 ft (assist by J. Carter),2:18.0,70-61,Milwaukee,0,0.0
+30443,66,T. Mann misses 3-pt jump shot from 25 ft,2:04.0,70-61,Oklahoma City,0,0.0
+30444,66,Defensive rebound by S. Ibaka,2:01.0,70-61,Milwaukee,0,0.0
+30445,66,J. Holiday misses 2-pt layup from 5 ft,1:53.0,70-61,Milwaukee,0,0.0
+30446,66,Defensive rebound by A. Wiggins,1:50.0,70-61,Oklahoma City,0,0.0
+30447,66,S. Gilgeous-Alexander makes 2-pt layup from 3 ft,1:38.0,70-63,Oklahoma City,0,0.0
+30448,66,K. Middleton makes 3-pt jump shot from 26 ft,1:28.0,73-63,Milwaukee,0,0.0
+30449,66,Turnover by Team (shot clock),1:01.0,73-63,Oklahoma City,0,0.0
+30450,66,G. Antetokounmpo enters the game for J. Carter,1:01.0,73-63,Milwaukee,1,0.0
+30451,66,D. Bembry enters the game for S. Ibaka,1:01.0,73-63,Milwaukee,1,0.0
+30452,66,A. Pokusevski enters the game for L. Waters,1:01.0,73-63,Oklahoma City,0,1.0
+30453,66,K. Middleton misses 3-pt jump shot from 23 ft,0:49.0,73-63,Milwaukee,0,0.0
+30454,66,Defensive rebound by A. Wiggins,0:47.0,73-63,Oklahoma City,0,0.0
+30455,66,Personal foul by K. Middleton (drawn by S. Gilgeous-Alexander),0:35.0,73-63,Oklahoma City,0,0.0
+30456,66,S. Gilgeous-Alexander makes free throw 1 of 2,0:35.0,73-64,Oklahoma City,0,0.0
+30457,66,S. Gilgeous-Alexander makes free throw 2 of 2,0:35.0,73-65,Oklahoma City,0,0.0
+30458,66,D. Bembry misses 2-pt layup from 3 ft,0:24.0,73-65,Milwaukee,0,0.0
+30459,66,Defensive rebound by A. Wiggins,0:22.0,73-65,Oklahoma City,0,0.0
+30460,66,Offensive foul by S. Gilgeous-Alexander (drawn by D. Bembry),0:04.0,73-65,Oklahoma City,0,0.0
+30461,66,Turnover by S. Gilgeous-Alexander (offensive foul),0:04.0,73-65,Oklahoma City,0,0.0
+30462,66,J. Carter enters the game for D. Bembry,0:04.0,73-65,Milwaukee,1,0.0
+30463,66,G. Antetokounmpo makes 3-pt jump shot from 30 ft (assist by J. Holiday),0:00.0,76-65,Milwaukee,0,0.0
+30464,66,T. Mann makes 2-pt jump shot from 12 ft,11:42.0,76-67,Oklahoma City,0,0.0
+30465,66,G. Antetokounmpo makes 2-pt layup from 3 ft,11:34.0,78-67,Milwaukee,0,0.0
+30466,66,Shooting foul by A. Wiggins (drawn by G. Antetokounmpo),11:34.0,78-67,Milwaukee,0,0.0
+30467,66,G. Antetokounmpo makes free throw 1 of 1,11:34.0,79-67,Milwaukee,0,0.0
+30468,66,Turnover by D. Bazley (bad pass),11:18.0,79-67,Oklahoma City,0,0.0
+30469,66,G. Antetokounmpo misses 2-pt jump shot from 17 ft,11:03.0,79-67,Milwaukee,0,0.0
+30470,66,Offensive rebound by J. Holiday,11:01.0,79-67,Milwaukee,0,0.0
+30471,66,J. Holiday misses 3-pt jump shot from 26 ft,10:53.0,79-67,Milwaukee,0,0.0
+30472,66,Defensive rebound by I. Roby,10:49.0,79-67,Oklahoma City,0,0.0
+30473,66,D. Bazley misses 3-pt jump shot from 26 ft,10:41.0,79-67,Oklahoma City,0,0.0
+30474,66,Defensive rebound by G. Antetokounmpo,10:38.0,79-67,Milwaukee,0,0.0
+30475,66,J. Holiday makes 2-pt layup from 5 ft (assist by G. Antetokounmpo),10:27.0,81-67,Milwaukee,0,0.0
+30476,66,Turnover by T. Mann (bad pass; steal by G. Antetokounmpo),10:12.0,81-67,Oklahoma City,0,0.0
+30477,66,G. Antetokounmpo makes 2-pt layup from 2 ft,10:08.0,83-67,Milwaukee,0,0.0
+30478,66,Shooting foul by D. Bazley (drawn by G. Antetokounmpo),10:08.0,83-67,Milwaukee,0,0.0
+30479,66,G. Antetokounmpo misses free throw 1 of 1,10:08.0,83-67,Milwaukee,0,0.0
+30480,66,Defensive rebound by D. Bazley,10:06.0,83-67,Oklahoma City,0,0.0
+30481,66,Turnover by D. Bazley (lost ball; steal by J. Holiday),9:58.0,83-67,Oklahoma City,0,0.0
+30482,66,J. Nwora makes 2-pt dunk from 2 ft (assist by K. Middleton),9:55.0,85-67,Milwaukee,0,0.0
+30483,66,Oklahoma City full timeout,9:55.0,85-67,Oklahoma City,0,0.0
+30484,66,A. Pokusevski enters the game for D. Bazley,9:55.0,85-67,Oklahoma City,0,0.0
+30485,66,S. Gilgeous-Alexander makes 3-pt jump shot from 25 ft,9:32.0,85-70,Oklahoma City,0,0.0
+30486,66,B. Portis misses 3-pt jump shot from 23 ft,9:15.0,85-70,Milwaukee,0,0.0
+30487,66,Defensive rebound by S. Gilgeous-Alexander,9:14.0,85-70,Oklahoma City,0,0.0
+30488,66,S. Gilgeous-Alexander misses 2-pt jump shot from 8 ft,9:06.0,85-70,Oklahoma City,0,0.0
+30489,66,Defensive rebound by B. Portis,9:04.0,85-70,Milwaukee,0,0.0
+30490,66,J. Holiday misses 3-pt jump shot from 23 ft,8:59.0,85-70,Milwaukee,0,0.0
+30491,66,Defensive rebound by T. Mann,8:57.0,85-70,Oklahoma City,0,0.0
+30492,66,T. Mann misses 3-pt jump shot from 27 ft,8:39.0,85-70,Oklahoma City,0,0.0
+30493,66,Defensive rebound by B. Portis,8:36.0,85-70,Milwaukee,0,0.0
+30494,66,Shooting foul by T. Mann (drawn by K. Middleton),8:27.0,85-70,Milwaukee,0,0.0
+30495,66,K. Middleton makes free throw 1 of 3,8:27.0,86-70,Milwaukee,0,0.0
+30496,66,K. Middleton makes free throw 2 of 3,8:27.0,87-70,Milwaukee,0,0.0
+30497,66,K. Middleton makes free throw 3 of 3,8:27.0,88-70,Milwaukee,0,0.0
+30498,66,I. Roby makes 2-pt layup from 3 ft (assist by S. Gilgeous-Alexander),8:13.0,88-72,Oklahoma City,0,0.0
+30499,66,J. Nwora makes 2-pt layup from 6 ft (assist by K. Middleton),8:02.0,90-72,Milwaukee,0,0.0
+30500,66,A. Wiggins makes 3-pt jump shot from 24 ft (assist by A. Pokusevski),7:46.0,90-75,Oklahoma City,0,0.0
+30501,66,J. Nwora misses 2-pt layup from 3 ft,7:33.0,90-75,Milwaukee,0,0.0
+30502,66,Defensive rebound by A. Pokusevski,7:31.0,90-75,Oklahoma City,0,0.0
+30503,66,A. Wiggins makes 3-pt jump shot from 27 ft (assist by S. Gilgeous-Alexander),7:27.0,90-78,Oklahoma City,0,0.0
+30504,66,K. Middleton misses 3-pt jump shot from 23 ft,7:07.0,90-78,Milwaukee,0,1.0
+30505,66,Defensive rebound by S. Gilgeous-Alexander,7:05.0,90-78,Oklahoma City,0,1.0
+30506,66,Turnover by S. Gilgeous-Alexander (bad pass; steal by J. Holiday),6:54.0,90-78,Oklahoma City,0,0.0
+30507,66,G. Antetokounmpo misses 2-pt layup from 9 ft,6:48.0,90-78,Milwaukee,0,0.0
+30508,66,Offensive rebound by G. Antetokounmpo,6:45.0,90-78,Milwaukee,0,0.0
+30509,66,G. Antetokounmpo misses 2-pt layup from 2 ft,6:45.0,90-78,Milwaukee,0,0.0
+30510,66,Defensive rebound by S. Gilgeous-Alexander,6:43.0,90-78,Oklahoma City,0,0.0
+30511,66,A. Wiggins misses 3-pt jump shot from 22 ft,6:38.0,90-78,Oklahoma City,0,0.0
+30512,66,Defensive rebound by B. Portis,6:34.0,90-78,Milwaukee,0,0.0
+30513,66,Milwaukee full timeout,6:31.0,90-78,Milwaukee,0,0.0
+30514,66,J. Carter enters the game for J. Holiday,6:31.0,90-78,Milwaukee,1,0.0
+30515,66,S. Ibaka enters the game for B. Portis,6:31.0,90-78,Milwaukee,1,0.0
+30516,66,L. Waters enters the game for T. Mann,6:31.0,90-78,Oklahoma City,0,0.0
+30517,66,Shooting foul by I. Roby (drawn by G. Antetokounmpo),6:19.0,90-78,Milwaukee,0,0.0
+30518,66,Oklahoma City full timeout,6:19.0,90-78,Oklahoma City,0,0.0
+30519,66,Instant Replay (Challenge: Ruling Stands),6:19.0,90-78,Oklahoma City,0,0.0
+30520,66,G. Antetokounmpo makes free throw 1 of 2,6:19.0,91-78,Milwaukee,0,0.0
+30521,66,G. Antetokounmpo makes free throw 2 of 2,6:19.0,92-78,Milwaukee,0,0.0
+30522,66,Turnover by S. Gilgeous-Alexander (bad pass; steal by G. Antetokounmpo),6:06.0,92-78,Oklahoma City,0,0.0
+30523,66,J. Carter misses 3-pt jump shot from 23 ft,5:58.0,92-78,Milwaukee,0,1.0
+30524,66,Defensive rebound by A. Wiggins,5:55.0,92-78,Oklahoma City,0,0.0
+30525,66,L. Waters misses 3-pt jump shot from 27 ft,5:40.0,92-78,Oklahoma City,0,0.0
+30526,66,Defensive rebound by J. Nwora,5:37.0,92-78,Milwaukee,0,0.0
+30527,66,S. Ibaka makes 2-pt hook shot from 10 ft (assist by G. Antetokounmpo),5:28.0,94-78,Milwaukee,0,0.0
+30528,66,I. Roby misses 3-pt jump shot from 27 ft,5:12.0,94-78,Oklahoma City,0,0.0
+30529,66,Defensive rebound by J. Nwora,5:10.0,94-78,Milwaukee,0,0.0
+30530,66,Shooting foul by I. Roby (drawn by G. Antetokounmpo),5:05.0,94-78,Milwaukee,0,0.0
+30531,66,G. Antetokounmpo misses free throw 1 of 2,5:05.0,94-78,Milwaukee,0,0.0
+30532,66,Offensive rebound by Team,5:05.0,94-78,Milwaukee,0,0.0
+30533,66,D. Bembry enters the game for K. Middleton,5:05.0,94-78,Milwaukee,1,0.0
+30534,66,G. Antetokounmpo makes free throw 2 of 2,5:05.0,95-78,Milwaukee,0,0.0
+30535,66,A. Pokusevski misses 3-pt jump shot from 26 ft,4:51.0,95-78,Oklahoma City,0,0.0
+30536,66,Defensive rebound by G. Antetokounmpo,4:47.0,95-78,Milwaukee,0,1.0
+30537,66,Shooting foul by S. Gilgeous-Alexander (drawn by G. Antetokounmpo),4:40.0,95-78,Milwaukee,0,0.0
+30538,66,G. Antetokounmpo makes free throw 1 of 2,4:40.0,96-78,Milwaukee,0,0.0
+30539,66,G. Antetokounmpo makes free throw 2 of 2,4:40.0,97-78,Milwaukee,0,0.0
+30540,66,S. Gilgeous-Alexander misses 2-pt jump shot from 14 ft,4:27.0,97-78,Oklahoma City,0,0.0
+30541,66,Defensive rebound by G. Antetokounmpo,4:23.0,97-78,Milwaukee,0,0.0
+30542,66,J. Nwora misses 3-pt jump shot from 25 ft (block by S. Gilgeous-Alexander),4:16.0,97-78,Milwaukee,0,0.0
+30543,66,Defensive rebound by A. Pokusevski,4:12.0,97-78,Oklahoma City,0,0.0
+30544,66,Shooting foul by J. Nwora (drawn by S. Gilgeous-Alexander),4:11.0,97-78,Oklahoma City,0,0.0
+30545,66,S. Gilgeous-Alexander makes free throw 1 of 2,4:11.0,97-79,Oklahoma City,0,0.0
+30546,66,K. Middleton enters the game for G. Antetokounmpo,4:11.0,97-79,Milwaukee,1,0.0
+30547,66,S. Gilgeous-Alexander makes free throw 2 of 2,4:11.0,97-80,Oklahoma City,0,1.0
+30548,66,K. Middleton misses 2-pt jump shot from 18 ft,3:59.0,97-80,Milwaukee,0,0.0
+30549,66,Defensive rebound by A. Pokusevski,3:55.0,97-80,Oklahoma City,0,0.0
+30550,66,I. Roby makes 2-pt dunk from 4 ft (assist by A. Pokusevski),3:52.0,97-82,Oklahoma City,0,0.0
+30551,66,K. Middleton makes 2-pt jump shot from 18 ft (assist by D. Bembry),3:33.0,99-82,Milwaukee,0,0.0
+30552,66,S. Gilgeous-Alexander makes 2-pt jump shot from 10 ft,3:21.0,99-84,Oklahoma City,0,0.0
+30553,66,S. Ibaka misses 3-pt jump shot from 27 ft,3:10.0,99-84,Milwaukee,0,0.0
+30554,66,Defensive rebound by A. Pokusevski,3:07.0,99-84,Oklahoma City,0,0.0
+30555,66,S. Gilgeous-Alexander makes 2-pt jump shot from 11 ft,2:52.0,99-86,Oklahoma City,0,0.0
+30556,66,Milwaukee full timeout,2:44.0,99-86,Milwaukee,0,0.0
+30557,66,J. Holiday enters the game for J. Nwora,2:44.0,99-86,Milwaukee,1,0.0
+30558,66,V. Krejci enters the game for I. Roby,2:44.0,99-86,Oklahoma City,0,0.0
+30559,66,J. Holiday misses 3-pt jump shot from 24 ft,2:38.0,99-86,Milwaukee,0,0.0
+30560,66,Offensive rebound by D. Bembry,2:34.0,99-86,Milwaukee,0,0.0
+30561,66,D. Bembry misses 2-pt dunk from 2 ft,2:33.0,99-86,Milwaukee,0,1.0
+30562,66,Offensive rebound by D. Bembry,2:32.0,99-86,Milwaukee,0,0.0
+30563,66,J. Carter makes 3-pt jump shot from 22 ft (assist by K. Middleton),2:30.0,102-86,Milwaukee,0,0.0
+30564,66,A. Wiggins misses 2-pt dunk from 6 ft (block by S. Ibaka),2:11.0,102-86,Oklahoma City,0,0.0
+30565,66,Defensive rebound by J. Carter,2:09.0,102-86,Milwaukee,0,1.0
+30566,66,S. Ibaka makes 3-pt jump shot from 23 ft (assist by K. Middleton),1:55.0,105-86,Milwaukee,0,0.0
+30567,66,A. Pokusevski misses 2-pt jump shot from 15 ft,1:30.0,105-86,Oklahoma City,0,0.0
+30568,66,Defensive rebound by K. Middleton,1:29.0,105-86,Milwaukee,0,0.0
+30569,66,Offensive foul by S. Ibaka (drawn by A. Pokusevski),1:25.0,105-86,Milwaukee,0,0.0
+30570,66,Turnover by S. Ibaka (offensive foul),1:25.0,105-86,Milwaukee,0,0.0
+30571,66,B. Portis enters the game for J. Carter,1:25.0,105-86,Milwaukee,1,0.0
+30572,66,O. Sarr enters the game for A. Wiggins,1:25.0,105-86,Oklahoma City,0,0.0
+30573,66,Shooting foul by B. Portis (drawn by A. Pokusevski),1:13.0,105-86,Oklahoma City,0,0.0
+30574,66,A. Pokusevski makes free throw 1 of 2,1:13.0,105-87,Oklahoma City,0,0.0
+30575,66,J. Nwora enters the game for K. Middleton,1:13.0,105-87,Milwaukee,1,0.0
+30576,66,A. Pokusevski misses free throw 2 of 2,1:13.0,105-87,Oklahoma City,0,0.0
+30577,66,Defensive rebound by B. Portis,1:07.0,105-87,Milwaukee,0,0.0
+30578,66,D. Bembry misses 2-pt jump shot from 22 ft,0:58.0,105-87,Milwaukee,0,0.0
+30579,66,Defensive rebound by Team,0:54.0,105-87,Oklahoma City,0,0.0
+30580,66,V. Krejci makes 3-pt jump shot from 23 ft (assist by S. Gilgeous-Alexander),0:31.0,105-90,Oklahoma City,0,0.0
+30581,66,Turnover by J. Holiday (out of bounds lost ball),0:27.0,105-90,Milwaukee,0,0.0
+30582,66,A. Pokusevski makes 3-pt jump shot from 25 ft (assist by S. Gilgeous-Alexander),0:07.0,105-93,Oklahoma City,0,0.0
+30583,66,Turnover by D. Bembry (bad pass),0:06.0,105-93,Milwaukee,0,0.0
+30584,66,T. Mann enters the game for O. Sarr,0:06.0,105-93,Oklahoma City,0,0.0
+30585,66,L. Waters misses 3-pt jump shot from 28 ft,0:05.0,105-93,Oklahoma City,0,0.0
+30586,66,Defensive rebound by B. Portis,0:02.0,105-93,Milwaukee,0,0.0
+30587,66,Turnover by J. Holiday (traveling),11:47.0,105-93,Milwaukee,0,0.0
+30588,66,Turnover by T. Mann (bad pass; steal by J. Holiday),11:34.0,105-93,Oklahoma City,0,0.0
+30589,66,G. Antetokounmpo makes 2-pt dunk from 2 ft (assist by J. Holiday),11:26.0,107-93,Milwaukee,0,0.0
+30590,66,T. Mann misses 3-pt jump shot from 23 ft,11:12.0,107-93,Oklahoma City,0,0.0
+30591,66,Defensive rebound by B. Portis,11:11.0,107-93,Milwaukee,0,0.0
+30592,66,B. Portis makes 3-pt jump shot from 22 ft (assist by G. Antetokounmpo),11:02.0,110-93,Milwaukee,0,0.0
+30593,66,V. Krejci makes 2-pt layup from 8 ft,10:47.0,110-95,Oklahoma City,0,0.0
+30594,66,Shooting foul by J. Nwora (drawn by V. Krejci),10:47.0,110-95,Oklahoma City,0,0.0
+30595,66,V. Krejci makes free throw 1 of 1,10:47.0,110-96,Oklahoma City,0,0.0
+30596,66,G. Antetokounmpo makes 2-pt layup at rim,10:35.0,112-96,Milwaukee,0,0.0
+30597,66,D. Bazley misses 3-pt jump shot from 26 ft,10:10.0,112-96,Oklahoma City,0,0.0
+30598,66,Defensive rebound by B. Portis,10:05.0,112-96,Milwaukee,0,0.0
+30599,66,G. Antetokounmpo makes 3-pt jump shot from 28 ft (assist by B. Portis),10:02.0,115-96,Milwaukee,0,0.0
+30600,66,Oklahoma City full timeout,10:01.0,115-96,Oklahoma City,0,0.0
+30601,66,S. Gilgeous-Alexander enters the game for T. Mann,10:01.0,115-96,Oklahoma City,0,0.0
+30602,66,A. Pokusevski enters the game for I. Roby,10:01.0,115-96,Oklahoma City,0,0.0
+30603,66,Turnover by T. Maledon (lost ball; steal by J. Carter),9:58.0,115-96,Oklahoma City,0,0.0
+30604,66,J. Carter misses 2-pt layup from 6 ft,9:54.0,115-96,Milwaukee,0,0.0
+30605,66,Offensive rebound by B. Portis,9:51.0,115-96,Milwaukee,0,0.0
+30606,66,Turnover by B. Portis (bad pass; steal by S. Gilgeous-Alexander),9:50.0,115-96,Milwaukee,0,0.0
+30607,66,A. Pokusevski misses 3-pt jump shot from 23 ft,9:46.0,115-96,Oklahoma City,0,0.0
+30608,66,Offensive rebound by V. Krejci,9:42.0,115-96,Oklahoma City,0,0.0
+30609,66,V. Krejci misses 3-pt jump shot from 27 ft,9:30.0,115-96,Oklahoma City,0,0.0
+30610,66,Defensive rebound by Team,9:27.0,115-96,Milwaukee,0,0.0
+30611,66,G. Antetokounmpo misses 2-pt jump shot from 13 ft,9:14.0,115-96,Milwaukee,0,1.0
+30612,66,Defensive rebound by A. Pokusevski,9:11.0,115-96,Oklahoma City,0,0.0
+30613,66,T. Maledon makes 2-pt jump shot from 6 ft (assist by S. Gilgeous-Alexander),9:00.0,115-98,Oklahoma City,0,0.0
+30614,66,Shooting foul by G. Antetokounmpo (drawn by T. Maledon),9:00.0,115-98,Oklahoma City,0,0.0
+30615,66,T. Maledon makes free throw 1 of 1,9:00.0,115-99,Oklahoma City,0,0.0
+30616,66,J. Carter makes 3-pt jump shot from 23 ft (assist by G. Antetokounmpo),8:41.0,118-99,Milwaukee,0,0.0
+30617,66,A. Pokusevski makes 3-pt jump shot from 26 ft (assist by S. Gilgeous-Alexander),8:27.0,118-102,Oklahoma City,0,0.0
+30618,66,G. Antetokounmpo makes 2-pt layup from 3 ft (assist by J. Holiday),8:08.0,120-102,Milwaukee,0,0.0
+30619,66,D. Bazley makes 3-pt jump shot from 26 ft (assist by T. Maledon),7:57.0,120-105,Oklahoma City,0,1.0
+30620,66,Personal foul by A. Pokusevski (drawn by G. Antetokounmpo),7:47.0,120-105,Milwaukee,0,0.0
+30621,66,D. Bembry enters the game for J. Holiday,7:47.0,120-105,Milwaukee,1,0.0
+30622,66,T. Mann enters the game for V. Krejci,7:47.0,120-105,Oklahoma City,0,0.0
+30623,66,L. Waters enters the game for T. Maledon,7:47.0,120-105,Oklahoma City,0,0.0
+30624,66,G. Antetokounmpo makes 2-pt dunk from 1 ft (assist by J. Nwora),7:42.0,122-105,Milwaukee,0,0.0
+30625,66,S. Gilgeous-Alexander makes 2-pt layup from 5 ft,7:28.0,122-107,Oklahoma City,0,0.0
+30626,66,Turnover by J. Nwora (bad pass; steal by L. Waters),7:21.0,122-107,Milwaukee,0,0.0
+30627,66,L. Waters makes 3-pt jump shot from 26 ft,7:15.0,122-110,Oklahoma City,0,0.0
+30628,66,Milwaukee full timeout,7:07.0,122-110,Milwaukee,0,0.0
+30629,66,K. Middleton enters the game for G. Antetokounmpo,7:07.0,122-110,Milwaukee,1,0.0
+30630,66,A. Wiggins enters the game for S. Gilgeous-Alexander,7:07.0,122-110,Oklahoma City,0,1.0
+30631,66,K. Middleton misses 2-pt jump shot from 12 ft (block by D. Bazley),6:50.0,122-110,Milwaukee,0,0.0
+30632,66,Offensive rebound by Team,6:49.0,122-110,Milwaukee,0,0.0
+30633,66,K. Middleton makes 2-pt jump shot from 17 ft (assist by J. Nwora),6:46.0,124-110,Milwaukee,0,0.0
+30634,66,T. Mann misses 3-pt jump shot from 28 ft,6:20.0,124-110,Oklahoma City,0,0.0
+30635,66,Defensive rebound by B. Portis,6:17.0,124-110,Milwaukee,0,0.0
+30636,66,K. Middleton makes 3-pt jump shot from 26 ft,6:10.0,127-110,Milwaukee,0,0.0
+30637,66,Turnover by A. Wiggins (bad pass; steal by J. Carter),5:52.0,127-110,Oklahoma City,0,0.0
+30638,66,B. Portis makes 2-pt jump shot from 15 ft (assist by K. Middleton),5:38.0,129-110,Milwaukee,0,0.0
+30639,66,Oklahoma City full timeout,5:37.0,129-110,Oklahoma City,0,0.0
+30640,66,L. Wigginton enters the game for D. Bembry,5:37.0,129-110,Milwaukee,1,0.0
+30641,66,S. Gilgeous-Alexander enters the game for A. Pokusevski,5:37.0,129-110,Oklahoma City,0,0.0
+30642,66,T. Mann misses 2-pt layup from 3 ft,5:22.0,129-110,Oklahoma City,0,1.0
+30643,66,Defensive rebound by B. Portis,5:21.0,129-110,Milwaukee,0,1.0
+30644,66,K. Middleton makes 3-pt jump shot from 26 ft (assist by J. Carter),5:17.0,132-110,Milwaukee,0,0.0
+30645,66,D. Bazley misses 3-pt jump shot from 25 ft,4:56.0,132-110,Oklahoma City,0,0.0
+30646,66,Defensive rebound by K. Middleton,4:52.0,132-110,Milwaukee,0,0.0
+30647,66,L. Wigginton misses 3-pt jump shot from 26 ft,4:36.0,132-110,Milwaukee,0,0.0
+30648,66,Defensive rebound by S. Gilgeous-Alexander,4:35.0,132-110,Oklahoma City,0,0.0
+30649,66,Shooting foul by J. Carter (drawn by S. Gilgeous-Alexander),4:28.0,132-110,Oklahoma City,0,1.0
+30650,66,S. Gilgeous-Alexander misses free throw 1 of 2,4:28.0,132-110,Oklahoma City,0,0.0
+30651,66,Offensive rebound by Team,4:28.0,132-110,Oklahoma City,0,0.0
+30652,66,D. Bembry enters the game for K. Middleton,4:28.0,132-110,Milwaukee,1,0.0
+30653,66,S. Mamukelashvili enters the game for B. Portis,4:28.0,132-110,Milwaukee,1,0.0
+30654,66,S. Gilgeous-Alexander makes free throw 2 of 2,4:28.0,132-111,Oklahoma City,0,0.0
+30655,66,J. Carter misses 3-pt jump shot from 25 ft,4:13.0,132-111,Milwaukee,0,0.0
+30656,66,Defensive rebound by S. Gilgeous-Alexander,4:10.0,132-111,Oklahoma City,0,0.0
+30657,66,D. Bazley makes 2-pt layup from 2 ft (assist by S. Gilgeous-Alexander),4:05.0,132-113,Oklahoma City,0,0.0
+30658,66,Personal take foul by A. Wiggins (drawn by J. Carter),3:56.0,132-113,Milwaukee,0,0.0
+30659,66,T. Antetokounmpo enters the game for J. Carter,3:56.0,132-113,Milwaukee,1,0.0
+30660,66,V. Krejci enters the game for D. Bazley,3:56.0,132-113,Oklahoma City,0,0.0
+30661,66,O. Sarr enters the game for S. Gilgeous-Alexander,3:56.0,132-113,Oklahoma City,0,0.0
+30662,66,J. Nwora makes 2-pt jump shot from 21 ft,3:45.0,134-113,Milwaukee,0,0.0
+30663,66,L. Waters makes 2-pt jump shot from 12 ft (assist by V. Krejci),3:25.0,134-115,Oklahoma City,0,0.0
+30664,66,L. Wigginton misses 2-pt layup from 5 ft,3:08.0,134-115,Milwaukee,0,0.0
+30665,66,Defensive rebound by T. Mann,3:06.0,134-115,Oklahoma City,0,0.0
+30666,66,T. Mann misses 2-pt jump shot from 10 ft,3:01.0,134-115,Oklahoma City,0,0.0
+30667,66,Defensive rebound by D. Bembry,2:57.0,134-115,Milwaukee,0,0.0
+30668,66,Personal take foul by V. Krejci (drawn by J. Nwora),2:52.0,134-115,Milwaukee,0,0.0
+30669,66,T. Maledon enters the game for A. Wiggins,2:52.0,134-115,Oklahoma City,0,0.0
+30670,66,S. Mamukelashvili makes 3-pt jump shot from 27 ft (assist by J. Nwora),2:43.0,137-115,Milwaukee,0,0.0
+30671,66,O. Sarr misses 2-pt layup from 6 ft,2:29.0,137-115,Oklahoma City,0,0.0
+30672,66,Defensive rebound by S. Mamukelashvili,2:27.0,137-115,Milwaukee,0,0.0
+30673,66,L. Wigginton misses 2-pt jump shot from 13 ft (block by O. Sarr),2:16.0,137-115,Milwaukee,0,0.0
+30674,66,Offensive rebound by T. Antetokounmpo,2:11.0,137-115,Milwaukee,0,0.0
+30675,66,T. Antetokounmpo makes 2-pt layup from 2 ft,2:10.0,139-115,Milwaukee,0,0.0
+30676,66,O. Sarr misses 2-pt dunk from 4 ft,1:53.0,139-115,Oklahoma City,0,0.0
+30677,66,Defensive rebound by S. Mamukelashvili,1:51.0,139-115,Milwaukee,0,0.0
+30678,66,S. Mamukelashvili makes 3-pt jump shot from 26 ft (assist by L. Wigginton),1:39.0,142-115,Milwaukee,0,0.0
+30679,66,T. Maledon misses 3-pt jump shot from 25 ft,1:31.0,142-115,Oklahoma City,0,0.0
+30680,66,Defensive rebound by J. Nwora,1:28.0,142-115,Milwaukee,0,0.0
+30681,66,J. Nwora misses 3-pt jump shot from 26 ft,1:17.0,142-115,Milwaukee,0,0.0
+30682,66,Defensive rebound by L. Waters,1:15.0,142-115,Oklahoma City,0,0.0
+30683,66,V. Krejci misses 3-pt jump shot from 25 ft,1:10.0,142-115,Oklahoma City,0,0.0
+30684,66,Offensive rebound by T. Maledon,1:08.0,142-115,Oklahoma City,0,0.0
+30685,66,Turnover by T. Maledon (bad pass),1:05.0,142-115,Oklahoma City,0,0.0
+30686,66,J. Nwora misses 3-pt jump shot from 23 ft,0:49.0,142-115,Milwaukee,0,0.0
+30687,66,Defensive rebound by Team,0:49.0,142-115,Oklahoma City,0,
+30688,66,Loose ball foul by T. Antetokounmpo (drawn by L. Waters),0:49.0,142-115,Milwaukee,0,
+30689,66,T. Mann misses 2-pt layup from 8 ft,0:39.0,142-115,Oklahoma City,0,
+30690,66,Defensive rebound by S. Mamukelashvili,0:37.0,142-115,Milwaukee,0,
+30691,66,J. Nwora misses 2-pt layup from 8 ft (block by O. Sarr),0:30.0,142-115,Milwaukee,0,
+30692,66,Defensive rebound by L. Waters,0:28.0,142-115,Oklahoma City,0,
+30693,66,L. Waters misses 3-pt jump shot from 26 ft,0:24.0,142-115,Oklahoma City,0,
+30694,66,Defensive rebound by L. Wigginton,0:20.0,142-115,Milwaukee,0,
+30695,66,T. Antetokounmpo misses 2-pt layup from 2 ft,0:16.0,142-115,Milwaukee,0,
+30696,66,Defensive rebound by L. Waters,0:14.0,142-115,Oklahoma City,0,
