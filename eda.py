@@ -4,8 +4,6 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from datetime import timedelta
 
-# NOTE for some reason I called the data 2014_15 when it's actually MIL the 2021_22 data
-
 def divide_chunks(l, n):
      
     # looping till length l
@@ -100,10 +98,3 @@ step_hist(
     title="Time between plays over the 2021/22 Milwaukee Bucks season"
 )
 
-
-# mean 10 step is 54.194244604316545
-# standard deivation 10 step is 21.589710367883658
-
-# mean single step is 6.1571443798966055
-# mode single step is 0
-    # the mode accounts for 30.82662687203539% of the data

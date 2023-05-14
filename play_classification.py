@@ -1,11 +1,6 @@
 import pandas as pd
 from datetime import datetime
 
-# df = pd.read_csv("data.csv")
-
-# NOTE play_weights are reversed for the opposition
-    # i.e. a made 3 for the opposing team should be -3
-
 class Play:
 
     PLAY_TYPES = [
@@ -106,10 +101,6 @@ class Play:
         # self.assign_weight()
 
     def check_shot_type(self):
-        # if " ".join(self.split_text[3:5]) == "free throw":
-        # if "free" in self.split_text:
-        #     miss_or_make = self.split_text[2] # either the string miss or make
-        #     self.type = f"{miss_or_make} free throw"
 
         if self.split_text[4] in ["dunk", "jump", "layup"]: # "hook" taken out of this list
             pts = self.split_text[3] # point value (in the format "2-pts")
@@ -137,8 +128,6 @@ class Play:
                 self.play_point_impact_no_opp_penalty = 0
 
             shot_info = self.split_text[4] # e.g. dunk, layup, jump etc
-            # * commented out one includes points and miss/make in columns e.g. misses 2-point dunk:
-            # self.type = f"{miss_or_make} {pts} {shot_info} {'shot' if shot_info == 'jump' else ''}".strip()
             self.type = f"{shot_info} {'shot' if shot_info == 'jump' else ''}".strip()
             
 
@@ -168,24 +157,5 @@ class Play:
             self.play_weight = weight_dict[self.type]
 
 
-def make_play_objects():
-
-    NUM_PLAYS = 38045 
-
-    count = 1
-    for row in df.itertuples():
-        play = Play(
-            text=row[3],
-            time=row[4],
-            score=row[5],
-            team=row[6]
-        )
-        play.classify_play()
-
-        print(play.type)
-        print(play.by)
-
-        print(f"play obj {count} of {NUM_PLAYS}")
-        count += 1
 
 

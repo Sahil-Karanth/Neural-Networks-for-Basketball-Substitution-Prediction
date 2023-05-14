@@ -151,62 +151,6 @@ def get_callbacks(early_stopping=False, early_stopping_monitor="val_accuracy", t
     return callbacks_lst
 
 
-def teams_test(features: list):
-    """testing networks for 1-3 teams and getting graphs"""
-
-    for num_teams in range(1, 4):
-
-        # BASE_PATH = os.getcwd()
-        # num_teams = int(input("How many teams?: "))
-
-        if num_teams == 1:
-            X, y = get_X_y_1_team(added_features=features)
-            teams = ["MIL"]
-
-        elif num_teams == 2:
-            X, y = get_X_y_2_teams(added_features=features)
-            teams = ["MIL", "BOS"]
-
-        elif num_teams == 3:
-            X, y = get_X_y_3_teams(added_features=features)
-            teams = ["MIL", "BOS", "MIA"]
-
-        else:
-            raise Exception("Bad user input")
-
-
-
-        NAME = f"{MC.EPOCHS}_EPOCHS_{teams}_{MC.NAME}"
-
-        X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2)
-        X_train, X_val, y_train, y_val = train_test_split(X_train, y_train, test_size=0.25)
-
-
-
-        print("X, y obtained")
-
-        callbacks_lst = get_callbacks()
-
-        # filepath = f"{MC.NAME} " + "{epoch:02d}-{val_accuracy:.3f}"  # unique file name that will include the epoch and the validation acc for that epoch
-        # checkpoint = ModelCheckpoint("models/{}.model".format(filepath, monitor='val_accuracy', verbose=1, save_best_only=True, mode='max')) # saves only the best ones
-
-        model = make_a_model()
-
-        history = model.fit(
-            X_train, y_train,
-            batch_size=MC.BATCH_SIZE,
-            epochs=MC.EPOCHS,
-            validation_data=(X_val, y_val),
-            callbacks=callbacks_lst
-        )
-
-        save_history_and_graph_model_teams_test(history, NAME)
-
-        model.save_weights(f"saved_weights/{NAME}")
-
-        time.sleep(5)
-
-
 def save_histories_and_graph_models_feature_tests(histories, model_names, legend, folder="Individual Feature Tests"):
 
     """
@@ -412,25 +356,6 @@ def do_combined_feature_tests(group_size):
     )
 
 
-# model_funcs = [
-#     make_a_model,
-#     make_a_model2,
-#     make_a_model3,
-#     make_a_model4,
-#     make_a_model5,
-#     make_a_model6,
-# ]
-
-# for func in model_funcs:
-
-#     baseline_feature_tests(
-#         num_teams=2,
-#         added_features_lst=[["time_seconds", "good_or_bad", "point_value"]],
-#         legend=["time_seconds"],
-#         make_model_func=func
-#     )
-
-
 
 def graph_histories_manual():
     
@@ -489,15 +414,6 @@ def graph_histories_manual():
 
         plt.show()
 
-
-# graph_histories_manual()
-
-# baseline_feature_tests(
-#     num_teams=2,
-#     added_features_lst=[["time_seconds", "good_or_bad", "point_value"]],
-#     legend=["time_seconds"],
-#     make_model_func=make_a_model
-# )
 
 
 def team_combination_tests():
@@ -658,36 +574,6 @@ def train_final_model(early_stopping=False):
     plt.show()
 
 
-
-def boxplot_team_comb_tests_on_validation_data(dir):
-
-    plot_data = []
-
-    for filename in os.listdir(dir):
-        file = open(os.path.join(os.getcwd(), "Team Combination Tests", filename))
-        data = json.load(file)
-        val_acc = list(data["val_accuracy"].values())[-1]
-        plot_data.append(val_acc)
-
-    q3, q1 = np.percentile(plot_data, [75 ,25])
-    iqr = q3 - q1
-    median = np.median(plot_data)
-
-    print(f"Interquartile range: {iqr}")
-    print(f"Median range: {median}")
-
-    plt.boxplot(plot_data, vert=False)
-
-    # decrease whitespace above and below the boxplot
-    plt.ylim(0.5, 1.5)
-
-    plt.xlabel("Final Validation Accuracy (%)")
-    plt.yticks([])
-    plt.title("Team Combination Validation Accuracy Distribution")
-
-    plt.show()
-
-
 def boxplot_team_comb_tests_on_test_data(y_pred_lst):
 
     q3, q1 = np.percentile(y_pred_lst, [75 ,25])
@@ -751,10 +637,3 @@ def get_substitution_percentage():
     print(f"substitution play percentage: {sub_tot / tot}")
 
 
-vals = [[0.6633591055870056, 0.5889003872871399], [0.6621266007423401, 0.5975049734115601], [0.6562353372573853, 0.5979066491127014], [0.6550483703613281, 0.6038461327552795], [0.6585378646850586, 0.6006057262420654], [0.653886616230011, 0.6044710278511047], [0.6570576429367065, 0.6115363836288452], [0.658962070941925, 0.6000180244445801], [0.6503621935844421, 0.6177112460136414], [0.6522728204727173, 0.6005586385726929], [0.6555275917053223, 0.6041309833526611], [0.6429237127304077, 0.6196797490119934], [0.6529147028923035, 0.6090772151947021], [0.6479453444480896, 0.6214084029197693], [0.6485758423805237, 0.6182273030281067]]
-
-accs = [i[-1] for i in vals]
-
-# boxplot_team_comb_tests_on_test_data(accs)
-
-train_final_model()

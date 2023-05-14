@@ -51,19 +51,6 @@ def make_binary_json(team_code):
         )
 
 
-def write_csvs_from_json_old(team_code, team_name):
-
-    years_lst = [2015, 2016, 2017, 2018, 2019, 2020, 2021]
-
-    json_names = [os.path.join(BASE_PATH, "Data", f"{team_code}_{year}_{year+1}_Season.json") for year in years_lst]
-    # csv_names = [os.path.join(BASE_PATH, "Data", f"BOS_{year}_{year+1}_Season_BINARY_FEATURES_SCOREDIFF_SUBFEATURE_GOODORBAD.csv") for year in years_lst]
-
-    for i, j_file in enumerate(json_names):
-        print(f"writing {j_file} to csv...")
-        df = json_to_df_4(j_file, target_team=team_name)
-        save_df(df, f"{team_code}_{years_lst[i]}_{years_lst[i]+1}_Season_BINARY_FEATURES_SCOREDIFF_SUBFEATURE_GOODORBAD.csv")
-
-
 def write_csvs_from_json(team_code_lst, team_name_lst):
 
     years_lst = [2015, 2016, 2017, 2018, 2019, 2020, 2021]
@@ -90,6 +77,3 @@ write_csvs_from_json(
     ["DAL", "UTA", "DEN"],
     ["Dallas", "Utah", "Denver"],
 )
-
-# make_binary_json("DEN")
-# make_binary_json("UTA")
