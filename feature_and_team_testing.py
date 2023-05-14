@@ -358,6 +358,15 @@ def do_combined_feature_tests(group_size):
 
 
 def graph_histories_manual():
+
+    legend_mapping = {
+        "no added features": "No Added Features",
+        "time_seconds": "Time",
+        "score_diff": "Score Difference",
+        "foul_count": "Foul Count",
+        "score_impact": "Score Impact",
+        "time_since_last_score": "Time Since Last Score"
+    }
     
     num_teams = 2
     plot_types = ["Validation Accuracy", "Training Accuracy", "Validation Loss", "Loss"]
@@ -366,14 +375,15 @@ def graph_histories_manual():
 
     for plot_type in plot_types:
 
-        for json_history_path in os.listdir("Feature Comparisons/First Draft Data"):
+        for json_history_path in os.listdir("Individual Feature Tests"):
 
-            file = open(os.path.join(os.getcwd(), "Feature Comparisons", "First Draft Data", json_history_path))
+            file = open(os.path.join(os.getcwd(), "Individual Feature Tests", json_history_path))
             data = json.load(file)
             p1 = json_history_path.partition("EPOCHS-")
             legend_label = p1[-1].partition("-")[0]
+
             legend.append(legend_label)
-            print(legend_label)
+            print(legend_mapping[legend_label])
 
             file.close()
 
@@ -406,8 +416,8 @@ def graph_histories_manual():
 
             plt.plot(target_keys, target.values())
 
-        # plt.legend(legend, loc=loc)
-        # plt.legend(legend, loc="lower right")
+        plt.legend(legend, loc=loc)
+        plt.legend(legend, loc="lower right")
 
         plt.xlim(0, 100)
         plt.xticks([0, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100])
@@ -637,3 +647,4 @@ def get_substitution_percentage():
     print(f"substitution play percentage: {sub_tot / tot}")
 
 
+graph_histories_manual()
