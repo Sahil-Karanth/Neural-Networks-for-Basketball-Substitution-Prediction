@@ -80,21 +80,3 @@ def n_step_hist(base_season_path, num_games, chunk_size, title):
     plt.xlabel("time (s)")
     plt.ylabel("frequency")
     plt.show()
-
-
-
-
-n_step_hist(
-    base_season_path="2014_15",
-    num_games=82,
-    chunk_size=10,
-    title="Time between 10 plays over the 2021/22 Milwaukee Bucks season"
-)
-
-
-step_hist(
-    base_season_path="2014_15",
-    num_games=82,
-    title="Time between plays over the 2021/22 Milwaukee Bucks season"
-)
-
